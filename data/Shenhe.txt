@@ -1,0 +1,166 @@
+**Shenhe ‒ English Translation (Referencing Official Terminology)**
+
+---
+  
+### Title
+**Lonesome Transcendence**
+
+### Full Name
+**Shenhe**
+
+### Affiliation
+**Liyue**
+
+### Home Nation
+*(Not specifically mentioned in official lore, generally Liyue)*
+
+### Race
+**Human**
+
+### Gender
+**Female**
+
+### Rarity
+**★★★★★ (5-Star)**
+
+### Availability
+**Limited (Featured on Event Wish)**
+
+### Vision
+**Cryo**
+
+### Weapon
+**Polearm**
+
+### Constellation
+**Crista Doloris**
+
+### Specialty Dish
+**Heartstring Noodles**
+
+### Release Date
+**January 5, 2022 (Version 2.4)**
+
+### Tags / Notable Features
+- Resistance Shred  
+- Additional DMG Multiplier  
+- DMG Bonus  
+- CRIT DMG Bonus  
+- Expedition Bonus  
+- Extended Skill Duration  
+- Self DMG Bonus  
+
+### Character Introduction
+An adeptal disciple with an air of ethereal detachment. She lives in seclusion amid the mountains of Liyue, and her personality is just as cold and distant as that of the adepti themselves.
+
+---
+
+## Constellations
+
+| **Name**              | **Effect**                                                                                                                                                                                                                                                                                                                                                                 |
+|-----------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **1‒ Clarity of Heart**     | Increases the number of times **Spring Spirit Summoning** (*Elemental Skill*) can be used by 1.                                                                                                                                                                                                                                                                                 |
+| **2‒ Centered Spirit**      | Extends the duration of **Divine Maiden's Deliverance** (*Elemental Burst*) by 6s. Characters within this field gain a **15% increased CRYO CRIT DMG**.                                                                                                                                                                                                                   |
+| **3‒ Seclusion**            | Increases the **Spring Spirit Summoning** skill level by 3. Maximum upgrade level is 15.                                                                                                                                                                                                                                                                               |
+| **4‒ Insight**              | When characters affected by **Icy Quill** (from **Spring Spirit Summoning**) deal Cryo DMG using Normal or Charged Attacks, Shenhe gains 1 stack of **Skyfrost Mantra**:<br>• When Shenhe casts **Spring Spirit Summoning**, all Skyfrost Mantra stacks are consumed, increasing that skill’s DMG by **5%** per stack consumed.<br>• Max 50 stacks, lasting 60s.      |
+| **5‒ Divine Attainment**    | Increases the **Divine Maiden's Deliverance** skill level by 3. Maximum upgrade level is 15.                                                                                                                                                                                                                                                                            |
+| **6‒ Mystical Abandon**     | When characters trigger **Icy Quill**’s effect with Normal and Charged Attack DMG, it no longer consumes the effect’s usage count.                                                                                                                                                                                                                                       |
+
+---
+
+## Talent Level-Up Materials
+
+| **Level** | **Mora**  | **Talent Books**                    | **Enemy Drops**         | **Boss Drop**         | **Crown**             |
+|-----------|-----------|-------------------------------------|-------------------------|-----------------------|-----------------------|
+| 1 → 2     | 12,500    | 3 × Teachings of **Prosperity**     | 6 × Whopperflower Nectar      | –                     | –                     |
+| 2 → 3     | 17,500    | 2 × Guide to **Prosperity**          | 3 × Shimmering Nectar          | –                     | –                     |
+| 3 → 4     | 25,000    | 4 × Guide to **Prosperity**          | 4 × Shimmering Nectar          | –                     | –                     |
+| 4 → 5     | 30,000    | 6 × Guide to **Prosperity**          | 6 × Shimmering Nectar          | –                     | –                     |
+| 5 → 6     | 37,500    | 9 × Guide to **Prosperity**          | 9 × Shimmering Nectar          | –                     | –                     |
+| 6 → 7     | 120,000   | 4 × Philosophies of **Prosperity**   | 4 × Energy Nectar              | 1 × Hellfire Butterfly | –                     |
+| 7 → 8     | 260,000   | 6 × Philosophies of **Prosperity**   | 6 × Energy Nectar              | 1 × Hellfire Butterfly | –                     |
+| 8 → 9     | 450,000   | 12 × Philosophies of **Prosperity**  | 9 × Energy Nectar              | 2 × Hellfire Butterfly | –                     |
+| 9 → 10    | 700,000   | 16 × Philosophies of **Prosperity**  | 12 × Energy Nectar             | 2 × Hellfire Butterfly | 1 × Crown of Insight  |
+
+---
+
+## Recommended Builds
+
+### Artifact Sets
+
+- **General Recommendations**
+
+  - **2-Piece Gladiator's Finale** + **2-Piece Shimenawa's Reminiscence** + **(Optional 2-Piece Echoes of an Offering)**  
+    or **4-Piece Noblesse Oblige**  
+    or **4-Piece Blizzard Strayer** + **Any High-ATK%/CRIT Substats Pieces**
+
+  **Reasoning:**  
+  Shenhe is a Cryo support who increases party Cryo DMG via her Elemental Skill **Spring Spirit Summoning**. Its **Icy Quill** effect scales off *Shenhe’s own ATK*. Hence, artifact sets and main stats that boost her ATK are highly beneficial. 
+  - **Gladiator's Finale**, **Shimenawa's Reminiscence**, and **Echoes of an Offering** each offer +18% ATK with their 2-piece effect.  
+  - **Blizzard Strayer (4-Piece)** is an option especially if using **Favonius Lance** to gain CRIT Rate against Frozen or Cryo-afflicted enemies, helping with energy generation.  
+  - **Noblesse Oblige (4-Piece)** is a universal support set that boosts the party’s ATK, and Shenhe can benefit from that ATK buff herself. However, its 4-piece party buff uptime might not perfectly align with all rotations.
+
+**Main Stats Priority**  
+- **Sands:** ATK% or Energy Recharge  
+- **Goblet:** ATK%  
+- **Circlet:** ATK%  
+
+**Substats Priority**  
+1. ATK%  
+2. Energy Recharge  
+3. CRIT Rate  
+4. CRIT DMG  
+
+**Explanation:**  
+- Shenhe’s **Icy Quill** buff scales with her ATK.  
+- Her **Elemental Burst** requires 80 Energy, so additional Energy Recharge helps ensure consistent Burst usage.  
+- CRIT Rate is particularly important if you are using **Favonius Lance**, to trigger its effect reliably.
+
+**Talent Upgrade Priority**  
+1. **Elemental Skill (Spring Spirit Summoning)**  
+2. **Elemental Burst (Divine Maiden's Deliverance)**  
+3. Normal Attack can be left at low priority.  
+
+**Reasoning:**  
+- Most of Shenhe’s value comes from her **Elemental Skill** buffs, which scale with her ATK.  
+- Her **Elemental Burst** also provides DMG bonuses and Cryo/Physical RES debuffs (when at higher levels or with certain effects), so it is worth leveling second.  
+- Her Normal Attack does not significantly contribute to her main support role.
+
+---
+
+### Recommended Weapons
+
+#### Best-in-Slot
+
+- **5★ Calamity Queller**  
+  **Reasoning:**  
+  - Extremely high Base ATK and additional ATK% substat.  
+  - Passive effect gives even more ATK when the character is off-field, which synergizes perfectly with Shenhe’s role as a support who uses her Skill/Burst and then swaps out.  
+  - Shenhe’s buffs do not snapshot her own stats at cast time, so having a higher ATK stat off-field still benefits subsequent Icy Quill triggers.
+
+#### Other Options
+
+1. **4★ Favonius Lance / 5★ Engulfing Lightning / 5★ Skyward Spine**  
+   - All provide **Energy Recharge** in substat or passive, helping Shenhe recharge her costly 80-energy Burst.  
+   - **Favonius Lance** has decent Base ATK among 4★ polearms, and the CRIT triggers help generate particles for the team. Particularly good with a **Blizzard Strayer** build for stable CRIT hits and smoother energy rotation.  
+   - **Engulfing Lightning** also converts Energy Recharge into ATK. While not fully optimal (its passive is somewhat “overkill” on certain team comps), it’s still a strong option for Shenhe.  
+   - **Skyward Spine** has a fairly high Base ATK, offers Energy Recharge, and is acceptable if you need a 5★ solution for consistency.
+
+2. **5★ Vortex Vanquisher / 5★ Primordial Jade Winged-Spear**  
+   - Both grant high Base ATK and ATK% or additional ATK bonuses in their passives.  
+   - **Vortex Vanquisher** can stack its passive hits or maintain them with a shield. If your team includes a shielder like Diona, you can keep the buff up more reliably.  
+   - **Primordial Jade Winged-Spear** has high Base ATK and decent passive damage gains, though you may not fully utilize the on-field stacking.
+
+3. **4★ Lithic Spear / 4★ Wavebreaker’s Fin / 4★ Prototype Starglitter / 4★ Moonpiercer**  
+   - All provide significant ATK% and are viable if your artifacts supply enough Energy Recharge.  
+   - **Lithic Spear** has relatively high Base ATK among 4★ weapons. Being a Liyue character automatically grants Shenhe 1 stack of its passive, and it has excellent refinements. Often considered the top 4★ pick if you can manage your Energy needs.  
+   - **Wavebreaker’s Fin** boasts the highest Base ATK among 4★ weapons. It can give decent ATK boosts but the passive is more useful for high-Burst-cost teams.  
+   - **Prototype Starglitter** has the same main/substat as Lithic Spear (ATK% / substat) but the passive is trickier to stack, making it less consistent.  
+   - **Moonpiercer** (an event weapon from Version 3.1) gives ATK% but has lower Base ATK. At high refinement and with its effect triggered, it can surpass low-refinement Lithic Spear, but it requires triggering Elemental Reactions to summon a leaf. The Elemental Mastery it provides is effectively wasted on Shenhe.  
+
+   *(A more detailed math comparison is sometimes folded away in the community, but the summary is: if your team composition doesn’t reliably trigger Moonpiercer’s buff or if you need more stable energy generation, **Favonius Lance** or **Lithic Spear** often remain the more practical choices.)*
+
+#### Not Recommended Weapons
+- Generally, any polearm that provides stats not relevant to Shenhe’s ATK-scaling support (e.g., Physical DMG Bonus, HP substat, etc.) is suboptimal and not recommended unless no better alternative is available.
+
+---

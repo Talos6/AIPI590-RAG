@@ -1,0 +1,120 @@
+**Sethos**
+
+**Title:** Arbiter of Illuminated Knowledge  
+**Full Name:** Sethos  
+**Nation:** Sumeru  
+**Race:** Human  
+**Gender:** Male  
+**Rarity:** ★★★★ (4-star)  
+**Availability:** Permanent  
+**Vision:** Electro  
+**Weapon Type:** Bow  
+**Primordial Power:**  
+**Constellation:** Sanctified Name Ring  
+**Special Dish:** Fragrant Roasted Meat Wrap  
+**Release Date:** June 5, 2024 (Version 4.7)  
+**Tags:** Energy Regeneration, Special Elemental Infusion, Damage Boost, Self-Critical Rate Increase, Mastery Bonus, Regional Material Exploration  
+**Introduction:** Heir of the Silent Hall, bearing secrets from the desert sands.
+
+---
+
+### **Constellation**
+
+| Name | Effect |
+|---|---|
+| **Hymn of the Enshrined Spirit** | Increases the CRIT Rate of Piercing Arrows by 15%. |
+| **Silent Papyrus Scripture** | When meeting any of the following conditions, Sethos gains a 15% Electro DMG Bonus for 10s, stacking up to 2 times independently:  
+- Consuming Elemental Energy via Aimed Shot (requires unlocking Passive Talent "Obsidian Omen").  
+- Recovering Elemental Energy through the Elemental Reaction triggered by Ancient Rite: Resounding Thunder.  
+- Casting Mystic Rite: Luminous Piercing. |
+| **Philosopher's Moonrise Ode** | Increases the level of Normal Attack: Royal Reed Archery by 3. (Max upgrade level: 15) |
+| **True Conviction - Ostrich Feather Collection** | When Piercing Arrows or Resonant String Arrows hit at least two enemies, increases Elemental Mastery of all nearby party members by 80 for 10s. |
+| **Fierce Sands of the God of Desolation** | Increases the level of Mystic Rite: Luminous Piercing by 3. (Max upgrade level: 15) |
+| **Tome of the Solar Tower Gate** | After Piercing Arrow hits an enemy, refunds the Elemental Energy consumed due to the Passive Talent "Obsidian Omen." This effect can be triggered once every 15 seconds. Requires unlocking "Obsidian Omen." |
+
+---
+
+### **Talent Level-Up Materials**
+
+| Level | Required Materials |
+|---|---|
+| 1→2 | 12,500 Mora, 3 Teachings of "Diligence," 6 Faded Red Silk |
+| 2→3 | 17,500 Mora, 2 Guides of "Diligence," 3 Trimmed Red Silk |
+| 3→4 | 25,000 Mora, 4 Guides of "Diligence," 4 Trimmed Red Silk |
+| 4→5 | 30,000 Mora, 6 Guides of "Diligence," 6 Trimmed Red Silk |
+| 5→6 | 37,500 Mora, 9 Guides of "Diligence," 9 Trimmed Red Silk |
+| 6→7 | 120,000 Mora, 4 Philosophies of "Diligence," 4 Embroidered Red Silk, 1 Bell of the Void Path |
+| 7→8 | 260,000 Mora, 6 Philosophies of "Diligence," 6 Embroidered Red Silk, 1 Bell of the Void Path |
+| 8→9 | 450,000 Mora, 12 Philosophies of "Diligence," 9 Embroidered Red Silk, 2 Bells of the Void Path |
+| 9→10 | 700,000 Mora, 16 Philosophies of "Diligence," 12 Embroidered Red Silk, 2 Bells of the Void Path, 1 Crown of Insight |
+
+---
+
+### **Recommended Builds**
+
+#### **Artifact Recommendations**
+
+| Artifact Set | Reasoning |
+|---|---|
+| 4-Piece Wanderer's Troupe + Any | Best set due to Elemental Mastery bonus and Charged Attack DMG boost. |
+| 4-Piece Gilded Dreams or 4-Piece Shimenawa's Reminiscence + Any | Alternative choices. Gilded Dreams offers EM and ATK boosts, while Shimenawa enhances sustained Charged Attack damage. |
+| 4-Piece Marechaussee Hunter + Any (for Furina synergy) | Provides increased CRIT Rate and Charged Attack DMG boost under HP fluctuation conditions. |
+
+##### **Main Stats Recommendation**
+- **Sands:** Elemental Mastery  
+- **Goblet:** Electro DMG Bonus / Elemental Mastery  
+- **Circlet:** CRIT Rate / CRIT DMG  
+
+##### **Substats Recommendation**
+CRIT Rate, CRIT DMG > Elemental Mastery > ATK%
+
+---
+
+#### **Skill Level Priority**
+- **Normal Attack ≥ Elemental Burst > Elemental Skill**  
+- If using a quick swap playstyle, Elemental Burst can be skipped. For on-field usage, both Normal Attack and Elemental Burst should be leveled.  
+
+---
+
+### **Weapon Recommendations**
+
+#### **Best Weapon**
+- **5★ Hunter's Path** – Ideal for Sethos due to its EM-to-Charged Attack DMG conversion.
+
+#### **Alternative Weapons**
+- **3★ Slingshot** – Low base ATK but easily refinable, providing high damage output with minimal investment.
+- **5★ The First Great Magic** – Grants CRIT DMG and Charged Attack bonus, though ATK% isn't as beneficial.
+- **5★ Aqua Simulacra** – High CRIT DMG but requires close-range combat.
+
+#### **4★ Alternative**
+- **Cloudforged Bow (Full Refinement)** – Provides up to 285 EM, better for Hyperbloom-based teams.
+
+#### **Weapons Not Recommended**
+- **4★ Rust** – Reduces Charged Attack DMG, making it unsuitable for Sethos.
+
+---
+
+### **Team Compositions**
+
+#### **Aggravate Team**
+Sethos thrives as an Electro main DPS in Aggravate teams, utilizing high EM scalings. His team setup revolves around Dendro synergy for Aggravate and Hyperbloom reactions.
+
+**Example Team:**  
+- **Sethos** – 4pc Wanderer's Troupe, Slingshot  
+- **Fischl** – 4pc Golden Troupe, The Stringless  
+- **Nahida** – 4pc Deepwood Memories, Sacrificial Fragments  
+- **Sucrose/Kazuha** – 4pc Viridescent Venerer, Thrilling Tales of Dragon Slayers
+
+#### **Hyperbloom Team**
+In Hyperbloom teams, Sethos benefits from triggering Dendro Core explosions, leveraging his high EM for additional damage.
+
+**Example Team:**  
+- **Sethos** – 4pc Wanderer's Troupe, Slingshot / Cloudforged Bow  
+- **Furina** – 4pc Golden Troupe, Festering Desire  
+- **Yelan/Xingqiu** – 4pc Emblem of Severed Fate, Favonius Warbow  
+- **Nahida/Baizhu/Zhongli** – 4pc Deepwood Memories, Favonius Codex
+
+---
+
+Sethos excels in teams where his Charged Attacks and EM scaling shine. His ideal role is as an Aggravate DPS or Hyperbloom enabler, making full use of his Electro application and Elemental Mastery-based damage multipliers.
+

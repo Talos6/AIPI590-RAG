@@ -1,0 +1,206 @@
+**Baizhu ‒ English Translation (Referencing Official Terminology)**  
+*(Based on in-game text, official sources, and widely accepted community references such as [Paimon.moe](https://paimon.moe/characters/baizhu))*
+
+---
+
+## Basic Information
+
+- **Title:** Beyond Mortality  
+- **Full Name:** Baizhu  
+- **Nation:** Liyue  
+- **Race:** Human  
+- **Gender:** Male  
+- **Rarity:** ★★★★★ (5-Star)  
+- **Availability:** Limited (Featured on Event Wish)  
+- **Vision (Element):** Dendro  
+- **Weapon:** Catalyst  
+- **Constellation:** Lagenaria  
+- **Specialty Dish:** Heat-Quelling Soup  
+- **Release Date:** May 2, 2023 (Version 3.6)  
+
+### Character Introduction
+The master of Liyue’s Bubu Pharmacy, who is always accompanied by the white snake “Changsheng.” Skilled in the art of healing and known for his resourceful nature.
+
+---
+
+## Constellations
+
+Below are Baizhu’s six Constellations with their **official** English names and in-game effects.
+
+| **Constellation**               | **Effect**                                                                                                                                                                                                                                                                                                                                                 |
+|---------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **1 ‒ Attentive Observation**   | **Universal Diagnosis** (Elemental Skill) gains 1 additional charge.                                                                                                                                                                                                                                                                                     |
+| **2 ‒ Incisive Discernment**    | When your active character hits nearby opponents with their attacks, Baizhu unleashes a **Gossamer Sprite: Splice**, which will perform up to 1 attack before returning, dealing Dendro DMG equal to **250%** of Baizhu’s ATK and healing for an amount equal to **20%** of the healing from **Gossamer Sprite**. DMG dealt this way counts as Elemental Skill DMG. Can occur once every 5s. |
+| **3 ‒ A Physician’s Craft**     | Increases the Level of **Holistic Revivification** (Elemental Burst) by 3. Maximum upgrade level is 15.                                                                                                                                                                                                                                                    |
+| **4 ‒ The Right Inheritance**   | After **Holistic Revivification** is used, all nearby party members gain **+80 Elemental Mastery** for 15s.                                                                                                                                                                                                                                               |
+| **5 ‒ Nurturing Conversation**  | Increases the Level of **Universal Diagnosis** (Elemental Skill) by 3. Maximum upgrade level is 15.                                                                                                                                                                                                                                                       |
+| **6 ‒ Elimination of Maladies** | **Holistic Revivification**’s Spiritveins DMG is increased by an amount equal to **8%** of Baizhu’s Max HP. In addition, whenever **Gossamer Sprite** or **Gossamer Sprite: Splice** hits opponents, there is a 100% chance to generate a **Seamless Shield** from **Holistic Revivification**. Each Sprite can only trigger this effect once.                                        |
+
+---
+
+## Talent Level-Up Materials
+
+| **Level** | **Mora**   | **Talent Books**                          | **Enemy Drops**           | **Boss Drop**                  | **Crown**               |
+|-----------|------------|-------------------------------------------|---------------------------|--------------------------------|-------------------------|
+| 1 → 2     | 12,500     | 3 × Teachings of **Gold**                 | 6 × Fungal Spores         | –                              | –                       |
+| 2 → 3     | 17,500     | 2 × Guide to **Gold**                     | 3 × Luminescent Pollen    | –                              | –                       |
+| 3 → 4     | 25,000     | 4 × Guide to **Gold**                     | 4 × Luminescent Pollen    | –                              | –                       |
+| 4 → 5     | 30,000     | 6 × Guide to **Gold**                     | 6 × Luminescent Pollen    | –                              | –                       |
+| 5 → 6     | 37,500     | 9 × Guide to **Gold**                     | 9 × Luminescent Pollen    | –                              | –                       |
+| 6 → 7     | 120,000    | 4 × Philosophies of **Gold**              | 4 × Crystalline Cyst Dust | 1 × Worldspan Fern              | –                       |
+| 7 → 8     | 260,000    | 6 × Philosophies of **Gold**              | 6 × Crystalline Cyst Dust | 1 × Worldspan Fern              | –                       |
+| 8 → 9     | 450,000    | 12 × Philosophies of **Gold**             | 9 × Crystalline Cyst Dust | 2 × Worldspan Fern              | –                       |
+| 9 → 10    | 700,000    | 16 × Philosophies of **Gold**             | 12 × Crystalline Cyst Dust| 2 × Worldspan Fern              | 1 × Crown of Insight    |
+
+---
+
+## Build Recommendations
+
+Baizhu is a Dendro support/healer who provides continuous healing, shielding, and extra utility for Dendro-related reactions. He primarily relies on his Elemental Skill (**Universal Diagnosis**) and Elemental Burst (**Holistic Revivification**) for healing, shields, and synergy with Dendro reactions.  
+
+### Artifact Sets
+
+#### 1. General Healing/Support Builds  
+*(Applies to typical “long-rotation” teams such as Bloom, Hyperbloom, or Quicken, where Baizhu’s Burst is used regularly.)*
+
+Common 4-Piece Sets:  
+- **Marechaussee Hunter** (暂译 “昔时之歌”)  
+- **Ocean-Hued Clam**  
+- **Noblesse Oblige**  
+- **Deepwood Memories**  
+- **The Exile**  
+- **Tenacity of the Millelith** (especially from C2 onward)  
+
+**Reasoning:**  
+- **Marechaussee Hunter (4-Piece)**  
+  Offers a generic DMG increase that benefits on-field attackers—no strict requirement for them to be melee or purely ATK-scaling. Good general option if you want to boost your main DPS’s performance and you’re comfortable keeping Baizhu’s Burst online.  
+- **Ocean-Hued Clam (4-Piece)**  
+  Converts healing surplus into AoE Physical DMG. With Baizhu’s usual rotations (E + Q), this can yield decent extra damage (typically 50k–70k Physical DMG total over a full rotation in content where enemies have around 10% Physical RES). Best if your main on-field attacker is a melee character standing within range of the Clam bubble.  
+- **Noblesse Oblige (4-Piece)**  
+  After using an Elemental Burst, grants +20% ATK to all party members. Baizhu’s healing is also tied to his Burst, so it’s straightforward to trigger. However, many Dendro-focused teams rely on Elemental Mastery or HP scaling more than raw ATK, so the overall benefit can be modest.  
+- **Deepwood Memories (4-Piece)**  
+  Shreds enemy Dendro RES, boosting Dendro reactions (Spread, Bloom, etc.). This is the only reliable source of Dendro RES shred if you lack another holder. However, Baizhu’s off-field Dendro application can miss scattered enemies, so coverage might be inconsistent in multi-target situations. Use it only if you truly lack a better Deepwood carrier.  
+- **Tenacity of the Millelith (4-Piece)**  
+  At **Constellation 2**, Baizhu’s Skill hits become more frequent (Gossamer Sprite: Splice). In theory, you can keep a decent uptime on Tenacity’s ATK buff and shield strength buff, though it’s still not 100%.  
+- **The Exile (4-Piece)**  
+  A 4★ set that helps with Energy Recharge for the team when Baizhu uses his Burst. Though it lowers artifact substat potential, it can significantly ease energy needs, especially if paired with a Favonius Codex.  
+
+Mixed 2-Piece Sets (often used as stopgaps):  
+- **2× Emblem of Severed Fate** (+20% ER)  
+- **2× Tenacity of the Millelith** (+20% HP)  
+- **2× Vourukasha’s Glow** (+20% HP)  
+- Or any combination of above.  
+
+**Why 2+2 or mixed sets?**  
+- Baizhu’s personal Dendro DMG or reaction bonus from his passive scaling is minimal. Achieving around 50k HP helps his healing and shields, so focusing on +20% HP plus +20% ER substats can be more valuable early on.  
+- If you already have a well-farmed 4-Piece set that benefits the team, it’s usually better than a simple 2+2. Otherwise, 2+2 is a comfortable transitional choice.
+
+**Main Stat Priority**  
+- **Sands:** Energy Recharge or HP%  
+- **Goblet:** HP%  
+- **Circlet:** HP% or Healing Bonus  
+
+**Substat Priority**  
+1. CRIT Rate (only if using **Favonius Codex**)  
+2. Energy Recharge  
+3. HP%  
+
+**Explanation:**  
+- Baizhu’s Skill, Burst healing, and shield strength all scale with his Max HP.  
+- **Holistic Revivification** (Burst) costs 80 Energy, so Baizhu often needs substantial ER.  
+- If using Favonius Codex, some CRIT Rate substats help reliably trigger its particle-generation effect.
+
+**Talent Level Priority**  
+1. **Elemental Skill (Universal Diagnosis)**  
+2. **Elemental Burst (Holistic Revivification)**  
+3. Normal Attack can be left at Level 1.  
+
+**Reasoning:**  
+- Baizhu’s Skill heals the entire party, whereas his Burst mainly heals the on-field character. For pure survivability, leveling the Skill first often brings more value overall.  
+- His Burst is still valuable for consistent healing, shielding, and Dendro application, so it is worth leveling second.
+
+---
+
+#### 2. Short-Rotation Quicken Teams  
+*(“Speedrun” teams such as Keqing- or Cyno-based quick-swap Quicken, where Baizhu may not always use his Burst.)*
+
+- **Primary Artifact Set Recommendation:** **4-Piece Instructor**  
+  - This set grants +120 Elemental Mastery to all party members for 8s upon triggering an Elemental Reaction, without requiring Baizhu to cast his Burst. Ideal for short rotations that aim to use many quick swaps and reactions.  
+
+**Main Stat Priority**  
+- **Sands:** HP% or Energy Recharge (any modest amount of ER if you still want to burst occasionally)  
+- **Goblet:** HP%  
+- **Circlet:** Healing Bonus or HP%  
+
+**Substat Priority**  
+- Energy Recharge, HP%  
+
+**Explanation:**  
+- In short-rotation Quicken teams, Baizhu’s Burst might not align well with fast swapping, so focusing heavily on max HP for stronger Skill-based healing and using 4-Piece **Instructor** to boost everyone’s EM is more impactful.  
+- Because these teams do not rely on Baizhu’s full Burst uptime, you only need enough ER to occasionally pop his Burst for extra Dendro application or anti-interruption.
+
+**Talent Level Priority**  
+1. **Elemental Skill (Universal Diagnosis)**  
+2. **Elemental Burst (Holistic Revivification)**  
+3. Normal Attack can be ignored.  
+
+**Reasoning:**  
+- For quick-swap Quicken teams, Baizhu’s Skill remains his primary healing tool. The Burst sees less frequent use and is often optional in super-short rotations.
+
+---
+
+### Weapon Recommendations
+
+#### Best Options
+1. **5★ Jadefall’s Splendor (碧落之珑)**  
+   - Baizhu’s signature weapon, offering a large HP% substat (49.6% at Lv.90).  
+   - Its passive effect can restore Energy and provide some DMG buffs when generating or using a shield or Burst. Because Baizhu’s personal damage is generally low in a pure support build, the extra DMG is less important—but the HP% and Energy restoration are excellent.  
+
+2. **4★ Prototype Amber**  
+   - The top 4★ craftable option, providing up to 41.3% HP at Lv.90.  
+   - Its passive restores Energy to Baizhu and heals the whole team when he uses his Burst. Extremely cost-effective and easy to obtain (forged weapon).  
+
+#### Other Viable Choices
+
+- **4★ Favonius Codex**  
+  - High base Energy Recharge from the passive effect (on CRIT) helps both Baizhu and his team. You must build some CRIT Rate to trigger it reliably, or have enough refinements.  
+
+- **4★ Sacrificial Fragments**  
+  - Another Energy-focused catalyst. Baizhu’s Elemental Skill deals 3 hits, so it can reliably trigger the weapon’s reset effect for extra healing and particle generation—though the weapon’s substat is Elemental Mastery, which is mostly wasted unless in certain Nilou Bloom setups.  
+
+- **3★ Thrilling Tales of Dragon Slayers**  
+  - Has an HP% substat, boosting Baizhu’s healing. The weapon’s effect massively buffs the next character’s ATK upon swap. This is particularly good in short-rotation teams if you can handle Baizhu’s energy needs otherwise (e.g., double Dendro or a strong battery in the team).  
+
+- **5★ A Thousand Floating Dreams**  
+  - Primarily beneficial if you’re running Baizhu in a Nilou Bloom or Quicken team that values Elemental Mastery buffs. The catalyst itself doesn’t offer HP or ER, so it isn’t ideal for Baizhu’s personal sustain, but it can provide an EM buff to teammates.  
+
+- **4★ Sacrificial Jade (遗祀玉珑)**  
+  - A lesser-seen event-limited catalyst that can grant up to +64% HP at high refinement. Improves Baizhu’s raw HP-based healing and shields, but provides no ER. Often overshadowed by **Prototype Amber** unless you specifically want to maximize HP for certain off-heal or personal DMG scenarios.  
+
+- **5★ Everlasting Moonglow**  
+  - Similar base stats to Jadefall’s Splendor, but the passive healing bonus and on-field energy regeneration are rarely used by Baizhu (he typically won’t be on-field attacking). Strictly inferior to his signature weapon for him.  
+
+- **4★ Hakushin Ring, 4★ Wine and Song, 3★ Other Niche Catalysts**  
+  - Generally not recommended unless you have no other options; their passives or substats often don’t benefit Baizhu’s HP scaling or healing role.
+
+---
+
+## Team Compositions
+
+- **“Hypercatalyze” / Hyperbloom / Bloom**  
+  - Baizhu + Dendro DPS (e.g., Alhaitham, Tighnari) + Hydro or Electro supports, etc.  
+  - Baizhu’s main selling points are stable healing, a modest shield, and continuous off-field Dendro application—though his off-field application can be slow in wide-ranging fights.  
+
+- **Baizhu + Furina (Neuvillette/Hydro) + Electro** (“White-Fur Dendro Core”)  
+  - In certain water-and-lightning “Soup” teams, Baizhu can add extra comfort and moderate Dendro synergy. If Furina is introduced (as of Fontaine era), Baizhu can facilitate her stacking mechanics with his healing ticks, while also enabling Bloom/Hyperbloom combos if there is sufficient Electro.  
+  - If the team is more about direct DMG or Quicken (e.g., Cyno, Raiden, etc.), Baizhu’s role is mostly as a shield/healer with partial Dendro application.  
+
+- **Nilou Bloom Teams**  
+  - Baizhu helps sustain the party, especially if there are high-HP units generating Bloom seeds. Since Nilou’s “Bountiful Core” explosions have larger AoE, Baizhu’s continuous healing can keep the team healthy for repeated Bloom triggers. Additionally, you can add a more direct-damage unit like Yelan or Alhaitham to improve single-target performance; Baizhu’s presence makes these flexible hybrid Bloom teams safer.  
+
+- **Short-Rotation Quicken Teams** (Keqing, Razor, Cyno, etc.)  
+  - Typically do not revolve around Baizhu’s Burst. He contributes occasional Dendro application, healing from his Skill, and possibly small reaction buffs if you equip **Instructor**. Anti-interruption from his shield can help if you decide to cast his Burst, but it usually isn’t central to the team’s combos.  
+
+Overall, Baizhu is a flexible Dendro support with strong party-wide healing, a small but useful shield, and reliable synergy with Dendro reactions. While his personal damage is modest in typical support builds, he excels at keeping the team alive and enabling stable reaction setups—particularly in compositions that can accommodate his 80-cost Burst or want continuous healing and moderate Dendro application.
+
+---

@@ -1,0 +1,145 @@
+Title: Traveler
+
+Full Name: Aether/Lumine
+
+Nation: Other
+
+Place of Origin: -
+
+Race: -
+
+Gender: Male/Female
+
+Rarity: 5-star
+
+Availability: Permanent
+
+Element: Hydro
+
+Weapon Type: One-Handed Sword
+
+Primordial Force: Luminous
+
+Constellation: Viatoris
+
+Special Dish: -
+
+Release Date: August 16, 2023 (Version 4.0)
+
+Tags: HP Drain, Self-Healing, Self-Damage Increase, Energy Recovery, Shield, Healing, Sourcewater Droplet
+
+Introduction:
+A traveler who drifted from beyond this world. Their blood relative was taken by a god, leading them on a journey to seek the Seven Archons.
+
+---
+
+Note: In the quest "Sumeru Archon Quest Chapter 3, Act 1 - The Approaching Storm," the player must use "One-Handed Sword Combat Technique • Eight" as part of the story. During this event, only the Traveler's base attack power (white number) is permanently increased by 3 points. If this part of the story has been completed, ensure to include this additional 3 base attack power in calculations. Additionally, this value has the following properties:
+- It is directly added to the Traveler's stats and is considered in the "Final Attack Calculation Formula" under "Character Attack."
+- The 3 base attack points are unaffected by the Traveler's current level, meaning they are always applied regardless of level.
+- The bonus remains active even if the Traveler switches their elemental affinity.
+
+---
+
+**Constellation Effects**
+
+| Name | Effect |
+|---|---|
+| Rippling Lakewater | Picking up a Sourcewater Droplet restores 2 Energy to the Traveler. Requires unlocking the passive talent "Unstained Clear Water." |
+| Tranquil Jade Water | The speed of the floating bubbles from Tideflow Cast is reduced by 30%, and their duration is extended by 3 seconds. |
+| Surging Wavewater | Increases the level of Aquacrest Saber by 3, up to a maximum of level 15. |
+| Cascading Torrent | When casting Aquacrest Saber, a Hydro Shield is generated, absorbing damage equal to 10% of the Traveler's max HP. This shield has a 250% absorption efficiency against Hydro damage and lasts until the skill is completed. Every 2 seconds, if a Dewdrop hits an enemy while the Traveler is protected by the Hydro Shield, its absorption capacity is replenished up to 10% of the Traveler's max HP. If the Traveler is not shielded, a new Hydro Shield is generated. |
+| Spiraling Currents | Increases the level of Tideflow Cast by 3, up to a maximum of level 15. |
+| Righteous Tide | When the Traveler picks up a Sourcewater Droplet, the nearby party member with the lowest HP percentage will recover HP equal to 6% of their max HP. |
+
+---
+
+**Hydro Talents**
+
+* Normal Attack: Foreign Stream
+* Aquacrest Saber
+* Tideflow Cast
+* Unstained Clear Water
+* Pure Water’s Clarity
+
+**Normal Attack: Foreign Stream**
+
+**Description:**
+- **Normal Attack:** Performs up to five consecutive sword strikes.
+- **Charged Attack:** Consumes a certain amount of Stamina to unleash two rapid sword swings.
+- **Plunging Attack:** Plunges from mid-air to strike the ground, dealing damage to enemies along the path and inflicting AoE damage upon impact.
+
+**Skill Attributes** (Lv.1 - Lv.15):
+| Attack Sequence | Damage Percentage |
+|---|---|
+| 1st Hit | 44.5% → 94.1% |
+| 2nd Hit | 43.4% → 91.9% |
+| 3rd Hit | 53.0% → 112% |
+| 4th Hit | 58.3% → 123% |
+| 5th Hit | 70.8% → 150% |
+| Charged Attack | Varies based on gender (Aether/Lumine) |
+| Plunging Attack | 63.9% → 135.3% |
+| Low/High Plunge Damage | 128%/160% → 271%/338% |
+
+---
+
+**Aquacrest Saber**
+
+**Description:**
+Unleashes a rushing stream to cleanse the land.
+
+- **Tap:** Releases a surging Hydro current, dealing Hydro damage to enemies in front.
+- **Hold:** Enters aiming mode, continuously releasing Dewdrops in the targeted direction, dealing Hydro damage. Upon release, an additional surge of Hydro current is unleashed, dealing Hydro damage.
+  - **Overflow Effect:** While holding to cast, if the Traveler's HP is above 50%, Dewdrops’ damage increases based on the Traveler's max HP, but they lose HP every second.
+  
+**Primordial Force - Luminous:** Periodically, after releasing the Hydro surge, a piercing spirit spike emerges, dealing Hydro damage imbued with the Luminous property.
+
+*Observation: Paimon and the Traveler once watched ripples form on the water’s surface.*
+
+**Skill Attributes** (Lv.1 - Lv.15):
+| Effect | Damage/Value |
+|---|---|
+| Hydro Surge Damage | 189.3% → 402.2% |
+| Dewdrop Damage | 32.8% → 69.7% |
+| Spirit Spike Damage | 32.8% → 69.7% |
+| Spirit Spike Interval | 9s |
+| Overflow HP Drain | 4% max HP per second |
+| Overflow Bonus Damage | 0.64% → 1.34% max HP |
+| Max Hold Duration | 6s |
+| Cooldown | 10s |
+
+---
+
+**Tideflow Cast**
+
+**Description:**
+Releases slow-moving floating Hydro bubbles that continuously deal Hydro damage to nearby enemies.
+
+*Observation: Paimon and the Traveler once studied the ebb and flow of tides.*
+
+**Skill Attributes** (Lv.1 - Lv.15):
+| Effect | Damage/Value |
+|---|---|
+| Skill Damage | 101.9% → 216.5% |
+| Duration | 4s |
+| Cooldown | 20s |
+| Energy Cost | 80 |
+
+---
+
+**Passive Talents**
+
+**Unstained Clear Water** (Unlocked at Ascension 2):
+When a Dewdrop from Aquacrest Saber hits an enemy, a Sourcewater Droplet is generated near the Traveler. Picking up a Sourcewater Droplet restores 7% HP. Up to 1 Sourcewater Droplet can be generated per second, and up to 4 per Aquacrest Saber cast.
+
+**Pure Water’s Clarity** (Unlocked at Ascension 4):
+If the Traveler uses the Overflow effect while holding Aquacrest Saber, the final Hydro Surge damage is increased by 45% of the total HP lost during casting, up to a maximum of 5000 bonus damage.
+
+---
+
+**Talent Level-Up Materials**
+(Level 1 → Level 10)
+- Mora
+- "Justice" and "Order" series talent books
+- Hydro-elemental boss drops
+- Weekly boss materials
+

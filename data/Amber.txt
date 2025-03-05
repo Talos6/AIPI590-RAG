@@ -1,0 +1,108 @@
+**Title:** Outrider
+
+**Full Name:** Amber
+
+**Nation:** Mondstadt
+
+**Race:** Human
+
+**Gender:** Female
+
+**Rarity:** ★★★★
+
+**Availability:** Permanent
+
+**Vision:** Pyro
+
+**Weapon Type:** Bow
+
+**Constellation:** Lepus
+
+**Special Dish:** Outrider's Champion Steak!
+
+**Release Date:** September 28, 2020 (Version 1.0)
+
+**Tags:** Taunt, Attack Boost, Movement Speed Boost, Damage Boost, Gliding Stamina Reduction, Self Damage Boost
+
+**Introduction:** A girl always full of energy, the Knights of Favonius' best—and only—Outrider.
+
+---
+
+**Constellation**
+
+| Name | Effect |
+| --- | --- |
+| **One Arrow to Rule Them All** | Fires 2 arrows per Aimed Shot. The second arrow deals 20% of the first arrow's damage. |
+| **Bunny Triggered** | Baron Bunny, new and improved! Hitting Baron Bunny's foot with a fully-charged Aimed Shot manually detonates it. This explosion deals 200% additional damage. |
+| **It Burns!** | Increases the Level of Fiery Rain by 3. Maximum upgrade level is 15. |
+| **It's Not Just Any Doll...** | Decreases Explosive Puppet's cooldown by 20%. Adds 1 additional charge. |
+| **It's Baron Bunny!** | Increases the Level of Explosive Puppet by 3. Maximum upgrade level is 15. |
+| **Wildfire** | Using Fiery Rain increases all party members' Movement Speed by 15% and Attack by 15% for 10s. |
+
+---
+
+**Talent Level-Up Materials**
+
+| Level | Materials |
+| --- | --- |
+| 1→2 | 12,500 Mora, 3 Teachings of "Freedom", 6 Firm Arrowhead |
+| 2→3 | 17,500 Mora, 2 Guide to "Freedom", 3 Sharp Arrowhead |
+| 3→4 | 25,000 Mora, 4 Guide to "Freedom", 4 Sharp Arrowhead |
+| 4→5 | 30,000 Mora, 6 Guide to "Freedom", 6 Sharp Arrowhead |
+| 5→6 | 37,500 Mora, 9 Guide to "Freedom", 9 Sharp Arrowhead |
+| 6→7 | 120,000 Mora, 4 Philosophies of "Freedom", 4 Weathered Arrowhead, 1 Dvalin's Sigh |
+| 7→8 | 260,000 Mora, 6 Philosophies of "Freedom", 6 Weathered Arrowhead, 1 Dvalin's Sigh |
+| 8→9 | 450,000 Mora, 12 Philosophies of "Freedom", 9 Weathered Arrowhead, 2 Dvalin's Sigh |
+| 9→10 | 700,000 Mora, 16 Philosophies of "Freedom", 12 Weathered Arrowhead, 2 Dvalin's Sigh, 1 Crown of Insight |
+
+---
+
+**Recommended Builds**
+
+* **Charged Attack Build**
+* **Physical Rapid-Fire (C1)**
+* **Baron Bunny Nuke (C2)**
+* **Burst Sub-DPS (Recommended at C6)**
+* **Beginner Exploration**
+
+**Artifact Sets**
+
+- **General:** 4-piece Wanderer's Troupe + any off-piece
+- **Optional:** 4-piece Shimenawa's Reminiscence + any off-piece
+
+**Artifact Set Reasoning:** Amber's constellations allow for diverse playstyles, with the Charged Attack build being the most versatile without strict constellation requirements. As a Pyro character, pairing Amber with Hydro or Cryo teammates to trigger Vaporize or Melt reactions is ideal. The 2-piece Wanderer's Troupe provides 80 Elemental Mastery, enhancing reaction damage, and the 4-piece effect grants a consistent 35% Charged Attack Damage bonus, making it the most stable artifact set for this playstyle.
+
+**Main Stat Recommendations:**
+
+- **Sands:** Elemental Mastery, ATK%
+- **Goblet:** Pyro DMG Bonus
+- **Circlet:** CRIT DMG > CRIT Rate
+
+**Substat Recommendations:** CRIT DMG, Elemental Mastery, CRIT Rate, ATK%
+
+**Stat Reasoning:** Traditional DPS configurations focus on CRIT stats and ATK%. Elemental Mastery boosts reaction damage, which is significant for Amber's Charged Attack playstyle. Given that bow characters' Aimed Shots on weak points guarantee a CRIT, players confident in their aim can prioritize CRIT DMG over CRIT Rate. However, with an increasing number of enemies lacking weak points, maintaining a balanced CRIT Rate (around 50%) is advisable for general use.
+
+**Talent Priority:** Normal Attack > Elemental Skill = Elemental Burst
+
+**Talent Reasoning:** For the Charged Attack build, Amber's primary damage source is her Charged Attack, making leveling her Normal Attack talent the top priority. Both Elemental Skill and Elemental Burst contribute to her damage and can be leveled accordingly.
+
+**Recommended Weapons:**
+
+- **5-Star:**
+  - **Amos' Bow:** Provides ATK% and increases Charged Attack DMG, perfectly aligning with Amber's playstyle.
+  - **Hunter's Path:** Offers high CRIT Rate, easing artifact stat requirements, and increases Charged Attack DMG based on Elemental Mastery, synergizing well with reaction-based builds.
+  - **The First Great Magic:** Grants CRIT DMG and boosts Charged Attack DMG, making it a strong choice for Amber's Charged Attack focus.
+
+- **4-Star:**
+  - **Solar Pearl:** Provides CRIT Rate and increases Elemental Skill and Burst DMG, beneficial for a balanced DPS approach.
+  - **Hamayumi:** Increases Normal and Charged Attack DMG, especially when Amber's Energy is full, complementing her Charged Attack playstyle.
+
+---
+
+**Physical Rapid-Fire Build (C1)**
+
+**Artifact Sets**
+
+- **Optimal:** 2-piece Pale Flame + 2-piece Bloodstained Chivalry + any off-piece
+- **Optional:** 4-piece Shimenawa's Reminiscence + any off-piece
+

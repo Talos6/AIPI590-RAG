@@ -1,0 +1,226 @@
+**Mika – Translation Reference Document**  
+*(All names, terms, and phrasing below refer to official or widely accepted community translations, referencing in-game text and resources such as [paimon.moe](https://paimon.moe/characters). For any items or weapon names not yet officially released, a provisional transliteration is provided.)*
+
+---
+
+## Basic Information
+
+- **Title**: Coordinate of Clear Frost  
+- **Full Name**: **Mika Schmidt**  
+- **Nation**: Mondstadt  
+- **Region of Origin**: *[Not specified]*  
+- **Race**: Human  
+- **Gender**: Male  
+- **Rarity**: ★★★★ (4-Star)  
+- **Availability**: Permanent  
+- **Vision**: Cryo  
+- **Weapon Type**: Polearm  
+- **“Primordial Force”**: *[No official in-game term; sometimes left untranslated]*  
+- **Constellation**: Palumbus  
+- **Special Dish**: **Surveyor’s Breakfast Sandwich**  
+- **Release Date**: March 21, 2023 (Version 3.5)  
+- **Tags**: Healing, DMG Bonus, Attack Speed Bonus, CRIT DMG Bonus, Local Specialty Finder, Energy Restoration  
+
+**Character Introduction**  
+A young Knight of Favonius from an ordinary family who serves as the “Front-Line Surveyor” of his squad. He is cautious, unassuming, and places great care in carrying out his duties.
+
+---
+
+## Constellations
+
+Mika’s constellation name is **Palumbus**. Each Constellation level provides the following effects:
+
+1. **C1 – “Factor Confluence”**  
+   When Rimestar Flare from **Flowfrost Arrow** (Elemental Skill) provides a character with its ATK SPD bonus, it also decreases the interval between instances of healing granted by **Skyfeather Song**’s Eagleplume effect. The amount decreased is equal to the ATK SPD increase from Rimestar Flare.
+
+2. **C2 – “Companion’s Countersign”**  
+   When the first Rimestar Flare arrow from **Flowfrost Arrow** or a Frostfield Beacon hit enemies, one stack of the Detector effect from the Passive Talent “Rapid-Fire Suppression” will be generated. Requires “Rapid-Fire Suppression” to be unlocked.
+
+3. **C3 – “Reconnaissance Experience”**  
+   Increases the Level of **Skyfeather Song** (Elemental Burst) by 3.  
+   Maximum upgrade level is 15.
+
+4. **C4 – “Sunfrost Encomium”**  
+   When the Eagleplume effect from **Skyfeather Song** heals party members, Mika restores 3 Elemental Energy. A single Eagleplume (from one cast of **Skyfeather Song**) can restore Energy up to 5 times in this way.
+
+5. **C5 – “Signal Arrow”**  
+   Increases the Level of **Flowfrost Arrow** (Elemental Skill) by 3.  
+   Maximum upgrade level is 15.
+
+6. **C6 – “Geo-Traveling Subjugation”**  
+   The maximum number of Detector stacks that the Rimestar Flare from **Flowfrost Arrow** can gain is increased by 1. Additionally, while under Rimestar Flare’s effect, characters deal +60% CRIT DMG with their **Physical DMG**. Requires “Rapid-Fire Suppression” to be unlocked.
+
+---
+
+## Talent Level-Up Materials
+
+Below is the Mora and material cost required to upgrade **one** of Mika’s talents (from Level 1 → 10). The same pattern applies to each talent.
+
+| Talent Level | Cost                                                           |
+|--------------|----------------------------------------------------------------|
+| **1 → 2**    | - 12,500 Mora<br>- 3 Teachings of **Ballad**<br>- 6 Recruit’s Insignia |
+| **2 → 3**    | - 17,500 Mora<br>- 2 Guides to **Ballad**<br>- 3 Sergeant’s Insignia |
+| **3 → 4**    | - 25,000 Mora<br>- 4 Guides to **Ballad**<br>- 4 Sergeant’s Insignia |
+| **4 → 5**    | - 30,000 Mora<br>- 6 Guides to **Ballad**<br>- 6 Sergeant’s Insignia |
+| **5 → 6**    | - 37,500 Mora<br>- 9 Guides to **Ballad**<br>- 9 Sergeant’s Insignia |
+| **6 → 7**    | - 120,000 Mora<br>- 4 Philosophies of **Ballad**<br>- 4 Lieutenant’s Insignia<br>- 1 Mirror of Mushin |
+| **7 → 8**    | - 260,000 Mora<br>- 6 Philosophies of **Ballad**<br>- 6 Lieutenant’s Insignia<br>- 1 Mirror of Mushin |
+| **8 → 9**    | - 450,000 Mora<br>- 12 Philosophies of **Ballad**<br>- 9 Lieutenant’s Insignia<br>- 2 Mirror of Mushin |
+| **9 → 10**   | - 700,000 Mora<br>- 16 Philosophies of **Ballad**<br>- 12 Lieutenant’s Insignia<br>- 2 Mirror of Mushin<br>- 1 Crown of Insight |
+
+---
+
+## Recommended Builds and Roles
+
+Mika generally fulfills one of two main roles in a team: **(A) Buff/Healing Support**, or **(B) Physical Main Carry** (particularly at C6). Below are suggested artifact sets, weapons, and stat priorities.
+
+---
+
+### A. **Buff & Healing Support**
+
+#### 1. Suggested Artifact Sets
+
+1. **4-Piece Noblesse Oblige**  
+   - 2-Piece Bonus: Elemental Burst DMG +20%.  
+   - 4-Piece Bonus: Using an Elemental Burst increases all party members’ ATK by 20% for 12s. (Does not stack.)  
+   - *Usage*: If no one else on the team has Noblesse equipped, Mika can wear it to grant a partywide ATK buff.
+
+2. **4-Piece Marechaussee Hunter** (if a second universal buffer set is already taken by another party member)  
+   - *CN name: 昔时之歌 (“Xīshí zhī Gē”)* – new Fontaine artifact set often used to buff Normal Attack-based units or to gain ATK-bonus properties.  
+   - *Usage*: For teams that already have someone wearing 4-Piece Noblesse, you can opt for 4-Piece Marechaussee Hunter if you primarily want to maximize Mika’s buff synergy and potentially some personal DMG. (Or other sets that simply stack HP or Energy as needed.)
+
+3. **2 + 2 Healing/ER Sets**  
+   - Any combination of 2-Piece **Maiden Beloved**, 2-Piece **Ocean-Hued Clam**, and/or 2-Piece **Emblem of Severed Fate** to balance healing output and Energy Recharge.  
+   - The text explains that 2-Piece Maiden Beloved’s +15% Healing Bonus yields a stronger heal scaling than simply boosting HP% from e.g. Tenacity of the Millelith’s 2-Piece.  
+
+#### 2. Main Stats & Sub Stats
+
+- **Main Stats**  
+  - **Sands**: Energy Recharge% or HP%  
+  - **Goblet**: HP%  
+  - **Circlet**: Healing Bonus (recommended), or CRIT Rate **only** if using **Favonius Lance** (to trigger its effect reliably).
+
+- **Sub Stat Priority**  
+  - Energy Recharge% (to ensure Burst uptime) > CRIT Rate (only if Favonius) > HP%
+
+- **Reasoning**  
+  - Mika’s Elemental Burst (**Skyfeather Song**) has a 70 Energy cost and provides both healing (based on his Max HP) and buffs. Maintaining consistent Burst uptime is crucial, so building sufficient Energy Recharge is a priority.  
+  - If using **Favonius Lance**, you need some CRIT Rate to trigger its passive. Otherwise, HP% and Energy Recharge% are your core stats for stronger heals and better Burst frequency.
+
+#### 3. Talent Priority
+
+- **Elemental Skill = Elemental Burst**, do **not** level Normal Attacks for a support build.  
+- **Reasoning**:  
+  - Mika’s Skill (**Flowfrost Arrow**) determines the team’s ATK SPD bonus.  
+  - Mika’s Burst (**Skyfeather Song**) determines healing amount.  
+  - Both are central to his support role.
+
+#### 4. Recommended Weapons (Support Build)
+
+- **Best 4★**:  
+  - *(CN: “沙中伟贤的对答,” provisional English below)*  
+  - *[If this is indeed “Rightful Reward,” see the note below; however, the user text distinguishes them.]*  
+  - A 4★ Polearm (HP% sub-stat) that restores Energy on a 10-second cooldown after healing. According to the provided text, this is considered Mika’s “best-in-slot” for maximizing healing and reducing ER requirements. *(No official English name is available in older patches; if referencing 4.0 data, this description resembles the effect of **Rightful Reward**. See the note below.)*
+
+- **Alternate / Notable Weapons**:  
+  1. **Engulfing Lightning** (5★)  
+     - Extremely high ER sub-stat and additional Energy-based passive. Overkill for most, but it drastically reduces Mika’s reliance on ER sub-stats from artifacts.  
+  2. **Rightful Reward** (4★) – *公义的酬报 in CN*  
+     - Another new Fontaine Polearm with an HP% sub-stat and an effect triggered by healing or being healed. If you **do not** have the above “沙中伟贤的对答” or missed it (if it was event-limited), “Rightful Reward” can function similarly as a top-tier alternative.  
+  3. **Favonius Lance** (4★)  
+     - Sub-stat: Energy Recharge% (30.6% at Lv90). Generates neutral particles on CRIT hits, helping the entire team’s Energy if you meet the CRIT Rate requirement. Ideal in teams that rely heavily on stable rotations (e.g., Eula + Mika teams).  
+  4. **Kitain Cross Spear** (4★)  
+     - Sub-stat: Elemental Mastery. The weapon’s passive refunds Energy after using an Elemental Skill and then an Elemental Burst. Not a direct healing buff, but can help Mika’s personal ER.  
+  5. **Prototype Starglitter** (4★)  
+     - Sub-stat: Energy Recharge% (45.9% at Lv90). Passive is mostly DPS-oriented but easy to craft. Good for consistent healing if you lack other options.  
+  6. **Black Tassel** (3★)  
+     - Sub-stat: HP%. Very easy to refine and level. If you are running a multi-Cryo comp that solves your Energy needs (e.g., “Eula–Rosaria–Mika–X”), you might not need as much ER, so Black Tassel can maximize healing on a budget.
+
+---
+
+### B. **Physical Main Carry Mika** (Especially at C6)
+
+Although Mika’s healing scales with HP, his buffs (Attack Speed, Physical CRIT DMG from C6, etc.) do not scale with his HP. If you want to build Mika purely as a Physical on-field DPS (particularly at **Constellation 6**), here are the guidelines:
+
+#### 1. Suggested Artifact Sets
+
+- **Full 4-Piece Offensive Sets**:
+  - **Gladiator’s Finale (4)**  
+    - 2-Piece: ATK +18%  
+    - 4-Piece: +35% Normal Attack DMG if the wielder uses a Sword/Claymore/Polearm.  
+    - Very common set from various boss drops. Easy to farm decent pieces.
+  - **Retracing Bolide (4)**  
+    - 2-Piece: Increases Shield Strength by 35%  
+    - 4-Piece: While protected by a shield, increases Normal and Charged Attack DMG by 40%.  
+    - Requires a shielder for full effectiveness.  
+  - **Echoes of an Offering (4)**  
+    - 2-Piece: ATK +18%  
+    - 4-Piece: Has a chance to buff Normal Attack DMG. This can interact in complicated ways with characters like Yun Jin (her flat DMG addition) but can still be used if you want raw Normal Attack increases.
+  - **Shimenawa’s Reminiscence (4)**  
+    - 2-Piece: +18% ATK  
+    - 4-Piece: +50% Normal and Charged Attack DMG for 10s after casting Elemental Skill (at the cost of 15 Energy).  
+    - If you’re weaving Mika’s Skill + Normal Attacks, you get a strong buff, but must manage your Burst carefully.
+  - **Desert Pavilion Chronicle (4)**  
+    - 2-Piece: +15% Anemo DMG (irrelevant to Physical Mika)  
+    - 4-Piece: Increases Normal Attack SPD and DMG after Charged Attacks swirl enemies (mainly for Anemo DPS). *Though the Chinese text references “沙上楼阁史话,” it provides Normal/Charged Attack buffs and Attack Speed, but it’s not typically beneficial for pure Physical DPS unless you specifically want the extra Attack Speed and happen to swirl. Use with caution.
+
+- **2 + 2 Physical DMG Mixes**:
+  - **Pale Flame (2) + Bloodstained Chivalry (2)** = +50% Physical DMG  
+    - Straightforward solution for a Physical damage focus.  
+
+#### 2. Main Stats & Sub Stats
+
+- **Main Stats**  
+  - **Sands**: ATK%  
+  - **Goblet**: Physical DMG Bonus  
+  - **Circlet**: CRIT Rate / CRIT DMG  
+
+- **Sub Stat Priority**  
+  - CRIT Rate, CRIT DMG > ATK% > (HP% only if you use **Staff of Homa** for the HP→ATK passive)
+
+- **Reasoning**  
+  - Standard DPS approach: scale Mika’s Normal Attack damage and Physical DMG.  
+  - If you have C6, you also gain +60% Physical CRIT DMG from his Rimestar Flare. That can shift how you balance CRIT Rate vs. CRIT DMG somewhat, but the usual ratio (~1:2) still generally applies.
+
+#### 3. Talent Priority
+
+- For a full on-field DPS Mika:  
+  - **Elemental Burst (Q) > Elemental Skill (E) ≥ Normal Attack**  
+  - *Reasoning*:  
+    - His Burst still matters a lot for healing himself + enabling certain synergy via C4 or extra “Detector” stacks.  
+    - Elemental Skill drives his Attack Speed buff and deals Cryo DMG.  
+    - Normal Attack leveling can matter if you are truly focusing on NA combos, but it’s typically lower priority than his buffs.
+
+#### 4. Recommended Weapons (Physical DPS Build)
+
+- **Best 4★**: **Crescent Pike** (“流月针”)  
+  - Gained through forging in Liyue. Passive adds bonus Physical DMG whenever you pick up particles, synergizing with high Attack Speed and on-field play.  
+  - Very strong with C6 Mika’s Physical CRIT DMG buff.  
+  - Requires consistent particle generation from off-field units (e.g., Fischl) to keep the effect up.
+
+- **Best 5★**: **Primordial Jade Winged-Spear**  
+  - CRIT Rate sub-stat, strong universal DPS passive (increases ATK and DMG).  
+  - Remains competitive in Physical comps, even with Yun Jin synergy.  
+
+- **Other Notable Weapons**:
+  1. **Staff of Homa (5★)**  
+     - CRIT DMG sub-stat, HP% → ATK conversion. Also slightly boosts Mika’s healing. Harder to balance if you rely on 6C’s +60% Physical CRIT DMG.  
+  2. **Redhorn Stonethresher** or **Vortex Vanquisher** / **Calamity Queller** (depending on your team’s shielding or rotation) – each can work, but might be suboptimal unless you tailor your team for them.  
+  3. **Deathmatch (4★)** / **Blackcliff Pole (4★)**  
+     - Both provide CRIT sub-stats. *Deathmatch* helps consistent CRIT Rate, *Blackcliff* focuses on CRIT DMG with a stack mechanic.  
+  4. **White Tassel (3★)** / **Dragonspine Spear (4★)**  
+     - *White Tassel* has a hidden strong Normal Attack bonus but is only a 3★ (lower Base ATK).  
+     - *Dragonspine Spear* can deal extra Physical DMG but requires consistent Cryo application on enemies.  
+  5. **Skyward Spine (5★)** / **Prototype Starglitter (4★)**  
+     - Provide Energy Recharge sub-stats. If your team has no other healing or shielders, building ER to keep up Mika’s self-heal can be helpful. *Skyward Spine* also grants an Attack Speed bonus, which can be fun when stacked with Mika’s own Attack Speed buffs (especially if combining with certain artifact sets).
+
+---
+
+### Closing Notes
+
+- **Mika’s primary team value** is in boosting Normal Attack Speed and healing while also boosting Physical DMG CRIT DMG at C6.  
+- **As a healer and buffer**: Focus on Energy Recharge and HP%.  
+- **As a Physical DPS**: Focus on standard DPS stats (ATK%, Phys DMG%, CRIT).  
+- For official weapon/set references, please consult updated in-game descriptions or reputable community databases like [paimon.moe](https://paimon.moe/characters).  
+
+---

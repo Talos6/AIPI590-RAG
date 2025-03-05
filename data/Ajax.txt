@@ -1,0 +1,112 @@
+**Title:** "Childe" Tartaglia  
+**Full Name:** Ajax  
+**Nation:** Snezhnaya  
+**Origin:** Snezhnaya  
+**Race:** Human  
+**Gender:** Male  
+**Rarity:** 5-star  
+**Availability:** Limited UP  
+**Vision:** Hydro  
+**Weapon Type:** Bow  
+**Delusion:** N/A  
+**Constellation:** Monoceros Caeli  
+**Special Dish:** A Prize Catch  
+**Release Date:** November 11, 2020 (Version 1.1)  
+**Tags:** Talent Boost, Energy Recovery, Weapon Transformation, Cooldown Reduction  
+**Introduction:** The Eleventh of the Fatui Harbingers, "Childe," renowned for his exceptional battle prowess.
+
+---
+
+## **Constellation**
+
+| Name | Effect |
+|------|--------|
+| **Foul Legacy: Tide Withholder** | Reduces the cooldown of Foul Legacy: Raging Tide by 20%. |
+| **Foul Legacy: Understream** | When an enemy affected by Riptide is defeated, Tartaglia regains 4 Elemental Energy. |
+| **Abyssal Mayhem: Vortex of Turmoil** | Increases the level of Foul Legacy: Raging Tide by 3, up to a maximum level of 15. |
+| **Abyssal Mayhem: Hydrospout** | Every 4 seconds, when Riptide is applied by Tartaglia, if he is in Melee Stance, Riptide Slash is triggered; otherwise, Riptide Flash is triggered. This effect is not limited by the cooldown of these abilities and does not interfere with their cooldown periods. |
+| **Havoc: Formless Blade** | Increases the level of Havoc: Obliteration by 3, up to a maximum level of 15. |
+| **Havoc: Annihilation** | When casting Havoc: Obliteration in Melee Stance, the cooldown of Foul Legacy: Raging Tide is reset. This effect triggers when switching back to Ranged Stance. |
+
+---
+
+## **Talent Level-Up Materials**
+
+| Level | Materials Required |
+|--------|------------------|
+| 1 → 2 | 12,500 Mora, 3 Teachings of Freedom, 6 Recruit's Insignia |
+| 2 → 3 | 17,500 Mora, 2 Guide to Freedom, 3 Sergeant's Insignia |
+| 3 → 4 | 25,000 Mora, 4 Guide to Freedom, 4 Sergeant's Insignia |
+| 4 → 5 | 30,000 Mora, 6 Guide to Freedom, 6 Sergeant's Insignia |
+| 5 → 6 | 37,500 Mora, 9 Guide to Freedom, 9 Sergeant's Insignia |
+| 6 → 7 | 120,000 Mora, 4 Philosophies of Freedom, 4 Lieutenant's Insignia, 1 Shard of a Foul Legacy |
+| 7 → 8 | 260,000 Mora, 6 Philosophies of Freedom, 6 Lieutenant's Insignia, 1 Shard of a Foul Legacy |
+| 8 → 9 | 450,000 Mora, 12 Philosophies of Freedom, 9 Lieutenant's Insignia, 2 Shards of a Foul Legacy |
+| 9 → 10 | 700,000 Mora, 16 Philosophies of Freedom, 12 Lieutenant's Insignia, 2 Shards of a Foul Legacy, 1 Crown of Insight |
+
+---
+
+## **Recommended Build**
+
+### **Artifact Recommendations**
+- **Best-in-slot:** 4-piece Nymph's Dream + any additional piece  
+- **Hybrid Set:** 2-piece Heart of Depth + 2-piece Nymph's Dream / Gladiator's Finale / Wanderer's Troupe / Noblesse Oblige / Any 2-piece set with +18% ATK or +80 Elemental Mastery  
+- **Alternative:** 4-piece Heart of Depth (best suited for full Constellation playstyle)
+
+### **Artifact Set Explanation**
+With the release of Version 3.6, the new artifact set Nymph's Dream has become the optimal set for Tartaglia. He can easily maintain 3 stacks of its effect using normal combat mechanics. The 2-piece bonus also perfectly synergizes with his kit, making it his best-in-slot set. Compared to a traditional 2+2 hybrid setup, the 4-piece Nymph's Dream set offers a 4-7% damage boost (depending on team composition and setup). 
+
+If your existing artifacts already have excellent substats, farming an entirely new set may not be necessary. However, if using 4-piece Nymph’s Dream, keep in mind that **Bennett should not use the Instructor set**, as Nymph's Dream lasts only 8 seconds, and re-stacking would prevent Tartaglia from benefiting from Instructor’s bonus.
+
+For hybrid 2+2 builds: 
+- If prioritizing **Burst Damage**, use 2 Heart of Depth + 2 Elemental Mastery / Noblesse Oblige (with C2 Kazuha, use Noblesse; without, use Elemental Mastery).  
+- If aiming for a **balanced build**, use 2 Heart of Depth + 2 Heart of Depth / 2 ATK% set.  
+
+The 4-piece Heart of Depth set can outperform 2+2 in Normal and Charged Attacks **if there are external ATK boosts (e.g., Bennett or Polar Star)**, but it does not boost Riptide or Elemental Burst damage, making it suboptimal in many cases.
+
+### **Main Stats Priority**
+- **Sands:** ATK%  
+- **Goblet:** Hydro DMG Bonus  
+- **Circlet:** CRIT Rate or CRIT DMG  
+
+### **Substats Priority**
+CRIT Rate / CRIT DMG > ATK% > Elemental Mastery > Energy Recharge  
+
+---
+
+## **Recommended Talent Prioritization**
+- **Elemental Skill = Elemental Burst > Normal Attack**  
+
+### **Talent Explanation**
+Similar to Kamisato Ayato, Tartaglia's **Elemental Skill level** affects his Melee Stance Normal and Charged Attack multipliers, as well as the Riptide Slash damage. 
+
+Elemental Burst damage is a major contributor to his overall DPS, especially when **vaporizing with a double Pyro team**. In such cases, **both Elemental Skill and Elemental Burst should be leveled equally** to level 9. 
+
+His **Normal Attack level** affects Riptide Burst damage, which is useful in multi-target scenarios, making it worth leveling up to **level 6 (effectively level 7 with his passive talent).**
+
+---
+
+## **Recommended Weapons**
+### **Best-in-Slot 5-Star Weapons**
+- **Polar Star**  
+- **Aqua Simulacra**  
+- **Hunter's Path**  
+- **Skyward Harp**  
+- **Thundering Pulse**  
+- **The First Great Magic**  
+
+### **Alternative 4-Star Weapons**
+- **Scion of the Blazing Sun**  
+- **Viridescent Hunt**  
+
+### **Other Options**
+- **Stringless** (Best for Elemental Burst focus)
+- **Mouun's Moon** (High Burst Damage in Vaporize teams)
+- **Prototype Crescent** (Good for Charged Attack playstyle)
+- **Blackcliff Warbow** (High Base ATK & CRIT DMG, but needs stacks)
+- **Amos' Bow** (Decent for Charged Attack builds)
+
+### **Not Recommended**
+- **Rust** – Since Tartaglia relies on Charged Attacks for his optimal combos, Rust’s passive directly contradicts his best playstyle.
+
+---

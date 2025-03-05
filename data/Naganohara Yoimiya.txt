@@ -1,0 +1,90 @@
+**Title:** Dance of the Dazzling Flames  
+**Full Name:** Naganohara Yoimiya  
+**Nation:** Inazuma  
+**Origin:**  
+**Race:** Human  
+**Gender:** Female  
+**Rarity:** 5-star  
+**Availability:** Limited UP  
+**Vision:** Pyro  
+**Weapon Type:** Bow  
+**Archon Power:**  
+**Constellation:** Carassius Auratus  
+**Special Dish:** Summer Festival Fish  
+**Release Date:** August 10, 2021 (Version 2.0)  
+**Tags:** Attack Buff, Decoration Refund, Special Elemental Infusion, Self Damage Boost  
+**Description:** The owner of "Naganohara Fireworks," known as the "Queen of the Summer Festival," a master of her craft who conveys people's wishes through fireworks.  
+
+---
+
+**Constellation**  
+
+| Name | Effect |
+|------|--------|
+| **Agate Ryuukin** | The duration of the Aurous Blaze from the "Ryuukin Saxifrage" talent is extended by 4 seconds. Additionally, if an opponent affected by Yoimiya's Aurous Blaze is defeated within its duration, Yoimiya's attack power is increased by 20% for 20 seconds. |
+| **A Procession of Bonfires** | Yoimiya gains a 25% Pyro DMG Bonus for 6 seconds after scoring a critical hit with Pyro DMG. This effect remains active even if she is off-field. |
+| **Trickster's Flare** | Increases the level of Niwabi Fire-Dance by 3, up to a maximum level of 15. |
+| **Pyrotechnic Professional** | When Aurous Blaze triggers an explosion, the cooldown of Niwabi Fire-Dance is reduced by 1.2 seconds. |
+| **Summer Festival Finale** | Increases the level of Ryuukin Saxifrage by 3, up to a maximum level of 15. |
+| **Naganohara Meteor Swarm** | While Niwabi Fire-Dance is active, Yoimiya’s normal attacks have a 50% chance to fire an additional blazing arrow that deals 60% of its original damage. This damage is considered normal attack damage. |
+
+---
+
+**Talent Upgrade Materials**  
+
+| Level | Required Materials |
+|-------|--------------------|
+| 1 → 2 | 12,500 Mora, 3 Teachings of Transience, 6 Divining Scrolls |
+| 2 → 3 | 17,500 Mora, 2 Guide to Transience, 3 Sealed Scrolls |
+| 3 → 4 | 25,000 Mora, 4 Guide to Transience, 4 Sealed Scrolls |
+| 4 → 5 | 30,000 Mora, 6 Guide to Transience, 6 Sealed Scrolls |
+| 5 → 6 | 37,500 Mora, 9 Guide to Transience, 9 Sealed Scrolls |
+| 6 → 7 | 120,000 Mora, 4 Philosophies of Transience, 4 Forbidden Curse Scrolls, 1 Dragon Lord’s Crown |
+| 7 → 8 | 260,000 Mora, 6 Philosophies of Transience, 6 Forbidden Curse Scrolls, 1 Dragon Lord’s Crown |
+| 8 → 9 | 450,000 Mora, 12 Philosophies of Transience, 9 Forbidden Curse Scrolls, 2 Dragon Lord’s Crown |
+| 9 → 10 | 700,000 Mora, 16 Philosophies of Transience, 12 Forbidden Curse Scrolls, 2 Dragon Lord’s Crown, 1 Crown of Insight |
+
+---
+
+**Recommended Artifact Sets**  
+
+- **General Usage:** 4-piece Shimenawa’s Reminiscence or 4-piece Echoes of an Offering + any piece  
+- **Paired with Furina:** 4-piece Marechaussee Hunter + any piece  
+- **Reaction-Based Transition:** 4-piece Crimson Witch of Flames or 4-piece Gilded Dreams + any piece  
+- **Shield-Based Playstyle:** 4-piece Retracing Bolide + any piece  
+- **General Transition:** 4-piece Desert Pavilion Chronicle + any piece  
+
+**Recommended Stats**  
+- **Sands:** Elemental Mastery (for reaction-based) or ATK%  
+- **Goblet:** Pyro DMG Bonus  
+- **Circlet:** Crit DMG / Crit Rate  
+
+**Recommended Sub-stats:** Crit Rate, Crit DMG > ATK%, Elemental Mastery (for reaction-based teams)  
+
+**Recommended Skill Priority:** Normal Attack > Elemental Skill > Elemental Burst  
+
+---
+
+**Recommended Weapons**  
+
+| Weapon | Rarity | Effect |
+|--------|--------|--------|
+| **Thundering Pulse** | 5-star | Best-in-slot weapon; provides Crit DMG and enhances ATK% and normal attack damage. |
+| **Rust** | 4-star | Strongest 4-star option, highly refined Rust is comparable to Thundering Pulse. |
+| **Aqua Simulacra** | 5-star | Provides high Crit DMG and close-range damage bonus. |
+| **Hunter’s Path** | 5-star | High Crit Rate bonus, but its charged attack boost is useless for Yoimiya. |
+| **Polar Star** | 5-star | Grants Crit Rate and stackable ATK bonuses. |
+
+---
+
+**Best Team Compositions**  
+
+1. **Yoimiya Vaporize Team** (Yoimiya + Yelan / Xingqiu + Bennett + Zhongli)  
+   - Focuses on Pyro-infused Normal Attacks with Hydro application for Vaporize reactions. Zhongli provides shield and resistance reduction.  
+   
+2. **Yoimiya Overload Team** (Yoimiya + Beidou / Fischl + Thoma / Bennett)  
+   - Uses Electro support for Overload reactions. Works well with Beidou’s coordinated Electro damage.  
+   
+3. **Yoimiya Pyro Hypercarry** (Yoimiya + Yun Jin + Bennett + Zhongli)  
+   - Boosts Normal Attack damage using Yun Jin and Bennett’s buffs while Zhongli ensures stability.  
+

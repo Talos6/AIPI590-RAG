@@ -1,0 +1,115 @@
+**Title**: Mujina Ninja
+
+**Full Name**: Sayu
+
+**Affiliation**: Inazuma
+
+**Nation of Origin**: Unknown
+
+**Race**: Human
+
+**Gender**: Female
+
+**Rarity**: 4-star
+
+**Availability**: Permanent
+
+**Element**: Anemo
+
+**Weapon Type**: Claymore
+
+**Constellation**: Nyctereutes Minor
+
+**Special Dish**: Dizziness-Be-Gone no Jutsu Version 2.0
+
+**Release Date**: August 10, 2021 (Version 2.0)
+
+**Tags**: Healing, Biology Affinity, Fast Movement, Energy Regeneration
+
+**Description**: A ninja of the "Shuumatsuban." Petite in stature, she is always in need of more sleep.
+
+---
+
+### **Constellation Effects**
+
+| Level | Name | Effect |
+|-------|------|--------|
+| C1 | Multi-Task no Jutsu | Yoohoo Art: Mujina Flurry's Daruma ignores HP limits, simultaneously attacking nearby enemies and healing characters. |
+| C2 | Egress Prep | Yoohoo Art: Fuuin Dash gains the following effects: • When tapping the skill, Fuuin Whirlwind Kick deals 3.3% more damage. • When holding the skill, the damage increases by 3.3% every 0.5 seconds. The damage boost caps at 66%. |
+| C3 | Eh, the Clone Can Do It | Increases the level of Yoohoo Art: Mujina Flurry by 3. Maximum upgrade level is 15. |
+| C4 | Skiving: New and Improved | When Sayu triggers a Swirl reaction on the field, she restores 1.2 Energy. This effect can be triggered once every 2 seconds. |
+| C5 | Speed Comes First | Increases the level of Yoohoo Art: Fuuin Dash by 3. Maximum upgrade level is 15. |
+| C6 | Sleep O'Clock | Sayu's summoned Daruma from Yoohoo Art: Mujina Flurry benefits from Elemental Mastery. For every point of EM: • Daruma's attack deals an additional 0.2% ATK as damage (up to 400% ATK). • Daruma's healing is increased by 3 points (up to 6000 points). |
+
+---
+
+### **Talent Level-Up Materials**
+
+| Level | Mora | Talent Books | Enemy Drops | Weekly Boss Drops | Crown of Insight |
+|-------|------|--------------|------------|------------------|----------------|
+| 1→2   | 12,500 | 3 Teachings of "Light" | 6 Whopperflower Nectar | - | - |
+| 2→3   | 17,500 | 2 Guides to "Light" | 3 Shimmering Nectar | - | - |
+| 3→4   | 25,000 | 4 Guides to "Light" | 4 Shimmering Nectar | - | - |
+| 4→5   | 30,000 | 6 Guides to "Light" | 6 Shimmering Nectar | - | - |
+| 5→6   | 37,500 | 9 Guides to "Light" | 9 Shimmering Nectar | - | - |
+| 6→7   | 120,000 | 4 Philosophies of "Light" | 4 Energy Nectar | 1 Gilded Scale | - |
+| 7→8   | 260,000 | 6 Philosophies of "Light" | 6 Energy Nectar | 1 Gilded Scale | - |
+| 8→9   | 450,000 | 12 Philosophies of "Light" | 9 Energy Nectar | 2 Gilded Scales | - |
+| 9→10  | 700,000 | 16 Philosophies of "Light" | 12 Energy Nectar | 2 Gilded Scales | 1 Crown of Insight |
+
+---
+
+### **Recommended Builds**
+
+#### **Healing Support (Below C6)**
+
+- **Artifact Sets**: 4-piece Viridescent Venerer + Any piece, or 4-piece Noblesse Oblige + Any piece.
+- **Set Recommendation**: This build focuses on supporting the team. The 4-piece Viridescent Venerer is optimal for Anemo support, reducing elemental resistance through Swirl. Noblesse Oblige offers a team-wide ATK% boost. Generally, Viridescent Venerer is better due to resistance shred.
+- **Main Stat Recommendation**:
+  - Sands: Energy Recharge or ATK%
+  - Goblet: ATK%
+  - Circlet: Healing Bonus
+- **Substat Recommendation**: Energy Recharge > ATK% > Elemental Mastery
+- **Reasoning**: Sayu's healing scales with ATK. Around 220% Energy Recharge is ideal with Favonius, Sacrificial, or Katsuragikiri Nagamasa, while ~260% is needed for other weapons.
+
+#### **Full Elemental Mastery Build (C6)**
+
+- **Artifact Sets**: 4-piece Viridescent Venerer or 4-piece Gilded Dreams
+- **Set Recommendation**: At C6, Sayu’s Elemental Mastery significantly boosts her healing and Swirl damage, making 4-piece Viridescent Venerer ideal. If resistance shred isn't required, 4-piece Gilded Dreams provides additional EM and ATK.
+- **Main Stat Recommendation**:
+  - Sands: Elemental Mastery
+  - Goblet: Elemental Mastery
+  - Circlet: Elemental Mastery or Healing Bonus
+- **Substat Recommendation**: Elemental Mastery > Energy Recharge > ATK%
+- **Reasoning**: C6 Sayu benefits greatly from Elemental Mastery, enhancing both Swirl damage and healing.
+
+#### **Recommended Weapons**
+
+| Weapon | Rarity | Reason |
+|--------|--------|--------|
+| Wolf's Gravestone | 5★ | High base ATK and ATK% boost, greatly increasing Sayu’s healing. Provides team-wide ATK boost. |
+| Favonius Greatsword | 4★ | High Energy Recharge, generates particles for the team. Requires Crit Rate substats to proc. |
+| Katsuragikiri Nagamasa | 4★ | Free-to-play friendly, regenerates Energy, and boosts Elemental Skill DMG. |
+| Rainslasher | 4★ | EM substat benefits Swirl-focused builds, useful in Electro-Charged teams. |
+| Bloodstained Greatsword | 3★ | High EM, easy to obtain, effective for teams focused on elemental reactions. |
+
+---
+
+### **Team Compositions**
+
+#### **Hyperbloom Support**
+**Team:** Sayu + Dehya + Nahida + Furina
+- Sayu swirls Pyro or Hydro, providing healing and resistance reduction.
+- Nahida enables Dendro reactions.
+- Furina buffs overall damage.
+- Dehya adds Pyro application and tankiness.
+
+#### **Budget Team (4-star Focus)**
+**Team:** Sayu + Kaeya + Kuki Shinobu + Xiangling
+- A cost-effective and simple team for reaction-based damage.
+- Sayu triggers Swirl and provides healing.
+- Kaeya applies Cryo.
+- Kuki Shinobu applies Electro for Superconduct.
+- Xiangling provides Pyro application.
+
+---

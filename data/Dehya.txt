@@ -1,0 +1,76 @@
+**Title:** The Lion of Blazing Mane  
+**Full Name:** Dehya  
+**Nation:** Sumeru  
+**Race:** Human  
+**Gender:** Female  
+**Rarity:** 5-star  
+**Availability:** Standard Banner  
+**Vision:** Pyro  
+**Weapon Type:** Claymore  
+**Constellation:** Mantichora  
+**Special Dish:** Golden Tandoori Pot  
+**Release Date:** March 1, 2023 (Version 3.5)  
+**Tags:** Interruption Resistance, Independent Damage Reduction, Damage Sharing, Movement Speed Increase, Passive Movement Speed Increase, Coordinated Attack, Energy Regeneration, Self-Healing, Bonus Multiplier, Critical Rate Increase, Critical Damage Increase  
+
+**Introduction:**  
+A brave and formidable warrior of the "Eremites," a mercenary organization that roams the deserts of Sumeru. She is renowned for her prowess within the organization.
+
+---
+
+### **Constellation**
+
+| Name | Effect |
+|------|--------|
+| **Flame Incandescence of the Pure** | Increases Dehya’s Max HP by 20%. Additionally, her attacks gain a damage bonus based on her Max HP: *Molten Inferno* damage is increased by 3.6% of Max HP; *The Lion’s Bite* damage is increased by 6% of Max HP. |
+| **Mirrored Reflection of a Sacred Blade** | When *Molten Inferno: Field of Blazing Flame* is recast, the duration of the newly created *Fiery Sanctum* is extended by 6 seconds. Additionally, when a character within *Fiery Sanctum* is attacked, the next coordinated attack from *Fiery Sanctum* deals 50% increased damage. |
+| **Roaring Fury's Swift Devastation** | Increases the level of *The Lion’s Bite* by 3, up to a maximum level of 15. |
+| **Stalwart Oathbound Guardian** | When *The Lion’s Bite*’s Blazing Fist and Incinerating Kick hit an enemy, Dehya regenerates 1.5 Elemental Energy and restores HP equal to 2.5% of her Max HP. This effect can be triggered once every 0.2 seconds. |
+| **Unshackled Dominance of the Apex Predator** | Increases the level of *Molten Inferno* by 3, up to a maximum level of 15. |
+| **Scorching Claws that Cleave Through Gold** | *The Lion’s Bite* gains a 10% Crit Rate increase. Additionally, during one instance of *Blazing Lion*, if Blazing Fist lands a critical hit, the Crit Damage of *The Lion’s Bite* is increased by 15% for the remaining duration, and the duration is extended by 0.5 seconds. This effect can be triggered every 0.2 seconds, up to a maximum extension of 2 seconds and a maximum Crit Damage increase of 60%. |
+
+---
+
+### **Ascension Materials**
+
+| Level | Required Materials |
+|--------|-------------------|
+| **1→2** | 12,500 Mora, 3 Teachings of "Practice," 6 Faded Red Satin |
+| **2→3** | 17,500 Mora, 2 Guide to "Practice," 3 Trimmed Red Silk |
+| **3→4** | 25,000 Mora, 4 Guide to "Practice," 4 Trimmed Red Silk |
+| **4→5** | 30,000 Mora, 6 Guide to "Practice," 6 Trimmed Red Silk |
+| **5→6** | 37,500 Mora, 9 Guide to "Practice," 9 Trimmed Red Silk |
+| **6→7** | 120,000 Mora, 4 Philosophies of "Practice," 4 Rich Red Brocade, 1 Puppet Strings |
+| **7→8** | 260,000 Mora, 6 Philosophies of "Practice," 6 Rich Red Brocade, 1 Puppet Strings |
+| **8→9** | 450,000 Mora, 12 Philosophies of "Practice," 9 Rich Red Brocade, 2 Puppet Strings |
+| **9→10** | 700,000 Mora, 16 Philosophies of "Practice," 12 Rich Red Brocade, 2 Puppet Strings, 1 Crown of Insight |
+
+---
+
+### **Recommended Build**
+
+#### **Artifact Set Recommendations**
+- **Burst DPS (C1 and above)**
+- **Burning Bloom Team**
+- **Tank Support**
+- **Auto Battle**
+
+| Artifact Set | Description |
+|-------------|-------------|
+| **Best Sets** | 4-piece *Golden Troupe* (C4 and above) or 4-piece *Emblem of Severed Fate* (C1–C3) or 4-piece *Marechaussee Hunter* (with Furina) + any set |
+| **Transitional Sets** | 4-piece *Lavawalker* (Pure Pyro) or 4-piece *Crimson Witch of Flames* (Vaporize) or 2-piece *Crimson Witch of Flames* + 2-piece *Noblesse Oblige* |
+
+#### **Recommended Weapon Choices**
+
+| Weapon | Description |
+|--------|-------------|
+| **Best in Slot** | **Beacon of the Reed Sea** – Dehya’s signature weapon. Grants high Attack and HP boosts even when off-field. |
+| **Alternative 5-Star Options** | **Redhorn Stonethresher**, **The Unforged**, **Wolf’s Gravestone**, **Skyward Pride** |
+| **4-Star Options** | **Serpent Spine**, **Blackcliff Slasher**, **Rainslasher**, **Akuoumaru**, **Favonius Greatsword** |
+
+---
+
+### **Talent Upgrade Priority**
+
+**Priority:** Elemental Burst > Elemental Skill (Normal Attack is not necessary)
+
+**Reason:** Dehya’s primary damage output comes from her Elemental Burst, making it the highest priority. Her Elemental Skill provides damage mitigation, making it also important. Normal Attack is not recommended for upgrading.

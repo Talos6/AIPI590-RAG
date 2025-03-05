@@ -1,0 +1,109 @@
+**Eula**
+
+---
+
+**Title:** Dance of the Shimmering Wave  
+**Full Name:** Eula Lawrence  
+**Nation:** Mondstadt  
+**Race:** Human  
+**Gender:** Female  
+**Rarity:** 5-star  
+**Availability:** Limited UP  
+**Vision:** Cryo  
+**Weapon Type:** Claymore  
+**Constellation:** Aphros Delos  
+**Special Dish:** Stormcrest Pie  
+**Release Date:** May 18, 2021 (Version 1.5)  
+**Tags:** Resistance Reduction, Alchemy Refund, Self-Damage Boost, Interruption Resistance, Physical DPS, Self-Defense Buff, Cooldown Reduction  
+**Description:** The "Spindrift Knight" of the old aristocracy, captain of the Reconnaissance Company in the Knights of Favonius. A noble descendent who joined the very organization that opposes her lineage, a mystery that remains one of Mondstadt’s biggest intrigues.  
+
+---
+
+### **Constellations**
+
+| **Name** | **Effect** |
+|---|---|
+| **Tidal Illusion** | When consuming "Grimheart" stacks from Icetide Vortex, Eula's Physical DMG Bonus is increased by 30% for 6s. Each stack consumed extends this duration by 6s, up to 18s. |
+| **Girl of Seafoam** | Decreases the cooldown of Icetide Vortex’s hold mode to match that of the tap mode. |
+| **Lawrence Pedigree** | Increases the level of Glacial Illumination by 3. Maximum upgrade level is 15. |
+| **The Obstinacy of One Who Cannot Yield** | Lightfall Sword’s DMG is increased by 25% against enemies with less than 50% HP. |
+| **Chivalric Quality** | Increases the level of Icetide Vortex by 3. Maximum upgrade level is 15. |
+| **Noble Obligation** | Lightfall Sword gains 5 initial stacks of energy when created. Normal Attacks, Elemental Skills, and Elemental Bursts have a 50% chance to grant an additional energy stack. |
+
+---
+
+### **Talent Upgrade Materials**
+
+| **Level** | **Materials Required** |
+|---|---|
+| 1→2 | 12,500 Mora, 3 "Teachings of Resistance," 6 Damaged Mask |
+| 2→3 | 17,500 Mora, 2 "Guide to Resistance," 3 Stained Mask |
+| 3→4 | 25,000 Mora, 4 "Guide to Resistance," 4 Stained Mask |
+| 4→5 | 30,000 Mora, 6 "Guide to Resistance," 6 Stained Mask |
+| 5→6 | 37,500 Mora, 9 "Guide to Resistance," 9 Stained Mask |
+| 6→7 | 120,000 Mora, 4 "Philosophies of Resistance," 4 Ominous Mask, 1 Dragon Lord’s Crown |
+| 7→8 | 260,000 Mora, 6 "Philosophies of Resistance," 6 Ominous Mask, 1 Dragon Lord’s Crown |
+| 8→9 | 450,000 Mora, 12 "Philosophies of Resistance," 9 Ominous Mask, 2 Dragon Lord’s Crown |
+| 9→10 | 700,000 Mora, 16 "Philosophies of Resistance," 12 Ominous Mask, 2 Dragon Lord’s Crown, 1 Crown of Insight |
+
+---
+
+### **Recommended Builds**
+
+#### **Standard Build**
+
+**Artifact Sets:**  
+- 4-piece Pale Flame  
+- 2-piece Pale Flame + 2-piece Bloodstained Chivalry  
+- Optional: 4-piece Husk of Opulent Dreams or 4-piece Marechaussee Hunter (with Furina)  
+
+**Reasons for Selection:**  
+Pale Flame’s 4-piece effect requires ramp-up time, but Eula’s standard rotation allows full uptime (without C2, avoid using Hold E immediately after Burst). The 2+2 setup guarantees a stable 50% Physical DMG Bonus, but has a lower ceiling than Pale Flame’s 4-piece bonus. If Pale Flame pieces are suboptimal, using 2 Pale Flame + 2 Bloodstained Chivalry is viable. Pale Flame 4-piece has no internal cooldown, meaning multiple Hold E hits will fully stack it immediately. When paired with Furina and without Bennett, Husk of Opulent Dreams is slightly superior to Pale Flame, but Marechaussee Hunter is not recommended due to insufficient ATK. If both Furina and Bennett are present, Marechaussee Hunter can be considered.  
+
+**Main Stats:**  
+- **Sands:** ATK%  
+- **Goblet:** Physical DMG Bonus (preferred), ATK% (alternative)  
+- **Circlet:** CRIT Rate, CRIT DMG, ATK%  
+
+**Substats Priority:**  
+CRIT Rate, CRIT DMG > ATK% > Energy Recharge > Flat ATK  
+
+**Skill Leveling Priority:**  
+Elemental Burst >= Normal Attack > Elemental Skill  
+
+---
+
+### **Recommended Weapons**
+
+#### **Best-in-Slot:**  
+- **Song of Broken Pines**  
+- **The Unforged**  
+- **Beacon of the Reed Sea**  
+
+#### **Alternatives:**  
+- **Wolf’s Gravestone**  
+- **Skyward Pride**  
+- **Serpent Spine**  
+- **Luxurious Sea-Lord**  
+- **Snow-Tombed Starsilver**  
+- **Prototype Archaic**  
+
+---
+
+### **Team Compositions**
+
+#### **Superconduct Physical Team**
+
+- **Eula + Raiden Shogun + Bennett + Rosaria/Mika**  
+- **Eula + Fischl + Zhongli + Rosaria/Mika**  
+
+Superconduct is essential for reducing enemy Physical Resistance. Raiden Shogun provides Energy Recharge and damage boost, while Bennett supplies ATK buffs and healing. Mika offers additional Physical DMG Bonus, healing, and ATK SPD increase at C6.  
+
+#### **Cryo Resonance Build**
+
+- **Eula + Rosaria + Raiden Shogun + Bennett**  
+- **Eula + Mika + Fischl + Bennett**  
+
+Double Cryo ensures a consistent 15% CRIT Rate increase. Rosaria can further increase Eula’s CRIT Rate via her passive. Mika provides Physical DMG Bonus and healing. Raiden Shogun, Fischl, or Lisa can serve as the Electro applier for Superconduct.  
+
+---

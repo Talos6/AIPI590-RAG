@@ -1,0 +1,184 @@
+**New Document: Translation for Kirara**
+
+---
+
+## Basic Info
+
+- **Title:** Cat Upon the Eaves  
+- **Full Name:** Kirara  
+- **Nation:** Inazuma  
+- **Country of Origin:** *(Not specified)*  
+- **Race:** Youkai (Nekomata)  
+- **Gender:** Female  
+- **Rarity:** 4★  
+- **Permanent or Limited:** Permanent  
+- **Vision (Element):** Dendro  
+- **Weapon Type:** Sword  
+- **Primordial Power:** *(Not applicable)*  
+- **Constellation:** Arcella  
+- **Special Dish:** Bouncy Breakfast  
+- **Release Date:** May 24, 2023 (Version 3.7)  
+- **Tags:** DMG Increase, Shield, Animal Affinity, High Mobility, Coordinated Attacks, Self DMG Increase  
+
+**Introduction**  
+A courier for Inazuma’s “Komaniya Express.” She’s a devoted worker who loves her job and admires human society—an endearing Nekomata youkai.
+
+---
+
+## Constellations
+
+Below are approximate constellation names based on known English references. (Effects have been adapted directly from the provided Chinese text.)
+
+| **Name**                                  | **Effect**                                                                                                                                                                                                                                                                                    |
+|------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **C1 \| Material Circulation**           | When casting **Secret Art: Surprise Dispatch** (Elemental Burst), for every 8,000 Max HP Kirara has, 1 additional **Cat Grass Cardamom** is generated, up to a maximum of 4 extra.                                                                                                                                   |
+| **C2 \| Cat’s Creeping Carapace**        | While Kirara is in the **Urgent Neko Parcel** state from **Meow-teor Kick** (Elemental Skill, Hold version), ramming into other party members will grant them a “Safe Transport Shield: Mandatory Delivery.” Its DMG absorption is 40% of the main shield’s max absorption and has 250% effectiveness against Dendro DMG. Each shield lasts 12s. This effect can only trigger once per 10s for each character. |
+| **C3 \| Universal Recognition**          | Increases the Level of **Meow-teor Kick** by 3. Maximum upgrade level is 15.                                                                                                                                                                                                                  |
+| **C4 \| Steed of Skanda**                | When the active character is protected by either **Safe Transport Shield** (Kirara’s main shield) or **Safe Transport Shield: Mandatory Delivery** (C2’s effect), their Normal, Charged, and Plunging Attacks that hit enemies will cause Kirara to perform a coordinated attack with **Cat Grass Bud**. This deals Dendro DMG equal to 200% of Kirara’s ATK and is considered Elemental Burst DMG. Can occur once every 3.8s. |
+| **C5 \| A Thousand Miles in a Day**      | Increases the Level of **Secret Art: Surprise Dispatch** (Elemental Burst) by 3. Maximum upgrade level is 15.                                                                                                                                                                                |
+| **C6 \| Cat’s Credit** (*tentative name*) | For 15s after Kirara casts her Elemental Skill or Burst, all nearby party members gain a 12% All Elemental DMG Bonus.                                                                                                                                                                          |
+
+---
+
+## Talent Level-Up Materials
+
+*(Kirara’s talents use the “Transience” series of Inazuma talent books and Specter drops, plus Everamber from Apep’s weekly boss.)*
+
+| **Talent Level** | **Mora**  | **Talent Books**                | **Specter Materials**                       | **Weekly Boss Material**   | **Crown**           |
+|------------------|-----------|---------------------------------|---------------------------------------------|----------------------------|---------------------|
+| 1 → 2            | 12,500    | 3 **Teachings of Transience**   | 6 **Spectral Husk**                         | –                          | –                   |
+| 2 → 3            | 17,500    | 2 **Guide to Transience**       | 3 **Spectral Heart**                        | –                          | –                   |
+| 3 → 4            | 25,000    | 4 **Guide to Transience**       | 4 **Spectral Heart**                        | –                          | –                   |
+| 4 → 5            | 30,000    | 6 **Guide to Transience**       | 6 **Spectral Heart**                        | –                          | –                   |
+| 5 → 6            | 37,500    | 9 **Guide to Transience**       | 9 **Spectral Heart**                        | –                          | –                   |
+| 6 → 7            | 120,000   | 4 **Philosophies of Transience**| 4 **Spectral Nucleus**                      | 1 **Everamber**           | –                   |
+| 7 → 8            | 260,000   | 6 **Philosophies of Transience**| 6 **Spectral Nucleus**                      | 1 **Everamber**           | –                   |
+| 8 → 9            | 450,000   | 12 **Philosophies of Transience**| 9 **Spectral Nucleus**                     | 2 **Everamber**           | –                   |
+| 9 → 10           | 700,000   | 16 **Philosophies of Transience**| 12 **Spectral Nucleus**                    | 2 **Everamber**           | 1 **Crown of Insight** |
+
+---
+
+## Character Build Recommendations
+
+Kirara is often used as a **shield provider** or a **Dendro support** in various reaction teams. Below are a few notable setups.
+
+---
+
+### Build 1: Shield Support / Utility
+
+**Suggested Artifact Sets**  
+- **Max Shield (HP Focus):** 2-Piece **Tenacity of the Millelith** + 2-Piece **Vourukasha’s Glow** + any off-piece  
+- **Team Buff (Dendro or General):**  
+  - 4-Piece **Deepwood Memories** (for Dendro RES shred)  
+  - 4-Piece **Noblesse Oblige** (ATK% team buff)  
+  - 4-Piece **Instructor** (EM buff for the team)  
+
+**Reasoning:**  
+- Kirara’s Elemental Skill (**Meow-teor Kick**) generates a shield whose absorption scales purely off her Max HP.  
+- Because her Skill has little to no off-field DMG at C0, she resembles Layla or other “shield-only” supports, who typically run **2pc Tenacity + 2pc HP set** for maximum HP stacking.  
+- However, her Elemental Burst (“Secret Art: Surprise Dispatch”) scatters “Cat Grass Cardamom” on the field, dealing intermittent AoE Dendro DMG. This can justify wearing **Deepwood Memories** in Bloom or Quicken teams for the Dendro RES shred. If you have a more suitable **Deepwood** user (e.g. Nahida), Kirara can opt for other sets like **Noblesse Oblige** or **Instructor** for team buffs.  
+- **Instructor** is a niche 4★ set that increases the entire party’s Elemental Mastery (EM) after triggering an Elemental Reaction. It’s strong in Dendro-reaction teams if you can consistently trigger a reaction while Kirara is on-field (easier in Quicken, a bit trickier in Bloom).
+
+**Main Stat Priority**  
+- **Sands:** HP%  
+- **Goblet:** HP%  
+- **Circlet:** HP%  
+
+**Substat Priority**  
+HP% > Flat HP ≈ CRIT Rate (if using Favonius Sword) > Energy Recharge
+
+**Notes:**  
+- To maximize shield strength, heavily stack HP.  
+- Before unlocking Constellation 4 (which adds more coordinated attacks), Kirara’s personal DMG typically isn’t a priority. If running **Deepwood** for the team, you may need more Energy Recharge to cast her Burst consistently. Consider an ER Sands if needed.  
+- If using **Favonius Sword,** try to maintain enough CRIT Rate substats to trigger Favonius’ passive reliably.
+
+**Talent Level Priority**  
+- **Level only the Elemental Skill**  
+- **Reason:** Kirara’s shield scales with her Skill level. Her Burst’s damage is based on ATK and is hard to maximize; investing in it is generally not recommended if you only need her shield.
+
+**Recommended 5★ Weapon (Shield Support)**  
+- **Key of Khaj-Nisut**  
+
+**Reason:**  
+- Currently the only 5★ Sword with an HP% substat. It also offers a teamwide EM buff that scales off the wielder’s Max HP. Kirara can trigger its buff by hitting enemies with her Skill or via partial hits in her “Urgent Neko Parcel” form.  
+- With a fully HP-focused build + Key of Khaj-Nisut, Kirara can easily exceed 50k Max HP, providing strong shield absorption and up to 100 EM for the whole team (at R1), as long as you refresh the weapon effect every 20s.
+
+**Recommended 4★ Weapon (Shield Support)**  
+- **Forest Regalia** (“Timber Blade” in some references)  
+- **Sacrificial Sword**  
+- **Favonius Sword**  
+- **Toukabou Shigure** (or “Ship Builder’s Sword,” referred to in Chinese text as “船坞长剑”)  
+
+1. **Forest Regalia (“Timber Blade”)**  
+   - Grants an EM buff to one teammate who picks up the “Leaf” after Kirara triggers a Dendro-related reaction. Also has an Energy Recharge substat, helping Kirara cast her Burst if you want consistent off-field Dendro application.  
+
+2. **Sacrificial Sword**  
+   - Can reset the Skill cooldown, letting Kirara cast two short-press **Meow-teor Kick** back to back, stacking the shield quickly. This is convenient if you prefer short-pressing the Skill instead of the hold “Urgent Neko Parcel” mode. However, note that Sac Sword’s cooldown might not always align in short-rotation teams.  
+
+3. **Favonius Sword**  
+   - Provides Energy particles for the team and helps Kirara recharge her Burst if needed. Requires some CRIT Rate to reliably trigger.  
+
+4. **“Ship Builder’s Sword”** (in CN: 船坞长剑)  
+   - A 4★ option with HP% as its substat (similar to Key of Khaj-Nisut but 4★). Straightforwardly boosts shield strength. Less synergy if you’re also trying to provide team EM, but it’s excellent for pure HP stacking.
+
+*(Any 5★ sword that grants HP%—like **Primordial Jade Cutter** also partially works, but Jade Cutter is primarily CRIT-based with a smaller HP bonus than Key of Khaj-Nisut. Some players still use it if they want CRIT synergy or partial DPS from Kirara.)*
+
+---
+
+### Build 2: Quicken “Quick-Swap” (Mixed Support & Off-Field DMG)
+
+For players who want Kirara to provide a decent shield **and** respectable Dendro damage (especially after unlocking C4):
+
+**Suggested Artifact Sets**  
+- **4-Piece Deepwood Memories**  
+- **4-Piece Noblesse Oblige**  
+- **4-Piece Emblem of Severed Fate** (if focusing on Burst DMG)  
+
+**Reasoning:**  
+- C4 (“Steed of Skanda”) grants Kirara’s shielded active character a coordinated attack that deals Dendro DMG. With enough stats, she can keep “Deepwood Memories”’s Dendro RES shred up fairly reliably in quick-swap or short rotations.  
+- If another Dendro unit (e.g. Nahida) already wields “Deepwood Memories,” Kirara can opt for **Noblesse** or **Emblem of Severed Fate** to buff the party or increase personal Burst DMG.  
+- You’ll need to balance HP% (for shield strength) and offensive stats (CRIT, ATK, or EM) as well as Energy Recharge to maintain your Burst in Quicken teams.
+
+**Main Stat Priority**  
+- **Sands:** HP% or Energy Recharge (if needed)  
+- **Goblet:** Dendro DMG Bonus or HP%  
+- **Circlet:** CRIT Rate / CRIT DMG or HP%  
+
+**Substat Priority**  
+CRIT Rate / CRIT DMG > HP% (until ~32k HP) ≈ EM / ATK% > HP% (beyond ~32k HP) > Energy Recharge
+
+**Explanation:**  
+- Her C1 effect scales with her HP: every 8k Max HP grants 1 extra **Cat Grass Cardamom** in her Burst (up to 4 extra). Hitting ~32k HP ensures maximum benefits (10 total seeds if at C1+).  
+- Like other Quicken DPS units, Kirara values CRIT stats and sometimes EM (since Quicken-based reactions scale with EM). Meanwhile, HP stats boost her shield and increase her C1 Burst seeds.  
+- If you lack any ER weapon or get insufficient particles, consider an ER Sands to ensure you can Burst on cooldown.
+
+**Talent Level Priority**  
+- Generally, leveling **Elemental Burst** can increase those seed explosions. If you rely on her C4 coordinated attacks (which count as Burst DMG), leveling the Burst also helps.  
+- The **Elemental Skill** can still be leveled for stronger shields, though you’ll inevitably split resources if you want both shield strength and Burst DMG.  
+
+**Recommended 5★ Weapon (DPS/Hybrid Focus)**  
+- **Primordial Jade Cutter**  
+
+**Reason:**  
+- High CRIT Rate, 20% bonus HP, and an HP-to-ATK conversion. This helps Kirara’s personal damage (especially if you’re going for Quicken combos) while also strengthening her shield a bit.  
+- With Jade Cutter, stacking HP% not only boosts shield strength but also raises Kirara’s ATK, which increases her Burst damage.  
+
+**Other Weapon Options**  
+- **Favonius Sword** / **Sacrificial Sword** (if you need Energy)  
+- **Key of Khaj-Nisut** can be used, but for Quicken DPS builds, its teamwide EM buff is partially “diluted,” and Kirara won’t hit extremely high HP like Nilou can. It’s still an option for more shield + some EM, though not her best pure DPS choice.  
+
+---
+
+### Example Summary
+
+- **Pure Shield Support:**  
+  - **Artifacts:** 2pc Tenacity + 2pc HP set (e.g. Vourukasha’s Glow). Main stats all HP% for maximum shield absorption. Possibly use **Deepwood** or **Noblesse** if your team needs those buffs.  
+  - **Weapon:** Key of Khaj-Nisut (5★) or Ship Builder’s Sword (4★, HP%) or Favonius/Sacrificial for utility.  
+  - **Talents:** Prioritize Elemental Skill.  
+
+- **Hybrid Quicken / DMG Build:**  
+  - **Artifacts:** 4pc Deepwood or 4pc Noblesse or Emblem, balancing HP + CRIT + possibly EM.  
+  - **Weapon:** Jade Cutter for balanced HP and CRIT, or other swords for synergy.  
+  - **Talents:** Consider leveling Burst (for seed DMG and coordinated attacks at C4), plus Skill if you still want a sturdy shield.
+
+---

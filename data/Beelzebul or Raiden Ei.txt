@@ -1,0 +1,98 @@
+**Raiden Shogun**
+
+**Title:** One Heart, Pure Land  
+**Full Name:** Beelzebul/Raiden Ei  
+**Nation:** Inazuma  
+**Race:** Archon/Puppet  
+**Gender:** Female  
+**Rarity:** 5-Star  
+**Availability:** Limited Banner  
+**Element:** Electro  
+**Weapon Type:** Polearm  
+**Constellation:** Imperatrix Umbrosa  
+**Special Dish:** This character cannot participate in cooking.  
+**Release Date:** September 1, 2021 (Version 2.1)  
+**Tags:** Attack Buff, Damage Boost, Energy Recharge, Cooldown Reduction, Talent Refund, Coordinated Attack, Weapon Transformation, Defense Ignorance, Interruption Resistance, Self-Damage Boost, Electro-Charged Immunity  
+**Description:** As the Almighty Narukami Ogosho, she grants the people of Inazuma an eternal, unchanging "Eternity."
+
+---
+
+### **Constellation Effects**
+
+| Name | Effect |
+|------|--------|
+| **Ominous Inscription** | The Resolve stacks of Secret Art: Musou Shinsetsu are accumulated faster. When Electro characters cast their Elemental Burst, Resolve gain is increased by 80%. When other Elemental characters cast their Elemental Burst, Resolve gain is increased by 20%. |
+| **Steelbreaker** | The Musou no Hitotachi and Musou Isshin attacks during Secret Art: Musou Shinsetsu ignore 60% of enemy Defense. |
+| **Shinkage Bygones** | Increases the level of Secret Art: Musou Shinsetsu by 3. Can be increased up to level 15. |
+| **Pledge of Propriety** | After Musou Isshin state ends, nearby party members (excluding Raiden Shogun) gain a 30% ATK increase for 10 seconds. |
+| **Shogun's Descent** | Increases the level of Transcendence: Baleful Omen by 3. Can be increased up to level 15. |
+| **Wishbearer** | While in Musou Isshin state, when Raiden Shogun’s Elemental Burst hits an opponent, the Elemental Burst cooldown of all nearby party members (excluding herself) is reduced by 1 second. This effect can occur once per second and up to 5 times during the skill duration. |
+
+---
+
+### **Talent Ascension Materials**
+
+| Level | Required Materials |
+|--------|------------------|
+| 1→2 | 12,500 Mora, 3 Teachings of Light, 6 Old Handguards |
+| 2→3 | 17,500 Mora, 2 Guide to Light, 3 Kageuchi Handguards |
+| 3→4 | 25,000 Mora, 4 Guide to Light, 4 Kageuchi Handguards |
+| 4→5 | 30,000 Mora, 6 Guide to Light, 6 Kageuchi Handguards |
+| 5→6 | 37,500 Mora, 9 Guide to Light, 9 Kageuchi Handguards |
+| 6→7 | 120,000 Mora, 4 Philosophies of Light, 4 Famed Handguards, 1 Molten Moment |
+| 7→8 | 260,000 Mora, 6 Philosophies of Light, 6 Famed Handguards, 1 Molten Moment |
+| 8→9 | 450,000 Mora, 12 Philosophies of Light, 9 Famed Handguards, 2 Molten Moments |
+| 9→10 | 700,000 Mora, 16 Philosophies of Light, 12 Famed Handguards, 2 Molten Moments, 1 Crown of Insight |
+
+---
+
+### **Recommended Builds**
+
+#### **Artifact Set Recommendation**
+
+- **Direct Damage/Pure Aggravate**
+- **Hyperbloom/Burgeon**
+
+| Recommended Set | 4-piece Emblem of Severed Fate + Any Off-piece |
+|----------------|------------------------------------------------|
+| **Reasoning**  | Raiden Shogun's Elemental Burst requires 90 Energy, making her heavily reliant on Energy Recharge. Her damage output mainly comes from her Elemental Burst, which synergizes well with the Emblem of Severed Fate set. At 300% Energy Recharge, she gains maximum damage bonus. |
+
+#### **Main Stat Recommendations**
+
+| Slot | Main Stat |
+|------|-----------|
+| Sands | Energy Recharge / ATK% |
+| Goblet | Electro DMG Bonus / ATK% |
+| Circlet | CRIT Rate / CRIT DMG |
+
+#### **Sub-stat Prioritization**
+
+Energy Recharge (if not using an Energy Recharge weapon) > CRIT Rate, CRIT DMG > ATK% > Energy Recharge (if using an Energy Recharge weapon)
+
+**Reasoning:** While Energy Recharge is beneficial for Raiden Shogun’s overall damage, CRIT Rate and CRIT DMG have a higher direct impact on her output. Her passive talent, "Enlightened One," converts excess Energy Recharge (beyond 100%) into Electro DMG Bonus and supports the entire team's Energy regeneration. Typically, Raiden Shogun should maintain 230%–270% Energy Recharge, prioritizing CRIT stats afterward. 
+
+For weapons with high Energy Recharge, her artifact sub-stats should focus on CRIT Rate, CRIT DMG, and ATK%. For weapons with high CRIT stats, Energy Recharge becomes a viable sub-stat to reduce artifact farming difficulty. The synergy between Emblem of Severed Fate and "Enlightened One" also makes her Goblet choice dependent on the team composition: if the team has multiple ATK buffers (e.g., Kujou Sara + Bennett), Electro DMG Goblet is better; if the team has multiple DMG buffs (e.g., Yelan + Kazuha), ATK% Goblet may perform similarly. 
+
+#### **Skill Leveling Priority**
+
+Elemental Burst > Elemental Skill (Normal Attack not recommended)
+
+**Reasoning:** Raiden Shogun’s attacks during her Elemental Burst are considered Elemental Burst damage, scaling off her Burst level, meaning Normal Attack levels are unnecessary. While her Elemental Skill increases the team’s Elemental Burst DMG, it does not deal high personal damage, making it a lower priority.
+
+#### **Best-in-Slot Weapon**
+
+| **Weapon** | **Engulfing Lightning (5★)** |
+|-----------|-------------------------------|
+| **Reasoning** | Aesthetically fitting, high Energy Recharge secondary stat, and a passive that converts Energy Recharge into ATK, reducing her dependency on Kujou Sara and Bennett. If Energy Recharge investment lowers ATK, consider an ATK% Sands or Goblet to compensate. |
+
+#### **Alternative Weapon Choices**
+
+**4★:** The Catch, Wavebreaker's Fin, Deathmatch  
+**5★:** Staff of the Scarlet Sands, Staff of Homa, Skyward Spine, Primordial Jade-Winged Spear, Calamity Queller, Vortex Vanquisher  
+
+**Weapon Selection Notes:**
+- The Catch (4★) is a free-to-play friendly option with solid performance.
+- Staff of the Scarlet Sands and Staff of Homa provide high CRIT stats, boosting Raiden Shogun’s damage.
+- Skyward Spine offers extra Energy Recharge and attack speed, improving smoothness in Burst execution.
+
+This document provides a comprehensive guide to Raiden Shogun, ensuring the best performance and optimal build choices.

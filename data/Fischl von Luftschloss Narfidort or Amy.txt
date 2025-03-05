@@ -1,0 +1,94 @@
+**Fischl**
+
+---
+
+### **Title:** Prinzessin der Verurteilung!!  
+**Full Name / Real Name:** Fischl von Luftschloss Narfidort / Amy  
+**Nation:** Mondstadt  
+**Origin:** -  
+**Race:** Human  
+**Gender:** Female  
+**Rarity:** ★★★★ (4-Star)  
+**Availability:** Permanent  
+**Vision:** Electro  
+**Weapon Type:** Bow  
+**Primordial Power:** -  
+**Constellation:** Corvus  
+**Specialty Dish:** Blessed Symphony  
+**Release Date:** September 15, 2020 (Version 1.0)  
+**Tags:** Self-Healing, Expedition, Coordinated Attack, Skill Duration Extension  
+**Description:** A mysterious girl who calls herself the "Prinzessin der Verurteilung" and travels with a black raven named Oz.  
+
+---
+
+### **Constellations**  
+
+| Name | Effect |
+|------|--------|
+| **Gaze of the Deep** | Even when Oz is not on the field, he still watches over Fischl through the Raven’s Eye. When Fischl lands a Normal Attack on an enemy, Oz attacks together through the Raven’s Eye, dealing 22% of Fischl’s Attack as damage. |
+| **Devourer of All Sin** | When using Nightrider, an additional 200% Attack damage is dealt, and the skill’s area of effect increases by 50%. |
+| **Wings of Nightmare** | Increases the level of Nightrider by 3. Can be upgraded to a maximum of level 15. |
+| **Her Pilgrimage of Bleak** | When Midnight Phantasmagoria is cast, nearby enemies take 222% of Fischl’s Attack as Electro damage. When the skill ends, Fischl regenerates 20% of her HP. |
+| **Against the Fleeing Light** | Increases the level of Midnight Phantasmagoria by 3. Can be upgraded to a maximum of level 15. |
+| **Evernight Raven** | Extends Oz’s duration by 2 seconds. Additionally, Oz will attack alongside the active character, dealing 30% of Fischl’s Attack as Electro damage. |
+
+---
+
+### **Talent Level-Up Materials**
+
+| Level | Required Materials |
+|--------|-------------------|
+| 1 → 2  | 12,500 Mora, 3 Teachings of Ballad, 6 Firm Arrowheads |
+| 2 → 3  | 17,500 Mora, 2 Guide to Ballad, 3 Sharp Arrowheads |
+| 3 → 4  | 25,000 Mora, 4 Guide to Ballad, 4 Sharp Arrowheads |
+| 4 → 5  | 30,000 Mora, 6 Guide to Ballad, 6 Sharp Arrowheads |
+| 5 → 6  | 37,500 Mora, 9 Guide to Ballad, 9 Sharp Arrowheads |
+| 6 → 7  | 120,000 Mora, 4 Philosophies of Ballad, 4 Weathered Arrowheads, 1 Spirit Locket of Boreas |
+| 7 → 8  | 260,000 Mora, 6 Philosophies of Ballad, 6 Weathered Arrowheads, 1 Spirit Locket of Boreas |
+| 8 → 9  | 450,000 Mora, 12 Philosophies of Ballad, 9 Weathered Arrowheads, 2 Spirit Locket of Boreas |
+| 9 → 10 | 700,000 Mora, 16 Philosophies of Ballad, 12 Weathered Arrowheads, 2 Spirit Locket of Boreas, 1 Crown of Insight |
+
+---
+
+### **Recommended Builds**
+
+**Roles:**
+- Off-field Aggravate DPS
+- Off-field Raw Damage DPS
+- Physical DPS
+
+#### **Artifact Sets**
+
+**Best:** 4-Piece Golden Troupe + Any Off-Piece  
+**Alternative:** 2-Piece Golden Troupe + 2-Piece Thundering Fury, 2-Piece Gladiator’s Finale (or any +18% ATK set), or 2-Piece Wanderer’s Troupe (+80 Elemental Mastery)  
+**Optional:** 4-Piece Gilded Dreams or 4-Piece Thundering Fury + Any Off-Piece  
+**Support:** 4-Piece Tenacity of the Millelith + Any Off-Piece  
+
+**Reasoning:** With the introduction of Dendro reactions in Version 3.0, Fischl’s Aggravate reaction and her second passive talent, "Undone Be Thy Sinful Hex," make her highly effective even at C0. She fits best in Double Electro Aggravate teams. If using her in non-Aggravate teams, C6 is highly recommended as her coordinated attacks with Oz scale based on Normal Attack frequency.  
+- **Golden Troupe** is Fischl’s best-in-slot artifact set, as its 2-piece and 4-piece effects both boost her Elemental Skill damage, which includes Oz’s attacks, her A4 passive’s Thunder Smite, and her C6 coordinated attacks.  
+- **2-Piece Combinations** are budget-friendly options that were common before Version 4.0.  
+- **Gilded Dreams & Thundering Fury** can be used pre-4.0, though they perform worse than Golden Troupe.  
+- **Tenacity of the Millelith** is viable for a support role, providing a 20% ATK boost and 30% Shield Strength, but sacrifices Fischl’s own damage.  
+
+#### **Main Stats**
+| Sands | Goblet | Circlet |
+|--------|--------|--------|
+| Elemental Mastery / ATK% / Energy Recharge (Solo Electro) | Electro DMG Bonus | CRIT Rate / CRIT DMG |
+
+#### **Substat Priorities**
+CRIT Rate, CRIT DMG > Elemental Mastery, ATK% > Energy Recharge (Solo Electro)  
+
+**Talent Priority:** Elemental Skill > Elemental Burst (Normal Attack not needed)  
+
+#### **Weapons**
+**Best 5★ Weapons:** Aqua Simulacra, Polar Star  
+**Alternative 5★ Weapons:** Hunter’s Path, The First Great Magic, Thundering Pulse, Skyward Harp  
+**Best 4★ Weapons:** The Stringless, Range Gauge, Alley Hunter  
+
+**Reasoning:**
+- **Aqua Simulacra** is the best weapon for Double Electro Aggravate Fischl, providing high CRIT DMG and a strong passive effect.  
+- **Polar Star** is best for Solo Electro Fischl, giving CRIT Rate and an ATK% boost.  
+- **The Stringless** is the best 4★ weapon for Aggravate Fischl, boosting her Elemental Skill and Reaction damage.  
+
+More detailed strategies and team compositions can be explored based on Fischl’s synergy with Electro and Dendro characters.
+

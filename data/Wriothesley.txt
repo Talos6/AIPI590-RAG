@@ -1,0 +1,80 @@
+**Title**: Emissary of Solitary Penitence  
+**Full Name**: Wriothesley  
+**Nation**: Fontaine  
+**Race**: Human  
+**Gender**: Male  
+**Rarity**: 5-star  
+**Availability**: Limited UP  
+**Vision**: Cryo  
+**Weapon Type**: Catalyst  
+**Primordial Power**: Ferocity  
+**Constellation**: Hound of the Nether Prison  
+**Special Dish**: Secretly Roasted Ribs  
+**Release Date**: October 17, 2023 (Version 4.1)  
+**Tags**: Attack Speed Boost, Alchemy Refund, HP Consumption, Self-Healing, Self-Interruption Resistance, Self-Damage Boost, Self-Crit Rate Boost, Self-Crit DMG Boost, Reduced Stamina Consumption  
+**Description**: The Duke of the Fortress of Meropide, the ruler hidden beneath the abyssal depths.
+
+---
+
+**Constellation**
+
+| Name | Effect |
+|------|--------|
+| **Rebuke the Wicked with Fear** | The "Edict of Grace" from the passive talent "The Law Knows No Kindness" is modified as follows: When Wriothesley's HP is below 60%, or while in the Cold Penalty state of Icefang Rush, landing the fifth hit of Repelling Fist grants "Edict of Grace" once every 2.5 seconds. Additionally, Reprisal: Vaulting Fist gains the following enhancements: its damage bonus increases to 200%; when it hits a target in the Cold Penalty state, the state’s duration is extended by 4 seconds (can only be extended once per state instance). Requires unlocking the passive talent "The Law Knows No Kindness." |
+| **Shackle the Arrogant with Chains** | When casting Black Gold Wolfbite, each stack of "Restitution" from the passive talent "All Sins Shall Reap Their Due" increases the damage dealt by 40%. Requires unlocking the passive talent "All Sins Shall Reap Their Due." |
+| **Condemn the Deceitful with Judgment** | Increases the level of Normal Attack: Swiftfrost Fisticuffs by 3, up to a maximum level of 15. |
+| **Redeem the Suffering with Mercy** | The healing effect of Reprisal: Vaulting Fist increases to 50% of Wriothesley’s Max HP. Additionally, if Wriothesley receives healing that exceeds his maximum HP, different effects will be triggered based on whether he is on the field or off the field. If on the field, his attack speed increases by 20% for 4 seconds; if off the field, all party members’ attack speed increases by 10% for 6 seconds. These two effects cannot stack. Requires unlocking the passive talent "The Law Knows No Kindness." |
+| **Pardon the Wronged with Compassion** | Increases the level of Black Gold Wolfbite by 3, up to a maximum level of 15. |
+| **Console the Innocent with Warmth** | Reprisal: Vaulting Fist’s Crit Rate increases by 10%, Crit DMG increases by 80%, and an additional ice spike is generated, dealing Cryo DMG equal to 100% of its original value. Damage from this ice spike is considered Charged Attack DMG. Requires unlocking the passive talent "The Law Knows No Kindness." |
+
+---
+
+**Ascension Material Requirements**
+
+| Level | Materials Required |
+|-------|------------------|
+| 1→2 | 12,500 Mora, 3 Teachings of "Order," 6 Meshing Gear |
+| 2→3 | 17,500 Mora, 2 Guide to "Order," 3 Mechanical Spur Gear |
+| 3→4 | 25,000 Mora, 4 Guide to "Order," 4 Mechanical Spur Gear |
+| 4→5 | 30,000 Mora, 6 Guide to "Order," 6 Mechanical Spur Gear |
+| 5→6 | 37,500 Mora, 9 Guide to "Order," 9 Mechanical Spur Gear |
+| 6→7 | 120,000 Mora, 4 Philosophies of "Order," 4 Mechanized Core Gear, 1 Primordial Oasis Bud |
+| 7→8 | 260,000 Mora, 6 Philosophies of "Order," 6 Mechanized Core Gear, 1 Primordial Oasis Bud |
+| 8→9 | 450,000 Mora, 12 Philosophies of "Order," 9 Mechanized Core Gear, 2 Primordial Oasis Bud |
+| 9→10 | 700,000 Mora, 16 Philosophies of "Order," 12 Mechanized Core Gear, 2 Primordial Oasis Bud, 1 Crown of Insight |
+
+---
+
+**Recommended Builds**
+
+### Artifact Recommendations
+
+**General Build:**  
+- **Main Set:** 4-piece Marechaussee Hunter + Any Off-piece  
+- **Alternative Options:** 4-piece Blizzard Strayer / 4-piece Shimenawa's Reminiscence / 4-piece Wanderer's Troupe / 4-piece Gladiator’s Finale  
+
+**Main Stat Recommendations:**
+- **Sands:** ATK% / Elemental Mastery (for Melt build)  
+- **Goblet:** Cryo DMG Bonus  
+- **Circlet:** Crit DMG / Crit Rate  
+
+**Substat Priorities:** Crit DMG, Crit Rate > ATK% > Elemental Mastery (for Melt build) > Energy Recharge  
+
+---
+
+### Weapon Recommendations
+
+**Best-in-Slot:** 5-star *Flowing Purity*  
+**Alternative 5-star Options:** *Tulaytullah's Remembrance*, *Memory of Dust*, *Lost Prayer to the Sacred Winds*, *Skyward Atlas*  
+**Alternative 4-star Options:** *The Widsith*, *Dodoco Tales*, *Tome of Eternal Flow*, *Ballad of the Boundless Blue*, *Frostbearer*  
+
+---
+
+### Team Compositions
+
+**Recommended 5-star Teammates:**
+- *Shenhe*: Cryo DMG buff support, increases Wriothesley’s Cryo DMG and provides Cryo Resonance.
+- *Kazuha*: Elemental DMG amplifier, reduces Cryo resistance, and offers crowd control.
+- *Furina*: Off-field Hydro enabler for Freeze teams and damage amplifier.
+
+---

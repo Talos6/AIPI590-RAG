@@ -1,0 +1,98 @@
+Chiori
+--
+
+Title: Thunderous Textile Artisan  
+Full Name: Chiori  
+Nation: Inazuma  
+Origin:   
+Race: Human  
+Gender: Female  
+Rarity: 5-Star  
+Availability: Limited UP  
+Vision: Geo  
+Weapon Type: Sword  
+Constellation: Silken Shears  
+Special Dish: "Fashion Show"  
+Release Date: March 13, 2024 (Version 4.5)  
+Tags: Coordinated Attack, Self Infusion, Self Damage Buff, Cooldown Reduction, Movement Speed Buff (Talent), Mobility  
+Description: The owner of "Chiori Atelier." A renowned fashion designer from Fontaine.  
+
+
+Constellation
+---
+
+Name | Effect  
+--- | ---  
+Sixfold Pure Silk | Increases the attack range of the Auto-Controlled Puppet "Sode" from Fluttering Hasu no Mai by 50%. Additionally, if there is another Geo character in the party aside from Chiori, the end of Fluttering Hasu no Mai's charge will trigger the following effects: Summons an additional Sode. Chiori can only have one extra Sode summoned this way at a time, separate from those summoned through Geo Constructs. Triggers the Passive Talent "Embroidered Splendor," requiring it to be unlocked.  
+Five-Colored Dye | For 10 seconds after using Twin Blades Form: Wings Aligned, every 3 seconds, a Simplified Auto-Controlled Puppet "Kin" is summoned near the active character. Kin will attack nearby enemies, dealing AoE Geo DMG equal to 170% of Sode's damage. This damage is considered Elemental Skill DMG. Kin disappears after attacking once or after 3 seconds.  
+Quadruple Brocade | Increases the level of Fluttering Hasu no Mai by 3, up to a maximum of level 15.  
+Triple Layered Garment | For 8 seconds after triggering the follow-up effect of the Passive Talent "Tailored Fit," the active character's Normal, Charged, or Plunging Attacks that hit nearby enemies will summon a Simplified Auto-Controlled Puppet "Kin." This effect can trigger once per second and up to three times per activation of "Tailored Fit." Can trigger once every 15 seconds. Requires "Tailored Fit" to be unlocked.  
+Double Weave | Increases the level of Twin Blades Form: Wings Aligned by 3, up to a maximum of level 15.  
+Unrivaled Mastery | After triggering the follow-up effect of the Passive Talent "Tailored Fit," Chiori's Fluttering Hasu no Mai cooldown is reduced by 12 seconds. Requires "Tailored Fit" to be unlocked. Additionally, Chiori's Normal Attack DMG is increased by 235% of her DEF.  
+
+
+Level-Up Materials
+---
+
+Level | Required Materials  
+--- | ---  
+1→2 | 12,500 Mora, 3 Teachings of "Light," 6 Transoceanic Dry Shell  
+2→3 | 17,500 Mora, 2 Guide to "Light," 3 Transoceanic Pearl  
+3→4 | 25,000 Mora, 4 Guide to "Light," 4 Transoceanic Pearl  
+4→5 | 30,000 Mora, 6 Guide to "Light," 6 Transoceanic Pearl  
+5→6 | 37,500 Mora, 9 Guide to "Light," 9 Transoceanic Pearl  
+6→7 | 120,000 Mora, 4 Philosophies of "Light," 4 Xenochromatic Crystal, 1 Lightless Silk  
+7→8 | 260,000 Mora, 6 Philosophies of "Light," 6 Xenochromatic Crystal, 1 Lightless Silk  
+8→9 | 450,000 Mora, 12 Philosophies of "Light," 9 Xenochromatic Crystal, 2 Lightless Silk  
+9→10 | 700,000 Mora, 16 Philosophies of "Light," 12 Xenochromatic Crystal, 2 Lightless Silk, 1 Crown of Insight  
+
+
+Recommended Builds
+---
+
+### Equipment Recommendations  
+
+- Off-Field Sub-DPS  
+- C6 Main DPS  
+
+Artifact Sets:  
+- General: 4-Piece Golden Troupe or 4-Piece Husk of Opulent Dreams + Any piece  
+- Mixed: 2-Piece Archaic Petra + 2-Piece Golden Troupe or 2-Piece Husk of Opulent Dreams + Any piece  
+
+**Set Reasoning:**  
+Off-field Sub-DPS Chiori derives 80% of her damage from Elemental Skill, which fully benefits from the 4-piece effect of Golden Troupe. Both Elemental Skill and Elemental Burst scale off ATK and DEF, with DEF yielding higher returns, allowing Husk of Opulent Dreams to be a viable alternative. Mixed 2+2 sets can be used as a transitional option.  
+
+**Main Stats Recommendation:**  
+- **Sands:** DEF%  
+- **Goblet:** Geo DMG Bonus / DEF%  
+- **Circlet:** CRIT Rate / CRIT DMG / DEF%  
+
+**Sub-Stats Recommendation:**  
+CRIT Rate, CRIT DMG > DEF% > ATK% > Energy Recharge  
+
+**Reasoning:**  
+As a damage dealer, CRIT stats are essential. Between ATK and DEF, DEF provides better scaling. A moderate amount of Energy Recharge is suggested to maintain Elemental Burst uptime. If Chiori wields high CRIT DMG weapons such as Uraku Misugiri, DEF% Circlet may be viable.  
+
+**Talent Upgrade Priority:**  
+Elemental Skill > Elemental Burst (Do not upgrade Normal Attack)  
+
+**Reasoning:**  
+Off-field Sub-DPS Chiori's damage is predominantly from Elemental Skill (80%) and Elemental Burst (20%), with no reliance on Normal Attacks.  
+
+**Best Weapon:**  
+- **5★ Uraku Misugiri**  
+
+**Reasoning:**  
+Uraku Misugiri has low base ATK but high CRIT DMG, complementing Chiori’s dual-scaling mechanics. It provides significant Elemental Skill bonuses and additional DEF boosts, enhancing her Skill-centric playstyle.  
+
+**Alternative Weapons:**  
+- **4★ Wolf-Fang**  
+- **5★ Primordial Jade Cutter**  
+- **5★ Mistsplitter Reforged**  
+- **5★ Haran Geppaku Futsu**  
+
+**Reasoning:**  
+Wolf-Fang provides CRIT Rate and boosts Elemental Skill/Burst DMG. Primordial Jade Cutter and Mistsplitter offer strong CRIT stats and elemental bonuses. Haran is a viable CRIT weapon but lacks DEF scaling benefits.  
+
+Chiori is a strong off-field DPS with coordinated attacks and high DEF scaling, making her versatile in Geo compositions.
+

@@ -1,0 +1,99 @@
+**Nilou**
+
+---
+
+**Title**: Dance of Lotuslight  
+**Full Name**: Nilou  
+**Nation**: Sumeru  
+**Race**: Human  
+**Gender**: Female  
+**Rarity**: ★★★★★ (5-star)  
+**Availability**: Limited (Event Exclusive)  
+**Vision**: Hydro  
+**Weapon Type**: Sword  
+**Constellation**: Lotos Somno  
+**Special Dish**: Dance of Delicate Steps  
+**Release Date**: October 14, 2022 (Version 3.1)  
+**Tags**: Resistance Reduction, DMG Bonus, Elemental Mastery Bonus, Cooking, Skill Duration Extension, Energy Restoration, Reaction Specialization, Crit Rate Increase, Crit DMG Increase  
+
+**Description**: A renowned dancer from the Zubayr Theater. Her graceful and elegant dance moves captivate the audience, reflecting her pure and kind-hearted nature.
+
+---
+
+### **Constellation Effects**
+
+| Name | Effect |
+|------|--------|
+| **Dance of the Waning Moon** | The effects of **Sevenfold Steps** are enhanced: Water Moons deal 65% increased damage, and the duration of **Golden Chalice’s Bounty** is extended by 6 seconds. |
+| **The Starry Skies Their Flowers Rain** | While characters are under the **Golden Chalice’s Bounty** state, enemies affected by Hydro take 35% reduced Hydro RES, and enemies hit by Bloom reactions take 35% reduced Dendro RES for 10 seconds. This effect requires the **Court of Dancing Petals** talent to be unlocked. |
+| **Beguiling Shadowstep** | Increases the level of **Dance of the Lotus: Dream of the Falling Stars** by 3. Maximum upgrade level: 15. |
+| **Fragrant Ripples’ Waltz** | When the third step of **Sevenfold Steps** hits an opponent, Nilou restores 15 Energy and increases the damage of **Dance of the Lotus: Dream of the Falling Stars** by 50% for 8 seconds. |
+| **Twinkling Light’s Fluttering Step** | Increases the level of **Sevenfold Steps** by 3. Maximum upgrade level: 15. |
+| **Frostfallen Lullaby** | Every 1,000 Max HP Nilou has increases her CRIT Rate by 0.6% and her CRIT DMG by 1.2%, up to a maximum of 30% CRIT Rate and 60% CRIT DMG. |
+
+---
+
+### **Ascension Materials**
+
+| Level | Materials Required |
+|--------|------------------|
+| 1→2  | 12,500 Mora, 3 Teachings of Praxis, 6 Fungal Spores |
+| 2→3  | 17,500 Mora, 2 Guide to Praxis, 3 Luminescent Pollen |
+| 3→4  | 25,000 Mora, 4 Guide to Praxis, 4 Luminescent Pollen |
+| 4→5  | 30,000 Mora, 6 Guide to Praxis, 6 Luminescent Pollen |
+| 5→6  | 37,500 Mora, 9 Guide to Praxis, 9 Luminescent Pollen |
+| 6→7  | 120,000 Mora, 4 Philosophies of Praxis, 4 Crystalline Cyst Dust, 1 Tears of the Calamitous God |
+| 7→8  | 260,000 Mora, 6 Philosophies of Praxis, 6 Crystalline Cyst Dust, 1 Tears of the Calamitous God |
+| 8→9  | 450,000 Mora, 12 Philosophies of Praxis, 9 Crystalline Cyst Dust, 2 Tears of the Calamitous God |
+| 9→10 | 700,000 Mora, 16 Philosophies of Praxis, 12 Crystalline Cyst Dust, 2 Tears of the Calamitous God, 1 Crown of Insight |
+
+---
+
+### **Recommended Builds**
+
+#### **Main Build: Bloom Reaction (Nilou Bloom Team)**
+
+**Artifact Sets**:
+- **Best Set**: 2-piece **Tenacity of the Millelith** + 2-piece **Vourukasha’s Glow**
+- **Alternative**: 2-piece **Tenacity of the Millelith** + 2-piece **Gilded Dreams** / **Wanderer’s Troupe** / **Heart of Depth**
+
+**Artifact Stat Priority**:
+- **Sands**: HP%
+- **Goblet**: HP%
+- **Circlet**: HP%
+
+**Substats**: HP% > Elemental Mastery > Flat HP > Energy Recharge  
+
+**Recommended Weapons**:
+- **Best Weapon**: **Key of Khaj-Nisut (5-star)** - Grants HP% and Elemental Mastery buffs to the team.
+- **Alternative Weapon**: **Sailing Swords (4-star)** - Provides HP% and Energy Regeneration.
+
+#### **Alternate Build: On-Field Hydro DPS**
+
+**Artifact Sets**:
+- 4-piece **Vourukasha’s Glow**
+- 4-piece **Heart of Depth**
+- 4-piece **Crimson Witch of Flames** (for Vaporize reactions)
+
+**Artifact Stat Priority**:
+- **Sands**: HP% / Elemental Mastery (if Vaporize reaction-based)
+- **Goblet**: Hydro DMG Bonus
+- **Circlet**: CRIT Rate / CRIT DMG
+
+**Substats**: CRIT Rate & CRIT DMG > HP% > Energy Recharge  
+
+**Recommended Weapons**:
+- **Best Weapons**: **Key of Khaj-Nisut (5-star), Primordial Jade Cutter (5-star), Splendor of Still Waters (5-star)**
+- **Alternative Weapons**: **Iron Sting (4-star), Xiphos’ Moonlight (4-star)**
+
+---
+
+### **Skill Leveling Priority**
+- **Main Build (Bloom Support)**: **No need to level up any skills** (since Bloom reaction scales with Level and Elemental Mastery, not talent levels).
+- **Alternate Build (Hydro DPS)**: **Elemental Skill** = **Elemental Burst** > **Normal Attack**
+
+**Explanation**:
+- Nilou’s Bloom reaction damage is purely based on Level and Elemental Mastery, making talent levels irrelevant.
+- If playing as an on-field Hydro DPS, leveling **Elemental Skill** and **Burst** will maximize damage output.
+
+---

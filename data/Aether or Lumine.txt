@@ -1,0 +1,107 @@
+**Title**: Traveler
+
+**Full Name**: Aether/Lumine
+
+**Affiliation**: Other
+
+**Nation of Origin**: Unknown
+
+**Race**: Unknown
+
+**Gender**: Male/Female
+
+**Rarity**: 5-star
+
+**Availability**: Permanent
+
+**Element**: None
+
+**Weapon Type**: Sword
+
+**Constellation**: Viator/Viatrix
+
+**Special Dish**: None
+
+**Release Date**: September 15, 2020 (Version 1.0)
+
+**Tags**: None
+
+**Description**: A traveler who drifted from another world. After their only kin was taken by a god, they embarked on a journey to seek the Seven.
+
+---
+
+**Note**: In "Sumeru Archon Quest Chapter III, Act I, Section VII – The Nearer the Goal," players are required to use "Sword Fighting Technique: Eight." At this point, **only the Traveler's** base attack (white number) will permanently increase by 3 points. If this part of the story has already been completed, be sure to add these 3 base attack points when calculating the Traveler's stats. Additionally, this value has the following properties:
+
+- This value is directly added to the Traveler's stats and is included in the "Final Attack Calculation Formula" under "Character Attack."
+- This 3-point base attack bonus is not affected by the Traveler's current level, meaning Travelers of any level can benefit from it.
+- The value remains effective even when switching the Traveler's current element.
+
+---
+
+**Talent Level-Up Materials**:
+
+| Level | Mora | Talent Books | Enemy Drops | Weekly Boss Drops | Crown of Insight |
+|-------|------|--------------|------------|------------------|----------------|
+| 1→2   | 12,500 | 3 Teachings of "Freedom" | 6 Divining Scrolls | - | - |
+| 2→3   | 17,500 | 2 Guides to "Resistance" | 3 Sealed Scrolls | - | - |
+| 3→4   | 25,000 | 4 Guides to "Ballad" | 4 Sealed Scrolls | - | - |
+| 4→5   | 30,000 | 6 Teachings of "Freedom" | 6 Sealed Scrolls | - | - |
+| 5→6   | 37,500 | 9 Guides to "Resistance" | 9 Sealed Scrolls | - | - |
+| 6→7   | 120,000 | 4 Philosophies of "Ballad" | 4 Forbidden Curse Scrolls | 1 Dvalin's Sigh | - |
+| 7→8   | 260,000 | 6 Philosophies of "Freedom" | 6 Forbidden Curse Scrolls | 1 Dvalin's Sigh | - |
+| 8→9   | 450,000 | 12 Philosophies of "Resistance" | 9 Forbidden Curse Scrolls | 2 Dvalin's Sigh | - |
+| 9→10  | 700,000 | 16 Philosophies of "Ballad" | 12 Forbidden Curse Scrolls | 2 Dvalin's Sigh | 1 Crown of Insight |
+
+---
+
+**Recommended Builds**
+
+*Original Gameplay (No Paimon Mode, Standard Lumine)*
+
+- **Artifact Sets**: 2-piece Gladiator's Finale + 2-piece Pale Flame, or 4-piece Gladiator's Finale, or 4-piece Echoes of an Offering, or any combination of individual pieces.
+- **Set Recommendation Reason**: Due to the No Paimon Mode, the Traveler cannot use Elemental Skill and Elemental Burst. Therefore, artifacts are chosen to enhance physical attack damage and normal attacks. The 2-piece Gladiator's Finale and 2-piece Pale Flame ensure that normal attacks, charged attacks, and plunging attacks benefit from full artifact effects. The 4-piece Gladiator's Finale and Echoes of an Offering mainly boost normal attacks.
+- **Main Stat Recommendations**: Sands: ATK%; Goblet: Physical DMG Bonus; Circlet: CRIT Rate.
+- **Substat Recommendations**: CRIT DMG > CRIT Rate > ATK%.
+- **Stat Recommendation Reason**: Traditional DPS configuration; balance CRIT Rate and CRIT DMG.
+
+- **Talent Upgrade Recommendation**: Normal Attack.
+- **Recommendation Reason**: In No Paimon Mode, the Traveler lacks Elemental Skill and Elemental Burst; therefore, upgrading normal attacks is the only means of output.
+
+- **Best Weapons**: 4-star The Black Sword, 4-star Prototype Rancour.
+- **Recommendation Reason**: In No Paimon Mode, the Traveler only has physical normal attacks and charged attacks as output methods. Additionally, since gacha pulls are not possible, Prototype Rancour and The Black Sword become the only choices. The Black Sword's substat provides CRIT Rate, reducing the need for CRIT Rate from artifacts, and its effect can increase the damage of normal attacks while enhancing sustainability.
+
+**Note**: Ascension materials require unlocking Cecilia Garden after reaching Adventure Rank 25 with Lynette.
+
+---
+
+**Festival Illustrations**:
+
+- 2020 Chinese New Year
+- 2020 Lantern Rite
+- 2020 Final Closed Beta
+- 2020 Dragon Boat Festival
+
+**Quotes**:
+
+"Such a rare opportunity, let's see how good the chef at Wanmin Restaurant really is!"
+
+"Hehe, while everyone is busy, Paimon will secretly take a bite first..."
+
+"Eh?! How come you're the one eating first!"
+
+Reunion, gathering, and spending a wonderful time with the most important people at the beginning of the new year.
+
+Prayers are sealed into the sky lanterns, transforming into little lights that adorn the night sky of Liyue.
+
+The sacred stag listens in silence, bathed in soft light, hearing the people's wishes.
+
+"Traveler, what kind of wishes do you think the adepti will receive?"
+
+"A new journey is about to begin. Are you ready to set off together?"
+
+Traveler, happy festival! What flavor of zongzi would you like?
+
+What… you want to try them all?
+
+Hmm… then this whole string is for you."
+

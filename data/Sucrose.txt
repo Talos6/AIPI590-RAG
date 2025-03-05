@@ -1,0 +1,202 @@
+**New Document: Sucrose**  
+
+---
+
+## Basic Information
+
+- **Title**: Harmless Sweetie  
+- **Full Name / Name**: Sucrose  
+- **Nation of Current Residence**: Mondstadt  
+- **Nation of Origin**: (Not specified)  
+- **Race**: Beastkin  
+- **Gender**: Female  
+- **Rarity**: ★★★★ (4-Star)  
+- **Availability**: Standard (available on all banners)  
+- **Vision**: Anemo  
+- **Weapon Type**: Catalyst  
+- **Constellation**: **Ampulla**  
+- **Special Dish**: “Nutritious Meal (Version 593)”  
+- **Release Date**: September 15, 2020 (Version 1.0)  
+- **Tags**: Crowd Control, Grouping, DMG Increase, EM Buff, Alchemy Refund, Extended Skill Duration, Cooldown Reduction  
+
+**Character Introduction**  
+An alchemist filled with curiosity about all things. She is a researcher of “bio-alchemy” and uses her unique understanding to study and experiment in Mondstadt.
+
+---
+
+## Constellations
+
+Below are Sucrose’s Constellation names and effects (officially localized):
+
+| **Name**                          | **Effect**                                                                                                                                                                                                                                                                                             |
+|-----------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **C1 – Clustered Vacuum Field**   | Increases the number of charges for **Astable Anemo Hypostasis Creation - 6308** by 1.                                                                                                                                                                                                                  |
+| **C2 – Beth: Unbound Form**       | Extends the duration of **Forbidden Creation - Isomer 75 / Type II** by 2s.                                                                                                                                                                                                                            |
+| **C3 – Flawless Alchemistress**   | Increases the Level of **Astable Anemo Hypostasis Creation - 6308** by 3. Maximum upgrade level is 15.                                                                                                                                                                                                 |
+| **C4 – Alchemania**               | Every 7 Normal or Charged Attacks Sucrose hits on opponents will reduce the CD of **Astable Anemo Hypostasis Creation - 6308** by a random amount between 1-7s. Can only occur once every 0.1s.                                                                                                          |
+| **C5 – Caution: Standard Flask**  | Increases the Level of **Forbidden Creation - Isomer 75 / Type II** by 3. Maximum upgrade level is 15.                                                                                                                                                                                                  |
+| **C6 – Chaotic Entropy**          | If **Forbidden Creation - Isomer 75 / Type II** triggers Elemental Absorption, all party members gain a 20% DMG Bonus for the corresponding element during its duration.                                                                                                                                 |
+
+---
+
+## Talent Level-Up Materials
+
+| **Level** | **Mora Cost** | **Required Materials**                                                                                                  |
+|-----------|--------------|-------------------------------------------------------------------------------------------------------------------------|
+| 1→2       | 12,500 Mora   | Teachings of “Freedom” ×3 <br> Whopperflower Nectar ×6                                                                 |
+| 2→3       | 17,500 Mora   | Guide to “Freedom” ×2 <br> Shimmering Nectar ×3                                                                        |
+| 3→4       | 25,000 Mora   | Guide to “Freedom” ×4 <br> Shimmering Nectar ×4                                                                        |
+| 4→5       | 30,000 Mora   | Guide to “Freedom” ×6 <br> Shimmering Nectar ×6                                                                        |
+| 5→6       | 37,500 Mora   | Guide to “Freedom” ×9 <br> Shimmering Nectar ×9                                                                        |
+| 6→7       | 120,000 Mora  | Philosophies of “Freedom” ×4 <br> Energy Nectar ×4 <br> Spirit Locket of Boreas ×1                                     |
+| 7→8       | 260,000 Mora  | Philosophies of “Freedom” ×6 <br> Energy Nectar ×6 <br> Spirit Locket of Boreas ×1                                     |
+| 8→9       | 450,000 Mora  | Philosophies of “Freedom” ×12 <br> Energy Nectar ×9 <br> Spirit Locket of Boreas ×2                                    |
+| 9→10      | 700,000 Mora  | Philosophies of “Freedom” ×16 <br> Energy Nectar ×12 <br> Spirit Locket of Boreas ×2 <br> Crown of Insight ×1          |
+
+---
+
+## Recommended Builds
+
+Sucrose’s main strengths lie in her ability to group enemies, boost team Elemental Mastery, and help trigger and amplify Elemental Reactions. She can also be used as a “driver” in certain quick-swap or “weapon team” comps due to her Anemo control and personal swirl damage. Below are her primary build paths:
+
+---
+
+### 1) Elemental-Reaction Support
+
+**Primary goal**: Maximize team damage via **Viridescent Venerer**’s RES shred and by sharing Sucrose’s Elemental Mastery with teammates.
+
+#### Recommended Artifact Sets
+
+- **4pc Viridescent Venerer**  
+  *(“VV set” - highly recommended: swirl-based teams benefit from the -40% RES to the swirled element.)*  
+- **(Transitional)** **4pc Instructor** + an off-piece  
+  *(If you don’t have good VV pieces yet, 4pc Instructor can temporarily provide +120 EM to the team after Sucrose triggers a reaction. However, once you obtain decent VV pieces, they are generally superior.)*  
+
+**Note**: In niche cases where your team cannot effectively swirl the main element (e.g., certain Hu Tao + Zhongli + Xingqiu combos that rarely let Anemo swirl Pyro first), **4pc Instructor** can yield higher overall team damage if those extra 120 EM are crucial for a single big carry. But these scenarios are rare.
+
+#### Main & Sub Stats
+
+- **Sands**: Elemental Mastery or Energy Recharge  
+- **Goblet**: Elemental Mastery  
+- **Circlet**: Elemental Mastery (or Healing Bonus if using Prototype Amber for off-healing)  
+
+- **Sub Stats**:  
+  - Elemental Mastery, Energy Recharge  
+
+**Reasoning**  
+- Sucrose’s Passive Talent **Catalyst Conversion** (“Sucrose’s small wind spirits” in CN, a.k.a. “Mollis Favonius” in EN) buffs teammates’ EM based on a portion of Sucrose’s total EM. Hence, stacking EM on her also benefits the team.  
+- She has an 80-cost Burst, so some Energy Recharge helps ensure you can use **Forbidden Creation - Isomer 75 / Type II** consistently.  
+- For maximum synergy, aim to get **4pc Viridescent Venerer** first, then stack EM.  
+
+#### Talent Priority
+
+- Typically, you **do not** need to level any of Sucrose’s talents when used strictly for swirl support. The swirl damage and EM-sharing come from her Passive and Character Level/EM, not from skill multipliers.  
+
+#### Recommended Weapons (Elemental-Reaction Support)
+
+- **Best Options**  
+  - **Sacrificial Fragments** (4★)  
+    - Highest EM substat of any 4★ catalyst, plus the chance to reset Skill CD. Great synergy with Sucrose’s C1 (extra Skill charge), allowing up to three Skills in quick succession for burst energy generation.  
+  - **Thrilling Tales of Dragon Slayers** (3★)  
+    - Grants a huge ATK buff to the next character who takes the field. This is very strong for single-carry comps that scale well off ATK. If your team relies on Sucrose’s Burst, you may want extra ER from artifacts.  
+  - **A Thousand Floating Dreams** (5★)  
+    - Provides the highest EM of any catalyst, plus it can share additional EM with teammates. Its effect is somewhat overkill for Sucrose’s personal swirl but does give more universal EM buffs. Typically overshadowed by the utility of Sacrificial Fragments in “multi-carry” teams, unless you don’t need Skill resets.  
+
+- **Other Good Choices**  
+  - **Wandering Evenstar** (4★)  
+    - Has an EM substat and provides partial ATK buffs to the team based on the user’s base EM. Great for multi-DPS teams that want both swirl synergy and a bit of ATK.  
+  - **Hakushin Ring** (4★)  
+    - If your team triggers **Electro-based** reactions frequently, Hakushin can buff Electro and the co-reacting element (e.g. Electro + Hydro for Electro-charged). Has an Energy Recharge substat for Sucrose.  
+  - **Fruit of Fulfillment** (4★)  
+    - Energy Recharge substat plus a stacking EM effect. Each reaction gives more EM, though it lowers Sucrose’s ATK. Useful if your main goal is swirl/buffs.  
+  - **Prototype Amber** (4★)  
+    - If Sucrose is providing some healing in a casual setting or you want her to restore energy to herself, this can help. Pair with a Healing Bonus circlet if you want the best possible healing.  
+
+- **3★ Options**  
+  - **Magic Guide**  
+    - Provides quite a lot of EM for a 3★, easy to refine, though its passive only buffs damage against enemies affected by Hydro/Electro. The swirl portion itself doesn’t get that bonus, but her Anemo portion can.  
+  - **Thrilling Tales of Dragon Slayers** (as noted above)  
+    - Fantastic for buffing your carry’s ATK.  
+
+*(Other 3★ or 4★ weapons that give smaller amounts of EM or revolve around personal DPS are usually inferior for a pure swirl support build.)*
+
+---
+
+### 2) Quick-Swap Sub-DPS (“Personal Damage”)
+
+**Note**: This is for players who want to maximize Sucrose’s personal Anemo DMG and occasionally swirl. It’s not as common as full EM support, but can be fun for a short-rotation “sub-carry” style.
+
+#### Artifact Sets
+
+- **2pc Viridescent Venerer + 2pc Shimenawa’s Reminiscence / Gladiator’s Finale**  
+  - Or any combination that grants +15% Anemo DMG or +18% ATK.  
+- **4pc Viridescent Venerer** is still viable if the team heavily relies on swirl shred.  
+- If you’re purely focusing on Sucrose’s own Anemo DMG (with minimal swirl synergy), you can do a standard “2+2” or “4pc Emblem” approach for more Burst DMG.  
+
+#### Main & Sub Stats
+
+- **Sands**: ATK%  
+- **Goblet**: Anemo DMG Bonus  
+- **Circlet**: CRIT DMG or CRIT Rate  
+
+- **Sub Stats**:  
+  - CRIT Rate, CRIT DMG > ATK% > (some EM or ER)  
+
+#### Talent Priority
+
+- **Elemental Burst > Elemental Skill**  
+- Normal Attack typically remains low priority, unless you’re specifically running a “main on-field DPS Sucrose” (unusual).  
+
+#### Weapon Recommendations (Quick-Swap DMG)
+
+- **Skyward Atlas** (5★) – High Base ATK, good ATK% substat, passive that procs an auto-attack orb.  
+- **Lost Prayer to the Sacred Winds** (5★) – CRIT Rate substat, decent for sub-DPS if you can keep Sucrose on-field to stack its effect, though that can be tricky.  
+- **Kagura’s Verity** (5★) – CRIT DMG substat, buffs skill DMG if you can cast the skill multiple times.  
+- **The Widsith** (4★) – “Random buff” that can be huge for your quick-swap burst windows (ATK, Elemental DMG, or EM).  
+- **Any 4★ or 5★ DPS-oriented catalyst** that provides CRIT or ATK is workable if you’d like to push Sucrose’s own damage.
+
+---
+
+### 3) “Sucrose Taser / Sucrose Driver” (Multi-Element “Weapon Team”)
+
+Sucrose can be the on-field driver in a Taser-style or “Sukokomon” comp, typically including **Beidou**, **Xingqiu**, **Fischl**, etc. She uses Normal/Charged attacks (and swirl) to trigger constant Electro-Charged, swirl, and other reactions.
+
+#### Artifact Set
+
+- **4pc Viridescent Venerer**  
+  - Highly recommended in a Sucrose Taser team. She can easily swirl Hydro + Electro for double RES shred, boosting the entire squad’s damage.  
+  - You also gain swirl DMG from Sucrose’s high EM.  
+
+#### Main & Sub Stats
+
+- **Sands**: Elemental Mastery  
+- **Goblet**: Elemental Mastery  
+- **Circlet**: Elemental Mastery (or Healing Bonus if using Prototype Amber for partial healing)  
+
+- **Sub Stats**:  
+  - Elemental Mastery, Energy Recharge  
+
+**Reasoning**  
+- In Taser or “weapon” teams, Sucrose’s swirl and EM buffs are extremely valuable. She also helps keep enemies grouped for your Electro-Charged “multi-hits.”  
+- Typically ~50–130% Energy Recharge is sufficient in Taser squads since you’ll generate a lot of orbs from multiple off-field units.  
+
+#### Weapon Recommendations (Sucrose Driver Build)
+
+- **Hakushin Ring** (4★)  
+  - Good in an Electro-centric team for buffing Electro DMG (and the other reaction element).  
+- **Prototype Amber** (4★)  
+  - If the team needs some healing or wants extra energy sustain for Sucrose.  
+- **Sacrificial Fragments** / **Wandering Evenstar** / **A Thousand Floating Dreams**  
+  - All are strong picks that provide EM. Sac Fragments helps with Skill resets, Evenstar provides an ATK buff, and TFD gives maximum EM plus a partial team buff.  
+- **Magic Guide** (3★)  
+  - A high-EM 3★ if you lack the above. The small passive can buff some of Sucrose’s direct hits if the enemy is affected by Hydro or Electro.
+
+*(In a multi-carry Taser team, you might prefer giving Sucrose a synergy weapon that buffs the rest of the team or ensures her Burst is ready for consistent swirling. Exact choice depends on your specific lineup and comfort with energy management.)*
+
+---
+
+## Final Notes
+
+1. **Sucrose’s greatest strength** is her ability to share EM with her allies and swirl multiple elements simultaneously, enabling huge reaction DPS and crowd control.  
+2. **Talent levels** are generally unnecessary if she’s built purely for swirl support, since swirl scales with her character level + total EM, not with skill multipliers.  
+3. In specialized comps—like “Sucrose Taser” or “Sucrose on-field main DPS”—you can explore niche gear such as higher personal Anemo DMG or healing-oriented weapons. However, her default and most common use is as an EM-focused swirl support with **4pc Viridescent Venerer**.

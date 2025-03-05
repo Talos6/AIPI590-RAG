@@ -1,0 +1,512 @@
+**Ganyu**  
+---
+
+  
+**Title**  
+Plenilune Gaze  
+
+**Full Name**  
+Ganyu  
+
+**Nation**  
+Liyue  
+
+**Home Nation**  
+—  
+
+**Race**  
+Half-Adeptus (Qilin)  
+
+**Gender**  
+Female  
+
+**Rarity**  
+5★  
+
+**Banner**  
+Limited  
+
+**Vision**  
+Cryo  
+
+**Weapon**  
+Bow  
+
+**Original Force**  
+—  
+
+**Constellation**  
+Sinae Unicornis  
+
+**Special Dish**  
+Universal Peace  
+
+**Release Date**  
+January 12, 2021 (Version 1.2)  
+
+**Tags**  
+Taunt, Resistance Reduction, Damage Increase, Self CRIT Rate Boost, Forging Refund  
+
+**Introduction**  
+The secretary at Yuehai Pavilion who bears the blood of the Qilin, an illuminated beast.  
+
+
+---
+
+### Constellations
+
+| Name               | Effect                                                                                                                                                                                                                                                                                                                                                                                               |
+|--------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **C1: Dew-Drinker**      | When a Frostflake Arrow or Frostflake Arrow Bloom from a Level 2 Aimed Shot hits an opponent, that opponent’s Cryo RES is decreased by 15% for 6s. In addition, Ganyu regains 2 Energy upon hit. Each Level 2 Aimed Shot can only restore Energy once, regardless of whether both the arrow and the bloom strike the target.                                                                                              |
+| **C2: The Auspicious**   | Trail of the Qilin gains 1 additional charge.                                                                                                                                                                                                                                                                                                                                                  |
+| **C3: Cloud-Strider**    | Increases the Level of Celestial Shower by 3. Maximum upgrade level is 15.                                                                                                                                                                                                                                                                                                                     |
+| **C4: Westward Sojourn** | Within the AoE of Celestial Shower, opponents take increased damage. This effect strengthens over time. The damage increase starts at 5% and increases by 5% every 3s, up to 25% max. The effect lingers for up to 3s after the opponent leaves the AoE.                                                                                                                                      |
+| **C5: The Merciful**     | Increases the Level of Trail of the Qilin by 3. Maximum upgrade level is 15.                                                                                                                                                                                                                                                                                                                   |
+| **C6: The Clement**      | Using Trail of the Qilin causes the next Frostflake Arrow shot within 30s to not require charging.                                                                                                                                                                                                                                                                                             |
+
+
+---
+
+### Talent Level-Up Materials
+
+| Level | Required Materials                                              |
+|-------|-----------------------------------------------------------------|
+| 1→2   | 12,500 Mora, 3 Teachings of “Diligence”, 6 Whopperflower Nectar |
+| 2→3   | 17,500 Mora, 2 Guide to “Diligence”, 3 Shimmering Nectar        |
+| 3→4   | 25,000 Mora, 4 Guide to “Diligence”, 4 Shimmering Nectar        |
+| 4→5   | 30,000 Mora, 6 Guide to “Diligence”, 6 Shimmering Nectar        |
+| 5→6   | 37,500 Mora, 9 Guide to “Diligence”, 9 Shimmering Nectar        |
+| 6→7   | 120,000 Mora, 4 Philosophies of “Diligence”, 4 Energy Nectar, 1 Shadow of the Warrior |
+| 7→8   | 260,000 Mora, 6 Philosophies of “Diligence”, 6 Energy Nectar, 1 Shadow of the Warrior |
+| 8→9   | 450,000 Mora, 12 Philosophies of “Diligence”, 9 Energy Nectar, 2 Shadow of the Warrior |
+| 9→10  | 700,000 Mora, 16 Philosophies of “Diligence”, 12 Energy Nectar, 2 Shadow of the Warrior, 1 Crown of Insight |
+
+
+---
+
+### Character Calculator (Ganyu)
+
+```html
+<!-- Basic variables for Normal Attacks -->
+var res; // Base result for Normal Attacks
+var jianshang; // Damage reduction ratio from level and RES
+var beilv = 1.28; // Default Normal Attack multiplier
+var jiashang = 2.176; // Default 2nd-tier Normal Attack multiplier
+var beilv2 = 1.2; // Default Elemental Skill (E) multiplier
+var beilv3 = 1.32; // Default 2nd hit of E multiplier
+var beilv4 = 0.7027; // Default Elemental Burst (Q) multiplier
+
+function beilvfuzhi() {
+  var lv = document.getElementById("jinengdengji").value;
+  // Assign NA multiplier based on level 1–11
+  var beilvArr = [1.280, 1.376, 1.472, 1.600, 1.696, 1.792, 1.920, 2.048, 2.176, 2.304, 2.432];
+  var jiashangArr = [2.1760, 2.3392, 2.5024, 2.7200, 2.8832, 3.0464, 3.2640, 3.4816, 3.6992, 3.9168, 4.1344];
+  beilv = beilvArr[lv-1];
+  jiashang = jiashangArr[lv-1];
+}
+
+function beilvfuzhi1() {
+  var lv = document.getElementById("jinengdengji1").value;
+  // Assign E multipliers based on level 1–13
+  var beilv2Arr = [1.20, 1.29, 1.38, 1.50, 1.59, 1.68, 1.80, 1.92, 2.04, 2.16, 2.228, 2.4, 2.55];
+  var beilv3Arr = [1.320, 1.419, 1.518, 1.650, 1.680, 1.840, 1.980, 2.112, 2.244, 2.376, 2.508, 2.640, 2.805];
+  beilv2 = beilv2Arr[lv-1];
+  beilv3 = beilv3Arr[lv-1];
+}
+
+function beilvfuzhi2() {
+  var lv = document.getElementById("jinengdengji2").value;
+  // Assign Q multiplier based on level 1–13
+  var beilv4Arr = [0.7027, 0.7554, 0.8081, 0.8784, 0.9311, 0.9838, 1.0541, 1.1244, 1.1946, 1.2649, 1.3352,1.4054,1.4933];
+  beilv4 = beilv4Arr[lv-1];
+}
+
+function jianshang1() {
+  var juesedengji1 = document.getElementById("juesedengji").value * 1;
+  var guaiwudengji1 = document.getElementById("guaiwudengji").value * 1;
+  var kangxing1 = document.getElementById("kangxing").value * 0.01;
+  // Damage reduction formula
+  jianshang = (juesedengji1 + 100) / (guaiwudengji1 + juesedengji1 + 200) * (1 - kangxing1);
+}
+
+function calc1() {
+  var gongji1 = document.getElementById("gongji").value * 1;
+  var baoshang1 = 1 + document.getElementById("baoshang").value * 0.01;
+  var yuansu = document.getElementById("yuansujiacheng").value;
+  var qita = document.getElementById("qitajiacheng").value;
+  var baoji1 = document.getElementById("baoji").value * 0.01;
+  var jiacheng = 1 + yuansu * 0.01 + qita * 0.01;
+
+  // Normal Attack damage
+  res = gongji1 * baoshang1 * jiacheng * jianshang * beilv;
+  res1 = res * (1.5 * jingtongjiacheng + 1.5); // Melt multiplier for NA
+  // 2nd-tier Normal Attack
+  res2 = gongji1 * baoshang1 * jiacheng * jianshang * jiashang;
+  res3 = res2 * (1.5 * jingtongjiacheng + 1.5); // Melt multiplier for 2nd-tier NA
+
+  // E skill damage (first hit)
+  res_min1 = gongji1 * jiacheng * jianshang * beilv2; // no crit
+  res_mid1 = (gongji1 * (1 - baoji1) * jiacheng * jianshang * beilv2)
+           + (gongji1 * baoji1 * baoshang1 * jiacheng * jianshang * beilv2); // expected
+  res_max1 = gongji1 * baoshang1 * jiacheng * jianshang * beilv2; // crit
+
+  // E skill damage (second hit)
+  res_min2 = gongji1 * jiacheng * jianshang * beilv3; // no crit
+  res_mid2 = (gongji1 * (1 - baoji1) * jiacheng * jianshang * beilv3)
+           + (gongji1 * baoji1 * baoshang1 * jiacheng * jianshang * beilv3); // expected
+  res_max2 = gongji1 * baoshang1 * jiacheng * jianshang * beilv3; // crit
+
+  // Q damage
+  res_minq = gongji1 * jiacheng * jianshang * beilv4; // no crit
+  res_maxq = gongji1 * baoshang1 * jiacheng * jianshang * beilv4; // crit
+}
+
+function calc2() {
+  var jingtong = document.getElementById("yuansujingtong");
+  // EM-based melt/vapor multiplier calculation
+  jingtongjiacheng = ((25 * jingtong.value * 1)) / (9 * (jingtong.value * 1 + 1400));
+}
+
+function test() {
+  res = 2;
+  document.getElementById("tnt1").value = res; // test command
+}
+
+function anw1() {
+  document.getElementById("tnt1").value = res;
+}
+
+function anw2() {
+  document.getElementById("tnt2").value = res1;
+}
+
+function anw3() {
+  document.getElementById("tnt3").value = res2;
+}
+
+function anw4() {
+  document.getElementById("tnt4").value = res3;
+}
+
+function max1() {
+  // set character level to max (90)
+  document.getElementById("juesedengji").value = 90;
+}
+
+function moren() {
+  // default
+  document.getElementById("kangxing").value = 10;
+}
+
+function anw5() {
+  document.getElementById("min1").value = res_min1;
+  document.getElementById("min2").value = res_min1 * (jingtongjiacheng * 1.5 + 1.5);
+  document.getElementById("min3").value = res_min2;
+  document.getElementById("min4").value = res_min2 * (jingtongjiacheng * 1.5 + 1.5);
+}
+
+function anw6() {
+  document.getElementById("mid1").value = res_mid1;
+  document.getElementById("mid2").value = res_mid1 * (jingtongjiacheng * 1.5 + 1.5);
+  document.getElementById("mid3").value = res_mid2;
+  document.getElementById("mid4").value = res_mid2 * (jingtongjiacheng * 1.5 + 1.5);
+}
+
+function anw7() {
+  document.getElementById("max1").value = res_max1;
+  document.getElementById("max2").value = res_max1 * (jingtongjiacheng * 1.5 + 1.5);
+  document.getElementById("max3").value = res_max2;
+  document.getElementById("max4").value = res_max2 * (jingtongjiacheng * 1.5 + 1.5);
+}
+
+function anw8() {
+  document.getElementById("tnt-minq").value = res_minq;
+  document.getElementById("tnt-minq1").value = res_minq * (jingtongjiacheng * 1.5 + 1.5);
+  document.getElementById("tnt-maxq").value = res_maxq;
+  document.getElementById("tnt-maxq1").value = res_maxq * (jingtongjiacheng * 1.5 + 1.5);
+}
+
+function anw9() {
+  document.getElementById("tnt5").value = (jingtongjiacheng * 1.5 + 1.5);
+}
+```
+
+---
+
+### Basic Attributes
+
+- **ATK**
+- **CRIT Rate** (%)
+- **CRIT DMG** (%)
+- **Cryo DMG Bonus** (%)
+- **Character Level** (lv.)
+- **Enemy Level** (lv.)
+- **Elemental Mastery**
+- **Enemy Resistance** (%)
+- **Other DMG Bonus** (%)
+- **Melt Multiplier**
+
+*   Charged Attack
+*   Elemental Skill (E)
+*   Elemental Burst (Q)
+
+**Normal Attack Talent Level**: lv. 1 2 3 4 5 6 7 8 9 10 11  
+
+- **First-stage Charged Attack**  
+  - Melt →  
+- **Second-stage Charged Attack**  
+  - Melt →  
+
+**Elemental Skill (E) Talent Level**: lv. 1 2 3 4 5 6 7 8 9 10 11 12 13  
+
+- **First Hit**  
+  - Non-CRIT  
+    - Melt ↓  
+  - Expected  
+    - Melt ↓  
+  - CRIT  
+    - Melt ↓  
+
+- **Second Hit**  
+  - Non-CRIT  
+    - Melt ↓  
+  - Expected  
+    - Melt ↓  
+  - CRIT  
+    - Melt ↓  
+
+**Elemental Burst (Q) Talent Level**: lv. 1 2 3 4 5 6 7 8 9 10 11 12 13  
+
+- **Non-CRIT**  
+  - Melt →  
+- **CRIT**  
+  - Melt →  
+
+---
+
+### Recommended Builds
+
+---
+
+#### **Build Recommendations**
+
+1. **Melt DPS (On-field)  
+2. Permafreeze Main DPS  
+3. Off-field Freeze  
+4. Off-field Melt**  
+
+Below are some sample artifacts and reasoning:
+
+---
+
+#### **Melt On-Field (Main DPS)**
+
+- **Artifact Sets**  
+  - **General**: 4-piece Wanderer’s Troupe + any offset  
+  - **Burning-Melt**: 4-piece Hunter’s Path (aka “Nymph’s Dream” in some references, but here it’s specified as “未竟的遐思”) + any offset  
+  - **Optional**: 4-piece Shimenawa’s Reminiscence or 4-piece Gilded Dreams + any offset  
+
+- **Reasoning**  
+  Ganyu’s Melt gameplay focuses on her Charged Attacks as the main source of damage. Her Elemental Burst can also deal considerable damage, especially against multiple or large enemies. Ganyu’s Frostflake Arrow applies Cryo with no internal cooldown, making her very well-suited for repeated Melt reactions. However, her Burst uses standard (default) ICD, so it triggers Melt less reliably.  
+  If you pair Ganyu with someone like Xiangling for consistent pyro application, or use a character such as Nahida to apply Burning (and thus keep Pyro on the field), Ganyu can continuously trigger Melt with her Charged Attacks.  
+
+  - **Wanderer’s Troupe** (4-piece)  
+    Provides Elemental Mastery (which boosts Reaction damage) and increased Charged Attack DMG (including Frostflake Arrows). You can obtain this set from artifact strongboxes via the Alchemy Table in any major city.  
+  - **Hunter’s Path** (4-piece “未竟的遐思,” occasionally called “Nymph’s Dream” in some translations)  
+    2-piece gives ATK, and 4-piece can give up to 50% DMG Bonus when enemies are affected by Burning, suitable for Burning-Melt Ganyu.  
+  - **Shimenawa’s Reminiscence** (4-piece)  
+    Provides ATK% (2-piece) and boosts Charged Attack damage (4-piece). Shimenawa can surpass Wanderer’s Troupe for purely Charged Attack Melt, but it drains energy, making it difficult to use Ganyu’s Burst if you want both strong CA melts and decent burst melts. Suitable mostly for “no-burst” melt rotations.  
+  - **Gilded Dreams** (4-piece)  
+    Grants high Elemental Mastery from both its 2-piece and 4-piece effects, but achieving high Reaction frequency is crucial. If you can get extremely frequent melts (both Frostflake Arrows and Burst hits), Gilded Dreams can help, but often Wanderer’s Troupe or Shimenawa’s outperforms it.  
+
+- **Main Stats**  
+  - Sands: Elemental Mastery or ATK%  
+  - Goblet: Cryo DMG Bonus  
+  - Circlet: CRIT Rate or CRIT DMG  
+
+- **Substats**  
+  CRIT Rate, CRIT DMG > ATK%, Elemental Mastery, Energy Recharge  
+
+- **Reasoning for Stats**  
+  Typical DPS stats for Ganyu revolve around CRIT Rate, CRIT DMG, and ATK%. Because it’s a Melt build, Elemental Mastery is also desirable to boost Melt damage. Ganyu often teams with Bennett, so EM Sands can have a higher upper limit for personal damage output compared to ATK% Sands. However, if you rely more on her Burst or a combination of hits with a low melt rate, the difference between EM Sands and ATK% Sands becomes smaller.  
+
+- **Talent Priority**  
+  Normal Attack (for Charged Attack) > Elemental Burst; leveling her Elemental Skill is not necessary for most Melt Ganyu builds.  
+
+- **Recommended 5★ Weapon**: Hunter’s Path  
+  Perfect synergy with Melt Ganyu. High CRIT Rate substat and a skill effect that boosts Charged Attack DMG based on Elemental Mastery. The only downside is it has a relatively low base ATK, so you may want to pair her with Bennett’s ATK buff.  
+
+- **Other Weapon Options**  
+  - **5★ Aqua Simulacra (若水)**  
+    Very high CRIT DMG substat and straightforward DMG bonus effect, but requires Ganyu to be near enemies. Pairs well with a shielder like Zhongli.  
+  - **5★ Thundering Pulse (飞雷之弦振)**  
+    CRIT DMG substat, decent ATK buff, but less overall synergy for Ganyu’s kit.  
+  - **5★ Polar Star (冬极白星)**  
+    CRIT Rate substat, buffs Elemental Skill and Burst DMG, and stacking ATK if you use Normal/Charged Attacks.  
+  - **4★ King’s Squire (烈阳之嗣)**  
+    A top 4★ pick for single-target Melt, though it’s weaker in AoE situations compared to the 5★ options.  
+
+  - **5★ Amos’ Bow (阿莫斯之弓)**  
+    High base ATK and a unique passive that boosts Charged Attack DMG over travel time. For a “Burning-Melt” team that fights from range, Amos can shine. However, in close-range melt teams (e.g., with Xiangling), you may lose part of its passive’s advantage.  
+  - **5★ Skyward Harp (天空之翼)**  
+    Good base stats (CRIT Rate + CRIT DMG), though its passive is relatively weak for Ganyu’s kit.  
+  - **4★ Hamayumi (破魔之弓), Prototype Crescent (试作澹月), Mouun’s Moon (曚云之月), Blackcliff Warbow (黑岩战弓), The Viridescent Hunt (苍翠猎弓), etc.** Each has its own pros and cons; see more details above in the original text.  
+
+---
+
+#### **Permafreeze Main DPS (On-field “Freeze Ganyu”)**
+
+- **Artifact Sets**  
+  - **4-piece Blizzard Strayer** (best in slot)  
+  - **Optional**: 4-piece Shimenawa’s Reminiscence (interim set)  
+
+- **Reasoning**  
+  In Freeze teams, Ganyu typically uses her Burst for consistent AoE Cryo application while weaving in some Charged Shots. Gathering enemies (e.g. via a crowd control Anemo character) makes her AoE extremely potent.  
+  - **Blizzard Strayer (4-piece)**  
+    Combined with Cryo Resonance, it can easily push Ganyu’s CRIT Rate above 60%, plus an additional 20% if enemies are actually frozen. This often makes her CRIT Rate so high that you can afford to shift artifact substats to CRIT DMG or ATK%.  
+
+- **Main Stats**  
+  - Sands: ATK%  
+  - Goblet: Cryo DMG Bonus  
+  - Circlet: CRIT DMG / ATK%  
+
+- **Substats**  
+  CRIT Rate, CRIT DMG, ATK% > Energy Recharge  
+
+- **Talent Priority**  
+  Normal Attack = Elemental Burst > Elemental Skill (not needed).  
+  If you’re on-field freezing, both Frostflake Arrows and Celestial Shower can be key sources of damage.  
+
+- **Recommended 5★ Weapon**: The First Great Magic (最初的大魔术)  
+  Provides ATK% buffs for the user and synergy with Charged Attacks, making it the best for a main DPS Freeze Ganyu, especially if she’s paired with another Cryo character to gain extra ATK.  
+
+- **Other Weapons**  
+  - **5★ Amos’ Bow**  
+    Offers direct Charged Attack DMG increase, high base ATK—strong in longer-ranged encounters.  
+  - **4★ Sacrificial Jade Bow / Prototype Crescent / Hamayumi** (various picks)  
+    As with Melt Ganyu, there are many workable 4★ alternatives.  
+  - **5★ Aqua Simulacra / Thundering Pulse / Polar Star / Skyward Harp**  
+    All decent, though you often risk CRIT Rate overflows when wearing 4-piece Blizzard Strayer plus Cryo Resonance.  
+
+---
+
+#### **Off-Field Freeze Ganyu**
+
+- **Artifact Sets**  
+  - **4-piece Blizzard Strayer**  
+  - **4-piece Emblem of Severed Fate**  
+  - **4-piece Noblesse Oblige**  
+
+- **Reasoning**  
+  Sometimes Ganyu is played mainly for her large AoE Elemental Burst in a Freeze composition, effectively acting as a sub-DPS or second Cryo unit for Permafreeze. Her passive talent “Harmony Between Heaven and Earth” grants 20% additional Cryo DMG to characters active within her Burst. This is not as strong as Shenhe’s specialized Cryo buffs but still helpful.  
+
+- **Main Stats**  
+  - Sands: Energy Recharge or ATK%  
+  - Goblet: Cryo DMG Bonus  
+  - Circlet: CRIT DMG or ATK%  
+
+- **Substats**  
+  CRIT Rate, CRIT DMG, ATK%, Energy Recharge  
+
+- **Talent Priority**  
+  Elemental Burst > Normal Attack; leveling her Skill isn’t particularly necessary for an off-field Ganyu.  
+
+- **Recommended 5★ Weapon**: Polar Star (冬极白星) / Amos’ Bow / The First Great Magic, etc.  
+  Here, you focus on the weapon’s synergy with her Burst. For purely off-field, large base stats and passive that boosts Burst DMG are ideal.  
+
+- **Notable 4★ Weapons**: Mouun’s Moon (曚云之月), The Stringless (绝弦), etc.  
+
+---
+
+#### **Off-Field Melt Ganyu**
+
+- **Artifact Sets**  
+  - **4-piece Emblem of Severed Fate** (general)  
+  - **4-piece Hunter’s Path (“未竟的遐思”)** if you’re specifically going for Burning-Melt  
+  - or a mix of Emblem + Attack/EM sets for her Burst  
+
+- **Reasoning**  
+  If you find manually aiming Frostflake Arrows in a Melt comp too cumbersome, you can try a “backline Ganyu” who only casts her Elemental Burst “Celestial Shower” to Melt via external Pyro application. Ganyu’s Burst costs 60 energy, lasts 15s, and has a 15s cooldown—perfect for rotating if you have enough Energy Recharge.  
+
+- **Main Stats**  
+  - Sands: Energy Recharge / ATK% / Elemental Mastery  
+  - Goblet: Cryo DMG Bonus  
+  - Circlet: CRIT Rate / CRIT DMG  
+
+- **Substats**  
+  CRIT Rate, CRIT DMG > ATK%, EM, ER  
+
+- **Talent Priority**  
+  Elemental Burst > Normal Attack (still recommended to level normal a bit for convenience in open world). Skill is not prioritized.  
+
+- **Recommended 5★ Weapon**:  
+  - **Polar Star (冬极白星)**  
+    CRIT Rate, bonus to Skill/Burst DMG, stacks ATK by normal attacks or skill usage, then snap the buff with Ganyu’s Burst.  
+  - **Aqua Simulacra (若水)**  
+    CRIT DMG substat, simple DMG bonus if near foes.  
+  - **4★ Mouun’s Moon (曚云之月)**  
+    Excellent for off-field Burst damage, especially at high refinements.  
+
+- **Other Weapons**  
+  - **5★ Hunter’s Path / Thundering Pulse / The First Great Magic**  
+    All strong stat sticks but less relevant if you rarely use Charged Attacks.  
+  - **4★ The Stringless, Alley Hunter (暗巷猎手), etc.**  
+    Provide EM or DMG% for Elemental Burst.  
+
+---
+
+### Team Recommendations
+
+Below are suggestions for synergy and team compositions:
+
+#### **Teammate Highlights (5★)**
+
+| Character           | Notes                                                                                                                                                                                                                                                                                                                                                        |
+|---------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Kokomi**          | Provides off-field healing and Hydro application for Permafreeze. Her Elemental Skill “Kurage’s Oath” summons a Jellyfish that pulsates AoE Hydro every 2s for 12s, easily enabling Freeze. She can also wear 4-piece Tenacity of the Millelith or 4-piece Noblesse Oblige to buff the team.                                                              |
+| **Venti**           | Top-tier crowd control with his Elemental Burst, plus 4-piece Viridescent Venerer to reduce Cryo RES. Also refunds energy if his Burst absorbs Cryo or Pyro. In Melt teams, can swirl Pyro to help Ganyu trigger reliable Melt.                                                                                                                               |
+| **Kazuha**          | Another excellent Anemo support with crowd control, Cryo or Pyro RES shred, and an EM-based elemental damage buff via his Ascension passive. Helps gather foes for Ganyu’s AoE.                                                                                                                                                                              |
+| **Kamisato Ayaka**  | Pairs with Ganyu in double Cryo Freeze comps. Both can share Cryo Resonance for extra CRIT Rate, and she can serve as a second main DPS.                                                                                                                                                                                                                    |
+| **Shenhe**          | Specialized Cryo damage buffer. Grants Cryo DMG Bonus, lowers Cryo RES, and provides flat Cryo DMG buffs via her Skill. Even though Ganyu’s heavy-hitting Frostflake Arrows don’t trigger as many hits as Ayaka, Shenhe’s buffs remain extremely powerful for Ganyu.                                                                                          |
+| **Zhongli**         | Top shield support. Perfect for a Ganyu who wants uninterrupted Charged Shots, plus universal 20% RES shred to nearby enemies.                                                                                                                                                                                                                              |
+| **Dehya**           | Also offers anti-interruption and damage mitigation via her Skill, though her Pyro application is slow and can’t keep up all of Ganyu’s hits for Melt on its own.                                                                                                                                                                                           |
+| **Nahida**          | Provides Burning for alternative “Burning-Melt” Ganyu. Her Skill applies constant Dendro, fueling Burning if any Pyro is present. Her Burst can boost Ganyu’s EM, increasing Melt damage.                                                                                                                                                                   |
+| **Furina** (Fan-translation: “Furina” / CN “芙宁娜”) | Can provide a significant off-field Hydro application for Freeze comps and a high DMG% buff based on “atmosphere” stacks from HP changes. She also offers her own off-field damage if using her Skill in “Rabid” (荒性) mode. However, her group AoE Hydro application can be inconsistent unless combined with Anemo swirl.                                                                 |
+
+#### **Teammate Highlights (4★)**
+
+| Character | Notes                                                                                                                                                                                                                                                                                                                                             |
+|-----------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Barbara**  | F2P-friendly healer for Freeze. Her Skill “Let the Show Begin♪” applies continuous AoE Hydro and heals, but has a long cooldown (32s) and can accidentally inflict Wet status on the active character, leading to potential self-freeze if enemies apply Cryo.                                                                                   |
+| **Sucrose**  | Another budget Anemo support who can group enemies and reduce Cryo/Pyro RES with Viridescent Venerer. In Melt comps, her EM buff from “Catalyst Conversion” and “Mollis Favonius” helps Ganyu’s reaction damage.                                                                                                                               |
+| **Diona**    | Offers shields, healing, and Cryo Resonance with Ganyu. Her shield is weaker than Layla’s but still helps with interruption. If C6, she can provide EM to the active character in her Burst AoE.                                                                                                                                               |
+| **Layla**    | One of the strongest 4★ shielders in the game, especially if built with HP. Provides stable shields for Ganyu but lacks direct damage or additional buffs. Best for Freeze or general Cryo synergy.                                                                                                                                            |
+| **Kirara**   | Another 4★ strong shield provider (though Dendro), suitable in Burning-Melt comps since her Dendro won’t disrupt Pyro aura.                                                                                                                                                                                                                    |
+| **Xiangling**| Core unit for Melt Ganyu, thanks to her off-field Pyro from “Pyronado.” Typically pairs with Bennett for Double Pyro. Her personal damage is huge, but requires consistent energy funneling.                                                                                                                                                   |
+| **Bennett**  | Provides a massive ATK buff via his Burst “Fantastic Voyage” and healing if the active character is under 70% HP. In Pyro teams, also activates Pyro Resonance for +25% ATK. Almost mandatory for many Melt Ganyu comps.                                                                                                                                 |
+
+---
+
+### Sample Compositions
+
+**1. Permafreeze (Classic “Morgana” Setup)**  
+- Ganyu (Main DPS), Mona (Hydro), Venti (Anemo), Diona (Shield/Healing)  
+  - Once reigned supreme in early game versions. Venti’s Burst groups mobs, Ganyu’s Burst hits them in a tight area, Mona provides Omen buff, and Diona’s shield plus Cryo Resonance.  
+  - Very safe and easy to play, though it struggles against unfreezable enemies and mobile bosses.  
+
+**2. Melt Ganyu**  
+- Often: Ganyu + Xiangling + Bennett + Zhongli / Layla / Anemo  
+  - On-field: Ganyu relies on repeated Charged Shots for huge Melt hits, Xiangling provides continuous Pyro from off-field, Bennett buffs ATK, and Zhongli or Layla protects Ganyu from interruption. Alternatively, you can swap out the shield for Kazuha or Sucrose to swirl Pyro.  
+  - Off-field: Ganyu can just cast her Burst for Melt if you don’t want to aim.  
+
+**3. Burning-Melt Ganyu (“Burn Ganyu”)**  
+- Ganyu + Nahida + (Bennett / Dehya / etc.)  
+  - Nahida applies Dendro, and any Pyro presence triggers Burning, thus leaving a Pyro aura for Ganyu’s Cryo arrows to melt. This can be done at mid-range, solving the close-range problem typical of normal Melt comps.  
+  - Though the raw one-shot Melt damage is slightly lower than direct Pyro application, it’s safer and more consistent in some fights.  
+
+**4. Pure Cryo (“Mono Cryo”)**  
+- Ganyu + Shenhe + Kazuha + Zhongli  
+  - Everyone in the team supports and buffs Ganyu’s Cryo damage. Shenhe’s skill is a strong Cryo buff, Kazuha’s swirl for Cryo shred and grouping, Zhongli’s shield and universal shred.  
+  - Straightforward to play—no complicated reaction management. The damage ceiling can be lower than top Melt or Freeze teams, but it’s very stable.  
+
+---

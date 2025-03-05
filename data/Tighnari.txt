@@ -1,0 +1,101 @@
+**Title:** Verdant Strider  
+**Full Name:** Tighnari  
+**Nation:** Sumeru  
+**Origin:** —  
+**Race:** Beastkin (Descendant of Balujasuna)  
+**Gender:** Male  
+**Rarity:** 5-Star  
+**Standard/Limited:** Standard  
+**Vision:** Dendro  
+**Weapon Type:** Bow  
+**Primordial Power:** —  
+**Constellation:** Vulpes Aurum  
+**Special Dish:** Forest Ranger's Choice  
+**Release Date:** August 24, 2022 (Version 3.0)  
+**Tags:** Taunt, Elemental Mastery Bonus, Local Specialty Detection, Self-Damage Boost, Self-Crit Rate Boost  
+**Introduction:** A young scholar highly knowledgeable in botany, currently serving as a Forest Watcher in the Avidya Forest. Honest and enthusiastic, he excels in teaching those who are often confused.
+
+---
+
+### Constellations
+
+| Name | Effect |
+|------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Beginnings Determined by Roots** | Tighnari's Charged Attack CRIT Rate is increased by 15%. |
+| **Origins Determined by Stems** | When enemies exist within the Vijnana-Khanda Field created by Vijnana-Phala Mine, Tighnari gains a 20% Dendro DMG Bonus. This effect lasts for up to 6 seconds after the field ends or when there are no enemies in it. |
+| **Fates Determined by Branches** | Increases the Level of **Tanglevine Shaft** by 3. Maximum upgrade level is 15. |
+| **Decay’s Insights from Leaves** | When **Tanglevine Shaft** is unleashed, all nearby party members gain 60 Elemental Mastery for 8 seconds. If Tanglevine Shaft triggers Burning, Bloom, Quicken, or Spread reactions, Elemental Mastery is increased by an additional 60 and the duration is refreshed. |
+| **Wisdom Determined by Flowers** | Increases the Level of **Vijnana-Phala Mine** by 3. Maximum upgrade level is 15. |
+| **Fruits Determined by Ripe Judgment** | The charge time of **Wreath Arrow** is reduced by 0.9s, and upon hit, it generates an additional Clusterbloom Arrow that deals 150% of Tighnari’s ATK as DMG. |
+
+---
+
+### Ascension Materials
+
+| Level | Required Materials |
+|-------|-------------------|
+| 1→2 | 12,500 Mora, 3 Teachings of Admonition, 6 Fungal Spores |
+| 2→3 | 17,500 Mora, 2 Guides to Admonition, 3 Luminescent Pollen |
+| 3→4 | 25,000 Mora, 4 Guides to Admonition, 4 Luminescent Pollen |
+| 4→5 | 30,000 Mora, 6 Guides to Admonition, 6 Luminescent Pollen |
+| 5→6 | 37,500 Mora, 9 Guides to Admonition, 9 Luminescent Pollen |
+| 6→7 | 120,000 Mora, 4 Philosophies of Admonition, 4 Crystalline Cyst Dust, 1 Meaning of Aeons |
+| 7→8 | 260,000 Mora, 6 Philosophies of Admonition, 6 Crystalline Cyst Dust, 1 Meaning of Aeons |
+| 8→9 | 450,000 Mora, 12 Philosophies of Admonition, 9 Crystalline Cyst Dust, 2 Meaning of Aeons |
+| 9→10 | 700,000 Mora, 16 Philosophies of Admonition, 12 Crystalline Cyst Dust, 2 Meaning of Aeons, 1 Crown of Insight |
+
+---
+
+### Recommended Builds
+
+#### Artifact Sets
+
+| Set | Recommendation |
+|---------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Gilded Dreams (4-piece)** | Provides Elemental Mastery and ATK/EM boost based on party composition. Ideal when another teammate uses **Deepwood Memories**. |
+| **Wanderer’s Troupe (4-piece)** | Enhances Charged Attack DMG, an effective choice for Tighnari’s playstyle. |
+| **Shimenawa’s Reminiscence (4-piece)** | Increases ATK significantly, with a minor energy cost. Best if paired with good energy regeneration options. |
+| **Deepwood Memories (4-piece)** | If no one in the team is using this set, Tighnari should equip it to reduce Dendro resistance. |
+| **Hybrid Mix (2+2 pieces)** | Various combinations such as **2 Deepwood + 2 EM/ATK set** offer flexibility and solid damage output. |
+
+#### Recommended Stats
+
+| Slot | Main Stat |
+|------------|----------------------|
+| Sands | Elemental Mastery or ATK% |
+| Goblet | Dendro DMG Bonus |
+| Circlet | CRIT Rate or CRIT DMG |
+
+**Sub-stat Priority:** CRIT Rate/CRIT DMG > Elemental Mastery/ATK% > Energy Recharge
+
+#### Talent Priority
+**Normal Attack = Elemental Burst > Elemental Skill**  
+Since Tighnari’s primary damage output comes from his Charged Attacks and Elemental Burst, prioritize them equally. Elemental Skill is mainly for utility and can be upgraded last.
+
+---
+
+### Recommended Weapons
+
+| Rarity | Weapon | Notes |
+|---------|----------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **5★** | **Hunter’s Path** | Best-in-slot weapon for Tighnari, provides CRIT Rate and EM scaling for enhanced Charged Attack DMG. |
+| **5★** | **Aqua Simulacra** | High CRIT DMG weapon with universal DMG boost. Strong alternative if you lack his signature weapon. |
+| **5★** | **Polar Star** | Consistent ATK and Elemental Skill/Burst buffs, but requires skill management to maintain stacks. |
+| **4★** | **Viridescent Hunt** | Provides CRIT Rate and a vortex effect to gather enemies slightly. Good F2P option. |
+| **4★** | **Prototype Crescent** | High ATK scaling when hitting weak spots. Budget alternative for F2P players. |
+| **3★** | **Slingshot** | Surprisingly strong for Tighnari, providing high CRIT Rate and a conditional DMG boost for close-range shots. |
+
+---
+
+### Recommended Teams
+
+**Aggravate Team:**  
+- **Tighnari (Main DPS) + Nahida (Sub-DPS/Support) + Yae Miko (Sub-DPS) + Zhongli (Shield/Support)**  
+- Focuses on **Quicken & Aggravate** reactions for enhanced Electro and Dendro DMG.
+
+**F2P-Friendly Aggravate:**  
+- **Tighnari + Fischl + Diona + Traveler (Dendro)**  
+- A solid budget-friendly setup utilizing Fischl’s Electro application and Diona’s shielding and EM boost.
+
+Tighnari is a versatile Dendro DPS capable of excelling in **Quicken**, **Aggravate**, and **Spread** reactions. With flexible team compositions and weapon choices, he provides a unique ranged Dendro playstyle with a balance of consistency and burst damage.
+

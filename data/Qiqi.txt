@@ -1,0 +1,94 @@
+**Qiqi**
+
+**Title:** Icy Resurrection  
+**Full Name:** Qiqi  
+**Nation:** Liyue  
+**Origin:** Unknown  
+**Race:** Zombie  
+**Gender:** Female  
+**Rarity:** 5-Star  
+**Standard/Limited:** Standard  
+**Vision:** Cryo  
+**Weapon Type:** Sword  
+**Constellation:** Pristina Nola  
+**Special Dish:** No Tomorrow  
+**Release Date:** September 15, 2020 (Version 1.0)  
+**Tags:** Healing, Revive, Attack Reduction, Specialty Finder, Energy Recharge, Self-Damage Boost  
+
+**Description:**
+A young apprentice and herbalist from the "Bubu Pharmacy." Her pale complexion and lack of expression hint at her undead nature. Due to her "immortal fate," she has been granted an undead body, which mortals refer to as a "zombie." Her age is unknown, as her appearance has remained unchanged since the year she passed away.
+
+---
+
+**Constellation**
+
+| Name | Effect |
+|------|--------|
+| **Ascetics of Frost** | When the Fortune-Preserving Talisman hits an enemy, Qiqi restores 2 Elemental Energy. |
+| **Frozen to the Bone** | Qiqi's Normal and Charged Attacks deal 15% increased damage to enemies affected by Cryo. |
+| **Ascendant Praise** | Increases the level of Adeptus Art: Preserver of Fortune by 3. Maximum upgrade level is 15. |
+| **Divine Suppression** | Targets marked by the Fortune-Preserving Talisman have their ATK decreased by 20%. |
+| **Crimson Lotus Bloom** | Increases the level of Adeptus Art: Herald of Frost by 3. Maximum upgrade level is 15. |
+| **Rite of Resurrection** | Using Adeptus Art: Preserver of Fortune revives all nearby fallen characters and restores their HP to 50%. This effect can only occur once every 15 minutes. |
+
+---
+
+**Talent Upgrade Materials**
+
+| Level | Materials Required |
+|-------|------------------|
+| 1→2 | 12,500 Mora, 3 Teachings of "Prosperity", 6 Divining Scrolls |
+| 2→3 | 17,500 Mora, 2 Guides to "Prosperity", 3 Sealed Scrolls |
+| 3→4 | 25,000 Mora, 4 Guides to "Prosperity", 4 Sealed Scrolls |
+| 4→5 | 30,000 Mora, 6 Guides to "Prosperity", 6 Sealed Scrolls |
+| 5→6 | 37,500 Mora, 9 Guides to "Prosperity", 9 Sealed Scrolls |
+| 6→7 | 120,000 Mora, 4 Philosophies of "Prosperity", 4 Forbidden Curse Scrolls, 1 Tail of Boreas |
+| 7→8 | 260,000 Mora, 6 Philosophies of "Prosperity", 6 Forbidden Curse Scrolls, 1 Tail of Boreas |
+| 8→9 | 450,000 Mora, 12 Philosophies of "Prosperity", 9 Forbidden Curse Scrolls, 2 Tail of Boreas |
+| 9→10 | 700,000 Mora, 16 Philosophies of "Prosperity", 12 Forbidden Curse Scrolls, 2 Tail of Boreas, 1 Crown of Insight |
+
+---
+
+**Recommended Builds**
+
+### **Quick-Swap Healer (Talisman Application)**
+- **Artifact Set:** 4-piece Ocean-Hued Clam or 4-piece Noblesse Oblige or 4-piece The Exile + any other piece
+- **Main Stats:**
+  - Sands: Energy Recharge
+  - Goblet: ATK%
+  - Circlet: Healing Bonus
+- **Substats:** Crit Rate (for Favonius Sword), Energy Recharge > ATK%
+- **Recommended Weapons:**
+  - Best: 4-star Favonius Sword
+  - Alternatives: 4-star Sacrificial Sword, 5-star Skyward Blade, 3-star Skyrider Sword, 4-star Festering Desire
+
+### **Main DPS (Physical/Infusion Build)**
+- **Artifact Set:** 4-piece Ocean-Hued Clam (Physical), 4-piece Shimenawa’s Reminiscence (Infusion)
+- **Main Stats:**
+  - Sands: ATK%
+  - Goblet: Physical DMG Bonus (for Physical DPS) or Cryo DMG Bonus (for Infusion Build)
+  - Circlet: Crit Rate or Crit DMG
+- **Substats:** Crit Rate, Crit DMG > Elemental Mastery (if triggering reactions), ATK%
+- **Recommended Weapons:**
+  - Best: 5-star Primordial Jade Cutter, 5-star Mistsplitter Reforged
+  - Alternatives: 4-star Black Sword, 5-star Summit Shaper
+
+---
+
+**Team Compositions**
+
+### **Physical Team ("Eula-Raiden-Qiqi-Rosaria")**
+- **Members:** Qiqi, Raiden Shogun, Eula, Rosaria
+- **Description:**
+  - Qiqi's Elemental Skill allows for consistent Cryo application.
+  - Raiden Shogun provides Energy regeneration and Electro application for Superconduct.
+  - Eula serves as the main Physical DPS.
+  - Rosaria provides additional Cryo support and Crit Rate buff.
+
+### **Qiqi-Furina Hypercarry Team**
+- **Members:** Qiqi, Furina, Candace, Kazuha
+- **Description:**
+  - Furina’s Elemental Burst buffs damage based on HP changes.
+  - Qiqi’s Elemental Skill provides continuous healing to trigger Furina’s buffs.
+  - Candace grants Hydro Infusion, synergizing with Furina’s Hydro application.
+  - Kazuha provides crowd control and elemental resistance reduction.

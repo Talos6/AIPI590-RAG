@@ -1,0 +1,130 @@
+**Kaeya**
+
+**Title**: Frostwind Swordsman  
+**Full Name**: Kaeya Alberich  
+**Nation**: Mondstadt  
+**Birthplace**: Khaenri’ah  
+**Race**: Human  
+**Gender**: Male  
+**Rarity**: 4-Star  
+**Availability**: Permanent  
+**Vision**: Cryo  
+**Weapon**: Sword  
+**Constellation**: Pavo Ocellus  
+**Special Dish**: Fruit-Glazed Roast  
+**Release Date**: September 15, 2020 (Version 1.0)  
+**Tags**: Shield, Energy Regeneration, Sprint Stamina Reduction, Self-Healing, Skill Duration Extension, Energy Recovery, Self-Damage Buff  
+
+**Introduction**: A swordsman with an exotic appearance, Kaeya is known as the strategist of the Knights of Favonius.
+
+---
+
+### **Constellation**
+
+| Name | Effect |
+|---|---|
+| **Excellent Bloodline** | Increases CRIT Rate of Normal and Charged Attacks by 15% against enemies affected by Cryo. |
+| **Unyielding Frost** | When defeating an enemy during Glacial Waltz's duration, the duration is extended by 2.5 seconds, up to a maximum of 15 seconds. |
+| **Frostbite Waltz** | Increases the level of Frostgnaw by 3, up to a maximum of 15. |
+| **Cold-Blooded Strike** | When Kaeya's HP falls below 20%, a shield is automatically generated, absorbing damage equal to 30% of max HP for 20 seconds. This shield has a 250% absorption efficiency against Cryo damage. Can only occur once every 60 seconds. |
+| **Frozen Embrace** | Increases the level of Glacial Waltz by 3, up to a maximum of 15. |
+| **Glacial Whirlwind** | Glacial Waltz summons an additional icicle and restores 15 Energy upon activation. |
+
+---
+
+### **Talent Level-Up Materials**
+
+| Level | Required Materials |
+|---|---|
+| 1 → 2 | 12,500 Mora, 3 Teachings of Ballad, 6 Treasure Hoarder Insignia |
+| 2 → 3 | 17,500 Mora, 2 Guide to Ballad, 3 Silver Raven Insignia |
+| 3 → 4 | 25,000 Mora, 4 Guide to Ballad, 4 Silver Raven Insignia |
+| 4 → 5 | 30,000 Mora, 6 Guide to Ballad, 6 Silver Raven Insignia |
+| 5 → 6 | 37,500 Mora, 9 Guide to Ballad, 9 Silver Raven Insignia |
+| 6 → 7 | 120,000 Mora, 4 Philosophies of Ballad, 4 Golden Raven Insignia, 1 Spirit Locket of Boreas |
+| 7 → 8 | 260,000 Mora, 6 Philosophies of Ballad, 6 Golden Raven Insignia, 1 Spirit Locket of Boreas |
+| 8 → 9 | 450,000 Mora, 12 Philosophies of Ballad, 9 Golden Raven Insignia, 2 Spirit Locket of Boreas |
+| 9 → 10 | 700,000 Mora, 16 Philosophies of Ballad, 12 Golden Raven Insignia, 2 Spirit Locket of Boreas, 1 Crown of Insight |
+
+---
+
+### **Recommended Builds**
+
+#### **Sub-DPS Build**
+
+- **Recommended Artifact Sets**:
+  - 4-piece *Emblem of Severed Fate*
+  - 4-piece *Blizzard Strayer* (for Freeze comps)
+  - 2-piece *Blizzard Strayer* + 2-piece *Noblesse Oblige*
+
+- **Main Stats**:
+  - **Sands**: ATK% / Energy Recharge
+  - **Goblet**: Cryo DMG Bonus
+  - **Circlet**: CRIT Rate / CRIT DMG
+
+- **Substats**:
+  - Energy Recharge, CRIT Rate, CRIT DMG, ATK%
+
+- **Skill Leveling Priority**:
+  - Elemental Burst > Elemental Skill (Normal Attack not needed)
+
+- **Best Weapons**:
+  - *Primordial Jade Cutter* (5★)
+  - *Mistsplitter Reforged* (5★)
+
+- **Alternative Weapons**:
+  - *Skyward Blade* (5★)
+  - *Favonius Sword* (4★)
+  - *Sacrificial Sword* (4★)
+  - *Amenoma Kageuchi* (4★)
+
+#### **Cryo Main DPS Build**
+
+- **Recommended Artifact Sets**:
+  - 4-piece *Blizzard Strayer*
+  - 2-piece *Blizzard Strayer* + 2-piece *Wanderer’s Troupe*
+
+- **Main Stats**:
+  - **Sands**: ATK%
+  - **Goblet**: Cryo DMG Bonus
+  - **Circlet**: CRIT Rate / CRIT DMG
+
+- **Substats**:
+  - CRIT DMG > CRIT Rate, ATK% > Elemental Mastery
+
+- **Best Weapons**:
+  - *Mistsplitter Reforged* (5★)
+  - *Primordial Jade Cutter* (5★)
+
+- **Alternative Weapons**:
+  - *Aquila Favonia* (5★)
+  - *Summit Shaper* (5★)
+  - *Primordial Jade Cutter* (5★)
+
+#### **Physical Main DPS Build**
+
+- **Recommended Artifact Sets**:
+  - 4-piece *Gladiator’s Finale*
+  - 4-piece *Pale Flame*
+  - 2-piece *Pale Flame* + 2-piece *Bloodstained Chivalry*
+
+- **Main Stats**:
+  - **Sands**: ATK%
+  - **Goblet**: Physical DMG Bonus
+  - **Circlet**: CRIT Rate
+
+- **Substats**:
+  - CRIT DMG, CRIT Rate, ATK%
+
+- **Best Weapons**:
+  - *Aquila Favonia* (5★)
+
+- **Alternative Weapons**:
+  - *The Alley Flash* (4★)
+  - *Prototype Rancour* (4★)
+  - *The Flute* (4★)
+  - *Primordial Jade Cutter* (5★)
+  - *Summit Shaper* (5★)
+
+Kaeya is a versatile Cryo character who excels in Freeze, Melt, and Physical damage builds. He offers strong burst damage, energy regeneration, and survivability, making him a valuable asset in many teams.
+

@@ -1,0 +1,95 @@
+**Traveler (Geo)**
+
+---
+
+**Title**: Traveler  
+**Full Name**: Aether/Lumine  
+**Affiliation**: Other  
+**Nation of Origin**: Unknown  
+**Race**: Unknown  
+**Gender**: Male/Female  
+**Rarity**: 5-Star  
+**Availability**: Permanent  
+**Element**: Geo  
+**Weapon Type**: Sword  
+**Constellation**: Viator  
+**Special Dish**: None  
+**Release Date**: September 15, 2020 (Version 1.0)  
+**Tags**: Elemental Conversion, Geo Constructs, Crit Rate Boost, Energy Regeneration, Skill Duration Extension, Cooldown Reduction, Interruption Resistance  
+
+**Introduction**: A traveler drifting from another world. After their blood relative was taken by a deity, they embarked on a journey to seek the Seven Archons.
+
+---
+
+### **Constellations**
+
+- **Invincible Stonewall**: While inside the radius of Wake of Earth, party members' Crit Rate is increased by 10% and resistance to interruption is improved.
+- **Rockcore Meltdown**: When a meteorite created by Starfell Sword is destroyed, it will explode again, dealing additional AoE Geo damage equal to Starfell Sword’s damage.
+- **Will of the Rock**: Increases the level of Wake of Earth by 3. Maximum upgrade level is 15.
+- **Reaction Force**: Each enemy hit by the shockwave of Wake of Earth regenerates 5 Elemental Energy. A maximum of 25 Elemental Energy can be restored in this manner.
+- **Meteorite Impact**: Increases the level of Starfell Sword by 3. Maximum upgrade level is 15.
+- **Eternal Boulder**: Extends the duration of the stone pillars created by Wake of Earth by 5 seconds, and the meteorites from Starfell Sword by 10 seconds.
+
+---
+
+### **Geo Talents**
+
+**Normal Attack: Foreign Rockblade**
+
+- **Normal Attack**: Performs up to five consecutive strikes.
+- **Charged Attack**: Consumes stamina to unleash two quick sword swings.
+- **Plunging Attack**: Dives from mid-air to strike the ground, dealing AoE damage upon impact.
+
+**Starfell Sword**
+
+Summons a meteorite from the depths of the earth, dealing AoE Geo damage. The meteorite is considered a Geo construct and can be climbed or used to block attacks.
+
+- **Hold**: Adjusts the skill’s activation position.
+
+**Wake of Earth**
+
+Unleashes a shockwave that knocks back enemies and deals AoE Geo damage. A ring of stone spikes emerges afterward, acting as Geo constructs to block enemy attacks.
+
+---
+
+### **Passive Talents**
+
+- **Shattered Earth**: Reduces Starfell Sword’s cooldown by 2 seconds.
+- **Frenzied Rockslide**: The final hit of a normal attack combo triggers a rock explosion, dealing 60% of the Traveler's ATK as Geo damage to nearby enemies.
+
+---
+
+### **Talent Upgrade Materials**
+
+| Level | Mora | Talent Books | Enemy Drops | Boss Drops |
+|-------|------|-------------|-------------|------------|
+| 1→2  | 12,500  | Teachings of Freedom ×3 | Divining Scroll ×6 | - |
+| 2→3  | 17,500  | Guide to Resistance ×2 | Sealed Scroll ×3 | - |
+| 3→4  | 25,000  | Guide to Ballad ×4 | Sealed Scroll ×4 | - |
+| 4→5  | 30,000  | Guide to Freedom ×6 | Sealed Scroll ×6 | - |
+| 5→6  | 37,500  | Guide to Resistance ×9 | Sealed Scroll ×9 | - |
+| 6→7  | 120,000  | Philosophies of Ballad ×4 | Forbidden Curse Scroll ×4 | Dvalin's Sigh ×1 |
+| 7→8  | 260,000  | Philosophies of Freedom ×6 | Forbidden Curse Scroll ×6 | Dvalin's Sigh ×1 |
+| 8→9  | 450,000  | Philosophies of Resistance ×12 | Forbidden Curse Scroll ×9 | Dvalin's Sigh ×2 |
+| 9→10 | 700,000  | Philosophies of Ballad ×16 | Forbidden Curse Scroll ×12 | Dvalin's Sigh ×2, Crown of Insight ×1 |
+
+---
+
+### **Recommended Builds**
+
+#### **Sub-DPS Build**
+
+**Artifact Set**: 4-piece Husk of Opulent Dreams or 2-piece Archaic Petra + 2-piece Gladiator’s Finale  
+**Weapon**: Primordial Jade Cutter / Summit Shaper / The Black Sword  
+**Main Stats**: ATK% Sands, Geo DMG Bonus Goblet, Crit DMG/Rate Circlet  
+**Sub Stats**: Crit Rate, Crit DMG, ATK%, Energy Recharge  
+
+#### **Support Build**
+
+**Artifact Set**: 4-piece Noblesse Oblige or 4-piece Archaic Petra  
+**Weapon**: Favonius Sword / Sacrificial Sword / Skyward Blade  
+**Main Stats**: Energy Recharge Sands, Geo DMG Bonus Goblet, Crit DMG/Rate Circlet  
+**Sub Stats**: Energy Recharge, Crit Rate, Crit DMG, HP%  
+
+**Playstyle Notes**: The Geo Traveler’s abilities allow them to act as a versatile character, capable of dealing damage and providing utility through constructs. Their elemental skill can be used for mobility and environmental control, while their burst offers both crowd control and sustained Geo damage.
+

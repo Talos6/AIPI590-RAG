@@ -1,0 +1,245 @@
+Wanderer
+(Title: Eons Adrift)
+
+Basic Info
+Full Name / Original Name: Kunikuzushi (later renamed by the player)
+Nation of Current Residence: Sumeru
+Nation of Origin: Inazuma
+Race: Puppet
+Gender: Male
+Rarity: ★★★★★ (5-Star)
+Availability: Limited (Character Event Wish)
+Vision: Anemo
+Weapon: Catalyst
+Constellation: Peregrinus
+Special Dish: Shimi Chazuke (真味茶泡饭)
+Release Date: December 7, 2022 (Version 3.3)
+Tags: Ascension Material Refund, High Mobility, Unique Mechanics, Energy Restoration, Self DMG Bonus, Self Multiplier Increase, Self Attack Speed Increase, Self CRIT Rate Increase
+Character Introduction
+A wandering figure with a mysterious past. Though he dresses like a pilgrim, he speaks and behaves in ways that make it clear he’s no ordinary itinerant.
+
+Constellations
+Below are the official English constellation names and effects (aligned with in-game text, with slight paraphrasing for clarity):
+
+C1 — Shoban: Ostentatious Plumage
+When in the Windfavored state (the state after casting Hanega: Song of the Wind), Wanderer’s Kuugo: Fushoudan and Kuugo: Toufukai attack speed is increased by 10%.
+Additionally, the wind arrows fired by the Passive Talent “Gales of Reverie” deal 25% more ATK as DMG. This effect requires that you have unlocked the Passive Talent “Gales of Reverie.”
+
+C2 — Niban: Islefree Dreamer
+While Wanderer is in the Windfavored state, each point of difference between his max Kuugoryoku Points and his current Kuugoryoku Points will increase the DMG of Kyougen: Five Ceremonial Plays by 4%.
+In this way, the DMG of Kyougen: Five Ceremonial Plays can be increased by up to 200%.
+
+C3 — Sanban: Moonflower Kusemai
+Increases the Level of Kyougen: Five Ceremonial Plays (Elemental Burst) by 3.
+Maximum upgrade level is 15.
+
+C4 — Yonban: Set Adrift into Spring
+When casting Hanega: Song of the Wind, if the Passive Talent Jade-Claimed Flower triggers any elemental-based enhancement, Wanderer will also randomly gain one other enhancement type not gained during this cast. He can have at most 3 different elemental enhancements simultaneously.
+Requires unlocking the Passive Talent Jade-Claimed Flower first.
+
+C5 — Matsuban: Ancient Illuminator From Abroad
+Increases the Level of Hanega: Song of the Wind (Elemental Skill) by 3.
+Maximum upgrade level is 15.
+
+C6 — Shugen: The Wondrous Paths of Aeons
+While in the Windfavored state, when Wanderer uses Kuugo: Fushoudan (his Normal Attack) to hit opponents, it will trigger the following effects:
+
+A second instance of Kuugo: Fushoudan will be performed at the point of impact, dealing 40% of the original attack’s DMG. This DMG is treated as Normal Attack DMG.
+If Wanderer’s Kuugoryoku Points are below 40, he will regenerate 4 Kuugoryoku Points. This effect can occur once every 0.2s and can be triggered up to 5 times in one Windfavored duration.
+Talent Level-Up Materials
+Level	Cost	Required Materials
+1→2	12,500 Mora	Teachings of “Admonition” ×3
+Old Handguard ×6
+2→3	17,500 Mora	Guide to “Admonition” ×2
+Kageuchi Handguard ×3
+3→4	25,000 Mora	Guide to “Admonition” ×4
+Kageuchi Handguard ×4
+4→5	30,000 Mora	Guide to “Admonition” ×6
+Kageuchi Handguard ×6
+5→6	37,500 Mora	Guide to “Admonition” ×9
+Kageuchi Handguard ×9
+6→7	120,000 Mora	Philosophies of “Admonition” ×4
+Famed Handguard ×4
+x1 Puppet Strings (空行的虚铃)
+7→8	260,000 Mora	Philosophies of “Admonition” ×6
+Famed Handguard ×6
+x1 Puppet Strings
+8→9	450,000 Mora	Philosophies of “Admonition” ×12
+Famed Handguard ×9
+x2 Puppet Strings
+9→10	700,000 Mora	Philosophies of “Admonition” ×16
+Famed Handguard ×12
+x2 Puppet Strings
+x1 Crown of Insight
+Recommended Builds and Teams
+Below is a detailed discussion of Wanderer’s gear and team recommendations.
+
+Artifact Recommendations
+Primary DPS (Anemo DMG)
+
+Main Artifact Set Options
+
+4pc Desert Pavilion Chronicle (a.k.a. “Desert Pavilion” / “沙上楼阁史话”)
+4pc Shimenawa’s Reminiscence
+4pc Marechaussee Hunter (a.k.a. “来歆余响,” added in Version 4.0)
+4pc Viridescent Venerer (if you’re running him as a driver to shred Elemental Resistance for an off-field team, less common)
+Reasons for These Sets
+
+Wanderer’s main source of DMG comes from Normal and Charged Attacks while in his Elemental Skill’s Windfavored state. The 4-piece effects of Desert Pavilion Chronicle, Shimenawa’s Reminiscence, and Marechaussee Hunter each significantly boost Normal/Charged Attack DMG.
+
+Desert Pavilion Chronicle (DPC) 4pc triggers via a Charged Attack and provides +10% ATK Speed plus +40% DMG to Normal/Charged/Plunging Attacks for a duration. This set is often considered the best for lower constellations or for Wanderers using 5★ “signature” weapons.
+
+Marechaussee Hunter 4pc (MH/“来歆余响”) passively increases Normal Attack DMG. Its effect also can further boost the same attack instance if it procs, which is extremely beneficial for C6 Wanderer (because the constellation’s extra hits also benefit from the MH proc). However, note that Marechaussee Hunter does not boost Charged Attacks at all, which can be a drawback in AoE situations where Charged Attacks are preferable. Nonetheless, for a C6 Wanderer with a high Attack Speed weapon (e.g., Tulaytullah’s Remembrance), Marechaussee Hunter can outdamage other sets due to the synergy with frequent Normal Attacks.
+
+Shimenawa’s Reminiscence (SR) 4pc can be used for higher Normal/Charged Attack DMG at the cost of 15 Energy each time you use your Skill. In situations where you’re not heavily relying on your Burst (or are comfortable with lower Burst frequency), 4pc SR is quite strong. If you use your Skill often in the open world for exploration, watch out for energy depletion that might prevent SR’s 4pc from triggering.
+
+For players without a well-built Faruzan, or if Faruzan lacks crucial constellations so that her buffs/debuffs are limited, you can theoretically run Wanderer as an on-field driver for an off-field sub-DPS build using a 4pc Viridescent Venerer set. However, this is not a typical main DPS build, and is only recommended if you’re aiming to swirl or shred for other teammates and you lack Faruzan’s strong support.
+
+Main Stats
+
+Sands: ATK%
+Goblet: Anemo DMG Bonus (or ATK% in certain advanced multi-buff scenarios)
+Circlet: CRIT Rate or CRIT DMG
+Substats
+
+CRIT Rate = CRIT DMG > ATK% > Energy Recharge
+Notes:
+
+Wanderer ascends with CRIT Rate, so you can choose CRIT DMG on the Circlet if your Rate is already decent, or stick with CRIT Rate if needed. Aim for about a 1:2 CRIT ratio factoring in team buffs, freeze synergy, etc.
+If you use his Burst often (e.g., you have C2 or regularly swirl Fire/Ice with his A1 Passive “Jade-Claimed Flower”), a bit of Energy Recharge can help fluidity. However, do not overstack ER at the cost of your CRIT or ATK stats.
+Regarding the ATK% Goblet: Because Desert Pavilion, Shimenawa’s, or Marechaussee sets all provide Normal/Charged Attack DMG (a type of “general DMG Bonus”), pairing them with a weapon or teammates that also provide Anemo/Elemental DMG can lead to diminishing returns in that same DMG Bonus multiplier. In those scenarios—and especially if you run Yelan or Freminet (or do not have Bennett in your team)—an ATK% Goblet can sometimes produce higher overall DPS than an Anemo Goblet. For most general use cases, an Anemo Goblet is still the safe, straightforward choice.
+Skill Priority
+
+Normal Attack > Elemental Skill > Elemental Burst
+Explanation: Like Yoimiya, Wanderer’s overall damage mostly hinges on powered-up Normal (and/or Charged) Attacks. His Burst is not insignificant, but for raw leveling priority, it’s after Normal Attacks and Skill.
+Best-in-Slot Weapon
+
+Tulaytullah’s Remembrance (5★)
+This catalyst provides a huge amount of ATK, high CRIT DMG, and a passive that boosts Normal Attack DMG and Attack Speed—perfectly suited to Wanderer’s kit. It synergizes especially well if you’re also running Desert Pavilion for the extra Attack Speed or are C6 (where Attack Speed further amplifies your DPS).
+Other 5★ Options
+
+Memory of Dust
+Lost Prayer to the Sacred Winds
+Skyward Atlas
+Kagura’s Verity
+Jadefall’s Splendor (in certain synergy contexts)
+Brief Reasons:
+
+Memory of Dust: High Base ATK, CRIT DMG substat, and a passive that grants extra Normal/Charged Attack DMG if protected by a shield. Very strong if you team him with Layla, Zhongli, etc.
+Lost Prayer to the Sacred Winds: Provides CRIT Rate and an all-elemental DMG bonus that ramps over time, plus movement speed in open-world. Even if you can’t fully stack the effect, it’s still a solid all-rounder.
+Skyward Atlas: Great Base ATK, ATK% substat, plus 12% Elemental DMG bonus and a small auto-attack orb. Overall well-rounded.
+Kagura’s Verity: The weapon effect mostly buffs Elemental Skill DMG (and Anemo DMG). You can do quick taps on your Skill at the start of a fight to build stacks, though the synergy is less direct for a Normal Attack-based kit. Still workable.
+4★ Options
+
+Solar Pearl, The Widsith, Blackcliff Agate, Dodoco Tales, etc.
+Brief Reasons:
+
+Solar Pearl: CRIT Rate substat, synergy with Normal Attack -> Skill/Burst DMG and vice versa. However, the buff windows can be awkward if you remain in midair more than 6 seconds.
+The Widsith: Huge CRIT DMG substat. Its random buffs can be extremely powerful, though if you roll the EM buff, it’s weaker for direct Anemo DMG. High potential but inconsistent.
+Blackcliff Agate: Also provides CRIT DMG. Great in multi-enemy scenarios if you can reliably get the kills for stacks. In single-target boss fights, it’s effectively a stat stick with no passive.
+Dodoco Tales: An event-limited weapon that nicely boosts Normal/Charged Attack DMG. You have to weave in both Normal and Charged Attacks to maintain the buff.
+Other 4★ / 3★ for Early or Niche Use
+
+Ballad of the Boundless Blue, Fleuve Cendrée, Mappa Mare, Sacrificial Fragments/Frostbearer, Thrilling Tales of Dragon Slayers, etc.
+Generally, these either provide partial ATK DMG buffs or at least decent substats. They’re placeholders until you acquire better 4★ or 5★ weapons.
+Weapons Not Recommended
+
+Everlasting Moonglow, A Thousand Floating Dreams (these revolve around HP scaling or EM synergy that doesn’t align well with Wanderer’s direct-damage kit)
+Team Compositions
+Wanderer’s typical teams will revolve around:
+
+Faruzan – She’s effectively his dedicated Anemo buffer/debuffer.
+One or two off-field units who can apply elemental auras that Wanderer can swirl or use to gain enhancements via his Passive Talent “Jade-Claimed Flower.”
+A shield or strong defensive support – Wanderer’s air time can be easily interrupted by attacks unless properly shielded or provided with strong interruption resistance.
+Below are some example teams:
+
+1) “Double Swirl Freeze” Core: Wanderer + Faruzan + Shield (Ice) + Off-field (Hydro)
+Example: Wanderer + Faruzan + Layla + Xingqiu (or Yelan)
+Faruzan: Debuffs enemy Anemo RES and buffs Wanderer’s Anemo DMG.
+Layla: Provides a durable Ice shield for interruption resistance and some Ice application.
+Xingqiu/Yelan: Off-field Hydro application to produce Freeze, improving crowd control and survivability.
+This team can let Wanderer “double-dip” with Water + Ice to trigger Jade-Claimed Flower for +20% CRIT Rate (from Ice) and +20 Max Kuugoryoku Points (from Water) if the aura is present on enemies.
+Typical Rotation (e.g., Wanderer / Faruzan / Layla / Xingqiu):
+
+Faruzan: Elemental Skill -> hold aim -> (if C2, cast Burst here).
+Xingqiu: Skill -> Burst (if using Sacrificial Sword, cast another Skill if reset).
+Layla: Burst -> Skill (shield).
+Faruzan: If Burst not used before, cast now (reduce Anemo RES).
+Wanderer: Move in, swirl both Hydro + Cryo to gain the buffs from his Passive. Then proceed with Normal (or Charged) Attacks. Before his Skill ends, use his Burst if it’s ready.
+(If you prefer Diona or even Zhongli for the shield, you can adjust accordingly, though Layla’s strong shield and Cryo application are especially helpful for ensuring you can get the Ice buff from “Jade-Claimed Flower.”)
+
+2) “Faruzan + Furina” Core: Wanderer + Faruzan + Furina + Healer
+Example: Wanderer + Faruzan + Furina + Charlotte
+Faruzan: Same reason—Anemo buffer.
+Furina (a.k.a. “Focalors” in some references): Off-field Hydro DMG plus an extremely potent teamwide DMG buff if enough HP fluctuations occur.
+Charlotte: Provides healing if Furina is at lower constellations, triggers more frequent HP changes for Furina’s kit, and applies Cryo. Also can equip Thrilling Tales of Dragon Slayers to further buff Wanderer.
+(If you prefer a stronger or more stable shield, you can replace Charlotte with Layla or Diona, or bring a standard healer like Kokomi if you don’t care about Cryo synergy. The key is that Furina wants HP up-and-down to ramp her buff. Meanwhile, Wanderer benefits from the extra off-field damage and the potential to swirl Hydro + something else, or to freeze in certain matchups.)
+
+3) “Anemo + Shield + Bennett/Yunjin” Core
+Example: Wanderer + Faruzan + Layla + Bennett
+Layla: For an Ice shield and consistent Cryo application.
+Bennett: Heals and provides a huge ATK buff in his Burst’s field. Additionally, being Pyro, it allows Wanderer to swirl Pyro for +30% ATK from Jade-Claimed Flower if he can contact Pyro on enemies. Meanwhile, Cryo from Layla can give Wanderer +20% CRIT Rate.
+The synergy aims to swirl both Pyro + Cryo at the start of the rotation if possible.
+(Alternatively, swap Bennett with Yunjin, who buffs Normal Attack DMG based on her Defense, especially if Yunjin is C6 for +12% Attack Speed. Bennett, however, is usually superior for raw ATK buff plus healing, and also lets Wanderer swirl Pyro.)
+
+Sample Rotation (Wanderer / Faruzan / Diona / Bennett):
+
+Faruzan: Skill -> hold aim.
+Bennett: Burst field.
+Faruzan: If not cast yet, Burst for Anemo shred.
+Diona: Burst -> hold Skill for shield, applying Cryo.
+Wanderer: Step into Bennett’s field to get Pyro on himself, approach the Cryo-infused enemy to swirl both Pyro + Cryo, then cast Skill and attack.
+4) “Wanderer Weapons Team” (a.k.a. “Wanderer Tazer”-Style or “Wanderer–Off-field DPS Squad”)
+Core: Wanderer + Faruzan + any two from Fischl, Beidou, Xingqiu, Yelan, Zhongli, etc.
+
+For example: Wanderer + Fischl + Beidou + Xingqiu.
+
+Fischl: Constant off-field Electro.
+Beidou: Off-field Electro with DMG reduction and interrupts resist if she’s at least C2.
+Xingqiu: Off-field Hydro swords, partial healing, DMG reduction.
+Together, they form a “multi-orb” synergy, letting Wanderer swirl Hydro + Electro for “Jade-Claimed Flower.”
+If you skip Faruzan, you could have something like: Wanderer + Fischl + Beidou + Xingqiu/Yelan as a “fun AOE fireworks.” But losing Faruzan does reduce Wanderer’s personal Anemo DMG. If you’re not focusing on maximizing Wanderer’s damage, you can even run him on 4pc Viridescent Venerer to buff your off-field DPS units by swirling and shredding enemies’ resistances. It’s more of a “for fun” comp than a top meta choice, but can still perform decently.
+
+Sample Rotation (Wanderer / Fischl / Beidou / Xingqiu):
+
+Fischl: Summon Oz (Skill or Burst).
+Xingqiu: Skill -> Burst (Skill again if Sacrificial procs).
+Beidou: Burst -> Skill.
+Wanderer: Move in, swirl Hydro + Electro, cast Skill, and Normal Attack away.
+Comparison of Shield Options
+Shield Role	Pros	Cons
+Layla	- Very strong shield, 12s duration, stable Cryo aura
+- Can let you swirl Cryo for +20% CRIT Rate
+- Good synergy if you want to freeze with Hydro.	- Doesn’t reduce enemy RES like Zhongli
+- No healing (you might need a separate healer).
+Diona	- Shield + healing in one kit
+- Burst can reduce enemy ATK by 10% (passive)
+- Good synergy with Furina’s HP fluctuations.	- Weaker shield than Layla’s
+- 12s shield but not as tanky
+- Lower Cryo app frequency.
+Zhongli	- Extremely strong shield, longer duration
+- Nearby enemies get -20% all RES.
+- Eases building your team’s damage.	- Being Geo, he can’t provide an elemental swirl to trigger extra “Jade-Claimed Flower” buffs for Wanderer.
+Thoma	- If paired with Bennett or another Pyro unit, triggers Pyro Resonance (+25% ATK)
+- If you swirl Pyro from Thoma’s shield, get +30% ATK from “Jade-Claimed Flower.”	- Shield refresh depends on his Burst, requiring more ER investment
+- Pyro swirl typically doesn’t synergize as strongly as Cryo swirl for CRIT Rate.
+Note: 4pc Tenacity of the Millelith and 4pc Noblesse Oblige buffs do not stack with themselves (i.e., two characters both running 4pc Tenacity does not give you 2× that 4pc buff). If multiple set holders are in the same team, consider mixing them (e.g., Faruzan on 4pc Noblesse + Layla on 4pc Tenacity) so that the effects can stack.
+
+General DPS Tips and Attack Patterns
+Wanderer’s Passive “Gales of Reverie” (the midair dash triggered by Normal/Charged hits) has a fairly low multiplier. You can treat it mostly as a quick dash that doesn’t consume Kuugoryoku points. It is not crucial to chase that dash for big DPS. Over-forcing it can disrupt your normal rotation.
+
+Normal vs. Charged Attack Patterns
+
+If you’re C6 or you have external Normal Attack Speed buffs (e.g., from Tulaytullah’s Remembrance, Desert Pavilion set, or Yunjin’s C6), or if you need frequent Normal Attack hits to trigger certain effects (e.g., Marechaussee Hunter or a weapon’s passive), focusing on Normal Attacks (AAA) can yield higher DPS than spamming Charged Attacks.
+Otherwise, using Charged Attacks consecutively (“heavy–heavy–heavy” or “heavy spam”) can be stronger, especially at lower constellations, as the raw multiplier can be higher for certain set/weapon configurations.
+Skill Usage
+
+The best time to cast Wanderer’s Burst can vary:
+If you have C2 or if you reliably swirl Fire or Ice (which is boosted by the Passive talent “Jade-Claimed Flower”), you might want to use his Burst during the last part of your Windfavored state.
+If not, you can cast it after finishing your Skill-based DPS window.
+Sample Attack Patterns
+
+AAA or “Normal spam” – recommended if you have C6 or rely on Attack Speed.
+AA-CA or “N2C” – can be used if set/weapon synergy triggers better with a mix of Normals and Charged.
+Heavy-heavy-heavy – pure Charged Attack spam for those without Attack Speed buffs or who want bigger AoE from Charged Attacks.
+(Adjust based on your exact gear, whether you need to maintain 4pc Desert Pavilion’s effect, 4pc Marechaussee triggers, etc.)

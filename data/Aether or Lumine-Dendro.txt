@@ -1,0 +1,145 @@
+**Title:** Traveler
+
+**Full Name:** Aether/Lumine
+
+**Affiliation:** Other
+
+**Country of Origin:** Unknown
+
+**Race:** Unknown
+
+**Gender:** Male/Female
+
+**Rarity:** 5-star
+
+**Availability:** Permanent
+
+**Element:** Dendro
+
+**Weapon Type:** One-Handed Sword
+
+**Original Force:** Unknown
+
+**Constellation:** Viator
+
+**Specialty Dish:** Unknown
+
+**Release Date:** August 24, 2022 (Version 3.0)
+
+**Tags:** Elemental Conversion, Energy Recharge, Skill Duration Extension, Mastery Bonus, Damage Boost
+
+**Description:** A traveler who drifted from beyond this world. Their blood relative was taken by a god, leading them to embark on a journey to seek the Seven Archons.
+
+---
+
+### **Note:**
+In "Sumeru Archon Quest, Chapter 3, Act 1 - The Coming of the Sabzeruz Festival," the player must use "One-Handed Sword Combat Technique No. 8" according to the storyline. At this time, only the Traveler's base attack (white number) permanently increases by 3 points. If you have already completed this part of the quest, remember to include this additional 3 base attack points when calculating stats. Additionally, this stat has the following characteristics:
+- It is directly added to the Traveler's panel and included in the "Final Attack Calculation Formula" under "Character Attack."
+- This 3-point base attack bonus is not affected by the Traveler's level, meaning it applies at any level.
+- This bonus remains effective even when switching the Traveler's current element.
+
+---
+
+### **Constellation Effects**
+| Name | Effect |
+| --- | --- |
+| Verdant Growth | When Razorgrass Blade hits an enemy, the Traveler regenerates 3.5 Energy. |
+| Sapping Strength | The duration of the Lotuslight Transfiguration effect of the Lea Lotus Lamp is extended by 3 seconds. |
+| Whirling Weeds | Increases the level of Razorgrass Blade by 3, up to a maximum of level 15. |
+| Treasured Seedlings | After the Lea Lotus Lamp undergoes Lotuslight Transfiguration, it gains 5 stacks of the "Verdant Overgrowth" effect from the passive talent "Verdant Luxury." Requires unlocking "Verdant Luxury." |
+| Spread of Life | Increases the level of Surgent Manifestation by 3, up to a maximum of level 15. |
+| Flourishing Thoughts | Characters affected by the Lotuslight Transfiguration effect gain a 12% Dendro DMG Bonus. If the Lea Lotus Lamp has undergone Lotuslight Transfiguration, they also gain a 12% DMG Bonus of the corresponding element.
+
+---
+
+### **Dendro Talents**
+
+#### **Normal Attack: Foreign Fieldcleaver**
+
+**Description:**
+- **Normal Attack:** Performs up to five consecutive strikes.
+- **Charged Attack:** Consumes stamina to unleash two rapid slashes.
+- **Plunging Attack:** Plunges from mid-air, striking enemies along the path and dealing AoE damage upon landing.
+
+#### **Razorgrass Blade**
+
+**Description:**
+Swings a weapon to scatter sharp leaves, dealing Dendro DMG in front.
+
+*"Studied the sharpness of grass edges with Paimon."*
+
+**Cooldown:** 8s
+
+#### **Surgent Manifestation**
+
+**Description:**
+Summons a Lea Lotus Lamp that continuously attacks enemies in its area, dealing Dendro DMG.
+
+**Lotuslight Transfiguration:**
+- Contact with Hydro: Increases the AoE of the lamp’s attacks.
+- Contact with Electro: Increases the lamp's attack speed.
+- Contact with Pyro: Triggers an explosive burst, dealing AoE Dendro DMG before disappearing.
+
+Only one Lea Lotus Lamp can exist at a time.
+
+*"Researched the sound of grass sprouting after rain with Paimon."*
+
+**Cooldown:** 20s  
+**Energy Cost:** 80
+
+#### **Verdant Luxury**
+
+**Description:**
+While the Lea Lotus Lamp is active, it gains a Lotuslight Transfiguration stack every second, increasing the Elemental Mastery of active characters within the field by 6 per stack. Can stack up to 10 times.
+
+#### **Verdant Overgrowth**
+
+**Description:**
+Each point of Elemental Mastery increases Razorgrass Blade DMG by 0.15% and Surgent Manifestation DMG by 0.1%.
+
+---
+
+### **Recommended Builds**
+
+#### **Dendro Sub-DPS**
+
+**Artifacts:**
+- 4-piece Deepwood Memories
+- 4-piece Gilded Dreams
+- 4-piece Emblem of Severed Fate
+- 4-piece Noblesse Oblige
+- 2-piece Deepwood Memories + 2-piece Gladiator’s Finale
+- 2-piece Noblesse Oblige + 2-piece Wanderer’s Troupe
+
+**Artifact Set Justification:**
+The Dendro Traveler functions as a Dendro applier and Sub-DPS in various teams, whether for Aggravate, Bloom, or Burgeon compositions. The 4-piece Deepwood Memories set reduces enemy Dendro resistance, which is beneficial when triggering Dendro-related reactions. However, if another character in the team is already using Deepwood Memories (e.g., Nahida), the Traveler does not need to equip it.
+
+The 4-piece Gilded Dreams set provides Elemental Mastery and ATK bonuses but is less effective in Bloom teams, where Elemental Mastery mainly benefits Hydro characters triggering Bloom reactions. The 4-piece Emblem of Severed Fate provides Energy Recharge and scales Burst DMG, which is useful given the Traveler’s reliance on their Elemental Burst.
+
+#### **General Elemental Build**
+
+**Weapons:**
+- Favonius Sword (Energy Recharge, generates particles for the team)
+- Sacrificial Sword (Chance to reset Elemental Skill cooldown)
+- Iron Sting (Boosts Elemental Mastery)
+
+**Playstyle:**
+- Use Razorgrass Blade to apply Dendro and generate energy.
+- Deploy the Lea Lotus Lamp to maintain Dendro application and trigger Elemental Reactions.
+- Switch to other characters to maximize reaction-based damage output.
+
+---
+
+### **Talent Level-Up Materials**
+| Level | Cost | Materials |
+| --- | --- | --- |
+| 1→2 | 12,500 Mora | 3 Teachings of Admonition, 6 Fungal Spores |
+| 2→3 | 17,500 Mora | 2 Guide to Ingenuity, 3 Luminescent Pollen |
+| 3→4 | 25,000 Mora | 4 Guide to Praxis, 4 Luminescent Pollen |
+| 4→5 | 30,000 Mora | 6 Teachings of Admonition, 6 Luminescent Pollen |
+| 5→6 | 37,500 Mora | 9 Guide to Ingenuity, 9 Luminescent Pollen |
+| 6→7 | 120,000 Mora | 4 Philosophies of Praxis, 4 Crystalline Cyst Dust, 1 Mudra of the Malefic General |
+| 7→8 | 260,000 Mora | 6 Philosophies of Admonition, 6 Crystalline Cyst Dust, 1 Mudra of the Malefic General |
+| 8→9 | 450,000 Mora | 12 Philosophies of Ingenuity, 9 Crystalline Cyst Dust, 2 Mudra of the Malefic General |
+| 9→10 | 700,000 Mora | 16 Philosophies of Praxis, 12 Crystalline Cyst Dust, 2 Mudra of the Malefic General, 1 Crown of Insight |
+

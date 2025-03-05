@@ -1,0 +1,121 @@
+**Yae Miko**
+
+**Title:** A Thousand Faces of the Floating World  
+**Full Name:** Yae Miko  
+**Nation:** Inazuma  
+**Race:** Youkai (Celestial Fox)  
+**Gender:** Female  
+**Rarity:** 5-Star  
+**Availability:** Limited (UP Banner)  
+**Vision:** Electro  
+**Weapon Type:** Catalyst  
+**Constellation:** Divina Vulpes  
+**Signature Dish:** Fukuuchi Udon  
+**Release Date:** February 16, 2022 (Version 2.5)  
+**Tags:** Damage Boost, Alchemy Refund, Energy Regeneration, Defense Ignore  
+**Description:** The Guuji of the Grand Narukami Shrine and the chief editor of Yae Publishing House. Beneath her enchanting beauty lies an intelligence and cunning beyond expectations.  
+
+---
+
+### **Constellation Effects**
+
+| Name | Effect |
+|------|--------|
+| **The Shrine’s Sacred Shade** | Each instance of Tenko Thunderbolts triggered by Great Secret Art: Tenko Kenshin restores 8 Elemental Energy for Yae Miko. |
+| **Fox’s Mooncall** | Sesshou Sakura starts at Rank 2 when created, with a max Rank increased to 4 and attack range increased by 60%. |
+| **The Seven Glamours** | Increases the Level of Yakan Evocation: Sesshou Sakura by 3. Maximum upgrade level is 15. |
+| **Sakura Channeling** | When Sesshou Sakura lightning strikes an opponent, all nearby party members gain a 20% Electro DMG Bonus for 5s. |
+| **Mischievous Teasing** | Increases the Level of Great Secret Art: Tenko Kenshin by 3. Maximum upgrade level is 15. |
+| **Forbidden Art: Daisesshou** | Sesshou Sakura’s attacks ignore 60% of the target’s DEF. |
+
+---
+
+### **Ascension Materials**
+
+| Level | Required Materials |
+|-------|-------------------|
+| **1→2** | 12,500 Mora, 3 Teachings of Light, 6 Old Handguards |
+| **2→3** | 17,500 Mora, 2 Guide to Light, 3 Kageuchi Handguards |
+| **3→4** | 25,000 Mora, 4 Guide to Light, 4 Kageuchi Handguards |
+| **4→5** | 30,000 Mora, 6 Guide to Light, 6 Kageuchi Handguards |
+| **5→6** | 37,500 Mora, 9 Guide to Light, 9 Kageuchi Handguards |
+| **6→7** | 120,000 Mora, 4 Philosophies of Light, 4 Famed Handguards, 1 The Meaning of Aeons |
+| **7→8** | 260,000 Mora, 6 Philosophies of Light, 6 Famed Handguards, 1 The Meaning of Aeons |
+| **8→9** | 450,000 Mora, 12 Philosophies of Light, 9 Famed Handguards, 2 The Meaning of Aeons |
+| **9→10** | 700,000 Mora, 16 Philosophies of Light, 12 Famed Handguards, 2 The Meaning of Aeons, 1 Crown of Insight |
+
+---
+
+### **Build Recommendations**
+
+#### **Recommended Artifact Sets**
+
+- **General Build (Off-Field DPS):** 4-piece **Golden Troupe** + any piece  
+- **Hyperbloom Main DPS:** 4-piece **Gilded Dreams** + any piece  
+- **Support Buffing:** 4-piece **Tenacity of the Millelith**  
+- **Bloom-Reaction Build:** 4-piece **Paradise Lost**  
+
+#### **Main Stats:**
+- **Sands:** ATK% / Elemental Mastery  
+- **Goblet:** Electro DMG Bonus / ATK% (for Golden Troupe)  
+- **Circlet:** Crit Rate / Crit DMG  
+
+#### **Sub-Stats Priority:**
+**Crit Rate / Crit DMG > ATK% > Elemental Mastery**  
+
+---
+
+### **Talent Leveling Priority**
+**Elemental Skill > Elemental Burst > Normal Attack**  
+- **Elemental Skill (Sesshou Sakura):** Yae Miko’s **primary source of damage**, making it the highest priority.  
+- **Elemental Burst (Tenko Kenshin):** Deals **high burst damage**, but has a **high energy cost** (90).  
+- **Normal Attack:** Not recommended for leveling unless playing a rare Main DPS build.  
+
+---
+
+### **Weapon Recommendations**
+
+#### **Best 5-Star Weapons:**
+1. **Kagura’s Verity (Best-in-Slot)**  
+   - **High Crit DMG and Skill DMG Buffs** make it Yae Miko’s best weapon.  
+2. **Lost Prayer to the Sacred Winds**  
+   - **High Crit Rate and Movement Speed Buffs** but loses effect when switching.  
+3. **Skyward Atlas**  
+   - **High Base ATK and ATK% Buffs**, good for ATK-scaling builds.  
+4. **Tulaytullah’s Remembrance**  
+   - **Main DPS weapon**, boosts **Normal and Charged Attack DMG**, niche for Aggravate playstyles.  
+
+#### **Best 4-Star Weapons:**
+1. **The Widsith**  
+   - **High Crit DMG** with strong **random buffs**.  
+2. **Solar Pearl**  
+   - **Crit Rate weapon** (Battle Pass), consistent damage boost.  
+3. **Flowing Purity**  
+   - **Elemental Mastery-based weapon**, great for Hyperbloom.  
+4. **Hakushin Ring**  
+   - **Good for team synergy**, boosts **Electro DMG Bonus** after reaction triggers.  
+
+---
+
+### **Team Compositions**
+
+#### **1. Aggravate Main DPS (Hypercarry Yae Miko)**
+- **Yae Miko (Main DPS) + Nahida (Dendro Support) + Fischl (Electro Sub-DPS) + Zhongli (Shield/Survivability)**  
+- **Focus:** **High Elemental Mastery** for **Aggravate reactions**.  
+
+#### **2. Off-Field Electro DPS (E-Skill Spam Build)**
+- **Yae Miko (Off-Field DPS) + Raiden Shogun (Energy Support) + Kazuha (Electro Swirl) + Kokomi (Healer/Driver)**  
+- **Focus:** **Sesshou Sakura max uptime**, **electro buffs**, and **energy regeneration**.  
+
+#### **3. Hyperbloom Trigger (Bloom Variant)**
+- **Yae Miko (Electro Trigger) + Nahida (Dendro Core Generation) + Xingqiu/Yelan (Hydro Application) + Kuki Shinobu (Healer)**  
+- **Focus:** **Maximizing Hyperbloom procs** with **high Elemental Mastery**.  
+
+#### **4. E-Only "Lazy Auto Mode" Team**
+- **Yae Miko (Off-Field Electro) + Raiden Shogun (E Skill Auto Attacks) + Albedo (Geo E Skill) + Zhongli (Shields)**  
+- **Focus:** **Minimal button pressing** while maintaining **high sustained damage**.  
+
+---
+
+### **Final Notes**
+Yae Miko is a **strong off-field Electro DPS** with **high scaling**, making her a **top-tier Sub-DPS** in Aggravate and Hyperbloom teams. With **proper investment in Crit stats and Elemental Mastery**, she can significantly boost team DPS. However, her **high Elemental Burst energy cost** means **battery supports** like **Raiden Shogun or Fischl** are highly recommended.

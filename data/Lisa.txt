@@ -1,0 +1,101 @@
+**Lisa**
+
+**Title:** Rose Witch  
+**Full Name:** Lisa Minci  
+**Nation:** Mondstadt  
+**Origin:** Unknown  
+**Race:** Human  
+**Gender:** Female  
+**Rarity:** 4-Star  
+**Standard/Limited:** Standard  
+**Vision:** Electro  
+**Weapon Type:** Catalyst  
+**Constellation:** Tempus Fugit  
+**Special Dish:** Mysterious Bolognese  
+**Release Date:** September 15, 2020 (Version 1.0)  
+**Tags:** Defense Reduction, Alchemy Refund, Interruption Resistance, Energy Recharge  
+
+**Description:**
+A lazy yet highly knowledgeable librarian, Lisa is a prodigy graduate from the Sumeru Akademiya, noted as a "once-in-two-centuries" genius.
+
+---
+
+**Constellation**
+
+| Name | Effect |
+|------|--------|
+| **Infinite Circuit** | When holding Violet Arc, each enemy hit will restore 2 Energy to Lisa. A maximum of 10 Energy can be restored this way at once. |
+| **Electromagnetic Field** | Holding Violet Arc grants the following effects: Increases DEF by 25% and increases Lisa’s resistance to interruption. |
+| **Resonant Thunder** | Increases the level of Lightning Rose by 3. Maximum upgrade level is 15. |
+| **Plasma Eruption** | Lightning Rose now releases 1-3 more lightning bolts when attacking. |
+| **Electrocute** | Increases the level of Violet Arc by 3. Maximum upgrade level is 15. |
+| **Pulsating Witch** | When Lisa takes the field, she applies 3 stacks of Violet Arc’s Conductive effect to nearby enemies. This effect can occur once every 5 seconds. |
+
+---
+
+**Talent Upgrade Materials**
+
+| Level | Materials Required |
+|-------|------------------|
+| 1→2 | 12,500 Mora, 3 Teachings of "Ballad", 6 Slime Condensate |
+| 2→3 | 17,500 Mora, 2 Guides to "Ballad", 3 Slime Secretions |
+| 3→4 | 25,000 Mora, 4 Guides to "Ballad", 4 Slime Secretions |
+| 4→5 | 30,000 Mora, 6 Guides to "Ballad", 6 Slime Secretions |
+| 5→6 | 37,500 Mora, 9 Guides to "Ballad", 9 Slime Secretions |
+| 6→7 | 120,000 Mora, 4 Philosophies of "Ballad", 4 Slime Concentrate, 1 Dvalin’s Claw |
+| 7→8 | 260,000 Mora, 6 Philosophies of "Ballad", 6 Slime Concentrate, 1 Dvalin’s Claw |
+| 8→9 | 450,000 Mora, 12 Philosophies of "Ballad", 9 Slime Concentrate, 2 Dvalin’s Claw |
+| 9→10 | 700,000 Mora, 16 Philosophies of "Ballad", 12 Slime Concentrate, 2 Dvalin’s Claw, 1 Crown of Insight |
+
+---
+
+**Recommended Builds**
+
+### **Support + Sub-DPS**
+- **Artifact Set:**
+  - Universal: 4-piece Noblesse Oblige or 4-piece Emblem of Severed Fate
+  - Optional: 4-piece Thundering Fury, 4-piece Thunderclap Vigor, or 4-piece Gilded Dreams
+  - Dendro-Reaction Support: 4-piece Deepwood Memories
+  - Transitional: 2-piece Thundering Fury + 2-piece Gladiator’s Finale or 2-piece Noblesse Oblige + any other piece
+- **Main Stats:**
+  - Sands: Energy Recharge, ATK%
+  - Goblet: Electro DMG Bonus
+  - Circlet: Crit DMG, Crit Rate
+- **Substats:** Crit Rate, Crit DMG > Energy Recharge > ATK% > Elemental Mastery (for Aggravate)
+- **Recommended Weapons:**
+  - Best: 4-star Hakushin Ring, 3-star Thrilling Tales of Dragon Slayers
+  - Alternatives: 5-star Kagura’s Verity, 4-star The Widsith, 5-star A Thousand Floating Dreams
+
+### **Hyperbloom Reaction Build**
+- **Artifact Set:**
+  - Best: 4-piece Flower of Paradise Lost
+  - Optional: 4-piece Thundering Fury or 4-piece Gilded Dreams
+  - Mixed: 2-piece Wanderer’s Troupe + 2-piece Gilded Dreams
+- **Main Stats:**
+  - Sands: Elemental Mastery
+  - Goblet: Elemental Mastery
+  - Circlet: Elemental Mastery
+- **Substats:** Elemental Mastery > Energy Recharge
+- **Recommended Weapons:**
+  - Best: 5-star A Thousand Floating Dreams
+  - Alternatives: 4-star Sacrificial Fragments, 4-star Wandering Evenstar
+
+---
+
+**Team Compositions**
+
+### **Aggravate Lisa Team**
+- **Members:** Lisa, Nahida, Fischl, Kazuha
+- **Description:**
+  - Lisa serves as an Electro enabler and defense shredder.
+  - Nahida provides consistent Dendro application for Aggravate reactions.
+  - Fischl offers additional off-field Electro damage and energy generation.
+  - Kazuha provides crowd control and elemental resistance reduction.
+
+### **Hyperbloom Lisa Team**
+- **Members:** Lisa, Nahida, Xingqiu, Kuki Shinobu
+- **Description:**
+  - Lisa’s Elemental Skill can trigger Hyperbloom with Electro attacks.
+  - Nahida provides consistent Dendro application.
+  - Xingqiu provides Hydro application for Bloom reactions.
+  - Kuki Shinobu serves as both a healer and an additional Electro trigger.

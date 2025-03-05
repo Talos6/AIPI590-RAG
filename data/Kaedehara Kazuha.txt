@@ -1,0 +1,110 @@
+**Kaedehara Kazuha - Character Information**
+
+**Title:** Scarlet Leaves Pursue Wild Waves  
+**Full Name:** Kaedehara Kazuha  
+**Nation:** Inazuma  
+**Origin:** Unknown  
+**Race:** Human  
+**Gender:** Male  
+**Rarity:** ★★★★★  
+**Availability:** Limited UP  
+**Vision:** Anemo  
+**Weapon:** Sword  
+**Archon Power:** N/A  
+**Constellation:** Acer Palmatum  
+**Special Dish:** "All-Weather Beauty"  
+**Release Date:** June 29, 2021 (Version 1.6)  
+**Tags:** Damage Boost, Crowd Control, Sprint Stamina Reduction, Elemental Mastery Buff, Cooldown Reduction, Energy Recharge, Self Damage Boost, Elemental Infusion  
+
+**Introduction:**  
+A wandering samurai from Inazuma, now residing among the "Crux Fleet" in Liyue. He has a calm and free-spirited nature but harbors many past stories within his heart.
+
+---
+
+### **Constellation - Acer Palmatum**
+
+| Name | Effect |
+|---|---|
+| **Scarlet Hills** | The cooldown of Chihayaburu is decreased by 10%. Using Kazuha Slash resets the cooldown of Chihayaburu. |
+| **Soumon Swordsmanship** | The Autumn Whirlwind field created by Kazuha Slash has the following effects: Increases Kaedehara Kazuha's Elemental Mastery by 200. Increases Elemental Mastery of active characters within the field by 200. This effect cannot stack. |
+| **Maple Monogatari** | Increases the Level of Chihayaburu by 3. Maximum upgrade level is 15. |
+| **Oozora Genpou** | When Kaedehara Kazuha’s Energy is lower than 45, the following effects occur:
+• Press or Hold Chihayaburu to restore 3 or 4 Energy, respectively.
+• While gliding, Kazuha restores 2 Energy per second. |
+| **Wisdom of Bansei** | Increases the Level of Kazuha Slash by 3. Maximum upgrade level is 15. |
+| **Crimson Momiji** | After using Chihayaburu or Kazuha Slash, Kaedehara Kazuha gains Anemo Infusion for 5s. Additionally, for every point of Elemental Mastery, Kazuha’s Normal, Charged, and Plunging Attack DMG is increased by 0.2%. |
+
+---
+
+### **Talent Upgrade Materials**
+
+| Level | Materials Required |
+|---|---|
+| 1→2 | 12,500 Mora, 3 Teachings of Diligence, 6 Treasure Hoarder Insignia |
+| 2→3 | 17,500 Mora, 2 Guide to Diligence, 3 Silver Raven Insignia |
+| 3→4 | 25,000 Mora, 4 Guide to Diligence, 4 Silver Raven Insignia |
+| 4→5 | 30,000 Mora, 6 Guide to Diligence, 6 Silver Raven Insignia |
+| 5→6 | 37,500 Mora, 9 Guide to Diligence, 9 Silver Raven Insignia |
+| 6→7 | 120,000 Mora, 4 Philosophies of Diligence, 4 Golden Raven Insignia, 1 Gilded Scale |
+| 7→8 | 260,000 Mora, 6 Philosophies of Diligence, 6 Golden Raven Insignia, 1 Gilded Scale |
+| 8→9 | 450,000 Mora, 12 Philosophies of Diligence, 9 Golden Raven Insignia, 2 Gilded Scale |
+| 9→10 | 700,000 Mora, 16 Philosophies of Diligence, 12 Golden Raven Insignia, 2 Gilded Scale, 1 Crown of Insight |
+
+---
+
+### **Recommended Builds**
+
+#### **Support Build (Damage Boosting)**
+
+- **Artifact Set:** 4-Piece Viridescent Venerer
+- **Main Stats:**
+  - Sands: Elemental Mastery
+  - Goblet: Elemental Mastery
+  - Circlet: Elemental Mastery
+- **Substats:** Elemental Mastery > Crit Rate (if using Favonius Sword) > Energy Recharge > Crit Rate, Crit DMG
+- **Weapons:**
+  - **5★ Freedom-Sworn:** Best-in-slot weapon for elemental mastery and team buffs.
+  - **4★ Xiphos’ Moonlight:** Provides Elemental Mastery and Energy Recharge boost for the team.
+  - **4★ Favonius Sword:** Helps energy regeneration, ensuring frequent bursts.
+  - **4★ Sacrificial Sword:** Allows skill cooldown resets for additional Swirl reactions.
+  - **3★ Dark Iron Sword:** Good free-to-play option with Elemental Mastery.
+
+#### **DPS Build (Pyro or Anemo Main DPS)**
+
+- **Artifact Set:**
+  - **Fire-infused:** 4-Piece Crimson Witch of Flames or 4-Piece Shimenawa’s Reminiscence (if using Bennett C6)
+  - **Anemo-infused:** 4-Piece Desert Pavilion Chronicle or 2-Piece VV + 2-Piece Attack %
+- **Main Stats:**
+  - Sands: Elemental Mastery / ATK%
+  - Goblet: Pyro DMG Bonus / Anemo DMG Bonus
+  - Circlet: Crit Rate / Crit DMG
+- **Substats:** Crit Rate, Crit DMG, Elemental Mastery, ATK%
+- **Weapons:**
+  - **5★ Primordial Jade Cutter:** Provides Crit Rate and bonus ATK scaling on HP.
+  - **5★ Mistsplitter Reforged:** Works well for Elemental-infused Kazuha.
+  - **5★ Freedom-Sworn:** Ideal for EM scaling Pyro-infused Kazuha.
+  - **4★ The Alley Flash:** Provides high base ATK and Elemental Mastery.
+  - **4★ Blackcliff Longsword:** Offers Crit DMG but requires stacking kills.
+  - **3★ Harbinger of Dawn:** Great free-to-play option if maintaining high HP.
+
+---
+
+### **Team Compositions**
+
+#### **Elemental Support (Swirl Boosting)**
+- **Kazuha + Pyro/Cryo/Electro/Hydro DPS + Bennett/Kokomi + Xiangling/Fischl/Yelan**
+- Focuses on Kazuha’s Swirl debuff and elemental amplification.
+
+#### **Pyro Infusion Main DPS (C6 Required)**
+- **Kazuha (Pyro-infused) + Bennett C6 + Xiangling + Xingqiu/Yelan**
+- Relies on Pyro infusion for melee combat and Vaporize reactions.
+
+#### **Electro-Charged Support**
+- **Kazuha + Raiden Shogun + Fischl + Kokomi**
+- Generates Electro-Charged reactions and buffs team Elemental DMG.
+
+#### **Mono-Anemo Team**
+- **Kazuha + Xiao + Jean + Faruzan**
+- Buffs Anemo DMG and provides swirl resistance shred.
+
+---

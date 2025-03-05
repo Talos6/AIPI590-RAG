@@ -1,0 +1,98 @@
+**Neuvillette**
+
+**Title:** Orator of the Tides  
+**Full Name:** Neuvillette  
+**Nation:** Fontaine  
+**Origin:** -  
+**Race:** Elemental Being (Hydro Dragon King)  
+**Gender:** Male  
+**Rarity:** 5-Star  
+**Availability:** Limited (UP Banner)  
+**Element:** Hydro  
+**Weapon Type:** Catalyst  
+**Primordial Power:** Mang-type  
+**Constellation:** Orichalcos Drakon  
+**Signature Dish:** "A Drop of Drizzling Rain"  
+**Release Date:** September 27, 2023 (Version 4.1)  
+**Tags:** Underwater Exploration Convenience, HP Drain, Self-Healing, Interruption Resistance, Damage Bonus, Crit Damage Boost, Hydro Droplets  
+**Description:** The Chief Justice of Fontaine, renowned for his impeccable impartiality.
+
+---
+
+### **Constellation**
+
+| Name | Effect |
+|---|---|
+| **Honored Ordinance** | Upon entering the battlefield, Neuvillette gains a stack of "Ancient Oceanic Authority" from his passive talent. Also, when charging Heavy Attacks (Indictment Evidence & Equitable Judgment), Neuvillette gains enhanced interruption resistance. |
+| **Decree of Law** | Enhances "Ancient Oceanic Authority": Each stack increases Heavy Attack (Equitable Judgment) CRIT DMG by 14%, up to 42%. Requires unlocking the passive talent "Ancient Oceanic Authority." |
+| **Reconstructed Antiquity** | Increases Normal Attack skill level by 3, up to level 15. |
+| **Crown of Mercy** | When Neuvillette is active on the field and receives healing, he generates 1 Hydro Droplet. Can trigger once every 4 seconds. |
+| **Judgment of Justice** | Increases the skill level of "Tide, I Have Returned" by 3, up to level 15. |
+| **Wrathful Recompense** | When using Heavy Attack (Equitable Judgment), Neuvillette absorbs nearby Hydro Droplets. Each absorbed Hydro Droplet extends the attack duration by 1 second. Additionally, every 2 seconds, two additional torrents are unleashed upon hitting enemies, each dealing Hydro DMG equal to 10% of Neuvillette's max HP. This damage is considered Heavy Attack damage. |
+
+---
+
+### **Talent Level-Up Materials**
+
+| Level | Required Materials |
+|---|---|
+| 1→2 | 12,500 Mora, 3 Teachings of "Equity," 6 Transoceanic Pearl |
+| 2→3 | 17,500 Mora, 2 Guide to "Equity," 3 Transoceanic Chunk |
+| 3→4 | 25,000 Mora, 4 Guide to "Equity," 4 Transoceanic Chunk |
+| 4→5 | 30,000 Mora, 6 Guide to "Equity," 6 Transoceanic Chunk |
+| 5→6 | 37,500 Mora, 9 Guide to "Equity," 9 Transoceanic Chunk |
+| 6→7 | 120,000 Mora, 4 Philosophies of "Equity," 4 Xenochromatic Crystal, 1 Everamber Fragment |
+| 7→8 | 260,000 Mora, 6 Philosophies of "Equity," 6 Xenochromatic Crystal, 1 Everamber Fragment |
+| 8→9 | 450,000 Mora, 12 Philosophies of "Equity," 9 Xenochromatic Crystal, 2 Everamber Fragment |
+| 9→10 | 700,000 Mora, 16 Philosophies of "Equity," 12 Xenochromatic Crystal, 2 Everamber Fragment, 1 Crown of Insight |
+
+---
+
+### **Recommended Artifact Sets**
+
+| Set | Notes |
+|---|---|
+| **Best-in-Slot:** 4-piece Marechaussee Hunter | Ideal for boosting Neuvillette's Heavy Attack DMG. Easily stacks CRIT Rate due to HP fluctuation during Heavy Attack (Equitable Judgment). Be cautious of overcapping CRIT Rate. |
+| **Alternative:** 4-piece Heart of Depth | Enhances Hydro DMG and Heavy Attack DMG after using Elemental Skill, but less effective with teammates like Furina or Kazuha. |
+| **Alternative:** 4-piece Wanderer’s Troupe | Boosts Heavy Attack DMG but lacks synergy with non-Vaporize teams. |
+| **Hybrid Mix:** 2-piece Nymph’s Dream + 2-piece Heart of Depth | A flexible option granting Hydro DMG bonus. |
+| **Hybrid Mix:** 2-piece Tenacity of the Millelith + 2-piece Heart of Depth | Enhances HP and Hydro DMG. |
+
+#### **Main Stats**
+- **Sands:** HP%
+- **Goblet:** Hydro DMG% / HP%
+- **Circlet:** CRIT DMG / CRIT Rate / HP%
+
+#### **Substats Priority**
+CRIT DMG, CRIT Rate > HP% > Energy Recharge, Flat HP
+
+#### **Talent Priority**
+Normal Attack > Elemental Burst = Elemental Skill
+
+---
+
+### **Recommended Weapons**
+
+| Weapon | Notes |
+|---|---|
+| **Best-in-Slot:** Tome of the Eternal Flow (5★) | Provides CRIT DMG, HP bonus, Heavy Attack DMG boost, and Energy Regen. Best overall weapon. |
+| **Alternative:** Sacrificial Jade (4★) | High CRIT Rate and HP bonus, solid option for damage consistency. |
+| **Alternative:** Lost Prayer to the Sacred Winds (5★) | High CRIT Rate, synergizes well but requires time to stack effects. |
+| **Alternative:** Prototype Amber (4★) | Forged weapon providing healing and Energy Regen. Great budget option. |
+| **Alternative:** The Widsith (4★) | Offers a strong burst of damage but lacks consistency. |
+| **Alternative:** Thrilling Tales of Dragon Slayers (3★) | Budget-friendly, useful for buffing attack-based teammates. |
+
+---
+
+### **Recommended Team Compositions**
+
+| Character | Role |
+|---|---|
+| **Kazuha** | Elemental DMG support. Provides Hydro DMG boost and reduces enemy Hydro resistance. |
+| **Venti** | Crowd control and Energy Recharge for Hydro characters like Furina. |
+| **Jean** | Healer and Anemo support. Can equip Viridescent Venerer for Hydro resistance reduction. |
+| **Dehya** | Provides interruption resistance but has limited uptime. Can be used in Vaporize teams. |
+| **Furina** | Top-tier teammate. Provides off-field damage, Hydro resonance, and energy generation. |
+| **Zhongli** | Shields and resistance shred, allowing Neuvillette to safely use Heavy Attacks. |
+
+---

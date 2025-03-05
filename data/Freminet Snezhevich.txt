@@ -1,0 +1,105 @@
+**Freminet**
+
+---
+
+**Title:** Hidden Dreams in the Deep  
+**Full Name:** Freminet Snezhevich  
+**Nation:** Fontaine  
+**Origin:** -  
+**Race:** Human  
+**Gender:** Male  
+**Rarity:** 4-Star  
+**Availability:** Permanent  
+**Vision:** Cryo  
+**Weapon Type:** Claymore  
+**Arkhe:** Pneuma  
+**Constellation:** Automatonis  
+**Special Dish:** "Seabird’s Rest"  
+**Release Date:** September 5, 2023 (Version 4.0)  
+**Tags:** Underwater Exploration, Cooldown Reduction, Energy Regeneration, Interruption Resistance, Self Damage Boost, Self Crit Rate Boost, Self Crit DMG Boost  
+
+**Description:** A quiet young diver who is highly skilled in underwater exploration. Beneath his cold and distant exterior lies a heart of pure innocence.  
+
+---
+
+### **Constellation**
+
+| Name | Effect |
+|---|---|
+| **Dreams of Deep Water and Foam** | The CRIT Rate of Pressurized Floe: Shattering Pressure increases by 15%. |
+| **Penguins and the Land of Plenty** | Using Pressurized Floe: Shattering Pressure restores 2 Elemental Energy for Freminet. If the attack is at 4 Pressure levels, it restores 3 Energy instead. |
+| **Currents and White Sands’ Song** | Increases the level of Normal Attack: Flowing Sword by 3, up to a maximum level of 15. |
+| **Snow Moon and Reed Flute Dance** | After triggering Frozen, Shatter, or Superconduct reactions on an enemy, Freminet's ATK is increased by 9% for 6 seconds. This effect can stack up to 2 times and can be triggered once every 0.3 seconds. |
+| **Furnace and Night of Laughter** | Increases the level of Pressurized Floe by 3, up to a maximum level of 15. |
+| **Dawn of Dreams and Determination** | After triggering Frozen, Shatter, or Superconduct reactions, Freminet’s CRIT DMG is increased by 12% for 6 seconds. This effect can stack up to 3 times and can be triggered once every 0.3 seconds. |
+
+---
+
+### **Talent Level-Up Materials**
+
+| Level | Required Materials |
+|---|---|
+| 1→2 | 12,500 Mora, 3 Teachings of "Justice", 6 Transoceanic Pearl |
+| 2→3 | 17,500 Mora, 2 Guide to "Justice", 3 Transoceanic Chunk |
+| 3→4 | 25,000 Mora, 4 Guide to "Justice", 4 Transoceanic Chunk |
+| 4→5 | 30,000 Mora, 6 Guide to "Justice", 6 Transoceanic Chunk |
+| 5→6 | 37,500 Mora, 9 Guide to "Justice", 9 Transoceanic Chunk |
+| 6→7 | 120,000 Mora, 4 Philosophies of "Justice", 4 Xenochromatic Crystal, 1 Worldspan Fern |
+| 7→8 | 260,000 Mora, 6 Philosophies of "Justice", 6 Xenochromatic Crystal, 1 Worldspan Fern |
+| 8→9 | 450,000 Mora, 12 Philosophies of "Justice", 9 Xenochromatic Crystal, 2 Worldspan Fern |
+| 9→10 | 700,000 Mora, 16 Philosophies of "Justice", 12 Xenochromatic Crystal, 2 Worldspan Fern, 1 Crown of Insight |
+
+---
+
+### **Recommended Build**
+
+#### **Artifact Set Recommendations**
+
+**Physical DMG Build**  
+- **Best Set:** 4-Piece Pale Flame  
+  - **2-Piece Effect:** Increases Physical DMG by 25%.
+  - **4-Piece Effect:** When an Elemental Skill hits an enemy, ATK is increased by 9% for 7 seconds. This effect can stack twice and can be triggered once every 0.3 seconds. Once two stacks are achieved, the 2-Piece effect is increased by 100%.
+  - **Alternative Sets:**
+    - 2-Piece Pale Flame + 2-Piece Bloodstained Chivalry (Physical DMG +25%)
+    - 2-Piece Pale Flame + 2-Piece Gladiator’s Finale (ATK +18%)
+
+**Artifact Stats**
+- **Sands:** ATK%
+- **Goblet:** Physical DMG Bonus
+- **Circlet:** CRIT Rate / CRIT DMG
+
+**Substats Priority:** CRIT Rate, CRIT DMG > ATK%
+
+**Reasoning:** As a Physical DMG dealer, Freminet benefits from CRIT stats, ATK%, and Physical DMG bonuses. Since his ascension stat is ATK%, CRIT stats become even more valuable.
+
+---
+
+### **Talent Priority**
+1. **Normal Attack > Elemental Skill**  (Elemental Burst not needed)
+
+**Reasoning:** Freminet’s primary damage output comes from Normal Attacks and Elemental Skill. His Elemental Burst does not contribute significantly to his Physical DMG playstyle.
+
+---
+
+### **Best Weapons**
+
+#### **Best 5-Star Weapon**
+**Beacon of the Reed Sea** (Claymore)  
+- **CRIT Rate:** 7.2% - 33.1%
+- **Effect:** Increases ATK by 20%-40% when an Elemental Skill hits an enemy or when taking damage. When not protected by a shield, increases Max HP by 32%-64%.
+- **Reasoning:** Provides high CRIT Rate and ATK bonus, making it an optimal weapon for Freminet.
+
+#### **Alternative 5-Star Weapons**
+- **Song of Broken Pines**: High base ATK, Physical DMG bonus, and ATK boost.
+- **Wolf’s Gravestone**: High ATK bonus, great for team buffs.
+- **The Unforged**: Synergizes well with shield supports.
+- **Skyward Pride**: High base ATK and Energy Recharge for sustained damage.
+- **Redhorn Stonethresher**: High CRIT DMG boost but requires DEF scaling.
+
+#### **Best 4-Star Weapon**
+- **Serpent Spine**: High CRIT Rate and damage bonus.
+- **Luxurious Sea-Lord**: Decent ATK bonus.
+- **Prototype Archaic**: Free-to-play friendly with high burst damage.
+
+**Conclusion:** Freminet excels as a Physical DMG dealer, leveraging his Elemental Skill and Normal Attacks. His best setup includes the Pale Flame artifact set and a high CRIT weapon like Beacon of the Reed Sea or Song of Broken Pines. His build focuses on maximizing CRIT and Physical DMG while ensuring sufficient ATK scaling.
+

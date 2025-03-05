@@ -1,0 +1,197 @@
+**New Document: Translation for Lynette**
+
+---
+
+### Basic Info
+
+- **Title:** Elegance in the Shadows  
+- **Full Name:** Lynette Snezhevna  
+- **Nation:** Fontaine  
+- **Country of Origin:** *(Not specified)*  
+- **Race:** Beastkin  
+- **Gender:** Female  
+- **Rarity:** 4★  
+- **Permanent or Limited:** Permanent  
+- **Vision (Element):** Anemo  
+- **Weapon Type:** Sword  
+- **Primordial Power (Mode):** Ferity  
+- **Constellation:** Felinae Caudata  
+- **Special Dish:** Afternoon Tea (unofficial reference)  
+- **Release Date:** August 16, 2023 (Version 4.0)  
+- **Tags:** Taunt, Crowd Control, ATK Buff, Underwater Exploration Utility, Fast Movement, HP Loss, Self-Healing, Self-Infusion, Self DMG Increase  
+
+**Introduction**  
+A reticent and mostly expressionless magician’s assistant whose temperament is as elusive as a cat’s.
+
+---
+
+### Constellations
+
+| **Name**                               | **Effect**                                                                                                                                                                                                                               |
+|---------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Cold Blade That Emerges in Shadow** <br>(C1) | When Lynette’s **Mystique Maneuver** (the dash portion referred to here as “Mysterious Thrust”) hits an enemy marked by a Shadowy Seal, it creates a wind vortex at that enemy’s location, pulling in nearby enemies.                    |
+| **Layers of Mysterious Illusions** <br>(C2) | When the **Magic: Trick of the Scales** Elemental Burst summons the “Bogglecat Box,” it fires an additional Color Surge projectile each time it normally fires one.                                                                     |
+| **Reversed Vision of Insight** <br>(C3) | Increases the Level of **Magic: Trick of the Scales** by 3. Maximum upgrade level is 15.                                                                                                                                                 |
+| **Tacit Sync in the Blink of an Eye** <br>(C4) | Increases the number of charges for **Mystique Maneuver** by 1.                                                                                                                                                                          |
+| **Arcane Concealment Against Clarity** <br>(C5) | Increases the Level of **Mystique Maneuver** by 3. Maximum upgrade level is 15.                                                                                                                                                          |
+| **The Eye That Reveals True Intent** <br>(C6) | When Lynette uses the dash attack from **Mystique Maneuver** (“Mysterious Thrust”), she gains an Anemo Infusion and a 20% Anemo DMG Bonus for 6s.                                                                                       |
+
+*(Note: Constellation names above are rendered to match the Chinese descriptions as closely as possible while referencing known translations.)*
+
+---
+
+### Talent Level-Up Materials
+
+| **Talent Level** | **Mora Cost** | **Books**                      | **Common Materials**               | **Boss Material**                | **Crowns** |
+|------------------|---------------|--------------------------------|------------------------------------|----------------------------------|------------|
+| 1 → 2            | 12,500        | 3 Teachings of “Order”         | 6 Meshing Gear                      | –                                | –          |
+| 2 → 3            | 17,500        | 2 Guide to “Order”             | 3 Mechanical Spur Gear             | –                                | –          |
+| 3 → 4            | 25,000        | 4 Guide to “Order”             | 4 Mechanical Spur Gear             | –                                | –          |
+| 4 → 5            | 30,000        | 6 Guide to “Order”             | 6 Mechanical Spur Gear             | –                                | –          |
+| 5 → 6            | 37,500        | 9 Guide to “Order”             | 9 Mechanical Spur Gear             | –                                | –          |
+| 6 → 7            | 120,000       | 4 Philosophies of “Order”      | 4 Clockwork Meka Cores             | 1 Moment of Eternal Forest       | –          |
+| 7 → 8            | 260,000       | 6 Philosophies of “Order”      | 6 Clockwork Meka Cores             | 1 Moment of Eternal Forest       | –          |
+| 8 → 9            | 450,000       | 12 Philosophies of “Order”     | 9 Clockwork Meka Cores             | 2 Moment of Eternal Forest       | –          |
+| 9 → 10           | 700,000       | 16 Philosophies of “Order”     | 12 Clockwork Meka Cores            | 2 Moment of Eternal Forest       | 1 Crown of Insight |
+
+---
+
+## Character Build Recommendations
+
+Below are two common approaches to building Lynette: **(1) Anemo RES shred support** and **(2) Main-field Anemo DPS** (especially with C6 unlocked).
+
+---
+
+### **Build 1: Anemo Resistance-Shred Support**
+
+**Recommended Artifact Set**  
+- **4-Piece Viridescent Venerer** + any off-piece
+
+**Reasoning:**  
+- Without C6 (“The Eye That Reveals True Intent”), Lynette is generally recommended to equip **4-Piece Viridescent Venerer** to serve as a team support that lowers enemies’ Elemental RES via Swirl.  
+- Note that **Viridescent Venerer**’s 4-piece effect requires Lynette to trigger the Swirl reaction **while on-field**. Swirls caused by the “Bogglecat Box” from Lynette’s Elemental Burst *while she is off-field* will **not** activate the 4-piece Viridescent Venerer debuff.
+
+**Main Stat Recommendations**  
+- **Sands:** Energy Recharge% or ATK%  
+- **Goblet:** Anemo DMG Bonus  
+- **Circlet:** CRIT DMG or CRIT Rate  
+
+**Substat Priority:**  
+Energy Recharge% > CRIT DMG / CRIT Rate > ATK% > Flat ATK
+
+**Explanation:**  
+- Lynette’s Elemental Burst, **Magic: Trick of the Scales**, requires 70 Energy. She needs sufficient Energy Recharge to maintain her rotation.  
+- CRIT Rate / CRIT DMG and ATK% help boost her personal damage.
+
+**Talent Level Priority**  
+- No particular need to invest in talent levels for a pure RES shred role.  
+- **Reason:** Like Kazuha in a heavy support build, Lynette’s damage is relatively low if she isn’t used as a DPS. Her main purpose is to shred enemy RES, so leveling her talents isn’t crucial.
+
+**Recommended 5★ “BiS” Weapon**  
+- **Freedom-Sworn**  
+
+**Reason:**  
+- **Freedom-Sworn** provides a teamwide ATK% buff and normal/charged/plunging DMG Bonus, and also boosts Lynette’s personal damage. This weapon is useful both in a support role and if you later decide to have Lynette deal more on-field damage.
+
+**Recommended 4★ Weapons**  
+- **Favonius Sword**  
+- **Sacrificial Sword**  
+
+**Reason:**  
+- Both are four-star swords suitable for a support Lynette, providing extra Energy Recharge or enabling more frequent use of her Elemental Skill.  
+- **Favonius Sword:** requires sufficient CRIT Rate to trigger its Energy particles consistently.  
+- **Sacrificial Sword:** can reset the cooldown of Lynette’s Elemental Skill **Mystique Maneuver**, letting her use it twice in a row—though note that the portion called “Ferity: Dire” summoned by her skill has its own separate cooldown that is **not** reset by this weapon.
+
+**Another 4★ Option**  
+- **Finale of the Deep (Fontaine Fishing Association)**  
+
+**Reason:**  
+- Easy to refine, provides a direct CRIT Rate bonus for Lynette’s Elemental Skill, along with a high Energy Recharge substat. This greatly eases her Energy needs.
+
+---
+
+### **Build 2: Main-Field Anemo DPS (Recommended with C6)**
+
+**Recommended Artifact Sets**  
+- **Best:** 4-Piece Marechaussee Hunter + any off-piece  
+- **Alternative:** 4-Piece Desert Pavilion Chronicle + any off-piece  
+- **Mixed:** 2-Piece Viridescent Venerer + 2-Piece Desert Pavilion Chronicle or 2-Piece Gladiator’s Finale (any +18% ATK set), etc.
+
+**Reasoning:**  
+- With Lynette’s C6 (“The Eye That Reveals True Intent”), she gains Anemo Infusion and a 20% Anemo DMG Bonus for 6 seconds after using her skill’s thrust, giving her genuine on-field carry potential.  
+- **Marechaussee Hunter** is strong for characters whose HP fluctuates, granting them high CRIT Rate. Lynette’s Elemental Skill continually alters her HP, making good use of this set.  
+- **Desert Pavilion Chronicle** is a great option for Anemo DMG characters who primarily deal Normal/Charged Attacks.
+
+**Main Stat Recommendations**  
+- **Sands:** ATK%  
+- **Goblet:** Anemo DMG Bonus  
+- **Circlet:** CRIT DMG or CRIT Rate  
+
+**Substat Priority:**  
+CRIT Rate / CRIT DMG > ATK% > Energy Recharge% > Flat ATK
+
+**Explanation:**  
+- Like other standard DPS units, Lynette benefits from CRIT Rate / CRIT DMG and ATK%.  
+- She still needs enough Energy Recharge to cast her 70-cost Burst comfortably.
+
+**Talent Level Priority**  
+- **Normal Attack** > **Elemental Skill** > **Elemental Burst**  
+- **Reason:** At C6, Lynette’s damage primarily comes from Normal/Charged Attacks under Anemo Infusion, so leveling her Normal Attack talents is especially valuable. Her Elemental Skill also contributes damage, but less than the buffed Normal/Charged attacks. Her Elemental Burst damage is relatively minor, so it has the lowest priority.
+
+**Recommended 5★ “BiS” Weapons**  
+- **Mistsplitter Reforged**  
+- *(Conditional)* **The First Great Magic** if you have an aligned party with Geo units, etc. (In the Chinese text, it’s listed under “Bound to Geo.” Officially, this is **The First Great Magic** / “The First Great Magic: Rockfold.”)  
+
+**Reason:**  
+- **Mistsplitter Reforged** is Lynette’s top pick for maximizing personal damage, especially if her C6 grants her consistent Anemo Infusion to fully trigger the sword’s passive.  
+- **The First Great Magic** can rival Mistsplitter if a Geo character is in the party (e.g., Zhongli). If you lack Geo teammates, Mistsplitter generally outperforms it.
+
+**Other 5★ Weapon Options**  
+- **Primordial Jade Cutter**  
+- **Haran Geppaku Futsu**  
+
+**Reason:**  
+- **Primordial Jade Cutter** offers a high CRIT Rate substat, HP%, and an HP-to-ATK conversion—though it has lower base ATK. Its large CRIT Rate bonus is ideal for sets like **Desert Pavilion** but less ideal for **Marechaussee Hunter** (which also gives CRIT Rate).  
+- **Haran Geppaku Futsu** has a CRIT Rate substat and boosts Normal Attack DMG. Lynette can maintain the buff fairly easily, though it demands certain Normal Attack sequences.
+
+**Recommended 4★ Weapons**  
+- **The Black Sword**  
+- **Wolf-Fang**  
+- **Toukabou Shigure** (or “Sapwood Blade” variants if the naming differs—though the text specifically mentions **“海渊终曲”** or “Finale of the Deep,” which is the fishing sword in Chinese is *different* from Toukabou Shigure. To match the user’s text, see below.)  
+- **Finale of the Deep** (as a forging or fishing weapon in Fontaine)  
+
+**Reasons:**  
+1. **The Black Sword:** A strong 4★ choice for Normal and Charged Attack damage, also provides self-healing. The healing helps maintain HP changes and synergy with Marechaussee Hunter’s effect.  
+2. **Wolf-Fang:** (Battle Pass weapon) Offers 27.6% CRIT Rate at Lv90, plus extra Elemental Skill and Burst DMG from its passive.  
+3. **Tidal Shadow (or “Finale of the Deep”)**: A craftable or fish-exchange sword in Fontaine (depending on the official naming). It grants ATK% after receiving healing, which pairs well with supportive teammates.
+
+*(Note: The text references various 4★ swords. Check in-game or official sources for their final English names.)*
+
+**Not Recommended Weapon**  
+- **3★ Harbinger of Dawn**  
+
+**Reason:**  
+- Lynette’s Elemental Skill **Mystique Maneuver** continuously drains her HP, making it hard to remain above 90% HP to maintain *Harbinger of Dawn*’s CRIT bonus.
+
+---
+
+### Team Compositions
+
+#### Anemo DPS Approach
+
+- Like Sucrose, Lynette can serve as a **RES shred** support using **Viridescent Venerer** while providing a Taunt, small crowd control (especially from her C1), and an ATK buff.  
+- Unlike Sucrose, Lynette does **not** provide a party-wide Elemental Mastery buff, but rather a small ATK buff (and requires a specific constellation to gather enemies effectively).  
+- **At C6**, Lynette gains notable on-field potential with a 6s Anemo Infusion and Anemo DMG Bonus after using her skill. Her synergy with **Faruzan** (for dedicated Anemo support) becomes especially strong, and teammates like **Bennett**, **Zhongli**, or **Furina** can help sustain her or buff her damage.  
+- If you own **Jean** with C4 (which also provides an Anemo RES shred), she’s another good support partner. If you have **Freminet** (or “ChoixduBois?” – official name is “Freminet”), you could consider combos focusing on plunging attacks if desired.
+
+**Sample Team (C6 On-field Lynette)**  
+- **Lynette (Main DPS)**  
+- **Faruzan (Anemo Support)**  
+- **Bennett (ATK Buff + Healing)**  
+- **Zhongli (Shield + Universal RES shred)**  
+  - or **Furina** / **Jean** / etc.  
+
+Below is the user’s provided example table (simplified). Aim for around *70%/140%* CRIT on Lynette, 260%+ Energy Recharge on Faruzan if she’s not C6, around 220% Energy Recharge on Bennett, and high HP on Zhongli or other supports.
+
+---
+

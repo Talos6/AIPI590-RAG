@@ -1,0 +1,94 @@
+**Xianyun**
+
+---
+
+### Title: Luan Resonance, Crane's Message  
+**Full Name:** Cloud Retainer (Xianyun)  
+**Nation:** Liyue  
+**Race:** Elemental Being (Adeptus)  
+**Gender:** Female  
+**Rarity:** ★★★★★  
+**Availability:** Limited (UP Banner)  
+**Vision:** Anemo  
+**Weapon Type:** Catalyst  
+**Constellation:** Leisurely Crane  
+**Specialty Dish:** Fourfold Fulfillment  
+**Release Date:** January 31, 2024 (Version 4.4)  
+**Tags:** DMG Boost, Healing, Crit Rate Increase, Self Crit DMG Increase, Plunging Attack, Fall Immunity, Gliding Speed Boost  
+**Introduction:** One of the "Three-Eyed Five Manifestations" adepti of Jueyun, known as "Cloud Retainer." She excels in mechanical arts and is fond of the mortal world, now wandering under the name "Xianyun."
+
+---
+
+### Constellations  
+
+| Name | Effect |
+| --- | --- |
+| **Borrowing the Wind to Cleanse Fate** | Increases the number of available uses of "Morning Soars the Crane" by 1. |
+| **Cranes' Cry in the Distant World** | After casting "Step to the Heavens" from "Morning Soars the Crane," Xianyun's ATK increases by 20% for 15s. Additionally, the passive talent "One Who Should Be an Adeptus in Thought" is enhanced: When "Bamboo Star of Twilight Gathering" has Adeptal Force Enhancement, the current active character's Plunging Attack impact damage is increased based on 400% of Xianyun's ATK. The bonus damage from this effect is capped at 18,000. This bonus applies only to a single enemy per Plunging Attack impact and can be triggered once every 0.4s. This effect requires unlocking the passive talent "One Who Should Be an Adeptus in Thought." |
+| **Fortune Like the Stars and Moon** | Increases the skill level of "Bamboo Star of Twilight Gathering" by 3 (up to level 15). |
+| **Profound Secrets in the Millet Pearl** | If "Step to the Heavens" is used 1/2/3 times within a single "Crane's Transcendence" state of "Morning Soars the Crane," Xianyun’s shockwave will heal all nearby party members upon hitting an enemy. Healing amounts are based on 50%/80%/150% of Xianyun’s ATK. This effect can trigger once every 5s. |
+| **Ascending with the Glowing Clouds** | Increases the skill level of "Morning Soars the Crane" by 3 (up to level 15). |
+| **Knowing the Cloud Retainer’s Path** | If "Step to the Heavens" is used 1/2/3 times during "Crane's Transcendence," Xianyun’s shockwave Crit DMG is increased by 15%/35%/70%. For 16s after casting "Bamboo Star of Twilight Gathering," "Morning Soars the Crane" will not enter cooldown. This effect is removed after using "Morning Soars the Crane" 8 times. |
+
+---
+
+### Talent Upgrade Materials  
+
+| Level | Required Materials |
+| --- | --- |
+| 1→2 | 12,500 Mora, 3 Teachings of "Gold," 6 Energy Nectar |
+| 2→3 | 17,500 Mora, 2 Guide to "Gold," 3 Sealed Scroll |
+| 3→4 | 25,000 Mora, 4 Guide to "Gold," 4 Sealed Scroll |
+| 4→5 | 30,000 Mora, 6 Guide to "Gold," 6 Sealed Scroll |
+| 5→6 | 37,500 Mora, 9 Guide to "Gold," 9 Sealed Scroll |
+| 6→7 | 120,000 Mora, 4 Philosophies of "Gold," 4 Forbidden Curse Scroll, 1 Lightless Eye |
+| 7→8 | 260,000 Mora, 6 Philosophies of "Gold," 6 Forbidden Curse Scroll, 1 Lightless Eye |
+| 8→9 | 450,000 Mora, 12 Philosophies of "Gold," 9 Forbidden Curse Scroll, 2 Lightless Eyes |
+| 9→10 | 700,000 Mora, 16 Philosophies of "Gold," 12 Forbidden Curse Scroll, 2 Lightless Eyes, 1 Crown of Insight |
+
+---
+
+### Recommended Builds  
+
+#### **Support Build**  
+
+**Artifact Sets:**  
+- **Pyro/Hydro/Electro/Cryo Teams:** 4pc Viridescent Venerer + any piece  
+- **General Support:** 4pc Song of Days Past + any piece  
+- **ATK Multiplier Team:** 4pc Noblesse Oblige + any piece  
+- **Physical Team:** 4pc Ocean-Hued Clam + any piece  
+- **Mixed:** 2pc Gladiator’s Finale + 2pc Ballad of the Boundless Blue (or any 18% ATK combo) or 2pc Emblem of Severed Fate + any piece  
+- **Healing:** 4pc Maiden Beloved + any piece  
+
+**Recommended Stats:**  
+- **Sands:** Energy Recharge, ATK%  
+- **Goblet:** ATK%  
+- **Circlet:** ATK%, Healing Bonus, Crit Rate (if using Favonius Codex)  
+
+**Recommended Weapons:**  
+- **Best-in-Slot:** 5★ Crane’s Echoing Melody  
+- **4★ Alternatives:** Oathsworn Eye, Prototype Amber  
+- **Other Options:** Skyward Atlas, Memory of Dust, Favonius Codex, The Widsith  
+
+#### **DPS Build**  
+
+**Artifact Sets:**  
+- **With Furina:** 4pc Hunter’s Path + any piece  
+- **Without Furina:** 4pc Desert Pavilion Chronicle + any piece  
+
+**Recommended Stats:**  
+- **Sands:** ATK%  
+- **Goblet:** Anemo DMG Bonus > ATK%  
+- **Circlet:** Crit Rate, Crit DMG  
+
+**Recommended Weapons:**  
+- **Best-in-Slot:** 5★ Crane’s Echoing Melody  
+- **4★ Alternatives:** Oathsworn Eye, Prototype Amber, Favonius Codex  
+- **Other Options:** Skyward Atlas, Memory of Dust, The Widsith  
+
+#### **Talent Priority:**  
+- **Support Build:** Only level up Elemental Burst  
+- **DPS Build:** Level up Normal Attack, Elemental Skill, and Elemental Burst  
+
+Xianyun's abilities allow her to enhance Plunging Attacks and provide strong healing, making her a versatile unit for various team compositions. Whether in a support or DPS role, her effectiveness is maximized through proper artifact and weapon choices.
+

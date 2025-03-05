@@ -1,0 +1,89 @@
+**Title:** The Ever-Changing Dragon Maiden  
+**Full Name:** Sigewinne  
+**Nation:** Fontaine  
+**Origin:** -  
+**Race:** Melusine  
+**Gender:** Female  
+**Rarity:** 5-Star  
+**Availability:** Limited (UP Banner)  
+**Vision:** Hydro  
+**Weapon Type:** Bow  
+**Primordial Force:** Ferity  
+**Constellation:** Ocean Sprite Constellation  
+**Special Dish:** Balanced Meal  
+**Release Date:** June 25, 2024 (Version 4.7)  
+**Tags:** Healing, Energy Regeneration, Damage Boost, Life Pact, Sourcewater Droplet, Shield, Resistance Reduction, Skill Duration Extension, Self Crit Rate Boost, Self Crit Damage Boost, Underwater Exploration Convenience  
+**Description:** The head nurse of the Melusines in the Fortress of Meropide, who cares for all prisoners equally in the underwater penitentiary.  
+
+---
+
+### Constellations
+
+| Name | Effect |
+|---|---|
+| **"The Happiest Sprite, Can She Understand Anxiety?"** | The Bouncing Hydrotherapy’s healing water balls can bounce 3 additional times. The first 3 bounces will not cause the large healing water ball to shrink. Additionally, the effect of the passive talent **"Proper Rest is Necessary"** is enhanced: When the healing water ball bounces, Sigewinne gains 1 **Rest Count**, and the damage increase from **Rest Count** is modified as follows: For every 1,000 Max HP exceeding 30,000, increase damage by 100 (capped at 3,500 damage). This effect requires unlocking the passive talent **"Proper Rest is Necessary"**. |
+| **"The Kindest Sprite, Can She Resolve Hostility?"** | Upon casting **Bouncing Hydrotherapy** and **Supersaturated Heart Injection**, generates a water shield that absorbs damage equal to 30% of Max HP and has a 250% absorption bonus against Hydro damage. This shield lasts until the skill is completed. Additionally, when healing water balls from **Bouncing Hydrotherapy** or **Supersaturated Heart Injection** hit an enemy, their Hydro RES is reduced by 35% for 8 seconds. |
+| **"The Healthiest Sprite, Can She Cure Fevers?"** | Increases **Bouncing Hydrotherapy** skill level by 3, up to a maximum of level 15. |
+| **"The Most Beautiful Sprite, Can She Refuse Decay?"** | Increases the duration of **Supersaturated Heart Injection** by 3 seconds. |
+| **"The Happiest Sprite, Can She Banish Torment?"** | Increases **Supersaturated Heart Injection** skill level by 3, up to a maximum of level 15. |
+| **"The Brightest Sprite, Can She Pray for Me?"** | When Sigewinne heals, she gains a Crit Rate and Crit DMG boost for **Supersaturated Heart Injection** based on her Max HP: For every 1,000 Max HP, Crit Rate increases by 0.4% and Crit DMG by 2.2%, lasting for 15 seconds. This effect caps at a 20% Crit Rate and 110% Crit DMG increase. |
+
+---
+
+### Talent Level-Up Materials
+
+| Level | Required Materials |
+|---|---|
+| 1→2 | 12,500 Mora, 3 Teachings of "Equity," 6 Transoceanic Pearl |
+| 2→3 | 17,500 Mora, 2 Guide to "Equity," 3 Transoceanic Chunk |
+| 3→4 | 25,000 Mora, 4 Guide to "Equity," 4 Transoceanic Chunk |
+| 4→5 | 30,000 Mora, 6 Guide to "Equity," 6 Transoceanic Chunk |
+| 5→6 | 37,500 Mora, 9 Guide to "Equity," 9 Transoceanic Chunk |
+| 6→7 | 120,000 Mora, 4 Philosophies of "Equity," 4 Xenochromatic Crystal, 1 Lightless Eye of the Maelstrom |
+| 7→8 | 260,000 Mora, 6 Philosophies of "Equity," 6 Xenochromatic Crystal, 1 Lightless Eye of the Maelstrom |
+| 8→9 | 450,000 Mora, 12 Philosophies of "Equity," 9 Xenochromatic Crystal, 2 Lightless Eye of the Maelstrom |
+| 9→10 | 700,000 Mora, 16 Philosophies of "Equity," 12 Xenochromatic Crystal, 2 Lightless Eye of the Maelstrom, 1 Crown of Insight |
+
+---
+
+### Recommended Builds
+
+#### **Low-Constellation Healing Support**  
+
+**Artifact Sets:**  
+- **Universal:** 4-piece Ocean-Hued Clam, 4-piece Tenacity of the Millelith, or 4-piece Song of Days Past + any off-piece  
+- **C1 Option (for C0 transition):** 2-piece Golden Troupe or 2-piece Tenacity of the Millelith + any off-piece  
+
+**Artifact Main Stats:**  
+- **Sands:** HP%  
+- **Goblet:** HP%  
+- **Circlet:** HP%  
+
+**Artifact Substats Priority:** HP% > Flat HP  
+
+**Recommended Weapons:**  
+- **Best:** 5★ Fleuve Cendre Ferryman  
+- **Alternatives:** 5★ Elegy for the End, 3★ Recurve Bow, 4★ Sacrificial Bow (for high refinements)  
+
+#### **High-Constellation Quick-Swap DPS**  
+
+**Artifact Sets:**  
+- **Universal:** 4-piece Emblem of Severed Fate  
+- **Mix Set:** 2-piece Nymph's Dream + any 15% Hydro DMG Bonus set, or 2-piece Tenacity of the Millelith + any 20% HP set, or 2-piece Noblesse Oblige + any off-piece  
+- **For Non-R5 Fleuve Cendre Ferryman:** 4-piece Marechaussee Hunter + any off-piece  
+
+**Artifact Main Stats:**  
+- **Sands:** HP% / Energy Recharge  
+- **Goblet:** HP% / Hydro DMG Bonus  
+- **Circlet:** Crit Rate / Crit DMG  
+
+**Artifact Substats Priority:** Crit Rate, Crit DMG > HP% > Energy Recharge  
+
+**Recommended Weapons:**  
+- **Best:** 5★ Fleuve Cendre Ferryman  
+- **Alternatives:** 5★ Aqua Simulacra, 5★ Hunter’s Path, 5★ Polar Star, 4★ Mouun’s Moon  
+
+---
+
+**Note:** Quick-swap DPS Sigewinne is recommended only for C4+, ideally C6. The playstyle benefits greatly from crit optimization, making gear selection crucial.
+

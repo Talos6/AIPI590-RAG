@@ -1,0 +1,113 @@
+**Furina**
+
+---
+
+### Title  
+Unceasing Dance  
+
+### Full Name  
+Furina de Fontaine  
+
+### Nation  
+Fontaine  
+
+### Origin  
+Unknown  
+
+### Race  
+Human  
+
+### Gender  
+Female  
+
+### Rarity  
+5-Star  
+
+### Availability  
+Limited UP  
+
+### Vision  
+Hydro  
+
+### Weapon Type  
+Sword  
+
+### Arche  
+Ousia, Pneuma  
+
+### Constellation  
+Salonica  
+
+### Special Dish  
+"Prustice"  
+
+### Release Date  
+November 8, 2023 (Version 4.2)  
+
+### Tags  
+Healing, Damage Boost, Increased Healing Received, Underwater Exploration Utility, HP Loss, Energy Regeneration, Self Damage Scaling, Self Damage Boost, Unique Elemental Infusion  
+
+### Introduction  
+The absolute center of attention on the stage of judgment, until the applause signals the final curtain call.  
+
+---
+
+### Constellations  
+
+| Name | Effect |
+|---|---|
+| "Love is a Wild Bird, Pleading is Futile." | Upon casting "Universal Revelry," Furina gains 150 points of "Merriment Value." Additionally, her maximum "Merriment Value" increases by 100 points. |
+| "Women Are Fickle, Like Duckweed in Water." | During "Universal Revelry," the "Merriment Value" gained through nearby party members' HP fluctuations is increased by 250%. Excess "Merriment Value" beyond the limit increases Furina's Max HP by 0.35% per point, up to a 140% HP increase. |
+| "Secrets Buried Deep, No One Knows My Name." | Increases "Universal Revelry" skill level by 3, up to a maximum of level 15. |
+| "Without the Abyss, How Can One Appreciate Life!" | When "Salon Members" from "Lonely Hearts Salon" hit an enemy, or "Singer of Many Waters" heals an active character, Furina gains 4 Energy. This effect can be triggered once every 5 seconds. |
+| "I Have Perceived It, His Name Is...!" | Increases "Lonely Hearts Salon" skill level by 3, up to a maximum of level 15. |
+| "All Shall Hear My Hymn, Raise the Cup of Love!" | Upon casting "Lonely Hearts Salon," Furina gains "Center Stage" for 10 seconds. During this time, her Normal, Charged, and Plunging Attacks are converted to Hydro DMG, which cannot be overridden by other infusions, and their damage is increased by 18% of her Max HP. During "Center Stage," every 0.1 seconds, Furina's attacks will trigger different effects based on her current Arche:  
+  - **Ousia:** Every second, heals all nearby party members by 4% of Furina’s Max HP for 2.9 seconds. Repeated triggers extend the duration.  
+  - **Pneuma:** The damage of Normal, Charged, and Plunging Attacks is further increased by 25% of Furina's Max HP. When these attacks hit enemies, all nearby party members consume 1% of their current HP.  
+  - These effects can trigger up to 6 times during one "Center Stage" period and will end when reaching the trigger limit or after the duration expires.  
+
+---
+
+### Talent Level-Up Materials  
+
+| Level | Required Materials |
+|---|---|
+| 1→2 | 12,500 Mora, 3 Teachings of "Justice", 6 Whopperflower Nectar |
+| 2→3 | 17,500 Mora, 2 Guides of "Justice", 3 Shimmering Nectar |
+| 3→4 | 25,000 Mora, 4 Guides of "Justice", 4 Shimmering Nectar |
+| 4→5 | 30,000 Mora, 6 Guides of "Justice", 6 Shimmering Nectar |
+| 5→6 | 37,500 Mora, 9 Guides of "Justice", 9 Shimmering Nectar |
+| 6→7 | 120,000 Mora, 4 Philosophies of "Justice", 4 Energy Nectar, 1 Lightless Mass |
+| 7→8 | 260,000 Mora, 6 Philosophies of "Justice", 6 Energy Nectar, 1 Lightless Mass |
+| 8→9 | 450,000 Mora, 12 Philosophies of "Justice", 9 Energy Nectar, 2 Lightless Mass |
+| 9→10 | 700,000 Mora, 16 Philosophies of "Justice", 12 Energy Nectar, 2 Lightless Mass, 1 Crown of Insight |
+
+---
+
+### Recommended Builds  
+
+#### Artifact Sets  
+- **General Build:** 
+  - Off-field DPS: 4-piece Golden Troupe + any piece
+  - Attack Support: 4-piece Tenacity of the Millelith + any piece
+  - Transitional: 2-piece Golden Troupe + 2-piece Tenacity of the Millelith / 2-piece Marechaussee Hunter / 2-piece Heart of Depth / 2-piece Emblem of Severed Fate (any combination)
+  - Full Constellation DPS: 4-piece Hunter’s Path + any piece  
+
+#### Recommended Main Stats  
+- **Sands:** Energy Recharge, HP%
+- **Goblet:** HP% ≥ Hydro DMG Bonus
+- **Circlet:** CRIT Rate, CRIT DMG > HP%  
+
+#### Recommended Weapons  
+- **Best-in-Slot:**  
+  - 5★ Splendor of Still Waters  
+  - 5★ Uraku Misugiri  
+  
+- **Alternative Choices:**  
+  - 5★ Primordial Jade Cutter  
+  - 5★ Light of Foliar Incision  
+  - 5★ Key of Khaj-Nisut  
+
+---
+
+Furina is a versatile support and sub-DPS character with unique HP-based mechanics. She excels in healing, buffing allies, and dealing Hydro DMG while offering synergy with various team compositions. Her effectiveness depends on HP fluctuation mechanics, making her an intriguing addition to many teams.

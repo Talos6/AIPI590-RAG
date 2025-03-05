@@ -1,0 +1,249 @@
+**Rosaria**  
+- **Title**: Thorny Benevolence  
+- **Full Name**: Rosaria  
+- **Nation**: Mondstadt  
+- **Race**: Human  
+- **Gender**: Female  
+- **Rarity**: ★★★★ (4-Star)  
+- **Availability**: Standard  
+- **Vision**: Cryo  
+- **Weapon**: Polearm  
+- **Constellation**: Spina Corona  
+- **Special Dish**: Dinner of Judgment  
+- **Release Date**: April 6, 2021 (Version 1.4)  
+- **Tags**: Resistance Shred, CRIT Rate Increase, Movement SPD Increase, Movement SPD Increase (Talent), Energy Restoration, Extended Skill Duration  
+- **Introduction**: A nun whose speech and attire are anything but conventional ecclesiastical dress. She is frank and aloof and often moves about on her own.
+
+---
+
+## Constellations
+
+1. **Unholy Revelation**  
+   **Effect**: When Rosaria deals a CRIT Hit, her ATK SPD increases by 10%, and her Normal Attack DMG increases by 10% for 4s.
+
+2. **Land Without Promise**  
+   **Effect**: The duration of the Ice Lance created by Rites of Termination is increased by 4s.
+
+3. **The Wages of Sin**  
+   **Effect**: Increases the Level of Ravaging Confession by 3. Maximum upgrade level is 15.
+
+4. **Painful Grace**  
+   **Effect**: When Ravaging Confession deals a CRIT Hit, Rosaria regenerates 5 Elemental Energy. This effect can only be triggered once per use of Ravaging Confession.
+
+5. **Last Rites**  
+   **Effect**: Increases the Level of Rites of Termination by 3. Maximum upgrade level is 15.
+
+6. **Divine Retribution**  
+   **Effect**: The attack from Rites of Termination decreases opponents’ Physical RES by 20% for 10s.
+
+---
+
+## Talent Level-Up Materials
+
+| Talent Level | Required Materials                                                      |
+|--------------|-------------------------------------------------------------------------|
+| **1 → 2**    | 12,500 Mora<br/>**Teachings of Ballad** ×3<br/>Recruit’s Insignia ×6     |
+| **2 → 3**    | 17,500 Mora<br/>**Guide to Ballad** ×2<br/>Sergeant’s Insignia ×3        |
+| **3 → 4**    | 25,000 Mora<br/>**Guide to Ballad** ×4<br/>Sergeant’s Insignia ×4        |
+| **4 → 5**    | 30,000 Mora<br/>**Guide to Ballad** ×6<br/>Sergeant’s Insignia ×6        |
+| **5 → 6**    | 37,500 Mora<br/>**Guide to Ballad** ×9<br/>Sergeant’s Insignia ×9        |
+| **6 → 7**    | 120,000 Mora<br/>**Philosophies of Ballad** ×4<br/>Lieutenant’s Insignia ×4<br/>Shadow of the Warrior ×1 |
+| **7 → 8**    | 260,000 Mora<br/>**Philosophies of Ballad** ×6<br/>Lieutenant’s Insignia ×6<br/>Shadow of the Warrior ×1 |
+| **8 → 9**    | 450,000 Mora<br/>**Philosophies of Ballad** ×12<br/>Lieutenant’s Insignia ×9<br/>Shadow of the Warrior ×2 |
+| **9 → 10**   | 700,000 Mora<br/>**Philosophies of Ballad** ×16<br/>Lieutenant’s Insignia ×12<br/>Shadow of the Warrior ×2<br/>Crown of Insight ×1 |
+
+---
+
+## Recommended Builds
+
+Rosaria can perform various roles—providing CRIT Rate buffs for the team, dealing Cryo DMG in Freeze or Melt teams, or even acting as a Physical main DPS if you wish to do so. Below are some common builds.
+
+---
+
+### **1) Pure Support (CRIT Rate Buffer)**
+
+**Artifact Sets**  
+- **Best Option**: 4-Piece **Noblesse Oblige** (+ any off-piece)  
+- **Transitional (2+2)**: 2-Piece **Berserker** + 2-Piece **Emblem of Severed Fate** (+ any off-piece)
+
+**Why These Sets?**  
+- In Physical or Freeze-centric teams, Rosaria can serve as a CRIT Rate buffer via her Passive Talent “Shadow Samaritan,” which grants the party 15% of her own CRIT Rate (up to a certain limit). Especially at C6 (Constellation 6), Rosaria’s Burst also reduces enemies’ Physical RES by 20%, making her a powerful support for Physical carries.  
+- **4-Piece Noblesse Oblige**: After using her Elemental Burst, the entire party gains +20% ATK, which synergizes perfectly with the moment Rosaria casts her Burst to activate both her Passive buff and Constellation perks.  
+- A **2+2** set (e.g., Berserker for CRIT Rate + Emblem of Severed Fate for Energy Recharge) is a low-investment alternative when you’re first building her.
+
+**Main Stats**  
+- **Sands**: Energy Recharge  
+- **Goblet**: Cryo DMG Bonus > ATK%  
+- **Circlet**: CRIT Rate  
+
+**Sub Stats Priority**  
+1. CRIT Rate  
+2. Energy Recharge  
+
+**Reasoning**  
+- Rosaria’s “Shadow Samaritan” Passive converts 15% of her own CRIT Rate into a CRIT Rate bonus for teammates. Stacking CRIT Rate on Rosaria is thus crucial.  
+- As a support, her personal damage is not the priority, so running an ER Sands helps sustain her Burst. A Cryo Goblet is preferred if you have a good one; if not, an ATK% Goblet is fine.
+
+**Talent Priority**  
+- **No need to level** Normal Attack, Elemental Skill, or Elemental Burst specifically for pure support. Rosaria’s support effect (CRIT buff) comes from her Passive Talent, not from Talent multipliers.
+
+**Recommended Weapons (Pure Support)**  
+- **4★ Favonius Lance**  
+  - Generates extra Particles for the team upon CRIT hits. Rosaria’s high CRIT Rate makes it easy to trigger.  
+- **5★ Staff of the Scarlet Sands**  
+  - One of the highest CRIT Rate sub-stats among polearms, drastically reducing artifact CRIT Rate requirements.  
+
+**Other Options**  
+- **4★ Deathmatch** (provides CRIT Rate)  
+- **5★ Primordial Jade Winged-Spear** (if you just want more personal damage, though not purely a support choice)  
+- **3★ White Tassel** (easy to obtain and low investment; offers some CRIT Rate though not as high as 4★/5★ alternatives)  
+- **5★ Skyward Spine** (Energy Recharge sub-stat + a small amount of CRIT Rate from its passive)
+
+**Not Recommended**  
+- **4★ Lithic Spear**  
+  - It forces you to run multiple Liyue characters to stack its buffs, which can be inflexible and generally not worth it for a Rosaria support build.
+
+---
+
+### **2) Freeze Team (Cryo Sub-DPS)**
+
+**Artifact Sets**  
+- **4-Piece Noblesse Oblige**  
+- **4-Piece Blizzard Strayer**  
+- **4-Piece Emblem of Severed Fate**  
+- **Mixed 2+2 (Blizzard Strayer + Noblesse Oblige)**
+
+**Why These Sets?**  
+- In a Freeze composition, Rosaria can easily land her Burst’s Cryo ticks on immobilized enemies, dealing stable off-field damage.  
+- **Noblesse Oblige (4-piece)**: Boosts team ATK and increases Elemental Burst DMG. Perfect for a sub-DPS role.  
+- **Blizzard Strayer (4-piece)**: Grants a massive CRIT Rate bonus against Frozen enemies, alleviating CRIT Rate requirements for a Cryo carry/sub-DPS. *(Note: The 4-piece set bonus CRIT Rate doesn’t show in Rosaria’s stat page and won’t translate into partywide CRIT Rate via her Passive—so it’s only for her own damage.)*  
+- **Emblem of Severed Fate (4-piece)**: Straightforward Burst DMG boost and additional Energy Recharge synergy.  
+- **2+2 Mix** (e.g., 2 Blizzard Strayer + 2 Noblesse) yields +15% Cryo DMG and +20% Burst DMG, also easy to farm via Artifact Strongbox conversions.
+
+**Main Stats**  
+- **Sands**: ATK% > Energy Recharge  
+- **Goblet**: Cryo DMG Bonus  
+- **Circlet**: CRIT Rate > CRIT DMG  
+
+**Sub Stats Priority**  
+1. CRIT Rate / CRIT DMG  
+2. ATK%  
+3. Energy Recharge  
+
+**Reasoning**  
+- As a sub-DPS, maximizing Rosaria’s personal damage from her Burst is ideal. High CRIT Rate also benefits her party buff.  
+- Her Burst costs 60 Energy, which is moderate, so a little ER in sub-stats or on the Sands can help maintain uptime.
+
+**Talent Priority**  
+- **Elemental Burst** > **Elemental Skill**; Normal Attack is usually not a priority for off-field Cryo support.
+
+**Recommended Weapons (Freeze Sub-DPS)**  
+- **5★ Primordial Jade Winged-Spear**: Good CRIT Rate sub-stat, high base ATK, easy to use for more damage.  
+- **5★ Staff of Homa**: Offers high CRIT DMG and a powerful ATK boost.  
+- **5★ Engulfing Lightning**, **5★ Skyward Spine**, **5★ Vortex Vanquisher**: Various 5-stars that either provide ER or high ATK.  
+- **4★ Deathmatch**, **4★ Blackcliff Pole**, **4★ Favonius Lance**, **5★ Staff of the Scarlet Sands**:  
+  - **Deathmatch** gives a large chunk of CRIT Rate.  
+  - **Blackcliff Pole** offers CRIT DMG but requires defeating enemies for stacks.  
+  - **Favonius Lance** helps with team Energy if you’re stacking CRIT Rate anyway.  
+  - **Staff of the Scarlet Sands** provides significant CRIT Rate. Its passive scales on Elemental Mastery (not ideal for Freeze), but the weapon’s raw CRIT Rate can be worthwhile.  
+- **4★ “The Catch”**, **4★ Wavebreaker’s Fin**, **4★ Royal Spear**:  
+  - **The Catch** and **Wavebreaker’s Fin** both focus on Burst DMG.  
+  - **Royal Spear** from the Starglitter Exchange has an ATK sub-stat and a somewhat random CRIT Rate buff on hits—less reliable, but still an option.
+
+---
+
+### **3) Melt Team (Cryo Sub-DPS)**
+
+**Artifact Sets**  
+- **2+2 Mix**: (2) Blizzard Strayer + (2) Noblesse Oblige or (2) Gladiator’s Finale or (2) Wanderer’s Troupe  
+- **4-Piece Gilded Dreams**, **4-Piece Emblem of Severed Fate**, or **4-Piece Lavawalker** (+ off-piece)
+
+**Why These Sets?**  
+- Rosaria can trigger powerful Melt reactions, though it can be trickier to apply Cryo consistently if enemies move around. With solid grouping (e.g., from Kazuha) or vs. less mobile bosses, her Burst can land multiple Melt procs.  
+- **2 Blizzard Strayer + 2 Noblesse** yields +15% Cryo DMG and +20% Elemental Burst DMG, excellent for a Burst-focused Melt build. Alternatively, simpler combos like 2 ATK% sets or 2 Wanderer’s Troupe (for +80 Elemental Mastery) can also work if you rely on teammates for Attack buffs.  
+- **4-Piece Gilded Dreams**: Grants a large EM bonus if your party composition differs in elements. Rosaria’s Burst “snapshot” can require some timing to get the buffs.  
+- **4-Piece Emblem**: Straightforward solution for Burst DMG and Energy Recharge—great synergy if you struggle with Burst uptime.  
+- **4-Piece Lavawalker**: Theoretically strong if you keep Pyro on enemies, but it’s niche and typically overshadowed by Gilded Dreams or Emblem.
+
+**Main Stats**  
+- **Sands**: Elemental Mastery or Energy Recharge  
+- **Goblet**: Cryo DMG Bonus  
+- **Circlet**: CRIT DMG or CRIT Rate  
+
+**Sub Stats Priority**  
+1. CRIT Rate / CRIT DMG  
+2. ATK%  
+3. Elemental Mastery  
+4. Energy Recharge  
+
+**Reasoning**  
+- Melt damage scales well with EM. However, if you have a weapon or team buffs covering Attack/CRIT, you might lean into more EM on the Sands.  
+- If you are lacking Energy generation, use some ER in sub-stats or an ER Sands to keep your Burst ready for consistent Melt procs.
+
+**Recommended Weapons (Melt)**  
+- **5★ Staff of the Scarlet Sands**  
+  - Huge CRIT Rate sub-stat plus a passive that converts Elemental Mastery to ATK. Even if Rosaria doesn’t stack EM heavily, any external EM buffs still improve her passive. Overall top-tier for Melt Rosaria.  
+- **4★ “The Catch”**, **4★ Wavebreaker’s Fin**, **5★ Engulfing Lightning**  
+  - These revolve around Burst DMG, very strong if you rely on her Burst for Melt triggers.  
+- **5★ Staff of Homa**, **4★ Deathmatch**, **4★ Dragon’s Bane**, **4★ Royal Spear**, etc.  
+  - All can work for sub-DPS Melt. **Dragon’s Bane** typically benefits from Pyro or Hydro-affected enemies, which can happen in Melt setups.  
+- **5★ Primordial Jade Winged-Spear**, **5★ Skyward Spine**  
+  - Jade Spear offers CRIT Rate, but stacking its passive for locked snapshot is tricky if you’re not on-field long enough.  
+  - Skyward Spine is balanced but not specialized—if you need the ER, it’s still decent.
+
+---
+
+### **4) Physical Main DPS (For Dedicated Rosaria Fans)**
+
+**Artifact Sets**  
+- **2-Piece Pale Flame + 2-Piece Bloodstained Chivalry** (+ any off-piece)  
+- **4-Piece Pale Flame**, **4-Piece Shimenawa’s Reminiscence**, **4-Piece Gladiator’s Finale**  
+- *With Furina synergy:* 4-Piece **Golden Troupe** (aka “逐影猎人” in CN) if you want certain advanced combos, but that’s more situational.
+
+**Why These Sets?**  
+- For a Physical carry Rosaria, most of the damage comes from Normal and Charged Attacks, plus occasional Skill usage. Pair her with a Cryo unit + an Electro unit to trigger Superconduct for -40% Physical RES.  
+- **2 Pale Flame + 2 Bloodstained** is a straightforward +50% Physical DMG, easy to maintain.  
+- **4-Piece Pale Flame** can reach +50% Physical DMG plus +18% ATK if you can manage the short cooldown of her Skill well.  
+- **4-Piece Shimenawa** also grants the same 50% Normal/Charged Attack DMG and +18% ATK but consumes 15 Energy, so you’ll have to manage your Burst usage.  
+- **4-Piece Gladiator’s Finale** grants +35% Normal Attack DMG. Simpler but effective.  
+- **Golden Troupe** (逐影猎人) is a newly introduced set that can boost Normal/Charged Attack DMG. If you run it in synergy with another character (e.g., Furina) who can manipulate HP or meet the set’s conditions, it can provide extra CRIT for Rosaria. This is fairly niche.
+
+**Main Stats**  
+- **Sands**: ATK%  
+- **Goblet**: Physical DMG Bonus  
+- **Circlet**: CRIT Rate / CRIT DMG  
+
+**Sub Stats Priority**  
+1. CRIT Rate / CRIT DMG  
+2. ATK%  
+
+**Reasoning**  
+- Standard physical DPS approach: aim for a ~1:2 CRIT ratio if possible. Some minor ER might help with healing or swirl combos, but it’s less critical for a main on-field style.
+
+**Talent Priority**  
+- **Normal Attack** > **Elemental Burst** > **Elemental Skill**  
+- Since most DPS in this style comes from Normal Attacks, level those first. Her Skill and Burst can also be leveled to increase overall damage, as her Skill has a short cooldown and her Burst can dish out extra hits.
+
+**Recommended Weapons (Physical DPS)**  
+- **5★ Primordial Jade Winged-Spear**  
+  - Good CRIT Rate and a strong stacking ATK effect; easy to maintain if Rosaria is on-field.  
+- **5★ Staff of Homa**  
+  - High CRIT DMG sub-stat, plus a large ATK bonus based on HP. If you have enough CRIT Rate, Homa’s damage ceiling is very high.
+
+**Other Notable Weapons**  
+- **4★ Dragonspine Spear**, **4★ Prototype Starglitter (aka “Prototype Grudge” / “Prototype Rancour” in CN)**  
+  - Both are craftable. **Dragonspine Spear** and **Prototype Starglitter** have Physical DMG sub-stats. Dragonspine Spear’s effect can be decent if Rosaria applies Cryo consistently.  
+- **5★ Vortex Vanquisher**, **5★ Skyward Spine**  
+  - **Vortex Vanquisher** offers large ATK if shielded.  
+  - **Skyward Spine** is weaker for raw DPS but still workable thanks to extra CRIT Rate from its passive and bonus ATK SPD.  
+- **4★ Deathmatch**, **4★ Blackcliff Pole**, **5★ Staff of the Scarlet Sands**  
+  - **Deathmatch**: substantial CRIT Rate, easier artifact building.  
+  - **Blackcliff Pole**: CRIT DMG sub-stat but requires kills to stack ATK.  
+  - **Staff of the Scarlet Sands**: massive CRIT Rate, but its EM-to-ATK conversion is wasted on purely Physical builds—still a good CRIT Rate stick if you just want the sub-stat.
+
+**Not Recommended**  
+- **4★ Lithic Spear**  
+  - Forcing a Liyue-only party just to gain some Attack/CRIT from this weapon is rarely optimal for a Physical Rosaria.
+
+---
+

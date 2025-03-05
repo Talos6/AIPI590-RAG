@@ -1,0 +1,99 @@
+**Candace**
+
+---
+
+**Title**: Golden Vow  
+**Full Name**: Candace  
+**Nation**: Sumeru  
+**Race**: Human  
+**Gender**: Female  
+**Rarity**: ★★★★ (4-star)  
+**Availability**: Permanent  
+**Vision**: Hydro  
+**Weapon Type**: Polearm  
+**Constellation**: Sagitta Scutum  
+**Special Dish**: Utmost Care  
+**Release Date**: September 28, 2022 (Version 3.1)  
+**Tags**: Shield, Parry, Elemental Infusion, DMG Boost, Reduced Climbing Stamina Consumption, Coordinated Attack  
+
+**Description**: A descendant of King Deshret with an amber left eye, Candace is the guardian of Aaru Village.
+
+---
+
+### **Constellation Effects**
+
+| Name | Effect |
+|------|--------|
+| **Heir to the Red Sands** | The duration of the Prayer of the Crimson Crown state granted by Sacred Rite: Wagtail’s Tide is increased by 3 seconds. |
+| **Moon-Piercing Brilliance** | When Sacred Rite: Heron’s Sanctum hits an opponent, Candace’s Max HP is increased by 20% for 15 seconds. |
+| **Hunter’s Grace** | Increases the Level of Sacred Rite: Wagtail’s Tide by 3. Maximum upgrade level: 15. |
+| **Oathsworn Guardian** | Reduces the cooldown of Sacred Rite: Heron’s Sanctum’s hold mode to be the same as its tap mode. |
+| **Amber Eyes of the Oasis** | Increases the Level of Sacred Rite: Heron’s Sanctum by 3. Maximum upgrade level: 15. |
+| **Overflowing Oasis** | When the current active character (excluding Candace) is under the Prayer of the Crimson Crown state from Sacred Rite: Wagtail’s Tide, their Normal Attacks that deal Elemental DMG unleash a Wave Impact that deals AoE Hydro DMG equal to 15% of Candace’s Max HP. This effect can be triggered once every 2.3 seconds and is considered Elemental Burst DMG. |
+
+---
+
+### **Ascension Materials**
+
+| Level | Materials Required |
+|--------|------------------|
+| 1→2  | 12,500 Mora, 3 Teachings of Admonition, 6 Faded Red Satin |
+| 2→3  | 17,500 Mora, 2 Guide to Admonition, 3 Trimmed Red Silk |
+| 3→4  | 25,000 Mora, 4 Guide to Admonition, 4 Trimmed Red Silk |
+| 4→5  | 30,000 Mora, 6 Guide to Admonition, 6 Trimmed Red Silk |
+| 5→6  | 37,500 Mora, 9 Guide to Admonition, 9 Trimmed Red Silk |
+| 6→7  | 120,000 Mora, 4 Philosophies of Admonition, 4 Rich Red Brocade, 1 Tears of the Calamitous God |
+| 7→8  | 260,000 Mora, 6 Philosophies of Admonition, 6 Rich Red Brocade, 1 Tears of the Calamitous God |
+| 8→9  | 450,000 Mora, 12 Philosophies of Admonition, 9 Rich Red Brocade, 2 Tears of the Calamitous God |
+| 9→10 | 700,000 Mora, 16 Philosophies of Admonition, 12 Rich Red Brocade, 2 Tears of the Calamitous God, 1 Crown of Insight |
+
+---
+
+### **Recommended Builds**
+
+#### **Main Build: Support (General Use)**
+
+**Artifact Sets**:
+- 4-piece **Noblesse Oblige**
+- 2-piece **Emblem of Severed Fate** + 2-piece **Tenacity of the Millelith**
+
+**Artifact Stat Priority**:
+- **Sands**: Energy Recharge / HP%
+- **Goblet**: HP%
+- **Circlet**: HP%
+
+**Substats**: Crit Rate (if using Favonius Lance) > Energy Recharge > HP%  
+
+**Recommended Weapons**:
+- **Best Weapon**: **Engulfing Lightning (5-star)** - Provides high Energy Recharge.
+- **Alternative Weapons**: **Favonius Lance (4-star), Prototype Starglitter (4-star)** - Useful for energy generation.
+
+#### **Alternate Build: On-Field Hydro DPS (C1 Unlock)**
+
+**Artifact Sets**:
+- 4-piece **Heart of Depth**
+- 4-piece **Gladiator’s Finale**
+- 4-piece **Echoes of an Offering**
+
+**Artifact Stat Priority**:
+- **Sands**: ATK% / Elemental Mastery (if using Vaporize reactions)
+- **Goblet**: Hydro DMG Bonus
+- **Circlet**: CRIT Rate / CRIT DMG
+
+**Substats**: CRIT Rate & CRIT DMG > ATK% > Energy Recharge  
+
+**Recommended Weapons**:
+- **Best Weapons**: **Staff of the Scarlet Sands (5-star), Primordial Jade Winged-Spear (5-star)**
+- **Alternative Weapons**: **Dragon’s Bane (4-star), The Catch (4-star)**
+
+---
+
+### **Skill Leveling Priority**
+- **Main Build (Support)**: Prioritize **Elemental Burst** (Skill & Normal Attacks do not need leveling)
+- **Alternate Build (DPS)**: Prioritize **Elemental Burst** > **Normal Attack** > **Elemental Skill**
+
+**Explanation**:
+- Candace’s Burst provides Normal Attack buffs to teammates and is independent of its level.
+- As a DPS, her Normal Attacks become infused with Hydro, so their priority is higher.
+
+---

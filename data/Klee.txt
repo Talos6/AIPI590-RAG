@@ -1,0 +1,149 @@
+**Klee - Translation of Character Information**
+
+---
+
+### **Title**  
+The Runaway Sun  
+
+### **Full Name / Real Name**  
+Klee  
+
+### **Nation**  
+Mondstadt  
+
+### **Place of Birth**  
+Unknown  
+
+### **Race**  
+Long-lived species (specific details unknown)  
+
+### **Gender**  
+Female  
+
+### **Rarity**  
+⭐⭐⭐⭐⭐ (5-Star)  
+
+### **Availability**  
+Limited UP  
+
+### **Vision (Element)**  
+Pyro  
+
+### **Weapon Type**  
+Catalyst  
+
+### **Original Force**  
+-  
+
+### **Constellation**  
+Trifolium  
+
+### **Special Dish**  
+Fish-Flavored Toast  
+
+### **Release Date**  
+October 20, 2020 (Version 1.0)  
+
+### **Tags**  
+Defense Reduction, Energy Regeneration, Damage Boost, Exploration, Stamina Consumption Reduction  
+
+### **Description**  
+A frequent visitor of the Knights of Favonius’ confinement room, Mondstadt’s explosive expert. Known as "The Runaway Sun."  
+
+---
+
+## **Constellation**
+
+| Name | Effect |
+|------|--------|
+| **Chained Reactions** | When attacking or casting skills, there is a chance to summon a spark that bombards enemies, dealing 120% of **Sparks 'n' Splash** damage. |
+| **Explosive Fragments** | Jumpy Dumpty’s mines reduce enemy defense by 23% for 10 seconds. |
+| **Exquisite Compound** | Increases the level of Jumpy Dumpty by 3. Maximum upgrade level: 15. |
+| **Sparkling Burst** | If Klee leaves the field while **Sparks 'n' Splash** is active, she triggers an explosion dealing **555% ATK as AoE Pyro DMG**. |
+| **Nova Burst** | Increases the level of **Sparks 'n' Splash** by 3. Maximum upgrade level: 15. |
+| **Blazing Delight** | While **Sparks 'n' Splash** is active, all party members (excluding Klee) regenerate energy every 3 seconds (3 ticks total, restoring approximately 9 Energy). Additionally, within 25 seconds of activating **Sparks 'n' Splash**, all party members gain **10% Pyro DMG Bonus**. |
+
+---
+
+## **Talent Level-Up Materials**
+
+| Level | Materials Required |
+|--------|------------------|
+| **1 → 2** | 12,500 Mora, 3 **Teachings of Freedom**, 6 **Divining Scrolls** |
+| **2 → 3** | 17,500 Mora, 2 **Guide to Freedom**, 3 **Sealed Scrolls** |
+| **3 → 4** | 25,000 Mora, 4 **Guide to Freedom**, 4 **Sealed Scrolls** |
+| **4 → 5** | 30,000 Mora, 6 **Guide to Freedom**, 6 **Sealed Scrolls** |
+| **5 → 6** | 37,500 Mora, 9 **Guide to Freedom**, 9 **Sealed Scrolls** |
+| **6 → 7** | 120,000 Mora, 4 **Philosophies of Freedom**, 4 **Forbidden Curse Scrolls**, 1 **Ring of Boreas** |
+| **7 → 8** | 260,000 Mora, 6 **Philosophies of Freedom**, 6 **Forbidden Curse Scrolls**, 1 **Ring of Boreas** |
+| **8 → 9** | 450,000 Mora, 12 **Philosophies of Freedom**, 9 **Forbidden Curse Scrolls**, 2 **Ring of Boreas** |
+| **9 → 10** | 700,000 Mora, 16 **Philosophies of Freedom**, 12 **Forbidden Curse Scrolls**, 2 **Ring of Boreas**, 1 **Crown of Insight** |
+
+---
+
+## **Recommended Builds**
+
+### **Artifact Sets**
+
+#### **Elemental Reaction Build**  
+- **4-Piece Crimson Witch of Flames**
+- **4-Piece Shimenawa’s Reminiscence**
+- **4-Piece Marechaussee Hunter + any off-piece**  
+- **Mixed:** 2-Piece Crimson Witch of Flames + 2-Piece Gladiator’s Finale or another 2-Piece ATK% bonus artifact  
+
+**Recommended Stats**
+- **Sands:** ATK%  
+- **Goblet:** Pyro DMG Bonus  
+- **Circlet:** CRIT Rate / CRIT DMG  
+- **Substats Priority:** CRIT Rate ≥ CRIT DMG > ATK% > Flat ATK  
+
+#### **Pure Pyro Build**  
+- **4-Piece Lavawalker**
+- **4-Piece Shimenawa’s Reminiscence**
+- **4-Piece Marechaussee Hunter + any off-piece**  
+
+---
+
+### **Recommended Weapons**
+
+#### **Best 5★ Weapons**  
+- Lost Prayer to the Sacred Winds  
+- Skyward Atlas  
+- Memory of Dust  
+- Kagura’s Verity  
+- Flowing Purity  
+
+#### **Recommended 4★ Weapons**  
+- The Widsith  
+- Solar Pearl  
+- Dodoco Tales  
+
+#### **Weapons to Avoid**  
+- **Everlasting Moonglow** (HP and healing-based passive not suited for Klee)  
+
+---
+
+## **Team Compositions**
+
+### **Vaporize Team**  
+- **Klee** (Main DPS)  
+- **Xingqiu / Yelan** (Hydro Application)  
+- **Bennett** (ATK Buff & Healing)  
+- **Kazuha / Sucrose** (Crowd Control & Elemental DMG Boost)  
+
+### **Mono Pyro Team**  
+- **Klee** (Main DPS)  
+- **Bennett** (ATK Buff & Healing)  
+- **Xiangling** (Off-Field Pyro DMG)  
+- **Kazuha / Zhongli** (Crowd Control / Shielding)  
+
+### **Reverse Vaporize Team**  
+- **Klee** (Main DPS)  
+- **Furina** (HP Burn & Hydro Application)  
+- **Kazuha / Sucrose** (Crowd Control & Elemental DMG Boost)  
+- **Bennett / Sigewinne** (Healing & ATK Buff)  
+
+---
+
+Klee is a powerful Pyro DPS with explosive abilities, excellent AoE coverage, and high Pyro application. However, her stamina consumption and squishiness require strategic positioning and team synergy. Properly built and supported, she can be a formidable force in battle!
+

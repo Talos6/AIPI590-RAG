@@ -1,0 +1,98 @@
+**Chongyun**
+
+**Title:** Traces of Melted Snow  
+**Full Name:** Chongyun  
+**Nation:** Liyue  
+**Origin:** -  
+**Race:** Human  
+**Gender:** Male  
+**Rarity:** 4-Star  
+**Availability:** Standard  
+**Vision:** Cryo  
+**Weapon Type:** Claymore  
+**Archon Power:** -  
+**Constellation:** Nubis Caesor  
+**Special Dish:** Cold Delicacy Noodles  
+**Release Date:** September 15, 2020 (Version 1.0)  
+**Tags:** Resistance Reduction, Elemental Infusion, Cooldown Reduction, Attack Speed Boost, Expedition Bonus, Self-Damage Increase  
+**Introduction:** A young exorcist from a family of exorcists who goes to great lengths to suppress his "pure yang" constitution.
+
+---
+
+**Constellation**
+
+| Name | Effect |
+|-------|--------|
+| **Ice Unleashed** | The last attack in Chongyun’s Normal Attack combo releases three Ice Blades in front of him. Each Ice Blade deals 50% of Chongyun’s ATK as Cryo DMG to enemies in its path. |
+| **Atmospheric Revolution** | Elemental Skills and Elemental Bursts cast within the Frost Field created by Spirit Blade: Chonghua’s Layered Frost have their cooldown time decreased by 15%. |
+| **Cloudburst** | Increases the level of Spirit Blade: Cloud-Parting Star by 3. Maximum upgrade level is 15. |
+| **Frozen Skies** | When Chongyun’s attacks hit enemies affected by Cryo, he regenerates 1 Energy. This effect can occur once every 2s. |
+| **The True Path** | Increases the level of Spirit Blade: Chonghua’s Layered Frost by 3. Maximum upgrade level is 15. |
+| **Mystic Ice Blades** | Spirit Blade: Cloud-Parting Star deals 15% more DMG to enemies with lower HP percentage than Chongyun. Additionally, an extra Spirit Blade is summoned when casting. |
+
+---
+
+**Talent Upgrade Materials**
+
+| Level | Required Materials |
+|-------|--------------------|
+| 1→2 | 12,500 Mora, 3 Teachings of Diligence, 6 Damaged Masks |
+| 2→3 | 17,500 Mora, 2 Guides to Diligence, 3 Stained Masks |
+| 3→4 | 25,000 Mora, 4 Guides to Diligence, 4 Stained Masks |
+| 4→5 | 30,000 Mora, 6 Guides to Diligence, 6 Stained Masks |
+| 5→6 | 37,500 Mora, 9 Guides to Diligence, 9 Stained Masks |
+| 6→7 | 120,000 Mora, 4 Philosophies of Diligence, 4 Ominous Masks, 1 Dvalin’s Sigh |
+| 7→8 | 260,000 Mora, 6 Philosophies of Diligence, 6 Ominous Masks, 1 Dvalin’s Sigh |
+| 8→9 | 450,000 Mora, 12 Philosophies of Diligence, 9 Ominous Masks, 2 Dvalin’s Sigh |
+| 9→10 | 700,000 Mora, 16 Philosophies of Diligence, 12 Ominous Masks, 2 Dvalin’s Sigh, 1 Crown of Insight |
+
+---
+
+**Recommended Build**
+
+### Playstyles:
+- **Melt Build**
+- **Pure Cryo Build**
+- **Support Build**
+
+### Artifact Sets:
+- **Mixed:** 2-Piece Blizzard Strayer + 2-Piece Noblesse Oblige / Gladiator’s Finale / Wanderer’s Troupe
+- **Full Set Options:** 4-Piece Lavawalker / Gilded Dreams / Noblesse Oblige / Emblem of Severed Fate
+
+### Main Stat Priorities:
+- **Sands:** Elemental Mastery
+- **Goblet:** Cryo DMG Bonus
+- **Circlet:** CRIT Rate / CRIT DMG
+
+### Substat Priorities:
+CRIT Rate, CRIT DMG > Elemental Mastery, Energy Recharge > ATK%
+
+### Recommended Weapons:
+
+**Best-in-Slot:**
+- **4★ Serpent Spine**
+- **5★ Redhorn Stonethresher**
+- **5★ Beacon of the Reed Sea**
+- **5★ The Unforged**
+
+**Alternative Choices:**
+- **5★ Wolf’s Gravestone**
+- **4★ Akuoumaru**
+- **4★ Lithic Blade**
+
+**Other Usable Weapons:**
+- **5★ Skyward Pride**
+- **4★ Rainslasher**
+- **3★ Bloodstained Greatsword**
+
+### Skill Leveling Priority:
+- **Prioritize Elemental Burst (Spirit Blade: Cloud-Parting Star)**
+- **Avoid leveling Normal Attacks and Elemental Skill unless necessary**
+
+**Reasoning:** Chongyun’s main damage comes from his Elemental Burst, particularly in Melt teams. His Elemental Skill is primarily for Cryo infusion rather than damage, making it less important to level up.
+
+---
+
+**Not Recommended Weapons:**
+- **4★ Snow-Tombed Starsilver** (Physical DMG bonus is wasted due to Chongyun’s Cryo infusion removing Physical DMG potential.)
+

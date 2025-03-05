@@ -1,0 +1,102 @@
+**Title:** The Protector from Afar
+
+**Full Name:** Thoma
+
+**Nation:** Inazuma  
+**Origin:** Mondstadt  
+**Race:** Human  
+**Gender:** Male  
+**Rarity:** ★★★★  
+**Availability:** Permanent  
+**Vision:** Pyro  
+**Weapon:** Polearm  
+**Archon Residue:**  
+**Constellation:** Rubeum Scutum  
+**Specialty Dish:** "Warmth"  
+**Release Date:** November 2, 2021 (Version 2.2)  
+**Tags:** Shield, Damage Boost, Fishing, Coordinated Attack, Skill Duration Extension, Cooldown Reduction, Energy Recharge  
+**Description:** The Kamisato Clan's housekeeper, an influential figure in Inazuma's local circles.
+
+---
+
+### Constellations
+
+| Name | Effect |
+|------|--------|
+| Comrade’s Duty | When a character (excluding Thoma) protected by his Blazing Barrier is attacked, the cooldown of his Blazing Blessing and Crimson Ooyoroi is reduced by 3 seconds. This effect can be triggered once every 20 seconds. |
+| A Subordinate’s Skills | Increases the duration of Crimson Ooyoroi by 3 seconds. |
+| Fortified Resolve | Increases the level of Blazing Blessing by 3 (up to level 15). |
+| Long-Term Planning | After casting Crimson Ooyoroi, restores 15 Energy to Thoma. |
+| Raging Wildfire | Increases the level of Crimson Ooyoroi by 3 (up to level 15). |
+| Burning Heart | When obtaining or refreshing a Blazing Barrier, increases the Normal Attack, Charged Attack, and Plunging Attack DMG of all party members by 15% for 6 seconds. |
+
+---
+
+### Talent Level-Up Materials
+
+| Level | Required Materials |
+|-------|------------------|
+| 1→2 | 12,500 Mora, 3 Teachings of "Transience," 6 Treasure Hoarder Insignia |
+| 2→3 | 17,500 Mora, 2 Guide to "Transience," 3 Silver Raven Insignia |
+| 3→4 | 25,000 Mora, 4 Guide to "Transience," 4 Silver Raven Insignia |
+| 4→5 | 30,000 Mora, 6 Guide to "Transience," 6 Silver Raven Insignia |
+| 5→6 | 37,500 Mora, 9 Guide to "Transience," 9 Silver Raven Insignia |
+| 6→7 | 120,000 Mora, 4 Philosophies of "Transience," 4 Golden Raven Insignia, 1 Smoldering Pearl |
+| 7→8 | 260,000 Mora, 6 Philosophies of "Transience," 6 Golden Raven Insignia, 1 Smoldering Pearl |
+| 8→9 | 450,000 Mora, 12 Philosophies of "Transience," 9 Golden Raven Insignia, 2 Smoldering Pearl |
+| 9→10 | 700,000 Mora, 16 Philosophies of "Transience," 12 Golden Raven Insignia, 2 Smoldering Pearl, 1 Crown of Insight |
+
+---
+
+### Recommended Builds
+
+#### **Shield Support Build**
+
+- **Artifact Set:** 2-piece Emblem of Severed Fate + 2-piece Tenacity of the Millelith OR 2-piece Nymph’s Dream + Any relevant piece  
+- **Recommended Reasoning:** Thoma's shield strength scales with his HP, making the Tenacity set beneficial. His shield primarily comes from his Elemental Skill and Elemental Burst, with the latter being key for sustained shielding, necessitating the Emblem set for Energy Recharge. Without C4, his Energy Recharge requirement is 240%+; with C4, it drops to 200%+.
+- **Main Stats:**  
+  - Sands: Energy Recharge / HP%  
+  - Goblet: HP%  
+  - Circlet: HP% / CRIT Rate (for Favonius Lance)  
+- **Substats:** Energy Recharge, HP%, Flat HP, CRIT Rate (Favonius Lance)  
+- **Talent Prioritization:** Elemental Skill = Elemental Burst (Normal Attack not required)  
+- **Recommended Weapons:**  
+  - **Best Weapon:** Engulfing Lightning (High Energy Recharge, best-in-slot for sustain)  
+  - **Alternative Weapons:** Favonius Lance, Skyward Spine, Prototype Starglitter, "The Catch," Kitain Cross Spear  
+  - **Optional:** Black Tassel (if Energy Recharge is sufficient, prioritizing HP%)  
+
+#### **Burgeon Reaction Build**
+
+- **Artifact Set:** 4-piece Gilded Dreams OR 4-piece Flower of Paradise Lost + Any relevant piece  
+- **Recommended Reasoning:** This build is for players who want Thoma to trigger Burgeon reactions while offering some shielding. His slow Pyro application (3s intervals) ensures minimal Burning reactions, making him one of the best Burgeon triggers among Pyro characters. Gilded Dreams grants high Elemental Mastery, while Flower of Paradise Lost enhances Burgeon damage.
+- **Main Stats:**  
+  - Sands: Elemental Mastery / Energy Recharge  
+  - Goblet: Elemental Mastery  
+  - Circlet: Elemental Mastery  
+- **Substats:** Elemental Mastery > Energy Recharge > HP%  
+- **Talent Prioritization:** No upgrades required (Burgeon damage is independent of talent levels)  
+- **Recommended Weapons:**  
+  - **Best Weapon:** Kitain Cross Spear (EM main stat, helps with Energy needs)  
+  - **Alternative Weapons:** Favonius Lance, Prototype Starglitter, "The Catch" (for Energy Recharge)  
+  - **Other Options:** Moonpiercer, Dragon’s Bane (high EM but significant ER issues)  
+
+#### **Sub-DPS Build (Requires C4+)**
+
+- **Artifact Set:** 4-piece Emblem of Severed Fate OR 4-piece Noblesse Oblige + Any relevant piece  
+- **Recommended Reasoning:** Thoma’s Burst enables off-field Pyro damage, but due to high Energy costs, Emblem of Severed Fate is the best choice. Noblesse Oblige can be considered if no one else in the party uses it. Pre-C4, his damage potential is limited due to his high Energy needs.
+- **Main Stats:**  
+  - Sands: ATK% / Energy Recharge  
+  - Goblet: Pyro DMG Bonus  
+  - Circlet: CRIT Rate / CRIT DMG  
+- **Substats:** CRIT Rate, CRIT DMG, ATK%, Energy Recharge, HP%  
+- **Talent Prioritization:** Elemental Burst > Elemental Skill (Normal Attack not required)  
+- **Recommended Weapons:**  
+  - **Best Weapon:** Engulfing Lightning (High ER, best for sustain and damage)  
+  - **Alternative Weapons:** "The Catch" (Best 4-star choice), Staff of Homa (High CRIT DMG, also boosts shield strength), Wavebreaker’s Fin (High Burst DMG, but needs ER balance)  
+  - **Other Options:** Skyward Spine, Blackcliff Pole, Vortex Vanquisher  
+
+---
+
+### **Final Notes**
+Thoma is a versatile Pyro polearm user who can be built as a shield support, a Burgeon trigger, or a sub-DPS with high Energy Recharge needs. His Constellations significantly improve his utility, especially at C4, which drastically reduces his Energy concerns. Choose your build based on your team's needs!
+

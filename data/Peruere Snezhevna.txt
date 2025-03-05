@@ -1,0 +1,102 @@
+**Arlecchino**
+
+**Title:** Silent Moon of Calamity  
+**Full Name:** Peruere Snezhevna  
+**Nation:** Snezhnaya  
+**Birthplace:** Descendant of the Crimson Moon of Khaenri'ah (Raised in Fontaine)  
+**Race:** -  
+**Gender:** Female  
+**Rarity:** 5-Star  
+**Availability:** Limited (UP Banner)  
+**Vision:** Pyro  
+**Weapon Type:** Polearm  
+**Primordial Force:** -  
+**Constellation:** Purifying Flame  
+**Signature Dish:** Traces of the Hearth  
+**Release Date:** April 24, 2024 (Version 4.6)  
+**Tags:** Cooldown Reduction, Special Elemental Infusion, Self-Healing, Increased Resistance, Self-Damage Boost, Rapid Movement, Increased Crit Rate, Increased Crit Damage, Life Bond  
+
+**Character Introduction:**
+Arlecchino, the Fourth of the Fatui Harbingers, known as "The Knave." A composed and ruthless diplomat, she is the "Father" whom the children of the House of the Hearth both fear and rely on.
+
+---
+
+### **Constellation Effects**
+
+| Name | Effect |
+| --- | --- |
+| "All Hatreds and Debts Shall Be Repaid by Me..." | Enhances the Red Death Banquet effect further by 100%. Additionally, while in the Red Death Banquet state, Arlecchino gains increased resistance to interruption when performing Normal and Charged Attacks. |
+| "All Rewards and Punishments Come from Me..." | Blood Repayment Decree is immediately applied as its final stage. When Arlecchino retrieves the decree, she summons Bloodfire of the Silent Moon in front of her, dealing AoE Pyro DMG equal to 900% of her ATK and increasing all her Elemental and Physical Resistance by 20% for 15 seconds. This effect can trigger once every 10 seconds. Requires the unlocking of the passive talent "Only Pain Can Repay." |
+| "You Shall Become Our New Family..." | Increases the level of Normal Attack: Invitation to Beheading by 3. Can be increased up to level 15. |
+| "Henceforth, You Must Love and Protect Each Other..." | When Arlecchino successfully retrieves the Blood Repayment Decree, the cooldown of Moonrise's Judgement is reduced by 2 seconds, and she regenerates 15 Elemental Energy. This effect can trigger once every 10 seconds. |
+| "We Are Already Alone, As Good As Dead..." | Increases the level of Moonrise's Judgement by 3. Can be increased up to level 15. |
+| "From Now On, We Shall Feast on Rebirth Together." | The damage of Moonrise's Judgement is increased by 700% of Arlecchino’s ATK multiplied by the percentage of her current Life Bond. For 20 seconds after using her Elemental Burst, Arlecchino’s Normal Attack and Elemental Burst Crit Rate increases by 10%, and Crit DMG increases by 70%. This effect can trigger once every 15 seconds. |
+
+---
+
+### **Talent Material Requirements**
+
+| Level | Materials Required |
+| --- | --- |
+| 1→2 | 12,500 Mora, 3 Teachings of "Order," 6 Recruit’s Insignia |
+| 2→3 | 17,500 Mora, 2 Guide to "Order," 3 Sergeant’s Insignia |
+| 3→4 | 25,000 Mora, 4 Guide to "Order," 4 Sergeant’s Insignia |
+| 4→5 | 30,000 Mora, 6 Guide to "Order," 6 Sergeant’s Insignia |
+| 5→6 | 37,500 Mora, 9 Guide to "Order," 9 Sergeant’s Insignia |
+| 6→7 | 120,000 Mora, 4 Philosophies of "Order," 4 Lieutenant’s Insignia, 1 Remnant Fire Lamp |
+| 7→8 | 260,000 Mora, 6 Philosophies of "Order," 6 Lieutenant’s Insignia, 1 Remnant Fire Lamp |
+| 8→9 | 450,000 Mora, 12 Philosophies of "Order," 9 Lieutenant’s Insignia, 2 Remnant Fire Lamp |
+| 9→10 | 700,000 Mora, 16 Philosophies of "Order," 12 Lieutenant’s Insignia, 2 Remnant Fire Lamp, 1 Crown of Insight |
+
+---
+
+### **Recommended Builds**
+
+#### **Artifact Sets**
+
+- **General DPS**:
+  - Best: 4-piece Ballad of the Boundless Blue + any off-piece
+  - Alternative: 4-piece Gladiator’s Finale / 4-piece Shimenawa’s Reminiscence / 4-piece Retracing Bolide / 4-piece Echoes of an Offering + any off-piece
+  - **Pure Pyro**: 4-piece Crimson Witch of Flames + any off-piece
+  - **Reaction-based**: 4-piece Gilded Dreams / 4-piece Crimson Witch of Flames + any off-piece
+
+#### **Main Stats Recommendation**
+
+- **Sands**: ATK% / Elemental Mastery (for Vaporize at C2+)
+- **Goblet**: Pyro DMG Bonus / ATK%
+- **Circlet**: Crit Rate / Crit DMG
+
+#### **Talent Priority**
+
+**Normal Attack > Elemental Burst > Elemental Skill**
+
+**Recommended Weapon Choices:**
+
+- **Best 5-Star**: Crimson Moon’s Shape
+- **Alternative 5-Star Options**: Primordial Jade Winged-Spear, Staff of Homa, Staff of the Scarlet Sands
+- **4-Star Options**: Deathmatch, The Catch, Blackcliff Pole
+- **3-Star Option (if no better choice available)**: White Tassel
+
+---
+
+### **Team Compositions**
+
+#### **5-Star Synergies**
+| Character | Recommended Role |
+| --- | --- |
+| Kaedehara Kazuha | Elemental DMG Support (for Vaporize and Pure Pyro teams). Can use Swirl to apply Viridescent Venerer’s resistance shred and boost Pyro DMG through his passive talent. |
+| Bennett | ATK buffer and healer, making him an excellent teammate for Pyro teams. |
+| Yelan / Xingqiu | Excellent Hydro enablers for Vaporize teams. |
+| Nahida | Boosts Elemental Mastery and Pyro DMG in reaction teams. |
+| Zhongli | Provides shields for added survivability, allowing Arlecchino to focus on offense. |
+
+#### **4-Star Synergies**
+| Character | Recommended Role |
+| --- | --- |
+| Xiangling | Pyro sub-DPS, excellent in Pyro resonance teams. |
+| Fischl | Electro enabler for Overloaded compositions. |
+| Diona | Provides Cryo application and shields. |
+| Thoma | Shields and Pyro resonance support. |
+
+Arlecchino excels as a main DPS with strong synergy in Pyro or Vaporize compositions. Her kit is best utilized with proper energy support, shields, and resistance shredding from teammates.
+

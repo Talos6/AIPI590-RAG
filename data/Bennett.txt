@@ -1,0 +1,246 @@
+以下是一份全英文的「班尼特（Bennett）」角色信息文档，翻译参考了官方及社区常用译名，以尽量与游戏内及常见资料保持一致。
+
+---
+
+## Bennett
+
+**Title**  
+Trial by Fire
+
+**Full Name/Real Name**  
+Bennett
+
+**Nation**  
+Mondstadt
+
+**Home Country**  
+Unknown
+
+**Race**  
+Human
+
+**Gender**  
+Male
+
+**Rarity**  
+4★ (Four-Star)
+
+**Availability**  
+Permanent (Standard)
+
+**Vision (Element)**  
+Pyro
+
+**Weapon Type**  
+Sword (One-Handed Sword)
+
+**Constellation**  
+Rota Calamitas
+
+**Special Dish**  
+Teyvat Charred Egg
+
+**Release Date**  
+September 15, 2020 (Version 1.0)
+
+**Tags**  
+Healing, Attack Buff, Damage Increase, Elemental Application, Elemental Infusion, Expedition, Cooldown Reduction
+
+**Introduction**  
+A young adventurer from Mondstadt whose kind and earnest nature stands in stark contrast to his streak of bad luck.
+
+---
+
+## Constellations
+
+| Name                      | Effect                                                                                                                                                                                                                                                                                                                                  |
+|---------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **1. Grand Expectation**  | The ATK increase effect of **Fantastic Voyage** no longer has an HP restriction. Its ATK Bonus is further increased by an additional 20% of Bennett's Base ATK.                                                                                                                                                                         |
+| **2. Impasse Conqueror**  | When Bennett’s HP falls below 70%, his Energy Recharge is increased by 30%.                                                                                                                                                                                                                                                             |
+| **3. Unstoppable Enthusiasm** | Increases the Level of **Passion Overload** by 3. Maximum upgrade level is 15.                                                                                                                                                                                                                                                          |
+| **4. Unexpected Odyssey** | When performing a Normal Attack at the second hit of a 1s Charged **Passion Overload**, an additional attack will be performed, dealing 135% of the second hit’s DMG.                                                                                                                                                                 |
+| **5. True Explorer**      | Increases the Level of **Fantastic Voyage** by 3. Maximum upgrade level is 15.                                                                                                                                                                                                                                                          |
+| **6. Fire Ventures with Me** | Sword, Claymore, and Polearm-wielding characters inside **Fantastic Voyage**’s field gain a 15% Pyro DMG Bonus and receive Pyro Infusion. (Note: In practice, the Pyro DMG Bonus applies to all weapon types, not just those three.)                                                                                              |
+
+---
+
+## Talent Level-Up Cost
+
+| Level | Required Materials                                                                                        |
+|-------|-----------------------------------------------------------------------------------------------------------|
+| **1 → 2** | 12,500 Mora<br>3 **Teachings of Resistance**<br>6 **Treasure Hoarder Insignia**                          |
+| **2 → 3** | 17,500 Mora<br>2 **Guide to Resistance**<br>3 **Silver Raven Insignia**                                  |
+| **3 → 4** | 25,000 Mora<br>4 **Guide to Resistance**<br>4 **Silver Raven Insignia**                                  |
+| **4 → 5** | 30,000 Mora<br>6 **Guide to Resistance**<br>6 **Silver Raven Insignia**                                  |
+| **5 → 6** | 37,500 Mora<br>9 **Guide to Resistance**<br>9 **Silver Raven Insignia**                                  |
+| **6 → 7** | 120,000 Mora<br>4 **Philosophies of Resistance**<br>4 **Golden Raven Insignia**<br>1 **Dvalin's Plume**  |
+| **7 → 8** | 260,000 Mora<br>6 **Philosophies of Resistance**<br>6 **Golden Raven Insignia**<br>1 **Dvalin's Plume**  |
+| **8 → 9** | 450,000 Mora<br>12 **Philosophies of Resistance**<br>9 **Golden Raven Insignia**<br>2 **Dvalin's Plume** |
+| **9 → 10** | 700,000 Mora<br>16 **Philosophies of Resistance**<br>12 **Golden Raven Insignia**<br>2 **Dvalin's Plume**<br>1 **Crown of Insight** |
+
+---
+
+## Recommended Builds
+
+### 1. Buff Support / Utility Build
+
+**Recommended Artifact Sets**  
+- 4-Piece **Noblesse Oblige**  
+- 4-Piece **Instructor** + any off-piece
+
+**Reasoning**  
+- A 4-piece **Noblesse Oblige** set increases the entire party’s ATK by 20% for 12s after Bennett casts his Elemental Burst **Fantastic Voyage**, further boosting his support capabilities.  
+- A 4-piece **Instructor** set grants the party +120 Elemental Mastery after the wearer triggers an Elemental Reaction, which can be useful in teams focused on Pyro reactions (especially Vaporize). However, **Instructor** is only available up to 4★ rarity, leading to lower HP from artifact main/sub-stats compared to 5★ sets—thus reducing Bennett’s healing potential. It’s generally used only if another character in the team is already using a 4-piece **Noblesse Oblige** and if your team heavily relies on Pyro reactions.
+
+**Main Stats**  
+- **Sands**: Energy Recharge% / HP%  
+- **Goblet**: HP%  
+- **Circlet**: Healing Bonus  
+
+**Sub Stats**  
+- HP%, Energy Recharge%, CRIT Rate (if using Favonius Sword)
+
+**Explanation**  
+Bennett’s healing from **Fantastic Voyage** scales with his Max HP. Although his Ascension stat is Energy Recharge, ensuring that Bennett can continuously use his Elemental Burst in every rotation is vital because nearly all his utility comes from **Fantastic Voyage**.
+
+---
+
+**Single Artifact Piece: "Sacrificial…(Water Substitution)"**  
+- **Main Stat**: Healing Bonus  
+- **Sub Stats**: Energy Recharge%, HP%, CRIT Rate (if using Favonius Sword)  
+- **Reasoning**: This is a situational choice against the “Slowing Water” debuff (from the “Cecilia Garden” Artifact domain), to mitigate the prolonged cooldown if Bennett gets drenched with Hydro. You can wait for the Hydro status to wear off before casting again to maintain consistent bursts.  
+
+---
+
+**Talent Priority**  
+- **Only upgrade Elemental Burst** (ignore Normal Attack and Elemental Skill)  
+- **Reason**: Both Bennett’s Healing and ATK Buff scale exclusively with the level of **Fantastic Voyage**. Therefore, maxing his Burst alone is sufficient for support.
+
+---
+
+**Best 5★ Weapons**  
+- **Skyward Blade**  
+- **Aquila Favonia**  
+- **Mistsplitter Reforged**  
+- **The Freedom-Sworn (a.k.a. Song of Broken Pines for swords is not correct; actual name is "Freedom-Sworn")**  
+  *(Note: The text mentions “5星赦罪,” often interpreted as the Chinese name for “Freedom-Sworn,” though the in-game English name is “Freedom-Sworn.”)*
+
+**Reasoning**  
+- **Skyward Blade**: High Base ATK, plus an Energy Recharge sub-stat. Perfect synergy with Bennett, who needs both for his support role.  
+- **Aquila Favonia / Mistsplitter Reforged / Freedom-Sworn**: All have the highest Base ATK among swords, useful if Bennett doesn’t struggle for Energy Recharge.  
+  - **Aquila Favonia** offers some extra survivability.  
+  - **Mistsplitter Reforged** and **Freedom-Sworn** can grant additional personal damage or party buffs.
+
+> **Note on Bennett’s ATK Buff and Weapon Choice**  
+> Bennett’s **Fantastic Voyage** provides an ATK Bonus based on his total Base ATK (Bennett’s personal base + weapon’s base). For example, if you open the character screen for Bennett, you might see something like **ATK 558 + 685**.  
+> - **558** is his “white stat” (base), which scales the Burst’s ATK bonus.  
+> - **685** is the “green stat” gained from artifacts, weapon sub-stats, food, etc., and **does not** affect the Burst’s ATK bonus.
+
+---
+
+**Other Recommended Weapons**  
+- **Freedom-Sworn** (if not listed above under “Best 5★”)  
+- **Forest Regalia**  
+- **Blackcliff Longsword** (CN text: 暗巷闪光)  
+
+**Reasoning**  
+- **Freedom-Sworn**: Same high Base ATK as Skyward Blade, but no ER sub-stat. Best for “no Energy issues” Bennett. Triggering Elemental Reactions twice activates its “Millennial Movement: Song of Resistance,” giving party-wide ATK% and Normal/Charged/Plunging DMG bonuses. In certain non-Pyro-exclusive teams focusing on Reaction damage, Freedom-Sworn can outperform Aquila Favonia and Mistsplitter in overall party buffs.  
+- **Blackcliff Longsword**: High 620 Base ATK (similar to Aquila Favonia), a decent 4★ “no Energy issues” option.  
+- **Forest Regalia**: 565 Base ATK plus an Energy Recharge sub-stat, making it one of the best 4★ swords for Bennett. It’s a forgeable weapon, thus easier to acquire and refine. Although the weapon effect gives Elemental Mastery to the wielder (which Bennett mostly doesn’t need), it can partially replace a 4-piece **Instructor** set if your team has Dendro characters and others who benefit from EM.
+
+---
+
+**Favonius Sword** (4★)  
+
+**Reasoning**  
+- This is a “tactical” weapon with a relatively low 454 Base ATK, so it provides a weaker ATK buff. However, its passive can generate particles for the team, particularly useful in high Energy demands or if you lack other strong battery options. At R5, Favonius Sword’s cooldown is only 6s and triggers with 100% probability on CRIT, meaning Bennett can feed teammates with extra energy or ensure near-constant bursts in a pinch.  
+- Typical scenarios include teams lacking dedicated energy sources (no Raiden Shogun, Klee, etc.) or when your team values frequent healing more than a big ATK buff (e.g., early game or heavy healing/burst spam scenarios).
+
+---
+
+**Other 4★/5★ Weapons**  
+- **Crossing of Chevrons** (CN text: 灰河渡手)  
+- **Festering Desire**  
+- **Key of Khaj-Nisut**  
+- **Prototype Rancour**  
+
+**Reasoning**  
+- **Crossing of Chevrons (Fontaine Fishing Weapon)**: 510 Base ATK and an ER sub-stat, significantly easing Energy requirements. Higher Base ATK than Favonius Sword, so stronger ATK buff.  
+- **Festering Desire**: Also 510 Base ATK and ER sub-stat; works similarly to above. However, it was a limited-time event weapon and is no longer available.  
+- **Key of Khaj-Nisut**: A 5★ with relatively lower Base ATK (542), but still higher than most 4★s. It grants a huge HP% bonus—boosting Bennett’s healing—plus it can provide around 75 EM to teammates if Bennett’s HP reaches 40k. However, it’s generally not worth pulling specifically for Bennett, since others like Mistsplitter or Aquila Favonia are better for raw ATK buffs.  
+- **Prototype Rancour, End of the Line, etc.**: They have decent 4★ Base ATK but unhelpful sub-stats and passives for Bennett’s support role. **Prototype Rancour** can be easily obtained at AR 10, so it’s a beginner option but quickly outclassed by **Forest Regalia** if forging for Bennett. **End of the Line** is a bow, so it’s likely a mistake in the original text or just a mention that similar stat lines exist on certain weapons.
+
+---
+
+**Weapons Not Recommended**  
+- Generally, any sword with very low Base ATK or passives that don’t benefit Bennett’s healing, buffing, or personal damage is not ideal for him.
+
+---
+
+## Alternative / Damage-Focused Build
+
+### 2. Damage DPS / Sub-DPS Build
+
+**Recommended Artifact Sets**  
+- For Amplifying Reactions (Melt/Vaporize): 4-Piece **Crimson Witch of Flames** + off-piece  
+- For synergy with Furina (Neuvillette’s Archon?), the text says “芙宁娜” which likely means **Furina**: 4-Piece **Marechaussee Hunter** + off-piece  
+- For Sub-DPS: 4-Piece **Noblesse Oblige** + off-piece, with offensive main stats
+
+**Reasoning**  
+- **Crimson Witch of Flames**: Great for Pyro DMG and Reaction-based builds. Bennett can easily stack its 4-piece buff via repeated Elemental Skill uses (especially with Melt or Vaporize).  
+- **Marechaussee Hunter**: If you plan on a style focusing on plunging attacks with Furina or other synergy that boosts CRIT, this set can offer high CRIT Rate.  
+- **Noblesse Oblige** (4-piece) for Sub-DPS: Similar to a support set, but pick main stats that favor damage (ATK%, Pyro DMG, CRIT) instead of HP and Healing Bonus. Bennett’s healing will drop, but you gain personal damage potential. This is primarily for players who want to main DPS or high-damage Bennett in lower-pressure scenarios.
+
+**Main Stats**  
+- **Sands**: ATK% / Elemental Mastery (if heavily focusing on Reactions)  
+- **Goblet**: Pyro DMG Bonus  
+- **Circlet**: CRIT Rate / CRIT DMG  
+
+**Sub Stats**  
+- CRIT Rate, CRIT DMG > Elemental Mastery (for Melt/Vaporize) > ATK% > Energy Recharge
+
+**Explanation**  
+- As a DPS, Bennett values typical damage stats like CRIT and ATK%. If paired with characters who can constantly apply Cryo/Hydro (e.g., Chongyun for Melt, Xingqiu for Vaporize), Elemental Mastery also becomes a good investment.  
+- In certain team rotations (e.g., “International” comps), Bennett may directly trigger a Melt or Vaporize at the same moment he casts his Burst, so an extra EM investment can help.
+
+---
+
+**Talent Priority**  
+- **Elemental Burst** > **Elemental Skill** > **Normal Attack**  
+- **Reason**: Bennett’s Burst remains extremely valuable for both self-buffing and team support. As a main or sub-DPS, he often relies on **Passion Overload** (Elemental Skill) for heavier hitting reactions before Normal Attacks. Normal Attacks gain Pyro Infusion at C6 but still do less damage than well-timed Skill combos.
+
+---
+
+**Best 5★ Weapon**  
+- **Mistsplitter Reforged**  
+
+**Reasoning**  
+- Boasts very high Base ATK (increasing Bennett’s self-buff), CRIT DMG sub-stat, and additional Elemental DMG Bonus from its passive—ideal for maximizing Bennett’s own damage.
+
+---
+
+**Other 5★ Options**  
+- **Skyward Blade**  
+- **Primordial Jade Cutter**  
+
+**Reasoning**  
+- **Skyward Blade**: High Base ATK plus Energy Recharge. You can shift artifact main stats away from ER toward ATK or HP for more personal damage or healing.  
+- **Primordial Jade Cutter**: Provides HP% (boosting healing) and a large CRIT Rate sub-stat, plus an ATK bonus scaling off HP. Its high CRIT Rate can compensate for the set’s or sub-stat distribution if you want a more balanced DPS approach.
+
+---
+
+**4★ Alternatives**  
+- **Festering Desire**  
+- **Freedom-Sworn**  
+
+**Reasoning**  
+- **Festering Desire**: Its passive is tailored toward boosting Elemental Skill DMG and CRIT Rate, aligning nicely with Bennett’s main source of damage bursts (Elemental Skill “Passion Overload”).  
+- **Freedom-Sworn**: Similar argument as the support build, but if you’re using Bennett primarily for Reactions, the EM sub-stat and extra DMG Bonus can also boost his personal Melt/Vape hits while buffing the team.
+
+---
+
+**Not Recommended Weapons**  
+- Any sword with low Base ATK or passives purely for shielding/DEF that don’t enhance Bennett’s DPS or synergy is generally not worthwhile for a damage-focused Bennett.
+
+---
+

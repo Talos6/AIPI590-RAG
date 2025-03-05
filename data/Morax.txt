@@ -1,0 +1,120 @@
+**Zhongli**
+
+---
+
+**Title:** A Wanderer in the Mortal Realm  
+**Full Name/Real Name:** Morax  
+**Affiliated Nation:** Liyue  
+**Place of Origin:** -  
+**Race:** Archon  
+**Gender:** Male  
+**Rarity:** 5-Star  
+**Availability:** Limited UP  
+**Vision:** Geo  
+**Weapon Type:** Polearm  
+**Original Power:** -  
+**Constellation:** God of the Rock Constellation (Initially displayed as "???" in character artwork and before completing Zhongli's story quest "Historia Antiqua Chapter: Act I")  
+**Special Dish:** Slow-Cooked Bamboo Shoot Soup  
+**Release Date:** December 1, 2020 (Version 1.1)  
+**Tags:** Healing, Crowd Control, Resistance Reduction, Shield, Shield Strength Enhancement, Forging Refund, Self-Damage Increase, Interruption Resistance, Geo Constructs  
+
+**Character Introduction**  
+A mysterious consultant invited by the Wangsheng Funeral Parlor. He is highly knowledgeable and has deep insights into various matters.
+
+---
+
+### Character Story 5 (Replaces the original story after completing Chapter 3, Act 5 of the main storyline)
+
+As the oldest of the Seven Archons, the "God of Contracts" has witnessed countless years pass by.
+
+He still remembers the time when the flames of the Archon War had just been extinguished, and the final seven deities ascended to their thrones, marking the end of that tumultuous era. Despite their vast differences and distant domains, they all bore the sacred duty of "guiding humanity."
+
+Through the ages, the Seven have changed time and time again. Now, only two of the original seven remain in power: "The God of Contracts" and the free-spirited Anemo Archon.
+
+The second oldest among the Seven is the cheerful and carefree Barbatos. Two thousand years ago, when Barbatos first visited Liyue, Morax’s initial thought was that his fellow Archon must have encountered difficulties fulfilling his duties and required assistance.
+
+Thus, before Barbatos even landed from the winds, Morax had already prepared to receive him, ready to offer his aid.
+
+However, the Anemo Archon simply extended a bottle of wine toward him.
+
+"This is Mondstadt’s finest. Would you like to try it?"
+
+—To forsake one's responsibilities just to deliver a bottle of wine seemed utterly absurd.
+
+Even so, Barbatos continued to visit, wandering around Liyue Harbor and asking Morax all sorts of peculiar questions. His curiosity was as boundless as the wine in his hand.
+
+Back in those days, the Seven would often gather in Liyue.
+
+Even now, Morax can still recall the taste of that wine.
+
+Since then, the world has continued to change, and everything he once knew has gradually faded.
+
+The Archons have come and gone, and among the seven who once raised their glasses together, five have vanished.
+
+The ancient duty of the Seven—to guide humanity—has begun to lose significance in the eyes of some of the newer gods.
+
+After witnessing over three thousand years of history, even the hardest rock can erode.
+
+And the wind no longer comes to his side.
+
+One rainy morning, the old deity strolled through Liyue Harbor and overheard a merchant praising his subordinate:
+
+"You have fulfilled your duty well. Now, go and rest."
+
+...
+
+The God of Contracts stood still among the bustling crowd.
+
+"Have I... completed my duty?"
+
+Thus, the god pondered.
+
+---
+
+### Constellation
+
+| Name | Effect |
+|------------------------|---------------------------------------------------------------------------------|
+| Rock, the Backbone of Earth | Can create up to 2 Stone Steles simultaneously. |
+| Stone, the Cradle of Jade | When Planet Befall lands, it grants a Jade Shield to nearby active characters. |
+| Jade, Shining Through Darkness | Increases Dominus Lapidis’ level by 3. Maximum upgrade level: 15. |
+| Amber, Strength Unyielding | Increases the AoE of Planet Befall by 20%, and extends the Petrification effect by 2 seconds. |
+| Lapis, Divine Will | Increases Planet Befall’s level by 3. Maximum upgrade level: 15. |
+| Chrysos, Bounty of Dominator | When the Jade Shield takes damage, it heals the current character for 40% of the damage absorbed. A single instance of healing cannot exceed 8% of the character's Max HP. |
+
+---
+
+### Talent Upgrade Materials
+
+| Level | Required Materials |
+|-------|--------------------------------------------------------------------------------------------|
+| 1→2  | 12,500 Mora, 3 Teachings of Gold, 6 Slime Condensate |
+| 2→3  | 17,500 Mora, 2 Guide to Gold, 3 Slime Secretions |
+| 3→4  | 25,000 Mora, 4 Guide to Gold, 4 Slime Secretions |
+| 4→5  | 30,000 Mora, 6 Guide to Gold, 6 Slime Secretions |
+| 5→6  | 37,500 Mora, 9 Guide to Gold, 9 Slime Secretions |
+| 6→7  | 120,000 Mora, 4 Philosophies of Gold, 4 Slime Concentrate, 1 Tusk of Monoceros Caeli |
+| 7→8  | 260,000 Mora, 6 Philosophies of Gold, 6 Slime Concentrate, 1 Tusk of Monoceros Caeli |
+| 8→9  | 450,000 Mora, 12 Philosophies of Gold, 9 Slime Concentrate, 2 Tusk of Monoceros Caeli |
+| 9→10 | 700,000 Mora, 16 Philosophies of Gold, 12 Slime Concentrate, 2 Tusk of Monoceros Caeli, 1 Crown of Insight |
+
+---
+
+### Recommended Builds
+
+**Roles:**
+- Shield Support
+- Quick-Swap Sub-DPS
+- Resonance Main DPS
+- Normal Attack Main DPS
+
+**Artifact Sets:**  
+- **General:** 4-piece Tenacity of the Millelith or 4-piece Archaic Petra  
+- **Optional:** 4-piece Deepwood Memories or 4-piece Instructor + Any  
+- **Hybrid:** 2-piece Tenacity of the Millelith + 2-piece Vourukasha’s Glow + Any  
+
+**Weapon Recommendations:**  
+- **Best-in-Slot:** 3★ Black Tassel, 4★ Favonius Lance  
+- **Optional:** 5★ Staff of Homa, 4★ The Catch  
+
+---

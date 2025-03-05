@@ -1,0 +1,129 @@
+**Keqing**
+
+**Title**: Driving Thunder  
+**Full Name**: Keqing  
+**Nation**: Liyue  
+**Race**: Human  
+**Gender**: Female  
+**Rarity**: 5-Star  
+**Availability**: Permanent  
+**Vision**: Electro  
+**Weapon**: Sword  
+**Constellation**: Trulla Cementarii  
+**Special Dish**: Survival Grilled Fish  
+**Release Date**: September 15, 2020 (Version 1.0)  
+**Tags**: Teleportation, Energy Regeneration, Expeditions, Self-Infusion, Self-Damage Buff, Self-CRIT Rate Buff  
+
+**Introduction**: One of the "Liyue Qixing," the Yuheng. She holds critical views on "Liyue ruled by Rex Lapis' decrees"—yet the God himself appreciates individuals like her.
+
+---
+
+### **Constellation**
+
+| Name | Effect |
+|---|---|
+| **Thundering Might** | When Keqing re-casts Stellar Restoration while a Lightning Stiletto is present, she deals AoE Electro DMG equal to 50% of her ATK at both the original and teleportation locations. |
+| **Keen Extraction** | When Keqing’s Normal and Charged Attacks hit enemies affected by Electro, there is a 50% chance to generate an Elemental Particle. This effect can occur once every 5s. |
+| **Foreseen Reformation** | Increases the level of Starward Sword by 3, up to a maximum of 15. |
+| **Attunement** | After triggering an Electro-related reaction, Keqing's ATK is increased by 25% for 10 seconds. |
+| **Beckoning Stars** | Increases the level of Stellar Restoration by 3, up to a maximum of 15. |
+| **Tenacious Star** | When Normal, Charged, Elemental Skill, or Elemental Burst attacks deal damage, Keqing gains 6% Electro DMG Bonus for 8 seconds. Each effect is independent. |
+
+---
+
+### **Talent Level-Up Materials**
+
+| Level | Required Materials |
+|---|---|
+| 1 → 2 | 12,500 Mora, 3 Teachings of Prosperity, 6 Whopperflower Nectar |
+| 2 → 3 | 17,500 Mora, 2 Guide to Prosperity, 3 Shimmering Nectar |
+| 3 → 4 | 25,000 Mora, 4 Guide to Prosperity, 4 Shimmering Nectar |
+| 4 → 5 | 30,000 Mora, 6 Guide to Prosperity, 6 Shimmering Nectar |
+| 5 → 6 | 37,500 Mora, 9 Guide to Prosperity, 9 Shimmering Nectar |
+| 6 → 7 | 120,000 Mora, 4 Philosophies of Prosperity, 4 Energy Nectar, 1 Ring of Boreas |
+| 7 → 8 | 260,000 Mora, 6 Philosophies of Prosperity, 6 Energy Nectar, 1 Ring of Boreas |
+| 8 → 9 | 450,000 Mora, 12 Philosophies of Prosperity, 9 Energy Nectar, 2 Ring of Boreas |
+| 9 → 10 | 700,000 Mora, 16 Philosophies of Prosperity, 12 Energy Nectar, 2 Ring of Boreas, 1 Crown of Insight |
+
+---
+
+### **Recommended Builds**
+
+#### **Electro DPS Build**
+
+- **Recommended Artifact Sets**:
+  - 4-piece *Thundering Fury*
+  - 4-piece *Gilded Dreams* (for Aggravate teams)
+  - 4-piece *Shimenawa’s Reminiscence* (for pure Electro damage)
+  - 2-piece *Thundering Fury* + 2-piece *Gladiator’s Finale* (or any +18% ATK set)
+
+- **Main Stats**:
+  - **Sands**: ATK%
+  - **Goblet**: Electro DMG Bonus
+  - **Circlet**: CRIT Rate / CRIT DMG
+
+- **Substats**:
+  - CRIT Rate, CRIT DMG > ATK% > Elemental Mastery (for Aggravate builds)
+
+- **Best Weapons**:
+  - *Mistsplitter Reforged* (5★)
+  - *Primordial Jade Cutter* (5★)
+
+- **Alternative Weapons**:
+  - *Haran Geppaku Futsu* (5★)
+  - *The Black Sword* (4★)
+  - *Lion’s Roar* (4★)
+  - *Iron Sting* (4★)
+  - *Dark Iron Sword* (3★, for Aggravate builds)
+
+#### **Aggravate DPS Build**
+
+- **Recommended Artifact Sets**:
+  - 4-piece *Gilded Dreams*
+  - 4-piece *Thundering Fury*
+
+- **Main Stats**:
+  - **Sands**: ATK% / Elemental Mastery
+  - **Goblet**: Electro DMG Bonus
+  - **Circlet**: CRIT Rate / CRIT DMG
+
+- **Substats**:
+  - CRIT Rate, CRIT DMG > ATK% > Elemental Mastery
+
+- **Best Weapons**:
+  - *Mistsplitter Reforged* (5★)
+  - *Primordial Jade Cutter* (5★)
+
+- **Alternative Weapons**:
+  - *Haran Geppaku Futsu* (5★)
+  - *The Black Sword* (4★)
+  - *Lion’s Roar* (4★)
+  - *Iron Sting* (4★)
+
+#### **Physical DPS Build**
+
+- **Recommended Artifact Sets**:
+  - 4-piece *Pale Flame*
+  - 4-piece *Bloodstained Chivalry*
+  - 2-piece *Pale Flame* + 2-piece *Bloodstained Chivalry*
+
+- **Main Stats**:
+  - **Sands**: ATK%
+  - **Goblet**: Physical DMG Bonus
+  - **Circlet**: CRIT Rate / CRIT DMG
+
+- **Substats**:
+  - CRIT DMG, CRIT Rate, ATK%
+
+- **Best Weapons**:
+  - *Aquila Favonia* (5★)
+  - *Primordial Jade Cutter* (5★)
+
+- **Alternative Weapons**:
+  - *The Black Sword* (4★)
+  - *Prototype Rancour* (4★)
+  - *The Flute* (4★)
+  - *Summit Shaper* (5★)
+
+Keqing is a versatile Electro character capable of dealing consistent elemental damage through fast attack combos. With the introduction of Aggravate reactions in Dendro-based teams, her Electro output has significantly improved. Depending on the build, Keqing can function as a standard Electro DPS, an Aggravate reaction DPS, or a Physical DPS. Her rapid attacks and teleportation ability make her a dynamic and flexible character for various team compositions.
+

@@ -1,0 +1,233 @@
+**New Document: Yaoyao (English Translation)**
+
+---
+
+### Title 
+**仙蕊玲珑**  
+*(Official title currently unknown in English; often rendered as something akin to “Burgeoning Grace” in fan translations.)*
+
+### Full Name/Real Name 
+**瑶瑶 (Yaoyao)**
+
+### Nation  
+**Liyue**
+
+### Race  
+**Human**
+
+### Gender  
+**Female**
+
+### Rarity  
+**4★**
+
+### Availability  
+**Permanent**
+
+### Vision  
+**Dendro**
+
+### Weapon  
+**Polearm**
+
+### Constellation  
+**木樨座**  
+*(Officially untranslated in English game text at this time; literal meaning is “Osmanthus.”)*
+
+### Specialty Dish  
+**Qingce Household Dish**
+
+### Release Date  
+**January 18, 2023 (Version 3.4)**
+
+### Tags  
+Healing, Damage Increase, HP Regeneration, Animal/Creature Affinity, Energy Restoration, Self-Resistance Increase
+
+### Introduction 
+> *“The youngest disciple of Streetward Rambler (Madame Ping), a gentle and caring ‘little adult.’”*
+
+---
+
+## Constellations
+
+| Name | Effect |
+| --- | --- |
+| **妙受琼阁** (C1) | **When White Jade Radishes explode**, the current active character within their AoE gains a **15% Dendro DMG Bonus** for 8s and restores 15 HP. This type of HP restoration can occur **once every 5s**. |
+| **正思无邪** (C2) | While **Moonjade Descent** (*official name of Yaoyao’s Elemental Burst*) is in the Adeptal Legacy state, if a White Jade Radish explosion hits opponents, Yaoyao will **regenerate 3 Elemental Energy**. This effect can occur **once every 0.8s**. |
+| **墩墩善道** (C3) | Increases the **Level of Raphanus Sky Cluster** (*Yaoyao’s Elemental Skill*) by 3. Maximum upgrade level is 15. |
+| **爰爰可亲** (C4) | After casting **Raphanus Sky Cluster** or **Moonjade Descent**, Yaoyao’s **Elemental Mastery** is increased by **0.3% of her Max HP** for 8s, up to a maximum increase of **120**. |
+| **恻隐本义** (C5) | Increases the **Level of Moonjade Descent** by 3. Maximum upgrade level is 15. |
+| **慈惠仁心** (C6) | Every 2 White Jade Radishes thrown by **Moonjade Descent: Throwing Mode** will cause the next throw to produce **1 special “Super Radish.”** Compared to a normal White Jade Radish, this enhanced radish has a larger explosion AoE and deals the following effects upon exploding: <br>• **AoE Dendro DMG** based on **75% of Yaoyao’s ATK** <br>• Restores HP to the active character based on **7.5% of Yaoyao’s Max HP** <br>Each use of **Throwing Mode** can generate up to 2 special radishes in this way. |
+
+---
+
+## Talent Level-Up Materials
+
+| Level | Required Materials |
+| --- | --- |
+| 1 → 2 | 12,500 Mora<br>3 **Teachings of “Diligence”**<br>6 **Slime Condensate** |
+| 2 → 3 | 17,500 Mora<br>2 **Guide to “Diligence”**<br>3 **Slime Secretions** |
+| 3 → 4 | 25,000 Mora<br>4 **Guide to “Diligence”**<br>4 **Slime Secretions** |
+| 4 → 5 | 30,000 Mora<br>6 **Guide to “Diligence”**<br>6 **Slime Secretions** |
+| 5 → 6 | 37,500 Mora<br>9 **Guide to “Diligence”**<br>9 **Slime Secretions** |
+| 6 → 7 | 120,000 Mora<br>4 **Philosophies of “Diligence”**<br>4 **Slime Concentrate**<br>1 **Daka’s Bell** |
+| 7 → 8 | 260,000 Mora<br>6 **Philosophies of “Diligence”**<br>6 **Slime Concentrate**<br>1 **Daka’s Bell** |
+| 8 → 9 | 450,000 Mora<br>12 **Philosophies of “Diligence”**<br>9 **Slime Concentrate**<br>2 **Daka’s Bell** |
+| 9 → 10 | 700,000 Mora<br>16 **Philosophies of “Diligence”**<br>12 **Slime Concentrate**<br>2 **Daka’s Bell**<br>1 **Crown of Insight** |
+
+---
+
+## Recommended Builds
+
+### Role 1: Healing Support
+
+#### Recommended Artifact Sets
+
+- **4-Piece Tenacity of the Millelith** or **4-Piece Deepwood Memories** + any off-piece  
+- Alternatively: **4-Piece The Exile**, **4-Piece Maiden Beloved**, or other 2+2 combos for healing
+- *Mix and match examples:*  
+  - 2-Piece Ocean-Hued Clam (or any set with +15% Healing Bonus)  
+  - 2-Piece Tenacity of the Millelith  
+  - 2-Piece Golden Troupe  
+  - 2-Piece Emblem of Severed Fate  
+  - Choose any two plus an off-piece as needed  
+
+**Reasoning:**
+
+- Yaoyao’s kit is somewhat similar to **Sangonomiya Kokomi** or a typical healing support. Her **Elemental Skill, “Raphanus Sky Cluster,”** summons Yuegui to heal allies and deal Dendro DMG, while **Elemental Burst, “Moonjade Descent,”** further boosts her healing output. Yaoyao’s healing scales with her **Max HP**.
+- **Tenacity of the Millelith (4-piece)** is great if your team needs an ATK% buff. Yaoyao’s Skill can keep hitting in the background to maintain the 4-piece effect. **However**, while Yaoyao is in her **Adeptal Legacy** state from Moonjade Descent, her radish hits count as Burst DMG rather than Skill DMG—so they *won’t* trigger Tenacity’s 4-piece ATK buff during that time.
+- **Deepwood Memories (4-piece)** is useful for lowering enemies’ Dendro RES by 30%, benefiting teams that rely heavily on Dendro DMG (including Bloom-related teams).
+- **Maiden Beloved (4-piece)** provides the highest raw healing but doesn’t sync fully with every part of Yaoyao’s kit and can have coverage gaps with her passive healing.
+- **Ocean-Hued Clam (4-piece)** is generally better on characters like Qiqi, Barbara, or Kokomi, who can constantly provide large, sustained healing. Yaoyao’s healing is good but split between her Skill’s moderate, lingering heals and her Burst’s short, higher burst of heals—resulting in less overall bubble damage from Ocean-Hued Clam.
+- 2+2 combinations (e.g., 2-Piece HP% sets + 2-Piece Tenacity of the Millelith, etc.) are perfectly fine as transitional or mixed builds.
+
+#### Main Stats
+
+- **Sands:** HP% or Energy Recharge  
+- **Goblet:** HP%  
+- **Circlet:** Healing Bonus  
+
+#### Substats
+
+- **HP% > Energy Recharge > Flat HP, CRIT Rate (only if using Favonius Lance)**
+
+**Explanation:**  
+- Yaoyao’s healing scales primarily off her **Max HP**, so HP is the highest priority.  
+- **Moonjade Descent** costs 80 Energy, which can be heavy to sustain; some ER substats help.  
+- Often, her Skill alone can cover most healing needs, with her Burst held in reserve for emergency heals or extra Dendro application in higher-pressure scenarios. If the team needs more consistent healing or more frequent Dendro application, choose an ER Sands to ensure her Burst is ready more often.
+
+#### Talent Priority
+
+- **Elemental Skill > Elemental Burst**  
+- **Normal Attack not recommended to level**  
+
+**Reasoning:**  
+- Similar to **Kokomi**, Yaoyao’s primary healing comes from her Elemental Skill. Her Burst is useful in emergencies or for stronger healing/application, but it has a high Energy cost (80). Unless you have Constellation 2 (which helps with Energy), you’ll feel more pressure to charge her Burst repeatedly. Thus, maximizing her Skill first is usually more efficient.
+
+#### Recommended Weapons (Healing Support Build)
+
+- **Best 4★ Options:**  
+  - **Moonpiercer**  
+  - **Favonius Lance**  
+  - **Lamp of the Lost (Prototype Starglitter alternative in CN text might be “Sha Zhong Wei Xian De Dui Da,” but no official English name exists—possibly “Makhaira Aquamarine”-style effect if it were a sword; for polearms, this is likely “Missive Windspear” / “Wavebreaker’s Fin.”**  
+  *(The text given references a CN-limited spear that provides HP and Energy—a placeholder name “沙中伟贤的对答.” For clarity, official English name has not been released. We can treat it like an HP% polearm similar to “Makhaira Aquamarine.”)*
+
+- **Why?**  
+  - **Moonpiercer** can drop a **Leaf of Revival** when triggering Dendro-related reactions, granting a large ATK% boost to the on-field character. If your team doesn’t mind occasionally missing her Burst, it’s a good buff choice.  
+  - Another HP%-scaling spear (the text’s “沙中伟贤的对答”) is described as giving high HP% plus a weapon effect that restores Energy. It helps both Yaoyao’s healing and her own Energy generation in the background.
+
+- **Other 4★ Options:**  
+  - **Favonius Lance**  
+  - **Missive Windspear** / **Prototype Starglitter** (depending on synergy)  
+
+  **Why?**  
+  - **Favonius Lance**: Universal support weapon. Even with modest CRIT Rate, Yaoyao’s multi-hits during her Burst can reliably generate Energy particles for the entire party. Great if your team’s overall ER needs are high (e.g., in Nilou Bloom teams with multiple Energy-hungry characters). Just note that Favonius only procs while the user is on-field.  
+  - Other HP% or ER weapons can also work if you need more self-sufficiency or simpler building.
+
+- **3★ Option:**  
+  - **Black Tassel**  
+    - +46.9% HP at max level. Simple but effective for increasing healing.
+
+- **5★ Options (If You Already Own Them):**  
+  - **Staff of Homa**  
+    - While it’s typically a DPS weapon, it does grant a decent amount of HP. The CRIT DMG substat is mostly wasted on a healing build, but if you have no better polearms to spare, it still buffs Yaoyao’s healing via HP.
+
+- **Not Recommended Weapons**  
+  - Any polearm that focuses purely on ATK or CRIT for a dedicated healing build, since those stats won’t help her healing as much.
+
+---
+
+### Role 2: Dendro Burst/Reaction DPS (“For Fun” / Niche Build)
+
+> **Note:** Yaoyao’s personal DPS potential is relatively low compared to standard 5★ or dedicated sub-DPS units, so this is more of a “creative” approach than a meta one. Her strongest damage window comes from spamming her **Elemental Burst (Moonjade Descent)**, which deals multiple instances of Dendro DMG over 5 seconds.
+
+#### Recommended Artifact Set
+
+- **4-Piece Emblem of Severed Fate** + any off-piece
+
+**Reasoning:**  
+- Almost all of Yaoyao’s damage is from her **Burst**, which costs 80 Energy. Emblem of Severed Fate (4-piece) boosts Burst DMG while also providing some extra Energy Recharge from the 2-piece effect—both are exactly what Yaoyao needs if you want to push her damage.  
+- Pair her with Electro for **Spread**/**Aggravate** reactions, which boost her relatively low scaling.
+
+#### Main Stats
+
+- **Sands:** Energy Recharge or ATK% or Elemental Mastery  
+- **Goblet:** Dendro DMG Bonus  
+- **Circlet:** CRIT Rate or CRIT DMG  
+
+#### Substats
+
+- **CRIT Rate/CRIT DMG > Energy Recharge > ATK% > Elemental Mastery**
+
+**Explanation:**  
+- Her Burst demands a lot of Energy, so **ER Sands** is often recommended unless you have strong external battery support.  
+- Because she’s a 4★ with moderate multipliers, you’ll want as many offensive substats as possible (CRIT, ATK%, etc.).  
+- Elemental Mastery does help if you’re going for Spread, but direct damage buffs (CRIT and ATK) tend to yield higher personal DPS once you can reliably chain your Bursts.
+
+#### Talent Priority
+
+- **Elemental Burst > Elemental Skill**  
+- **Normal Attack not recommended**  
+
+**Reasoning:**  
+- For a burst-DPS approach, you want her Burst as strong as possible. The Skill helps a bit with additional Dendro procs but can’t match the multiplier from her Burst (especially with Emblem of Severed Fate).
+
+#### Recommended Weapons (Burst DPS Build)
+
+- **Best 5★:**  
+  - **Primordial Jade Winged-Spear**  
+  - **Engulfing Lightning**  
+
+  **Why?**  
+  - **PJWS** provides CRIT Rate and an ATK bonus that stacks with hits, offering a high damage ceiling. Works better if you have enough Energy from her constellations or external batteries to offset the 80-cost Burst.  
+  - **Engulfing Lightning** provides high ER and converts part of that ER into ATK, solving Yaoyao’s biggest problem (Energy) while boosting her damage.
+
+- **Strong 4★:**  
+  - **“The Catch”**  
+
+  **Why?**  
+  - Great ER substat and a weapon effect that directly boosts Burst DMG and Burst CRIT Rate—perfect for a character whose entire damage is basically her Burst. The gap to 5★ options isn’t huge.
+
+- **Other 5★ Options:**  
+  - **Staff of the Scarlet Sands**  
+  - **Vortex Vanquisher**  
+  - **Staff of Homa**  
+  - **Calamity Queller**  
+  - **Skyward Spine**  
+
+  **Why?**  
+  - All are workable for sub-DPS. They each provide various stats (CRIT, ATK, etc.) that improve Burst DMG. However, they generally lack the crucial ER support of Engulfing Lightning.  
+
+- **Other 4★:**  
+  - **Wavebreaker’s Fin**  
+  - **Deathmatch**  
+  - **Lithic Spear**  
+  - **Kitain Cross Spear** (*“Kita’in Cross Spear” in English*)  
+
+  **Why?**  
+  - They can increase her damage (ATK/CRIT/EM/ER). They’re generally fine for a niche damage build, but often require high refinements or synergy with the team composition.
+
+- **Not Recommended Weapons**  
+  - Anything that provides purely defensive or healing stats for a character trying to do DPS.
+
+---

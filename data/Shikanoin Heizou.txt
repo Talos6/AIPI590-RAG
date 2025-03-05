@@ -1,0 +1,103 @@
+**Shikanoin Heizou**
+
+**Title:** Investigator of Peace  
+**Full Name:** Shikanoin Heizou  
+**Nation:** Inazuma  
+**Race:** Human  
+**Gender:** Male  
+**Rarity:** 4-Star  
+**Availability:** Permanent  
+**Elemental Vision:** Anemo  
+**Weapon Type:** Catalyst  
+**Constellation:** Cervus Minor  
+**Special Dish:** The Only Truth  
+**Release Date:** July 13, 2022 (Version 2.8)  
+**Tags:** Crowd Control, Elemental Mastery Bonus, Sprint Stamina Reduction, Energy Regeneration, Self-Critical Rate Boost, Self-Critical Damage Boost, Self-Attack Speed Boost  
+**Description:** A young prodigy detective of the Tenryou Commission, possessing keen intuition and a sharp mind.
+
+---
+
+### **Constellation Effects**
+
+| Name | Effect |
+|---|---|
+| **Namesake Juvenile Casebook** | Within 5 seconds after Heizou takes the field, his Normal Attack speed is increased by 15%, and he gains 1 stack of "Declension" for Heartstopper Strike. This effect can occur once every 10 seconds. |
+| **Uncovering Clues Investigation Record** | The pull effect of Vacuum Slugger in Windmuster Kick is enhanced, and its duration is extended to 1 second. |
+| **Covert Script Puzzle Compendium** | Increases the skill level of Heartstopper Strike by 3, up to a maximum of level 15. |
+| **Falsehood Fable Chronicles** | During one Windmuster Kick, "Windmuster Iris" restores 9 elemental energy to Heizou upon its first detonation. Each subsequent detonation restores an additional 1.5 energy, up to a maximum of 13.5 energy per Windmuster Kick. |
+| **Secret Chamber Great Compendium** | Increases the skill level of Windmuster Kick by 3, up to a maximum of level 15. |
+| **Unorthodox Detective Journal** | When casting Heartstopper Strike, each stack of "Declension" increases its Critical Rate by 4%. If "Conviction" is active, the Critical Damage of this Heartstopper Strike is increased by 32%. |
+
+---
+
+### **Ascension Materials**
+
+| Level | Required Materials |
+|---|---|
+| 1 → 2 | 12,500 Mora, 3 Teachings of "Transience", 6 Treasure Hoarder Insignias |
+| 2 → 3 | 17,500 Mora, 2 Guides to "Transience", 3 Silver Raven Insignias |
+| 3 → 4 | 25,000 Mora, 4 Guides to "Transience", 4 Silver Raven Insignias |
+| 4 → 5 | 30,000 Mora, 6 Guides to "Transience", 6 Silver Raven Insignias |
+| 5 → 6 | 37,500 Mora, 9 Guides to "Transience", 9 Silver Raven Insignias |
+| 6 → 7 | 120,000 Mora, 4 Philosophies of "Transience", 4 Golden Raven Insignias, 1 Meaning of Aeons |
+| 7 → 8 | 260,000 Mora, 6 Philosophies of "Transience", 6 Golden Raven Insignias, 1 Meaning of Aeons |
+| 8 → 9 | 450,000 Mora, 12 Philosophies of "Transience", 9 Golden Raven Insignias, 2 Meaning of Aeons |
+| 9 → 10 | 700,000 Mora, 16 Philosophies of "Transience", 12 Golden Raven Insignias, 2 Meaning of Aeons, 1 Crown of Insight |
+
+---
+
+### **Recommended Artifacts**
+
+#### **General Sets**
+- **Best DPS:** 2-piece Viridescent Venerer + 2-piece Desert Pavilion Chronicle / Gladiator’s Finale / Shimenawa’s Reminiscence / Marechaussee Hunter
+- **Alternative DPS:** 4-piece Marechaussee Hunter
+- **Team Support:** 4-piece Viridescent Venerer
+
+#### **Artifact Set Reasoning**
+Shikanoin Heizou functions as a quick-swap Anemo burst DPS. His artifact setup is similar to Xiao, with 2-piece Viridescent Venerer boosting his Anemo DMG by 15%. To maximize his personal damage, pairing it with 2-piece Desert Pavilion Chronicle (15% Anemo DMG), 2-piece Gladiator’s Finale (18% ATK), or 2-piece Marechaussee Hunter (20% Skill DMG) is ideal. If using the 4-piece Marechaussee Hunter set, Heizou must remain on-field to fully stack the set’s buff cycle. However, a 2+2 mix only requires 2–3 additional optimal substats to match its output. For team synergy, the 4-piece Viridescent Venerer set is preferred to reduce enemy Elemental RES for stronger elemental reactions.
+
+#### **Main Stats**
+- **Sands:** ATK%
+- **Goblet:** Anemo DMG Bonus
+- **Circlet:** Crit Rate / Crit DMG
+
+#### **Substats Priority**
+Crit Rate > Crit DMG > ATK% > Energy Recharge (C1–C3) > Elemental Mastery
+
+#### **Recommended Skill Leveling**
+Elemental Skill > Elemental Burst > Normal Attack
+
+---
+
+### **Recommended Weapons**
+
+#### **Best-in-Slot 5-Star:** Kagura’s Verity
+- **Reasoning:** Provides 66.2% Crit DMG at max level and boosts Elemental Skill DMG. Heizou’s 10-second cooldown on Heartstopper Strike allows him to maintain the "Kagura Dance" buff efficiently for a 12% All-Element DMG bonus.
+
+#### **Alternative 5-Star Options:**
+- **Lost Prayer to the Sacred Winds:** 33.1% Crit Rate with increasing Elemental DMG over time.
+- **Memory of Dust:** Boosts ATK substantially but requires shield uptime.
+- **Skyward Atlas:** High base ATK and consistent Elemental DMG buff.
+
+#### **Best 4-Star Options:**
+- **Solar Pearl:** Provides high Crit Rate and enhances both Normal and Elemental Attack damage.
+- **The Widsith:** Grants massive temporary buffs, but has a long cooldown.
+- **Dodoco Tales:** Ideal for Heizou’s Normal Attack playstyle.
+- **Blackcliff Agate:** High Crit DMG and scaling ATK bonus when defeating enemies.
+
+#### **Weapons to Avoid:**
+Weapons that do not significantly enhance Heizou’s Crit stats or Elemental Skill DMG should generally be avoided.
+
+---
+
+### **Support Heizou Build**
+- **Recommended Set:** 4-piece Viridescent Venerer
+- **Main Stats:** ATK% / Anemo DMG Bonus / Crit Rate or Crit DMG
+- **Substats:** Crit Rate, Crit DMG, ATK%, Energy Recharge
+- **Playstyle:** Functions as an off-field support by reducing enemy resistance and providing Anemo utility.
+
+---
+
+### **Conclusion**
+Shikanoin Heizou is a unique Anemo catalyst user with a playstyle revolving around quick-swap combat. His effectiveness is determined by skillful execution of combos and proper artifact/weapon choices, making him a fun and viable character for both DPS and support roles.
+

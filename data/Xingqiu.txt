@@ -1,0 +1,92 @@
+**Xingqiu**
+
+---
+
+**Title:** The Youth in Light Spring Attire  
+**Full Name:** Xingqiu  
+**Nation:** Liyue  
+**Origin:** Liyue  
+**Race:** Human  
+**Gender:** Male  
+**Rarity:** 4-star  
+**Availability:** Permanent  
+**Vision:** Hydro  
+**Weapon Type:** Sword  
+**Constellation:** Fabulae Textile  
+**Special Dish:** Wanmin Restaurant's Boiled Fish  
+**Release Date:** September 15, 2020 (Version 1.0)  
+**Tags:** Healing, Resistance Reduction, Interruption Resistance, Damage Reduction, Elemental Infusion, Alchemy Refund, Coordinated Attack, Self-Damage Boost, Skill Extension, Energy Regeneration  
+**Description:** A young man frequently seen at the bookstalls, holding a longsword with a heart full of chivalry.
+
+---
+
+**Constellations**
+
+| Name | Effect |
+|------|--------|
+| The Scent Remained | Increases the maximum number of Rain Swords by 1. |
+| Rainbow Upon the Azure Sky | Extends the duration of "Guhua Sword: Raincutter" by 3 seconds. Additionally, enemies hit by sword rain attacks have their Hydro RES decreased by 15% for 4 seconds. |
+| Weaving a Tapestry of Poetry | Increases the level of "Guhua Sword: Raincutter" by 3. Maximum upgrade level is 15. |
+| Evilsoother | During "Guhua Sword: Raincutter," the damage dealt by "Guhua Sword: Fatal Rainscreen" is increased by 50%. This is a multiplicative bonus, effectively increasing the skill multiplier to 1.5x. |
+| Embrace of Rain | Increases the level of "Guhua Sword: Fatal Rainscreen" by 3. Maximum upgrade level is 15. |
+| Hence, Call Them My Own Verses | Every second sword rain attack from "Guhua Sword: Raincutter" significantly enhances the next sword rain attack and restores 3 Elemental Energy for Xingqiu upon hitting an enemy. |
+
+---
+
+**Ascension Materials**
+
+| Level | Materials Required |
+|-------|------------------|
+| 1→2 | 12,500 Mora, 3 Teachings of "Gold," 6 Damaged Masks |
+| 2→3 | 17,500 Mora, 2 Guide to "Gold," 3 Stained Masks |
+| 3→4 | 25,000 Mora, 4 Guide to "Gold," 4 Stained Masks |
+| 4→5 | 30,000 Mora, 6 Guide to "Gold," 6 Stained Masks |
+| 5→6 | 37,500 Mora, 9 Guide to "Gold," 9 Stained Masks |
+| 6→7 | 120,000 Mora, 4 Philosophies of "Gold," 4 Ominous Masks, 1 Tail of Boreas |
+| 7→8 | 260,000 Mora, 6 Philosophies of "Gold," 6 Ominous Masks, 1 Tail of Boreas |
+| 8→9 | 450,000 Mora, 12 Philosophies of "Gold," 9 Ominous Masks, 2 Tail of Boreas |
+| 9→10 | 700,000 Mora, 16 Philosophies of "Gold," 12 Ominous Masks, 2 Tail of Boreas, 1 Crown of Insight |
+
+---
+
+**Recommended Artifact Sets**
+
+- **Solo Hydro Support**
+- **Energy Recharge Focus**
+- **Bloom Teams**
+
+**Artifact Set Recommendations:**  
+- **Full Set:** 4-piece Emblem of Severed Fate or 4-piece Noblesse Oblige + any other piece.
+- **Mixed Sets:** 2-piece Noblesse Oblige + 2-piece Heart of Depth + 2-piece Nymph's Dream + any other piece.
+
+**Reasoning:**
+This setup suits Xingqiu when at least two of the following conditions apply: he is not at full constellation, is the only Hydro character in the team, or lacks a stable energy source from teammates. As a sub-DPS, Xingqiu primarily relies on his Elemental Burst, "Guhua Sword: Raincutter," for consistent off-field Hydro application. The 4-piece Emblem of Severed Fate is ideal as it boosts Energy Recharge and Elemental Burst damage. The 2-piece Noblesse Oblige increases sword rain damage, while the 2-piece Heart of Depth boosts Hydro damage and enhances the damage reduction from Rain Swords. In attack-heavy teams, when no other character is using the 4-piece Noblesse Oblige set (e.g., teams featuring Hu Tao, Zhongli, and Xingqiu), he can equip it to benefit teammates with its team-wide ATK boost.
+
+**Main Stats:**  
+- **Sands:** Energy Recharge% or ATK%
+- **Goblet:** Hydro DMG Bonus
+- **Circlet:** CRIT Rate or CRIT DMG
+
+**Sub Stats Priority:**  
+Energy Recharge (until comfortable) ≥ CRIT Rate / CRIT DMG > ATK%
+
+**Recommended Weapons:**  
+- **Best Weapon:** 4-star Sacrificial Sword
+- **Alternative Weapons:** 4-star Favonius Sword, 4-star Amenoma Kageuchi
+
+**Weapon Choice Explanation:**  
+- **Sacrificial Sword** (Recommended at Refinement Rank 3 or higher) significantly reduces Xingqiu’s Energy Recharge needs, allowing smooth Elemental Burst uptime.
+- **Favonius Sword** provides Energy Recharge and generates extra energy particles when Xingqiu lands critical hits.
+- **Amenoma Kageuchi** at Refinement Rank 5 helps regenerate Energy upon using Elemental Burst, making it a budget alternative.
+
+**Skill Priority:**  
+Elemental Burst > Elemental Skill (Do not level Normal Attack)
+
+**Leveling Recommendation:**
+- Xingqiu’s Elemental Burst is his primary source of Hydro application and off-field damage, making it the top priority.
+- His Elemental Skill not only provides damage reduction but also generates energy, making it valuable to level, especially with his 4th Constellation unlocked.
+
+---
+
+This guide provides an optimized build for Xingqiu, ensuring maximum synergy in various team compositions.
+

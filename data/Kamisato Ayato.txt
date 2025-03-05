@@ -1,0 +1,227 @@
+Below is a complete English document for **Kamisato Ayato**, closely following official English terminology (as seen in-game or on sites like [Paimon.moe](https://paimon.moe/characters)) and preserving the structure of your original Chinese text. Minor discrepancies can occur if newer official material has been released; please refer to the latest in-game descriptions if any slight differences arise.
+
+---
+
+# Kamisato Ayato
+
+**Title**: Pillar of Fortitude  
+**Full Name**: Kamisato Ayato  
+**Nation**: Inazuma  
+**Birthplace**: (Not stated)  
+**Race**: Human  
+**Gender**: Male  
+**Rarity**: ★★★★★ (5-Star)  
+**Availability**: Limited (Event Wish)  
+**Vision (Element)**: Hydro  
+**Weapon**: Sword  
+**Constellation**: Cypressus Custos  
+**Special Dish**: “Quiet Elegance”  
+**Release Date**: March 30, 2022 (Version 2.6)  
+**Tags**: Attack Speed Increase, Cooking, Weapon Infusion, Energy Restoration, Self-DMG Bonus
+
+**Introduction**  
+The young, highly capable head of the Yashiro Commission’s Kamisato Clan. He is known for his gracious manners and refined demeanor, yet adept at navigating political intricacies with shrewd finesse.
+
+---
+
+## Constellations
+
+| Name                      | Effect                                                                                                                                                                                                                                                                                                              |
+|---------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **1: Kyouka Fuushin** (镜华风姿) | When facing opponents with 50% HP or below, **Shunsuiken** DMG is increased by 40%.                                                                                                                                                                                                                                                                        |
+| **2: World Source** (世有源泉) | Increases the maximum stack count of **Namisen** to 5. Additionally, while Ayato has at least 3 **Namisen** stacks, his Max HP is increased by 50%.                                                                                                                                                                                                      |
+| **3: To Him Who Is Forever Pure** (无意弄花) | Increases the Level of **Kamisato Art: Kyouka** by 3. Maximum upgrade level is 15.                                                                                                                                                                                                                                                                |
+| **4: Endless Flow** (不厌细流)   | After using **Kamisato Art: Suiyuu**, the Normal Attack SPD of nearby party members is increased by 15% for 15s.                                                                                                                                                                                                                                      |
+| **5: Boundless Origin** (万水一露)  | Increases the Level of **Kamisato Art: Suiyuu** by 3. Maximum upgrade level is 15.                                                                                                                                                                                                                                                                    |
+| **6: Moment of Crystallization** (滥觞无底) | After using **Kamisato Art: Kyouka**, Ayato’s next **Shunsuiken** attack that hits an opponent will unleash 2 additional **Shunsuiken** strikes, each dealing DMG equal to 450% of his ATK. These extra strikes do not benefit from **Namisen**.                                                                 |
+
+---
+
+## Talent Level-Up Materials
+
+| Level | Cost                                                          |
+|------:|:--------------------------------------------------------------|
+| **1 → 2** | 12,500 Mora, 3 Teachings of “Elegance”, 6 Old Handguard           |
+| **2 → 3** | 17,500 Mora, 2 Guide to “Elegance”, 3 Kageuchi Handguard         |
+| **3 → 4** | 25,000 Mora, 4 Guide to “Elegance”, 4 Kageuchi Handguard         |
+| **4 → 5** | 30,000 Mora, 6 Guide to “Elegance”, 6 Kageuchi Handguard         |
+| **5 → 6** | 37,500 Mora, 9 Guide to “Elegance”, 9 Kageuchi Handguard         |
+| **6 → 7** | 120,000 Mora, 4 Philosophies of “Elegance”, 4 Famed Handguard, 1 Mudra of the Malefic General |
+| **7 → 8** | 260,000 Mora, 6 Philosophies of “Elegance”, 6 Famed Handguard, 1 Mudra of the Malefic General |
+| **8 → 9** | 450,000 Mora, 12 Philosophies of “Elegance”, 9 Famed Handguard, 2 Mudra of the Malefic General |
+| **9 → 10**| 700,000 Mora, 16 Philosophies of “Elegance”, 12 Famed Handguard, 2 Mudra of the Malefic General, 1 Crown of Insight |
+
+---
+
+# Recommended Builds
+
+Below are various build suggestions for Kamisato Ayato to fit different team needs.
+
+---
+
+## 1. General “Kamisato Art” Builds
+
+### Artifact Sets
+- **No Specific Hand Rotation**:  
+  - **4pc Echoes of an Offering**  
+  - **4pc Heart of Depth**  
+  - **4pc Gladiator’s Finale** (plus any off-piece)
+
+- **Conditional/Alternate Hand Rotations**:  
+  - **4pc Desert Pavilion Chronicle** (“Sands of Eon” set in Chinese, focusing on Normal Attack SPD and DMG)  
+  - **4pc Nymph’s Dream**  
+
+**Set Explanation**  
+- **Echoes of an Offering (4pc)**:  
+  Grants a 36% chance after Normal Attacks to trigger a bonus that increases Normal Attack DMG based on 70% of ATK. Each time it fails to trigger, the chance increases by 20% next time. The effect is strong but somewhat random, offering roughly ~5% more DPS over other sets if you’re not running Yun Jin, but it’s a bit inconsistent.  
+- **Heart of Depth (4pc)**:  
+  +15% Hydro DMG from the 2pc, and +30% Normal/Charged Attack DMG for 15s after using Elemental Skill. Easy to control, as you can intentionally use **Kamisato Art: Kyouka** to sync with buff windows or enemy vulnerable phases.  
+- **Gladiator’s Finale (4pc)**:  
+  +35% Normal Attack DMG for Sword users, always active. A straightforward, permanent buff.  
+- **Desert Pavilion Chronicle (4pc)** (commonly dubbed “Sands set”):  
+  Increases Normal Attack SPD by 10% and Normal/Charged Attack DMG by 40% for 15s after a Charged Attack. However, Ayato cannot perform Charged Attacks while **Kamisato Art: Kyouka** is active, so you must do a quick Charged Attack before using his Skill.  
+- **Nymph’s Dream (4pc)**:  
+  At full stacks, it can grant +25% ATK and +15% Hydro DMG Bonus. However, stacking it fully with Ayato requires opening with a Charged Attack and triggering water illusions from **Kamisato Art: Kyouka** effectively. His Burst also “snapshots” early, so it usually doesn’t benefit from the full stacks.  
+
+Overall, the five sets yield fairly close damage ceilings (all within ~5% of each other). Often your best approach is to pick whichever set you have with the best substats or the easiest domain access.
+
+### Main Stats
+- **Sands**: ATK%  
+- **Goblet**: Hydro DMG Bonus  
+- **Circlet**: CRIT Rate or CRIT DMG
+
+### Substats
+CRIT Rate, CRIT DMG > ATK% > HP% > Energy Recharge
+
+**Reasoning**  
+- CRIT stats and ATK% are standard DPS picks.  
+- Ayato’s **Namisen** scaling (from **Kamisato Art: Kyouka**) is partly based on his Max HP, so HP% has value, but generally less than ATK% because his overall multipliers still rely on ATK in many areas.  
+- Ayato’s Burst doesn’t strictly demand full uptime for his DPS rotation, so Energy Recharge is helpful but not mandatory.  
+- Elemental Mastery is typically not relevant to Ayato unless you’re running a specific Bloom variant.  
+
+### Skill Level Priority
+- **Elemental Skill (Kamisato Art: Kyouka)** > **Elemental Burst (Kamisato Art: Suiyuu)**  
+- **Do Not Level Normal Attack**  
+  - **Shunsuiken** (the infused Normal Attacks while in **Kyouka** state) scale off the Elemental Skill talent level, not the Normal Attack talent. His Burst is useful but typically less of a damage contributor than his Skill.
+
+### Recommended Weapons
+
+**Best-In-Slot 5★**  
+- **Haran Geppaku Futsu**  
+  - Ayato’s signature weapon. It has 608 Base ATK and 33.1% CRIT Rate at Lv90. Its passive grants Elemental DMG% and further boosts Normal Attack DMG after other party members use their Elemental Skills and upon Ayato using his own. It’s weaker in solo scenarios that limit party synergy, though.
+
+**Other 5★ Options**  
+- **Primordial Jade Cutter**  
+  - 542 Base ATK, 44.1% CRIT Rate substat, and a passive that boosts Max HP and provides an ATK% bonus based on HP. Easy to use in any scenario.  
+- **Mistsplitter Reforged**  
+  - 674 Base ATK, 44.1% CRIT DMG substat, plus a potent Elemental DMG Bonus effect. You can reliably stack Mistsplitter’s passive if you cast Ayato’s Burst prior to using his Skill, quickly building the 3 stacks for Normal Attack DMG.  
+- **Summit Shaper**  
+  - Offers high ATK from both substat and passive. Doubles the effect while shielded—ideal if you have **Zhongli** or another shielder.  
+- **The Aquila Favonia** / **The Black Sword** synergy reference in some texts as “Hoyoverse freebies” can appear, but actually for pure DPS, these are overshadowed by the above.  
+- **The Key of Khaj-Nisut** (“HPCatalyst” in some CN texts) can be used if you specifically want HP synergy, but the direct synergy for Ayato is limited unless you’re focusing on side stats.  
+
+**4★ Recommendations**  
+- **The Black Sword**  
+  - 510 Base ATK, 27.6% CRIT Rate, and increases Normal/Charged Attack DMG. Heals on CRIT, which helps keep him alive.  
+- **Blackcliff Longsword**  
+  - On defeating an enemy, gain ATK stacks (30s duration). Great in multi-enemy fights. The effect’s downtime can be an issue in single-target or boss fights, but it’s typically on par with The Black Sword after 2–3 kills.  
+- **Toukabou Shigure** / **Amenoma Kageuchi** sometimes appear in other guides. For reference:  
+  - **Amenoma Kageuchi** (Craftable) – provides stable Energy for Ayato’s Burst. Less direct DPS than The Black Sword but helps with rotations.  
+  - **Sapwood Blade** (Fontaine-era craftable “Haiyuan something” in CN text) – Has high Base ATK, plus an ATK% substat, and gains an extra buff on using Elemental Skill. Good synergy with Ayato’s short-skill burst window.  
+- **Lion’s Roar** or **The Flute** are less optimal. The Flute deals Physical DMG from its passive, which doesn’t scale with Hydro DMG%.
+
+**3★ Notables**  
+- **Harbinger of Dawn** (at high Refinement)  
+  - Extremely high CRIT substat for a 3★, but requires maintaining above 90% HP. The payoff can exceed many 4★ weapons if you stay healthy. Not recommended in Bloom/Hyperbloom teams that self-damage.
+
+---
+
+## 2. Team Composition
+
+Below are some common team setups where Ayato shines.
+
+### 5★ Teammates
+
+| Character          | Recommendation                                                                                                                                                                                                                                                                                                                                                         |
+|--------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Furina** (a.k.a. “Focalors”) | Off-field Hydro DMG plus a high DMG% bonus that scales with HP fluctuations. She pairs especially well with Ayato in 2-Hydro teams for HP-based synergy and overall DPS. However, you’ll generally need a healer if Furina is below C6.                                                                                                                       |
+| **Venti**          | Crowd-control support. **Wind’s Grand Ode** gathers enemies for large multi-target fights, and with 4pc Viridescent Venerer, he can reduce Hydro RES. If the Burst absorbs Hydro, he’ll restore Energy for Ayato (thanks to Venti’s A4 “Stormeye”).                                                                                                                     |
+| **Kaedehara Kazuha** | Another premium Anemo support, providing crowd control, Viridescent shred, and an Elemental DMG% boost via his passive **Poetics of Fuubutsu**. Especially useful for grouping enemies so Ayato’s AoE Normal Attacks can land easily.                                                                                                                                 |
+| **Ganyu**          | For Freeze teams. Her Burst can be used off-field to create a large AoE of Cryo, letting Ayato’s Skill apply Hydro to freeze multiple enemies. Not the highest absolute damage but very comfortable in content where enemies can be frozen.                                                                                                                                |
+| **Zhongli**        | Defensive support. His Jade Shield is extremely durable, grants interrupt resistance, and applies a universal 20% RES shred in its AoE effect. Ideal for surviving high-pressure content. Can also combine with Yun Jin for double Geo synergy.                                                                                                                                  |
+| **Nahida**         | Off-field Dendro DMG plus huge Elemental Mastery buffs. In Bloom/Hyperbloom teams, Ayato’s frequent Hydro application helps produce Dendro Cores. Nahida’s Skill and Burst keep consistent Dendro application.                                                                                                                                                            |
+
+### 4★ Teammates
+
+| Character      | Recommendation                                                                                                                                                                                                                                                                                                                          |
+|----------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Sucrose**    | Anemo support with groupings and EM sharing (passives: **Catalyst Conversion** & **Mollis Favonius**). Great in reaction teams (e.g., Vaporize, Hyperbloom). She can also run 4pc Viridescent Venerer to reduce Hydro RES.                                                                                                             |
+| **Xiangling**  | Off-field Pyro DMG with **Pyronado**, used for Vaporize. Typically combined with **Bennett**. However, their cooldowns and durations can be awkward with Ayato’s short 6s Skill window, so synergy is situational.                                                                                                                      |
+| **Bennett**    | Universal buffer + healer. The ATK buff from his Burst greatly increases Ayato’s Normal Attack DMG. Also beneficial if going for a Bloom team with Pyro triggers (Burning, Burgeon, etc.).                                                                                                                                               |
+| **Kuki Shinobu** | Great in Hyperbloom or Bloom-based teams. Her Skill and Burst can trigger Dendro Cores with Electro, plus she provides healing. Stack full EM for big Hyperbloom damage. Shinobu’s self-cost (draining HP to heal) can be offset with additional healing or a shield, if needed.                                                                                            |
+| **Yun Jin**    | Specifically buffs Normal Attack DMG based on her DEF. Perfect for Normal Attackers like Ayato. C2 and C6 Yun Jin further improve Attack Speed and DMG potential. She pairs well in short 12–15s cycles.                                                                                                                               |
+| **Fischl**     | In short-rotation teams, Fischl’s **Nightrider (Oz)** can pair with Ayato’s AoE Hydro for Electro-Charged or direct off-field DMG synergy. Their combined short cooldowns allow for repeated bursts of damage.                                                                                                                        |
+| **Diona / Layla / Thoma** | Shield providers or partial off-field help. Not the most synergistic if you’re aiming for high DPS, but can improve survivability if needed. Thoma can do mild off-field Pyro for Burgeon or Overvape setups. Layla’s Cryo shield pairs with Ayato for freeze or sustain.                                                                                       |
+
+---
+
+## 3. Example Team Archetypes
+
+### (A) Bloom / Hyperbloom / Burgeon Teams
+
+- **Nahida** (Dendro application + EM buffs)  
+- **Kuki Shinobu** (Electro for Hyperbloom + healing, or Pyro Thoma for Burgeon)  
+- **Ayato** (Hydro application + personal DPS)  
+- **Flex**: Another Hydro, Anemo CC, or defensive unit  
+
+In Bloom-based comps, Ayato’s high-frequency Hydro from **Shunsuiken** is excellent for generating Dendro Cores, which teammates then explode via Electro (Hyperbloom) or Pyro (Burgeon). Ayato’s direct personal damage is still valuable, but the primary reaction damage scales with the trigger character’s EM (e.g., Kuki Shinobu or Thoma).  
+
+- **Strengths**: Lower talent/book investment, strong single-target damage, or strong AoE potential with Burgeon.  
+- **Weaknesses**: Self-damage from Bloom-based cores (especially with Burgeon/Burning). May need a reliable healer or shield. Large swirl setups can occasionally disrupt the aura application.  
+
+### (B) Short-Rotation Multi-Core Teams
+
+A typical example is **Ayato + Fischl** as dual on-field/off-field DPS, with 25s two-round skill cycles. The third slot often goes to **Kazuha** or **Sucrose** for crowd control and elemental shred. The fourth slot can be shield/heal support like **Zhongli** or **Bennett**, etc.
+
+- **Strengths**: Minimal downtime, more fluid combos, moderate energy requirements.  
+- **Weaknesses**: Mechanically more complex to pilot; can require practice to manage all skill timings.  
+
+### (C) Long-Rotation Multi-Core Teams
+
+Often built around **Ayato’s** ~20s to ~21s cooldown synergy with:
+- **Yelan (C1+)** or **Furina** for consistent Hydro synergy
+- Possibly **Kazuha** or **Zhongli**, or even **Xingqiu** for sub-DPS and partial defensive utility
+
+Rotations revolve around 20s or so, bridging Ayato’s Skill/Burst windows. This can yield strong single-target and decent AoE damage, but demands more from each team member’s gear.
+
+- **Strengths**: Good synergy between long-cooldown bursts, strong single-target damage, comfortable cyclical pacing.  
+- **Weaknesses**: Typically a “whale-friendly” or high-investment approach, with multiple 5★ units or refined 4★ combos.
+
+### (D) Single-Core (Triple Support) Teams
+
+A “3 supports + 1 main carry” approach featuring Ayato:
+- **Bennett** + **Yun Jin** + **Zhongli/Kazuha/Furina** to amplify Ayato’s Normal Attack damage to the maximum.
+
+- **Strengths**: High personal DPS from Ayato if everything is aligned.  
+- **Weaknesses**: Expensive in terms of building multiple supports. If you rely on short 15s skill cycles, the supports may have energy or buff downtime. Also, Ayato’s partial HP scaling and partial ATK scaling can sometimes make pure ATK buffs less efficient than they would be on other units.
+
+---
+
+## Playstyle Highlights
+
+1. **Kamisato Art: Kyouka** (Elemental Skill)  
+   - Replaces Ayato’s Normal Attacks with **Shunsuiken** (fast Hydro-infused strikes) for ~6s.  
+   - Each Shunsuiken hit grants or refreshes **Namisen** stacks, which increase Shunsuiken DMG based on Ayato’s Max HP.  
+   - Once you activate the Skill, you **cannot** use Charged Attacks until it ends.  
+
+2. **Kamisato Art: Suiyuu** (Elemental Burst)  
+   - Creates a wide AoE field dealing continuous Hydro DMG, increasing the Normal Attack DMG of characters within it (though the “lock-in” effect means it snapshots part of Ayato’s stats at cast time).  
+   - Usually used to supplement on-field or other party members’ DPS or help produce more Bloom seeds if you’re in Dendro comps.
+
+3. **Rotation Tips**  
+   - If using sets like Desert Pavilion or Nymph’s Dream that require a **Charged Attack** before your Skill, do that quickly before pressing E.  
+   - In multi-core teams, you may weave in other abilities (e.g., Kazuha swirl, Fischl’s Oz, Shinobu’s ring) just before or after Ayato’s short 6s Skill window.  
+
+---
+
+Enjoy perfecting Kamisato Ayato’s refined swordsmanship and exploring the synergy he brings to your teams!  

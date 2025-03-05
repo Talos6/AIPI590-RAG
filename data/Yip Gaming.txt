@@ -1,0 +1,115 @@
+**Jiaming**
+
+---
+
+### **General Information**
+
+- **Title:** Majestic Lion’s Vanguard
+- **Full Name:** Yip Gaming (叶嘉明)
+- **Nation:** Liyue
+- **Origin:** Unknown
+- **Race:** Human
+- **Gender:** Male
+- **Rarity:** ★★★★ (4-Star)
+- **Availability:** Permanent
+- **Vision:** Pyro
+- **Weapon:** Claymore
+- **Primordial Force:** N/A
+- **Constellation:** Awakened Lion (醒狮座)
+- **Specialty Dish:** "Leisurely Tea Time"
+- **Release Date:** January 31, 2024 (Version 4.4)
+- **Tags:** Plunging Attack, Special Elemental Infusion, HP Drain, Self-Healing, Elemental Application, Interruption Resistance, Self-Damage Boost, Healing Bonus, Movement Speed Increase, Movement Speed Increase (Talent)
+- **Character Description:** A bodyguard from the Sword and Shield Escort Bureau and the leader of the Majestic Lion Dance Troupe.
+
+---
+
+### **Constellation Effects**
+
+| Name | Effect |
+|------|--------|
+| **Transparent Protection** | When "Radiant Blaze Lion Dance" successfully reunites Jiaming with "Wen Zai," Jiaming restores 15% of his Max HP. |
+| **Stepping on Plum Blossoms** | When Jiaming receives healing, any overhealing grants a 20% ATK boost for 5 seconds. |
+| **Awakened Roar** | Increases the level of "Auspicious Beast Ascends the Tower" by 3, up to a maximum of level 15. |
+| **Cloud-Leaping Mountain Step** | When Jiaming's Plunging Attack "Cloud-Stepping Auspice" hits an enemy, he restores 2 Elemental Energy. This effect can trigger once every 0.2 seconds. |
+| **Terrifying Roar** | Increases the level of "Radiant Blaze Lion Dance" by 3, up to a maximum of level 15. |
+| **Taming All Beasts** | "Cloud-Stepping Auspice" Plunging Attack gains 20% CRIT Rate, 40% CRIT DMG, and an increased attack range. |
+
+---
+
+### **Talent Level-Up Materials**
+
+| Level | Required Materials |
+|--------|------------------|
+| 1 → 2 | 12,500 Mora, 3 Teachings of "Prosperity", 6 Slime Condensate |
+| 2 → 3 | 17,500 Mora, 2 Guide to "Prosperity", 3 Slime Secretions |
+| 3 → 4 | 25,000 Mora, 4 Guide to "Prosperity", 4 Slime Secretions |
+| 4 → 5 | 30,000 Mora, 6 Guide to "Prosperity", 6 Slime Secretions |
+| 5 → 6 | 37,500 Mora, 9 Guide to "Prosperity", 9 Slime Secretions |
+| 6 → 7 | 120,000 Mora, 4 Philosophies of "Prosperity", 4 Slime Concentrate, 1 Lightless Mass |
+| 7 → 8 | 260,000 Mora, 6 Philosophies of "Prosperity", 6 Slime Concentrate, 1 Lightless Mass |
+| 8 → 9 | 450,000 Mora, 12 Philosophies of "Prosperity", 9 Slime Concentrate, 2 Lightless Mass |
+| 9 → 10 | 700,000 Mora, 16 Philosophies of "Prosperity", 12 Slime Concentrate, 2 Lightless Mass, 1 Crown of Insight |
+
+---
+
+### **Recommended Artifact Sets**
+
+#### **General Builds**
+
+**Best-in-slot:**
+- 4-Piece Marechaussee Hunter
+- 4-Piece Crimson Witch of Flames
+- 4-Piece Gilded Dreams + Any Flex Piece
+
+**Alternative Options:**
+- 4-Piece Shimenawa’s Reminiscence
+- 4-Piece Lavawalker (for pure Pyro teams)
+- 2-Piece Crimson Witch + 2-Piece Gladiator’s Finale or 2-Piece EM set
+- 4-Piece Berserker (for early game)
+
+**Recommended Stats:**
+- **Sands:** ATK% / Elemental Mastery (if not using Gilded Dreams 4-Piece)
+- **Goblet:** Pyro DMG Bonus
+- **Circlet:** CRIT DMG / CRIT Rate
+
+**Substats Priority:** CRIT Rate = CRIT DMG > Elemental Mastery (if ATK% Sands) = ATK% (if EM Sands) > Energy Recharge
+
+**Skill Level Priority:** Elemental Skill > Elemental Burst >> Normal Attack
+
+**Recommended Weapons:**
+
+**Best 5-Star:**
+- Beacon of the Reed Sea
+- Serpent Spine (Battle Pass)
+
+**Alternative 5-Star Options:**
+- Redhorn Stonethresher
+- Wolf’s Gravestone
+- The Unforged
+- Skyward Pride
+
+**Best 4-Star:**
+- Lithic Blade (if using a Liyue-based team)
+- The Bell (if utilizing self-healing mechanics)
+- Akuoumaru (for high Burst uptime)
+- Ultimate Overlord’s Superlative Greatsword (event-exclusive)
+
+**Alternative 4-Star Options:**
+- Blackcliff Slasher (if available in the Starglitter Shop)
+- Wavebreaker’s Fin (if Burst-focused)
+- Prototype Archaic (F2P Craftable)
+
+**Not Recommended Weapons:**
+- Katsuragikiri Nagamasa (focuses on Elemental Skill damage, but Jiaming's Skill is not directly offensive)
+- Sacrificial Greatsword (Jiaming's Skill doesn't deal damage, so this weapon's effect is ineffective)
+
+---
+
+### **Summary of Playstyle**
+- Jiaming specializes in high-damage **Plunging Attacks** empowered by his Elemental Skill.
+- His Elemental Burst resets the cooldown of his Skill, allowing for **continuous damage rotations**.
+- He has **self-healing and interruption resistance**, making him durable in combat.
+- He benefits most from **Pyro Elemental Reactions**, such as Vaporize or Melt.
+
+Jiaming’s ideal role is as a **Plunging Attack DPS** who cycles through Elemental Skill and Burst to maintain **high Pyro uptime** and **consistent damage output**.
+

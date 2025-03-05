@@ -1,0 +1,232 @@
+**Alhaitham**  
+---
+
+**Title**  
+Admonishing Instruction  
+
+**Full Name**  
+Alhaitham  
+
+**Nation**  
+Sumeru  
+
+**Home Nation**  
+—  
+
+**Race**  
+Human  
+
+**Gender**  
+Male  
+
+**Rarity**  
+5★  
+
+**Banner**  
+Limited  
+
+**Vision**  
+Dendro  
+
+**Weapon**  
+Sword  
+
+**Original Force**  
+—  
+
+**Constellation**  
+Vultur Volans  
+
+**Special Dish**  
+Ideal Circumstances  
+
+**Release Date**  
+January 18, 2023 (Version 3.4)  
+
+**Tags**  
+Elemental Mastery Bonus, Alchemy Crafting Refund, Special Elemental Infusion, Cooldown Reduction, Self DMG Increase, Self CRIT Rate Increase, Self CRIT DMG Increase, Teleport/Reposition  
+
+**Introduction**  
+The current scribe of the Sumeru Akademiya, known for his remarkable intellect and abilities. He lives a free and easy life—so much so that most people can never track him down.
+
+
+---
+
+### Constellations
+
+| Name                                  | Effect                                                                                                                                                                                                                                                                                                                                                     |
+|---------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **C1: Intuition**                     | When a Projection Attack hits an opponent, the cooldown of **Universality: An Elaboration on Form** is decreased by 1.2s. This effect can be triggered once every 1s.                                                                                                                                                                                    |
+| **C2: Debate**                        | When Alhaitham generates a Chisel-Light Mirror, his Elemental Mastery increases by 50 for 8s. This effect can stack up to 4 times, with each stack counted independently. This effect can be triggered even if the number of Chisel-Light Mirrors has reached the maximum.                                                                                  |
+| **C3: Negation of Genesis**           | Increases the Level of **Universality: An Elaboration on Form** by 3. Maximum upgrade level is 15.                                                                                                                                                                                                                                                        |
+| **C4: Elucidation of Expertise**      | When **Particular Field: Fetters of Phenomena** is unleashed, the following effects will be triggered based on the number of Chisel-Light Mirrors consumed and generated: <br>• For every Mirror consumed, the Elemental Mastery of all other nearby party members is increased by 30 for 15s.<br>• For every Mirror generated, Alhaitham’s Dendro DMG Bonus increases by 10% for 15s.<br>If you unleash his Burst again during its duration, the original effects will be removed first. |
+| **C5: Sagacity**                      | Increases the Level of **Particular Field: Fetters of Phenomena** by 3. Maximum upgrade level is 15.                                                                                                                                                                                                                                                       |
+| **C6: Structuration of Phylogeny**    | Alhaitham gains the following effects:<br>• 2s after using **Particular Field: Fetters of Phenomena**, he will generate 3 Chisel-Light Mirrors regardless of how many were consumed.<br>• If Alhaitham generates Chisel-Light Mirrors when the number of Mirrors is already at maximum, his CRIT Rate is increased by 10% and his CRIT DMG by 70% for 6s. If this effect is triggered again within its duration, the duration is extended by another 6s.                                     |
+
+
+---
+
+### Talent Level-Up Materials
+
+| Level | Required Materials                                                                                                       |
+|-------|--------------------------------------------------------------------------------------------------------------------------|
+| 1→2   | 12,500 Mora, 3 Teachings of “Ingenuity”, 6 Faded Red Satin                                                               |
+| 2→3   | 17,500 Mora, 2 Guide to “Ingenuity”, 3 Trimmed Red Silk                                                                 |
+| 3→4   | 25,000 Mora, 4 Guide to “Ingenuity”, 4 Trimmed Red Silk                                                                 |
+| 4→5   | 30,000 Mora, 6 Guide to “Ingenuity”, 6 Trimmed Red Silk                                                                 |
+| 5→6   | 37,500 Mora, 9 Guide to “Ingenuity”, 9 Trimmed Red Silk                                                                 |
+| 6→7   | 120,000 Mora, 4 Philosophies of “Ingenuity”, 4 Rich Red Brocade, 1 Mirror of Mushin                                      |
+| 7→8   | 260,000 Mora, 6 Philosophies of “Ingenuity”, 6 Rich Red Brocade, 1 Mirror of Mushin                                      |
+| 8→9   | 450,000 Mora, 12 Philosophies of “Ingenuity”, 9 Rich Red Brocade, 2 Mirror of Mushin                                     |
+| 9→10  | 700,000 Mora, 16 Philosophies of “Ingenuity”, 12 Rich Red Brocade, 2 Mirror of Mushin, 1 Crown of Insight                |
+
+
+---
+
+### Recommended Builds
+
+Below are general suggestions for Alhaitham’s artifact sets, main stats, weapons, and team compositions. Adapt these to your own gear and party needs.
+
+---
+
+#### **Artifacts**
+
+1. **General Purpose**
+
+   - **Artifact Sets**  
+     - **Preferred**: 4-piece Gilded Dreams + any offset  
+     - **If no one else wears 4-piece Deepwood Memories**: Alhaitham can wear 4-piece Deepwood Memories (the “Dendro set”), though it lowers his own personal damage ceiling.  
+     - **Situational**: 4-piece Hunter’s Path (“逐影猎人” set) can outperform Gilded Dreams when paired with Furina (芙宁娜).  
+     - Alternatively, you can mix 2-piece Deepwood Memories + 2-piece Gilded Dreams or any combination of 2-piece sets that give +80 Elemental Mastery if you lack a complete 4-piece set.  
+
+   - **Reasoning**  
+     Alhaitham’s main damage comes from Dendro DMG reliant on both ATK and Elemental Mastery (EM). His Chisel-Light Mirrors grant him Dendro infusion and enable “Projection Attacks,” which scale further based on his EM via his passive talent “Mysteries Laid Bare.” Consequently, he gains a massive benefit from EM and Aggravate (or Hyperbloom) reactions.  
+     - If another party member (e.g., **Nahida**) is already using 4-piece Deepwood Memories, Alhaitham can equip 4-piece Gilded Dreams to maximize personal DPS.  
+     - If no one else is using Deepwood Memories, Alhaitham must wear it to reduce enemy Dendro RES, though it costs him some personal damage.  
+     - 4-piece Hunter’s Path suits him if you’re pairing him with Furina, providing even higher theoretical output in certain comps.
+
+   - **Main Stats**  
+     - **Sands**: Elemental Mastery (most often) or ATK% (if using a high-base-ATK weapon and your Aggravate/Bloom uptime is inconsistent)  
+     - **Goblet**: Dendro DMG Bonus or Elemental Mastery  
+     - **Circlet**: CRIT Rate or CRIT DMG  
+
+   - **Substats**  
+     CRIT Rate, CRIT DMG > Elemental Mastery > ATK% ≈ Energy Recharge  
+
+   - **Stat Reasoning**  
+     Alhaitham ascends with Dendro DMG Bonus, so he greatly appreciates CRIT stats. In standard Aggravate or Spread teams (often double Dendro + double Electro), around 130% Energy Recharge is enough for consistent rotations. For pure personal damage in an Aggravate comp, EM often surpasses additional ATK for reaction-based scaling. If Bloom or Quicken uptime is low (e.g., in certain Nilu teams), or if you’re forced into minimal EM gains, you could opt for ATK% instead.  
+
+   - **Skill Priority**  
+     - **Elemental Skill (E) first** – his Chisel-Light Mirror “Projection Attacks” scale with Skill level.  
+     - **Normal Attack or Elemental Burst second** – which one you raise depends on your chosen playstyle (long on-field vs. short rotation).  
+       - In typical Aggravate or Spread teams where Alhaitham stays on-field, his infused Normal Attacks also account for significant damage, so leveling Normal Attacks can be valuable. His Burst is often used more for creating Mirrors than for pure damage if you do long combos.  
+       - Conversely, if you have high constellations or prefer a quick-swap style, leveling his Burst can become more crucial, while Normal Attack may be secondary or even optional.  
+
+---
+
+#### **Weapons**
+
+- **Best 5★ Options**  
+  - **Light of Foliar Incision**  
+    A low base ATK, high CRIT DMG weapon that boosts CRIT Rate in its passive and provides damage scaling with Elemental Mastery, perfectly matching Alhaitham’s kit.  
+  - **The Key of Khaj-Nisut (有乐御簾切)**  
+    Another low base ATK, high CRIT DMG sword that can significantly increase Normal Attack and Elemental Skill damage, especially if shielded (e.g., by Zhongli). It can surpass Light of Foliar Incision in certain long-stand scenarios under a strong shield or if you manage to maintain the buff conditions well.
+
+- **Other 5★ Choices**  
+  - **Primordial Jade Cutter**  
+    High CRIT Rate substat, HP-based ATK buff. Straightforward, no conditions.  
+  - **Haran Geppaku Futsu**  
+    CRIT Rate substat, passively buffs Normal Attack and provides additional Elemental DMG. 8s buff duration can feel short in extended combos.  
+  - **Mistsplitter Reforged**  
+    CRIT DMG substat, strong Elemental DMG bonus, though you may not always maintain full stacks. High base ATK synergy can lead you to consider ATK% Sands if not consistently triggering Aggravate.  
+  - **Tulaytullah’s Remembrance (静水流涌之辉)**  
+    CRIT DMG substat, focuses on Skill DMG buff. HP fluctuation condition can be met in typical “Spread” or multi-wave fights.  
+
+- **4★ and 3★ Highlights**  
+  - **Wolf-Fang (狼牙)**  
+    Arguably his best 4★ “budget” choice. CRIT Rate substat, its passive buffs Skill/Burst DMG and CRIT in proportion to refinement rank. Alhaitham’s damage composition often mixes Normal Attacks, Skill, and Burst, so Wolf-Fang can carry much of that load. At high refinements, it rivals or even outperforms some 5★ weapons outside his signature.  
+  - **Harbinger of Dawn (3★)**  
+    Provides high CRIT stats, but requires >90% HP to maintain its effect. Alhaitham’s synergy with EM and Dendro DMG can offset the weapon’s low base ATK. Great F2P option if you can stay healthy (e.g., with a shielder or healer).  
+  - **Freedom-Sworn**  
+    5★ weapon that offers Elemental Mastery and a Normal/Charged/Plunge DMG buff plus a teamwide ATK buff. Usually overshadowed by dedicated personal damage weapons but still decent if you can’t maintain Harbinger’s HP condition.  
+  - **The Black Sword**  
+    CRIT Rate substat, Normal/Charged Attack DMG bonus, minor self-healing. A decent “Battle Pass” weapon if you have no Wolf-Fang. However, Alhaitham’s damage heavily comes from Skill and Mirror Projection, which are unaffected by Black Sword’s main buff.  
+  - **Iron Sting**  
+    Craftable 4★ with EM substat. Provides a small all-DMG bonus. Decent early weapon, though overshadowed by Wolf-Fang or Harbinger in terms of peak damage.  
+  - **Toukabou Shigure (东花坊时雨)**  
+    4★ event-limited weapon with an EM substat and conditional DMG bonus. Strong in single-target but weaker in AoE. Currently unavailable.  
+  - **Festering Desire (腐殖之剑) / Sacrificial Greatsword–style Swords (for E)**  
+    Festering Desire and “Greycruiser’s Vessel” (灰河渡手) are niche picks that grant Skill DMG / CRIT for very E-heavy combos, or if you need more Energy Recharge. Suitable only if your playstyle centers heavily on repeated Skills and the “Projection Attack” portion is a large chunk of your DPS.  
+
+---
+
+### Rotation and Playstyle
+
+Alhaitham’s gameplay revolves around managing his **Chisel-Light Mirrors**, which enable Dendro infusion on his Normal Attacks and trigger **Projection Attacks** every 1.6s when any of his attacks (Normal, Charged, Skill, or Burst) hits an enemy.  
+
+1. **Chisel-Light Mirrors** can be gained or consumed via his Elemental Skill (**Universality: An Elaboration on Form**) and Elemental Burst (**Particular Field: Fetters of Phenomena**).  
+2. Each Mirror extends the Mirror duration by +4s, not merely refreshing the timer.  
+3. The more Mirrors Alhaitham holds, the more hits each Projection Attack can unleash: 
+   - 1 Mirror = small slash (1 hit),  
+   - 2 Mirrors = bigger slash (2 hits),  
+   - 3 Mirrors = “blade rain” (3 hits).  
+4. In a typical 12s window of 3 Mirrors, you can trigger up to 6–7 sets of Projection Attacks if you weave your attacks properly.  
+5. His Burst can either be used as a big finishing nuke + quick generation of Mirrors (and at C6, 2s later it refills them to 3) or can be omitted if you prefer to maintain continuous infusion from the Skill alone.  
+
+**Sample Long On-Field “6-Sword-Rain” Rotation**  
+- Start with **Q** to instantly get 3 Mirrors → weave Normal Attacks, short Skill casts, or a few Charged Attacks to maintain 3 Mirrors as long as possible → plan to keep your Mirrors from dropping to 2 or 1 until you’ve triggered multiple Projection Attacks.  
+- This rotation is best for single-target or times when you can safely stay on-field and repeatedly land hits to trigger Projection Attacks. It yields extremely high personal damage but requires some Energy Recharge plus a consistent way to maintain Dendro aura or Quicken aura on foes.
+
+**Alternate Short “Quick-Swap” Rotation**  
+- Use a **long-tap E** to instantly get multiple Mirrors → do some quick Normal Attacks or a Plunge Attack to trigger Projection Attacks → cast your Burst either mid-combo or just before leaving field to pass those Mirrors or keep them for the next rotation.  
+- This playstyle can partner Alhaitham with a co-carry like Raiden Shogun or sub-DPS units that fill the rest of the rotation. It demands higher Energy but shortens on-field time, suiting content where enemies or phases move around a lot.
+
+---
+
+### Team Recommendations
+
+Alhaitham excels in reaction-based teams, particularly **Aggravate (Spread)** and **Hyperbloom** / **Burgeon** variants collectively referred to as “Bloom + Quicken,” often called **“Hyperbloom / Quicken / ‘Activations’”** or simply “Ailments.” He also gains synergy from doubling up on Dendro with units like **Nahida** or **Baizhu** for the extra EM from double Dendro resonance.
+
+#### **5★ Synergy Picks**
+
+| Character          | Notes                                                                                                                                                                                                                                                                                                                                                          |
+|--------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Nahida**         | Provides strong Dendro application, high EM buffs via her Burst, and can wear 4-piece Deepwood Memories to shred Dendro RES. Pairs excellently with Alhaitham for double Dendro resonance. If built with high EM, she further amplifies reaction damage.                                                                                                        |
+| **Raiden Shogun**  | Excellent universal battery and powerful personal damage. Can fill Alhaitham’s downtime, especially in a quick-swap build. In Spread teams, Raiden’s normal approach is still the standard ER + Emblem set. She can also be used in Hyperbloom combos if desired, though other sub-DPS Electro might outdo her for pure “off-field” synergy.                                                           |
+| **Yae Miko**       | Strong off-field Electro for longer intervals. Her Sesshou Sakura turrets track enemies well and have synergy with Alhaitham’s flexible rotation. Perfect for “Spread” teams, often with double Dendro.                                                                                                                                                          |
+| **Zhongli**        | Ideal shield support if you want uninterrupted combos and Harbinger of Dawn usage. A big shield plus universal RES shred helps Alhaitham maintain consistent damage. Often used in pure Spread teams, less so in tight Bloom/Hyperbloom comps.                                                                                                                  |
+| **Furina** (芙宁娜) | Strong damage amplifier who can also provide off-field Hydro application, enabling Hyperbloom or Bloom combos with Alhaitham. In “Hyperbloom” squads, her Hydro application is typically enough if built properly, though it’s somewhat less consistent than Xinqiu or Yelan’s. In exchange, she can massively boost Alhaitham’s personal DMG.                                                        |
+| **Baizhu**         | Defensive Dendro support with healing and a thin but consistent shield, and a passive that further buffs Spread/Bloom damage. Also provides easy Dendro resonance and can hold 4-piece Deepwood if you prefer to keep Alhaitham on Gilded Dreams.                                                                                                                                                       |
+| **Yelan**          | Off-field Hydro and a potent DMG buff from her passive. Great for Hyperbloom teams, though her single-target water application can lean more heavily into quick Bloom triggers rather than large AoE. If you don’t have Xinqiu or prefer more personal DPS, Yelan is a strong pick.                                                                                                                         |
+
+#### **4★ Synergy Picks**
+
+| Character         | Notes                                                                                                                                                                                                                                                                                                                                                                         |
+|-------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Xinqiu**        | Off-field Hydro, provides small heals and damage reduction. Combos well for Hyperbloom with Alhaitham’s constant Dendro infusion, frequently triggering Blooms. A staple in “HaixiuKuki” (海行久) comps (Alhaitham + Xinqiu + Kuki Shinobu).                                                                                                                                       |
+| **Kuki Shinobu**  | Off-field Electro and healing. Highly versatile in a Bloom-based comp that also triggers Quicken for “Hyperbloom/Aggravate.” Usually built with high EM if you want her to own the Bloom triggers (Hyperbloom). Also helps keep Alhaitham’s HP high for Harbinger of Dawn. Note that pre-C2 Shinobu’s E only lasts 12s, so you’ll need to weave her skill carefully if mixing Hydro for Hyperbloom.                                  |
+| **Dori**          | Another off-field Electro + healing option, though typically overshadowed by Kuki. Her Burst can funnel energy to Alhaitham while giving him a small healing tether. In high-rank constellations, she can further increase energy regen. Usually run with high ER and support sets.                                                                                                                                    |
+| **Collei**        | A standard 4★ Dendro unit with a shorter burst duration and less team buffs than Nahida or DMC. She can still provide off-field Dendro, especially if you equip her with 4-piece Deepwood. Uses less energy than DMC, making her easier to funnel with Favonius Warbow.                                                                                                                                                |
+| **Dendro Traveler** | Great battery and Dendro shred with 4-piece Deepwood. The Traveler’s Burst has a large AoE but can vanish if it contacts Pyro. Typically built with high ER. Pairs well in double Dendro with Alhaitham for more consistent Dendro coverage.                                                                                                                                       |
+| **Yaoyao**        | A healing Dendro unit. Can also hold 4-piece Deepwood. Doesn’t rely on her Burst for healing if you only need minimal healing. She can help keep Alhaitham above 90% HP for Harbinger of Dawn in less intense fights.                                                                                                                                                            |
+| **Beidou**        | Off-field Electro with strong multi-target chaining, giving partial anti-interruption. In Spread teams, you’ll need high ER on Beidou and ideally C2 or better for consistent performance.                                                                                                                                                                                        |
+| **Fischl**        | Off-field Electro via Oz for single-target sustain. However, her single-target focus can be suboptimal if you’re trying to quickly re-apply Electro on multiple enemies. At C6, she gains some synergy for multi-hit.                                                                                                                                                            |
+| **Lisa**          | Off-field AoE Electro via her Burst with defense debuff, but the circle is somewhat stationary. Often runs a supportive build with Favonius Codex or TTDS if you just want her for utility and not personal damage. Long skill animation can be an issue in hectic fights.                                                                                                          |
+| **Kirara**        | Dendro shielder. Helps maintain Alhaitham’s HP for Harbinger of Dawn. Her shield doesn’t always last as long as an extended Alhaitham combo, but is still useful. At C6, she grants a small All-Element DMG Bonus to the team.                                                                                                                                                   |
+
+---
+
+#### **Example Compositions**
+
+1. **Hyperbloom / “Activations” (激绽队)**  
+   - **Core**: Alhaitham (on-field Dendro) + Hydro (Xinqiu/Yelan/Furina) + Electro (Kuki Shinobu, Dori, or Raiden Shogun) + optionally another Dendro or Zhongli.  
+   - This team capitalizes on Bloom (Dendro + Hydro) and triggers those Cores with an Electro unit, causing Hyperbloom. Meanwhile, Alhaitham’s own damage benefits from Quicken or Spread if Electro hits first.  
+   - Often called “HaixiuKuki” (海行久) when featuring Alhaitham + Xinqiu + Kuki. Nahida can replace Alhaitham if you just need Dendro off-field, or you can pair them together for double Dendro synergy.  
+
+2. **Pure Spread Team (纯激化队)**  
+   - **Core**: Alhaitham (on-field Dendro) + Electro (Yae Miko/Beidou/Raiden) + second Dendro (Nahida/Baizhu) + flex (Zhongli or more Electro).  
+   - Focus purely on Quicken → Spread/Aggravate. No Bloom or Hyperbloom to manage. Often features **Nahida** wearing 4-piece Deepwood plus Alhaitham using 4-piece Gilded Dreams, with an Electro unit like **Yae Miko**.  
+   - Provides high single-target and respectable AoE damage while maintaining stable Dendro/Electro coverage. Zhongli can add a shield to protect Alhaitham’s extended combos if you prefer comfort and stability.
+
+---
+

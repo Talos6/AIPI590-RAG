@@ -1,0 +1,114 @@
+**Traveler (Anemo) - Aether/Lumine**
+
+**Title:** Traveler  
+**Full Name:** Aether/Lumine  
+**Affiliation:** Other  
+**Place of Birth:** Unknown  
+**Race:** Unknown  
+**Gender:** Male/Female  
+**Rarity:** 5-Star  
+**Availability:** Permanent  
+**Element:** Anemo (Wind)  
+**Weapon Type:** Sword  
+**Constellation:** Viator (Traveler)  
+**Special Dish:** None  
+**Release Date:** September 15, 2020 (Version 1.0)  
+**Tags:** Elemental Conversion, Control, Resistance Reduction, Self-Healing, Crowd Control  
+
+### **Introduction**  
+A traveler drifting from beyond the world, whose blood relative was taken by the gods. From then on, they embarked on a journey to seek the Seven Archons.
+
+### **Special Note:**  
+During **Sumeru Archon Quest Chapter III, Act I, Section 7 - "The Approaching Goal,"** players are required to use **"One-Handed Sword Combat Technique • Eight."** At this time, the base attack of **only the Traveler** (white stat) is permanently increased by 3 points. If this part of the storyline has already been completed, remember to add this 3-point base attack when calculating stats. Additionally, this value has the following characteristics:
+
+- It is directly added to the Traveler’s stat panel and is included in the **final attack calculation formula** under "Character Attack."
+- This 3-point base attack bonus is not affected by the Traveler’s current level, meaning all Travelers at any level benefit from it.
+- This value remains effective even after switching the Traveler’s elemental alignment.
+
+---
+
+### **Constellation**
+
+| Name | Effect |
+|------|--------|
+| **Raging Vortex** | Palm Vortex can slowly pull enemies within 5 meters towards the Traveler. |
+| **Uprising Whirlwind** | Increases Energy Recharge by 16%. |
+| **Gale Blade** | Increases the level of Gust Surge by 3, up to a maximum of level 15. |
+| **Cherished Breezes** | Reduces damage taken by 10% while Palm Vortex is active. |
+| **Vortex of Stars** | Increases the level of Palm Vortex by 3, up to a maximum of level 15. |
+| **Entwined Winds** | Targets affected by Gust Surge have their Anemo resistance decreased by 20%. If an elemental conversion occurs, resistance to the corresponding element is also decreased by 20%. |
+
+---
+
+### **Anemo Abilities**
+
+- **Normal Attack: Foreign Ironwind**
+- **Elemental Skill: Palm Vortex**
+- **Elemental Burst: Gust Surge**
+- **Passive Talent 1: Cutting Winds**
+- **Passive Talent 2: Second Wind**
+
+#### **Normal Attack: Foreign Ironwind**
+
+**Description:**
+- **Normal Attack:** Performs up to 5 consecutive strikes with a sword.
+- **Charged Attack:** Consumes stamina to perform two rapid sword swings.
+- **Plunging Attack:** Dives from mid-air to strike the ground, dealing AoE damage upon impact.
+
+| Level | 1st Hit | 2nd Hit | 3rd Hit | 4th Hit | 5th Hit | Charged Attack | Plunge DMG | Low/High Plunge DMG |
+|--------|---------|---------|---------|---------|---------|---------------|------------|---------------------|
+| 1 | 44.5% | 43.4% | 53.0% | 58.3% | 70.8% | 55.9%+72.2% | 63.9% | 128%/160% |
+| 10 | 87.9% | 85.9% | 104.7% | 115% | 140% | 111%+120% | 126.4% | 253%/316% |
+
+---
+
+#### **Elemental Skill: Palm Vortex**
+
+**Description:** Gathers vacuum energy in the palm, dealing continuous Anemo DMG. Upon release, an explosion occurs, dealing stronger AoE Anemo DMG.
+
+- **Hold:** Increases damage and AoE size.
+- **Elemental Conversion:** If it comes into contact with Hydro, Pyro, Cryo, or Electro during its duration, it absorbs that element and deals additional corresponding elemental damage. This can only occur once per use.
+
+| Level | Initial Cutting DMG | Max Cutting DMG | Initial Explosion DMG | Max Explosion DMG | CD |
+|--------|--------------------|----------------|-----------------|--------------|-------|
+| 1 | 12.0% | 16.8% | 176% | 192% | 5s (max hold 8s) |
+| 10 | 21.6% | 30.2% | 317% | 346% | 5s (max hold 8s) |
+
+---
+
+#### **Elemental Burst: Gust Surge**
+
+**Description:** Summons a tornado that continuously pulls enemies and objects in its path while dealing Anemo DMG.
+
+- **Elemental Conversion:** If it absorbs Hydro, Pyro, Cryo, or Electro, it deals additional elemental damage of that type. Conversion occurs only once per use.
+
+| Level | Tornado DMG | Additional Elemental DMG | Duration | CD | Energy Cost |
+|--------|------------|----------------|----------|-------|------------|
+| 1 | 80.8% | 24.8% | 6s | 15s | 60 |
+| 10 | 145% | 44.6% | 6s | 15s | 60 |
+
+---
+
+### **Recommended Builds**
+
+#### **Sub-DPS (Anemo Damage Focused)**
+- **Artifacts:** 4-piece **Viridescent Venerer** (Best) / 4-piece **Instructor** (Early Game)
+- **Sands:** ATK% / Elemental Mastery / Energy Recharge
+- **Goblet:** Anemo DMG Bonus / Elemental Mastery
+- **Circlet:** Crit Rate / Crit DMG / Elemental Mastery
+- **Substats:** Crit Rate, Crit DMG, ATK%, Elemental Mastery, Energy Recharge
+
+**Why This Build?**
+The **Viridescent Venerer 4-piece bonus** reduces enemy resistance to Swirled elements by 40%, making it the best set for Anemo supports. Unlike other Traveler elements, Anemo Traveler is mainly used for support, making this set the optimal choice. In early-game, **Instructor 4-piece** can be a good alternative to boost team Elemental Mastery.
+
+#### **All-Element Utility Build**
+- Focus on **Elemental Mastery** to maximize Swirl damage.
+- Weapons like **Iron Sting** or **Sacrificial Sword** work well.
+- Energy Recharge is valuable for frequent Burst uptime.
+
+This build makes Traveler a great **reaction enabler** in teams that rely on Swirl to boost other elements’ damage.
+
+---
+
+This guide provides a full breakdown of the **Anemo Traveler’s** abilities, builds, and gameplay. Let me know if you need further refinements!
+

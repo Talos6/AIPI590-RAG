@@ -1,0 +1,85 @@
+**Barbara**
+
+**Title:** Shining Idol  
+**Full Name:** Barbara Pegg  
+**Nation:** Mondstadt  
+**Race:** Human  
+**Gender:** Female  
+**Rarity:** 4-star  
+**Availability:** Permanent  
+**Vision:** Hydro  
+**Weapon Type:** Catalyst  
+**Constellation:** Crater  
+**Special Dish:** Spicy Stew with Vegetables  
+**Release Date:** September 15, 2020 (Version 1.0)  
+**Tags:** Healing, Revive, Damage Boost, Elemental Application, Stamina Reduction, Cooking, Skill Extension, Cooldown Reduction  
+
+**Introduction:**  
+Everyone in Mondstadt loves Barbara. She first came across the word "idol" in a magazine.  
+
+---
+
+**Constellation**  
+
+| Name | Effect |
+|---|---|
+| **Gleeful Songs** | Barbara restores 1 Elemental Energy every 10 seconds. |
+| **Vitality Burst** | Decreases the cooldown of *Let the Show Begin♪* by 15%. During its duration, active characters in the party gain a 15% Hydro DMG Bonus. |
+| **Star of Tomorrow** | Increases the level of *Shining Miracle♪* by 3, up to a maximum level of 15. |
+| **Attentiveness be My Power** | When Barbara lands a Charged Attack, she restores 1 Elemental Energy per hit, up to 5 Energy per attack. |
+| **The Purest Companionship** | Increases the level of *Let the Show Begin♪* by 3, up to a maximum level of 15. |
+| **Dedicating Everything to You** | While Barbara is off-field, if an active character falls, they will be immediately revived with 100% HP. This effect can only occur once every 15 minutes. |
+
+---
+
+**Talent Upgrade Materials**  
+
+| Level | Required Materials |
+|---|---|
+| 1→2 | 12,500 Mora, 3 Teachings of "Freedom", 6 Divining Scrolls |
+| 2→3 | 17,500 Mora, 2 Guides to "Freedom", 3 Sealed Scrolls |
+| 3→4 | 25,000 Mora, 4 Guides to "Freedom", 4 Sealed Scrolls |
+| 4→5 | 30,000 Mora, 6 Guides to "Freedom", 6 Sealed Scrolls |
+| 5→6 | 37,500 Mora, 9 Guides to "Freedom", 9 Sealed Scrolls |
+| 6→7 | 120,000 Mora, 4 Philosophies of "Freedom", 4 Forbidden Curse Scrolls, 1 Ring of Boreas |
+| 7→8 | 260,000 Mora, 6 Philosophies of "Freedom", 6 Forbidden Curse Scrolls, 1 Ring of Boreas |
+| 8→9 | 450,000 Mora, 12 Philosophies of "Freedom", 9 Forbidden Curse Scrolls, 2 Rings of Boreas |
+| 9→10 | 700,000 Mora, 16 Philosophies of "Freedom", 12 Forbidden Curse Scrolls, 2 Rings of Boreas, 1 Crown of Insight |
+
+---
+
+**Recommended Artifact Sets**  
+
+- **General Build**
+- **Nilou Bloom Team**
+- **Charged Attack Vaporize Build**
+
+| Artifact Set | Description |
+|---|---|
+| **4-piece Ocean-Hued Clam / 4-piece Tenacity of the Millelith / Mixed Set** | Ocean-Hued Clam and Maiden Beloved 2-piece effects boost Healing Bonus, while Tenacity of the Millelith 2-piece effect increases HP, both enhancing Barbara’s healing potential. |
+| **Reasons for Selection** | The 4-piece bonus of Maiden Beloved improves the healing received by all team members, but its duration is only 10 seconds, whereas Barbara’s healing often lasts around 20 seconds with her level 60 passive. The Ocean-Hued Clam 4-piece effect deals physical damage based on healing done, making it useful in early-game combat. Tenacity of the Millelith's 4-piece set increases shield strength and attack power for the whole team. Barbara can trigger this with her elemental skill, but it is mainly used in specific team compositions. |
+
+**Recommended Artifact Stats**  
+- **Sands:** HP%  
+- **Goblet:** HP%  
+- **Circlet:** Healing Bonus  
+- **Sub-stats:** HP% > CRIT Rate (for Favonius Codex) > Energy Recharge > Flat HP  
+
+---
+
+**Talent Priority**  
+- Elemental Skill > Elemental Burst (Normal Attack upgrades are unnecessary)  
+- **Reasoning:** Barbara’s Elemental Skill is her primary healing ability since it remains active while moving. Her Elemental Burst costs 80 Energy, making its uptime low, so prioritizing her Elemental Skill is more effective.  
+
+---
+
+**Weapon Recommendations**  
+
+| Weapon | Rarity | Notes |
+|---|---|---|
+| **Thrilling Tales of Dragon Slayers** | ★★★ | Best support weapon for Barbara. Provides a massive ATK buff to the next character upon swapping. |
+| **Prototype Amber** | ★★★★ | Best for maximum healing. Restores Energy after using Elemental Burst and heals the entire party. |
+| **Everlasting Moonglow / Jadefall’s Splendor** | ★★★★★ | Five-star options that enhance HP and Healing Bonus. |
+| **Favonius Codex / Sacrificial Fragments** | ★★★★ | Good options for Energy Recharge if running frequent Elemental Bursts. |
+
+---

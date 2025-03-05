@@ -1,0 +1,132 @@
+**Yelan (Summer 2023 Update) Translation**
+
+### Title
+Valley Orchid
+
+### Full Name
+Yelan
+
+### Nation
+Liyue
+
+### Race
+Human
+
+### Gender
+Female
+
+### Rarity
+5-Star
+
+### Availability
+Limited (Event Exclusive)
+
+### Vision
+Hydro
+
+### Weapon Type
+Bow
+
+### Constellation
+Umbrabilis Orchis
+
+### Special Dish
+Dew-Dipped Shrimp
+
+### Release Date
+May 31, 2022 (Version 2.7)
+
+### Tags
+Healing, Damage Boost, Expeditions, Fast Movement, Coordinated Attack
+
+### Introduction
+A mysterious figure claiming to work for the Ministry of Civil Affairs, yet she is absent from their official records.
+
+---
+
+## Constellations
+
+| Name | Effect |
+|---|---|
+| **Enter the Plot, Ready for the Game** | Increases the number of uses for Lingering Lifeline by 1. |
+| **Win the Heavens’ Favor** | When Exquisite Throw's coordinated attack activates, an additional Hydro arrow is fired, dealing Hydro DMG equal to 14% of Yelan's Max HP. This effect can occur once every 1.8s. |
+| **Gambit’s Subtle Scheme** | Increases the level of Depth-Clarion Dice by 3, up to a maximum of level 15. |
+| **Bait-and-Switch** | Based on the number of marked enemies by Lingering Lifeline, the Max HP of all party members increases by 10% per mark when the Lifeline explodes, up to a maximum of 40% for 25 seconds. |
+| **Dealer’s Sleight** | Increases the level of Lingering Lifeline by 3, up to a maximum of level 15. |
+| **Winner Takes All** | After using Depth-Clarion Dice, Yelan enters the "Mastermind" state: her Normal Attacks become special "Breakthrough Barbs," which function similarly to Breakthrough Barbs and deal Charged Attack DMG equivalent to 156% of a normal Breakthrough Barb's damage. This effect lasts for 20 seconds or until 5 Breakthrough Barbs are fired. |
+
+---
+
+## Talent Upgrade Materials
+
+| Level | Required Materials |
+|---|---|
+| 1→2 | 12,500 Mora, 3 Teachings of "Prosperity," 6 Recruit’s Insignia |
+| 2→3 | 17,500 Mora, 2 Guide to "Prosperity," 3 Sergeant’s Insignia |
+| 3→4 | 25,000 Mora, 4 Guide to "Prosperity," 4 Sergeant’s Insignia |
+| 4→5 | 30,000 Mora, 6 Guide to "Prosperity," 6 Sergeant’s Insignia |
+| 5→6 | 37,500 Mora, 9 Guide to "Prosperity," 9 Sergeant’s Insignia |
+| 6→7 | 120,000 Mora, 4 Philosophies of "Prosperity," 4 Lieutenant’s Insignia, 1 Gilded Scale |
+| 7→8 | 260,000 Mora, 6 Philosophies of "Prosperity," 6 Lieutenant’s Insignia, 1 Gilded Scale |
+| 8→9 | 450,000 Mora, 12 Philosophies of "Prosperity," 9 Lieutenant’s Insignia, 2 Gilded Scale |
+| 9→10 | 700,000 Mora, 16 Philosophies of "Prosperity," 12 Lieutenant’s Insignia, 2 Gilded Scale, 1 Crown of Insight |
+
+---
+
+## Recommended Builds
+
+### **Support Hydro Enabler Build**
+
+#### **Artifact Set Recommendations**
+- 4-Piece Emblem of Severed Fate
+- 2-Piece Emblem of Severed Fate + 2-Piece Noblesse Oblige
+- 2-Piece Heart of Depth + 2-Piece Tenacity of the Millelith
+
+#### **Recommended Main Stats**
+- **Sands:** Energy Recharge or HP%
+- **Goblet:** Hydro DMG Bonus
+- **Circlet:** CRIT Rate or CRIT DMG
+
+#### **Recommended Substats**
+Energy Recharge (until requirement met) ≥ HP% (up to 30,000 HP) ≥ CRIT Rate/CRIT DMG
+
+#### **Talent Priority**
+Elemental Burst > Elemental Skill; Normal Attack is not necessary.
+
+#### **Best Weapons**
+- **5★ Aqua Simulacra**: Provides HP% and a strong DMG boost regardless of whether Yelan is on-field or off-field.
+- **5★ Elegy for the End**: Enhances team damage with Elemental Mastery and ATK buffs.
+
+#### **Alternative Weapons**
+- **4★ Favonius Warbow**: Great for Energy Recharge and team battery potential.
+- **4★ The Stringless**: Boosts Elemental Skill and Burst DMG, viable in Vaporize teams.
+
+---
+
+### **Hydro DPS Build**
+
+#### **Artifact Set Recommendations**
+- 4-Piece Emblem of Severed Fate
+- 2-Piece Heart of Depth + 2-Piece Noblesse Oblige
+
+#### **Recommended Main Stats**
+- **Sands:** HP% or Energy Recharge
+- **Goblet:** Hydro DMG Bonus
+- **Circlet:** CRIT Rate or CRIT DMG
+
+#### **Recommended Substats**
+CRIT Rate, CRIT DMG, HP%, Energy Recharge
+
+#### **Talent Priority**
+Elemental Burst > Elemental Skill > Normal Attack (for C6 users)
+
+#### **Best Weapons**
+- **5★ Aqua Simulacra**: Highest damage boost and HP synergy.
+- **5★ Hunter’s Path**: Strong alternative for Charged Attack-focused playstyle.
+
+#### **Alternative Weapons**
+- **4★ The Stringless**: Good damage boost for Burst and Skill.
+- **4★ Favonius Warbow**: Helps with Energy Recharge and team rotations.
+
+Yelan excels as a **Hydro sub-DPS and enabler**, with **fast movement, coordinated attacks, and strong elemental application**. Her **Burst scales with HP**, making **HP% and Energy Recharge critical for her builds**.
+

@@ -1,0 +1,100 @@
+**Xinyan**
+
+**Title:** Fiery Melody  
+**Full Name:** Xinyan  
+**Nation:** Liyue  
+**Race:** Human  
+**Gender:** Female  
+**Rarity:** ★★★★ (4-Star)  
+**Availability:** Permanent  
+**Vision:** Pyro  
+**Weapon:** Claymore  
+**Constellation:** Fila Ignea  
+**Specialty Dish:** Rockin' Riffin' Chicken!  
+**Release Date:** December 1, 2020 (Version 1.1)  
+**Tags:** Shield, Resistance Reduction, Damage Buff, Stamina Consumption Reduction, Elemental Application, Cooking  
+**Description:** The only rock musician in Liyue Harbor, Xinyan sings of rebellion against "prejudice" with her music and passion.  
+
+---
+
+### **Constellation Effects**
+
+| Name | Effect |
+|------|--------|
+| Fatal Acceleration | After landing a CRIT hit, Xinyan's Normal and Charged Attack speed is increased by 12% for 5 seconds. This effect can only occur once every 5 seconds. |
+| Improvised Opening | The CRIT Rate of Sweeping Fervor's Physical Damage is increased by 100%, and it will always generate a Level 3 shield: Rave when cast. (Note: The intermittent Pyro damage from this Level 3 shield can trigger the Sacrificial Greatsword effect.) |
+| Double-Stop | Increases the Level of Sweeping Fervor by 3, up to a maximum of Level 15. |
+| Wildfire Rhythm | Reduces enemies' Physical Resistance by 15% for 12 seconds when hit by Sweeping Fervor. |
+| Solo Encore | Increases the Level of Riff Revolution by 3, up to a maximum of Level 15. |
+| Rockin' in a Flaming World | Reduces Xinyan's Stamina consumption from Charged Attacks by 30%. Additionally, Charged Attacks gain an ATK bonus equal to 50% of her DEF. |
+
+---
+
+### **Ascension Materials**
+
+| Level | Required Materials |
+|-------|--------------------|
+| 1→2 | 12,500 Mora, 3 Teachings of "Gold", 6 Treasure Hoarder Insignia |
+| 2→3 | 17,500 Mora, 2 Guide to "Gold", 3 Silver Raven Insignia |
+| 3→4 | 25,000 Mora, 4 Guide to "Gold", 4 Silver Raven Insignia |
+| 4→5 | 30,000 Mora, 6 Guide to "Gold", 6 Silver Raven Insignia |
+| 5→6 | 37,500 Mora, 9 Guide to "Gold", 9 Silver Raven Insignia |
+| 6→7 | 120,000 Mora, 4 Philosophies of "Gold", 4 Golden Raven Insignia, 1 Tusk of Monoceros Caeli |
+| 7→8 | 260,000 Mora, 6 Philosophies of "Gold", 6 Golden Raven Insignia, 1 Tusk of Monoceros Caeli |
+| 8→9 | 450,000 Mora, 12 Philosophies of "Gold", 9 Golden Raven Insignia, 2 Tusk of Monoceros Caeli |
+| 9→10 | 700,000 Mora, 16 Philosophies of "Gold", 12 Golden Raven Insignia, 2 Tusk of Monoceros Caeli, 1 Crown of Insight |
+
+---
+
+### **Recommended Builds**
+
+#### **Build Type 1: C4 Physical Support**
+- **Recommended Artifact Sets:** 
+  - Best: 4-Piece Tenacity of the Millelith + Any Filler
+  - Alternative: 4-Piece Noblesse Oblige or 2-Piece Defender’s Will + 2-Piece Husk of Opulent Dreams
+- **Artifact Main Stats:**
+  - Sands: DEF% / Energy Recharge
+  - Goblet: DEF%
+  - Circlet: DEF%
+- **Substats Priority:** DEF% > Energy Recharge > Flat DEF
+- **Weapon Choices:**
+  - Best 4★: Katsuragikiri Nagamasa, Favonius Greatsword, Whiteblind
+  - Optional 5★: Redhorn Stonethresher
+  - Alternative 3★: White Iron Greatsword (only as a placeholder)
+- **Skill Leveling Priority:** Only level up Elemental Skill, as Normal Attacks and Elemental Burst are unnecessary for a support role.
+
+#### **Build Type 2: C2 Burst DPS**
+- **Recommended Artifact Sets:**
+  - Best: 2-Piece Pale Flame + 2-Piece Bloodstained Chivalry
+  - Alternative: 4-Piece Emblem of Severed Fate
+- **Artifact Main Stats:**
+  - Sands: ATK%
+  - Goblet: Physical DMG Bonus
+  - Circlet: CRIT DMG
+- **Substats Priority:** CRIT DMG, Energy Recharge, ATK%
+- **Weapon Choices:**
+  - Best 5★: Redhorn Stonethresher
+  - Best 4★: Akuoumaru, Blackcliff Slasher, Serpent Spine, Luxurious Sea-Lord, Snow-Tombed Starsilver
+  - Optional 4★: Favonius Greatsword, Katsuragikiri Nagamasa
+  - Alternative 3★: Skyrider Greatsword (only for early game)
+- **Skill Leveling Priority:** Elemental Burst > Elemental Skill, no need to level Normal Attacks.
+
+#### **Build Type 3: C6 Main DPS**
+- **Recommended Artifact Sets:**
+  - Best: 2-Piece Pale Flame + 2-Piece Bloodstained Chivalry
+  - Alternative: 4-Piece Retracing Bolide / 4-Piece Bloodstained Chivalry
+- **Artifact Main Stats:**
+  - Sands: ATK%
+  - Goblet: Physical DMG Bonus
+  - Circlet: CRIT Rate / CRIT DMG
+- **Substats Priority:** CRIT Rate, CRIT DMG, ATK%
+- **Weapon Choices:**
+  - Best 5★: Redhorn Stonethresher
+  - Best 4★: Akuoumaru, Blackcliff Slasher, Serpent Spine, Luxurious Sea-Lord, Snow-Tombed Starsilver
+  - Optional 4★: Favonius Greatsword, Katsuragikiri Nagamasa
+  - Alternative 3★: Skyrider Greatsword (only for early game)
+- **Skill Leveling Priority:** Elemental Burst > Elemental Skill > Normal Attack
+
+---
+
+Xinyan excels in providing shields and reducing enemies’ Physical Resistance while also being capable of burst damage when properly built. At C6, she can become a viable main DPS with a heavy focus on Charged Attacks. However, her shield strength is relatively low compared to other shielders, making her best suited for hybrid support roles rather than pure defense.

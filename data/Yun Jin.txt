@@ -1,0 +1,109 @@
+**Yun Jin**
+
+**Title:** Roving Performer
+**Full Name:** Yun Jin  
+**Nation:** Liyue  
+**Origin:** Unknown  
+**Race:** Human  
+**Gender:** Female  
+**Rarity:** 4-Star  
+**Standard/Limited:** Standard  
+**Vision:** Geo  
+**Weapon Type:** Polearm  
+**Constellation:** Opera Grandis  
+**Special Dish:** Cloud-Shrouded Jade  
+**Release Date:** January 5, 2022 (Version 2.4)  
+**Tags:** Shield, Attack Speed Boost, Multiplier Bonus, Damage Increase, Cooking, Parry, Cooldown Reduction  
+
+**Description:**  
+A renowned opera singer in Liyue, excelling in both playwriting and performance. Her style is elegant and refined, just like her demeanor.  
+
+---  
+
+**Constellation**  
+
+| Name | Effect |
+|------|--------|
+| **Gallant Advance** | The cooldown of Opening Flourish is decreased by 18%. |
+| **Myriad Mise-En-Scène** | After using Cliffbreaker's Banner, all nearby party members' Normal Attack DMG is increased by 15% for 12s. |
+| **Seafaring General** | Increases the level of Cliffbreaker's Banner by 3. Maximum upgrade level is 15. |
+| **Famed Throughout the Land** | When Yun Jin triggers a Crystallize reaction, her DEF is increased by 20% for 12s. |
+| **Exquisite Beholding** | Increases the level of Opening Flourish by 3. Maximum upgrade level is 15. |
+| **Poised in Perfection** | Characters under the effect of Flying Cloud Flag Formation have their Normal Attack SPD increased by 12%. |
+
+---  
+
+**Talent Upgrade Materials**  
+
+| Level | Materials Required |
+|-------|------------------|
+| 1→2 | 12,500 Mora, 3 Teachings of "Diligence", 6 Damaged Mask |
+| 2→3 | 17,500 Mora, 2 Guides to "Diligence", 3 Stained Mask |
+| 3→4 | 25,000 Mora, 4 Guides to "Diligence", 4 Stained Mask |
+| 4→5 | 30,000 Mora, 6 Guides to "Diligence", 6 Stained Mask |
+| 5→6 | 37,500 Mora, 9 Guides to "Diligence", 9 Stained Mask |
+| 6→7 | 120,000 Mora, 4 Philosophies of "Diligence", 4 Ominous Mask, 1 Ashen Heart |
+| 7→8 | 260,000 Mora, 6 Philosophies of "Diligence", 6 Ominous Mask, 1 Ashen Heart |
+| 8→9 | 450,000 Mora, 12 Philosophies of "Diligence", 9 Ominous Mask, 2 Ashen Heart |
+| 9→10 | 700,000 Mora, 16 Philosophies of "Diligence", 12 Ominous Mask, 2 Ashen Heart, 1 Crown of Insight |
+
+---  
+
+**Recommended Builds**  
+
+### **General Support Build**  
+- **Artifact Set:**  
+  - Best: 4-piece Husk of Opulent Dreams / 4-piece Noblesse Oblige / 4-piece Archaic Petra  
+  - Alternative: 2-piece Husk of Opulent Dreams + 2-piece Emblem of Severed Fate  
+- **Main Stats:**  
+  - Sands: DEF% / Energy Recharge  
+  - Goblet: DEF%  
+  - Circlet: DEF% / Crit Rate (if using Favonius Lance)  
+- **Substats:** Crit Rate (if using Favonius Lance), DEF%, Energy Recharge, Flat DEF  
+- **Recommended Weapons:**  
+  - Best: 4-star Favonius Lance / 4-star Kitain Cross Spear / 4-star Rightful Reward / 5-star Engulfing Lightning  
+  - Alternative: 4-star Prototype Starglitter / 4-star "The Catch" / 5-star Skyward Spine  
+
+**Set Recommendations:**  
+- **Husk vs. Noblesse:**  
+  - For characters with low base attack, like Qiqi with Harbinger of Dawn, Husk is better than Noblesse Oblige.  
+  - For higher-multiplier characters like Yoimiya or Razor, ensuring Noblesse Oblige is used somewhere in the team is more important than Husk.  
+  
+**Artifact Comparison:**  
+- **Husk 4-piece vs. 2+2 Set:**  
+  - Husk 2-piece grants 30% DEF, while Husk 4-piece adds another 24%. Alternatively, you can pair Husk 2-piece with 2-piece Emblem for 20% Energy Recharge.  
+- **Husk vs. Noblesse:**  
+  - Husk provides more benefits to Yun Jin’s own DEF scaling, while Noblesse is better if no other character is using it in the team.  
+
+**Skill Priorities:**  
+- **Only level up Elemental Burst,** ignore Normal Attacks and Elemental Skill.  
+
+---  
+
+**Weapon Recommendations**  
+
+### **Best Weapons**  
+- **4-star Favonius Lance**  
+  - Provides Energy Recharge and helps generate particles for the team. Requires a decent amount of Crit Rate for consistency.  
+- **4-star Kitain Cross Spear**  
+  - Generates additional Energy and is effective when highly refined. However, it may interfere with skill timing.  
+- **4-star Rightful Reward**  
+  - Offers Energy Recharge and additional healing restoration upon using skills, making it an alternative choice.  
+- **5-star Engulfing Lightning**  
+  - Grants Energy Recharge and improves Energy regeneration after Elemental Burst usage. However, the ATK bonus it provides is not useful for Yun Jin.  
+
+### **Alternative Weapons**  
+- **4-star Prototype Starglitter**  
+  - A solid Energy Recharge weapon with a craftable option.  
+- **4-star "The Catch"**  
+  - Good Energy Recharge, though the weapon’s passive isn’t fully utilized.  
+- **5-star Skyward Spine**  
+  - Offers both Energy Recharge and increased attack speed. Though attack speed isn’t a priority, it’s a decent alternative.  
+
+### **Situational Weapon**  
+- **4-star Deathmatch**  
+  - The only spear with a DEF% bonus, though it has conditional activation. To maximize its effect, Yun Jin should be on-field when facing multiple enemies before casting her Burst.  
+
+### **Not Recommended Weapons**  
+- **4-star Lithic Spear / Crescent Pike**  
+  - These weapons focus on offensive stats that don’t benefit Yun Jin’s playstyle.  

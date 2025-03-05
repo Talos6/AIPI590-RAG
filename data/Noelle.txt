@@ -1,0 +1,108 @@
+**Noelle**
+
+---
+
+**Title:** The Unfading Blossom  
+**Full Name:** Noelle  
+**Nation:** Mondstadt  
+**Race:** Human  
+**Gender:** Female  
+**Rarity:** 4-Star  
+**Availability:** Permanent  
+**Vision:** Geo  
+**Weapon:** Claymore  
+**Constellation:** Parma Cordis  
+**Specialty Dish:** Lighter-Than-Air Pancake  
+**Release Date:** September 15, 2020 (Version 1.0)  
+**Tags:** Healing, Shield, Cooking, Elemental Infusion, Skill Duration Extension, Self-Damage Boost, Stamina Consumption Reduction  
+
+**Character Overview:**  
+A reliable maid of the Knights of Favonius who dreams of becoming a full-fledged knight one day.
+
+---
+
+### **Constellation**
+
+| Name | Effect |
+|---|---|
+| Leave It to Me! | While under the effects of both Sweeping Time and Breastplate, the chance of Breastplate's healing effect triggering increases to 100%. |
+| Combat Maid | Reduces Noelle’s charged attack stamina consumption by 20% and increases its damage by 15%. |
+| Invulnerable Maid | Increases the level of Breastplate by 3, up to a maximum of level 15. |
+| To Be Cleaned Later | When Breastplate's effect ends or is destroyed by damage, it deals 400% of Noelle’s ATK as Geo DMG to surrounding enemies. |
+| Favonius Sweeper Master | Increases the level of Sweeping Time by 3, up to a maximum of level 15. |
+| Must Be Spotless | Increases Noelle’s ATK by 50% of her DEF during Sweeping Time. Additionally, each enemy defeated during the skill’s duration extends its duration by 1 second, up to a maximum of 10 seconds. |
+
+---
+
+### **Talent Level-Up Materials**
+
+| Level | Materials Required |
+|---|---|
+| 1→2 | 12,500 Mora, 3 Teachings of Resistance, 6 Damaged Masks |
+| 2→3 | 17,500 Mora, 2 Guides to Resistance, 3 Stained Masks |
+| 3→4 | 25,000 Mora, 4 Guides to Resistance, 4 Stained Masks |
+| 4→5 | 30,000 Mora, 6 Guides to Resistance, 6 Stained Masks |
+| 5→6 | 37,500 Mora, 9 Guides to Resistance, 9 Stained Masks |
+| 6→7 | 120,000 Mora, 4 Philosophies of Resistance, 4 Ominous Masks, 1 Dvalin’s Claw |
+| 7→8 | 260,000 Mora, 6 Philosophies of Resistance, 6 Ominous Masks, 1 Dvalin’s Claw |
+| 8→9 | 450,000 Mora, 12 Philosophies of Resistance, 9 Ominous Masks, 2 Dvalin’s Claws |
+| 9→10 | 700,000 Mora, 16 Philosophies of Resistance, 12 Ominous Masks, 2 Dvalin’s Claws, 1 Crown of Insight |
+
+---
+
+### **Recommended Builds**
+
+#### **Main DPS Build**
+
+**Artifact Set Options:**  
+- Best: 4-Piece Husk of Opulent Dreams + Any Off-Set Piece  
+- Alternative: 4-Piece Retracing Bolide / 4-Piece Gladiator’s Finale / 4-Piece Desert Pavilion Chronicle + Any Off-Set Piece  
+- With Furina: 4-Piece Marechaussee Hunter + Any Off-Set Piece  
+
+**Reasons for Recommendations:**  
+- Noelle is best used as a main DPS after unlocking her sixth constellation, *Must Be Spotless*, which significantly enhances her DEF-to-ATK conversion ratio and extends her Elemental Burst duration when defeating enemies.  
+- *Marechaussee Hunter* ("Hunter Set") provides Normal and Charged Attack bonuses in its 2-piece effect and a massive CRIT Rate boost in its 4-piece effect when HP fluctuates, making it an ideal choice when paired with Furina, who can easily maintain these conditions.  
+- *Husk of Opulent Dreams* provides Noelle with much-needed DEF and Geo DMG bonuses, complementing her playstyle effectively.  
+- *Retracing Bolide* enhances her shield strength and Normal/Charged Attacks when under shield protection, which synergizes well with Noelle's self-sustaining nature.  
+- *Gladiator’s Finale* is a viable option due to its 35% Normal Attack DMG bonus for claymore users, though its 2-piece ATK% effect is less beneficial compared to DEF scaling.  
+
+**Main Stats:**  
+- *Sands:* DEF% / Energy Recharge  
+- *Goblet:* Geo DMG Bonus / DEF% (if paired with Furina)  
+- *Circlet:* CRIT DMG / CRIT Rate / DEF% (Hunter Set + Redhorn Stonethresher)  
+
+**Sub Stats Priority:**  
+CRIT Rate, CRIT DMG > DEF% > Energy Recharge > ATK% > Flat DEF  
+
+**Recommended Weapons:**  
+- **Best:** *Redhorn Stonethresher* (5★) – Provides high CRIT DMG, DEF%, and DMG bonuses.  
+- **Alternatives:** *Serpent Spine* (4★), *Beacon of the Reed Sea* (5★), *Whiteblind* (4★, Forgeable).  
+
+---
+
+#### **Support Build**
+
+**Artifact Set Options:**  
+- *4-Piece Archaic Petra* or *4-Piece Noblesse Oblige* for boosting team DMG.  
+- Hybrid sets such as *2-Piece Husk of Opulent Dreams* + *2-Piece Maiden Beloved* / *2-Piece Ocean-Hued Clam* / *2-Piece Emblem of Severed Fate* for healing and burst uptime.  
+
+**Main Stats:**  
+- *Sands:* DEF% (for non-C1) / Energy Recharge (for C1+)  
+- *Goblet:* DEF%  
+- *Circlet:* DEF% (for shield-focused), Healing Bonus (for healing-focused), CRIT Rate (for Favonius Greatsword users)  
+
+**Recommended Weapons:**  
+- *Favonius Greatsword* (4★) – Boosts energy generation and team utility.  
+- *Sacrificial Greatsword* (4★) – Helps with skill uptime.  
+- *The Bell* (4★) – Offers additional shields but is not optimal.  
+
+---
+
+### **Talent Prioritization**
+
+- **For DPS:** Normal Attack > Elemental Burst > Elemental Skill  
+- **For Support:** Elemental Skill (Breastplate) only, no need to level Normal Attack or Elemental Burst.  
+
+**Final Notes:**  
+Noelle is a versatile character who excels as a Geo DPS and a durable healer/shielder. With the right investment, she can be a powerhouse in both solo and team compositions.
+

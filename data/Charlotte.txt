@@ -1,0 +1,142 @@
+**Charlotte (Summer 2023 Update) Translation**
+
+### Title
+The Truth-Seeking Lens
+
+### Full Name
+Charlotte
+
+### Nation
+Fontaine
+
+### Race
+Human
+
+### Gender
+Female
+
+### Rarity
+4-Star
+
+### Availability
+Permanent
+
+### Vision
+Cryo
+
+### Weapon Type
+Catalyst
+
+### Pneuma/Ousia Alignment
+Pneuma
+
+### Constellation
+Veritas Speculi
+
+### Special Dish
+Exclusive Secrets: Gourmet Column
+
+### Release Date
+November 8, 2023 (Version 4.2)
+
+### Tags
+Healing, Exclusive Photography, Coordinated Attack, Cooldown Reduction, Energy Restoration, Self-Damage Boost
+
+### Introduction
+A passionate journalist from The Steambird, tirelessly chasing the truth at every moment.
+
+---
+
+## Constellations
+
+| Name | Effect |
+|---|---|
+| **Bound by Verification** | When "Still Frame: Comprehensive Confirmation" heals a character, they gain the "Verification" mark, restoring HP equal to 80% of Charlotte's ATK every 2 seconds for 6 seconds. |
+| **Duty to the Truth** | When using "Framing: Frozen Composition," if "Mr. Whittington" hits 1/2/3 or more enemies, Charlotte’s ATK increases by 10%/20%/30% for 12 seconds. |
+| **Independence First** | Increases the level of "Still Frame: Comprehensive Confirmation" by 3, up to a maximum of level 15. |
+| **Responsibility to Supervise** | When "Still Frame: Comprehensive Confirmation" hits enemies marked with "Instant Snapshot" or "Focused Impression," damage dealt is increased by 10%, and Charlotte gains 2 Energy. This effect can trigger up to 5 times every 20 seconds. |
+| **Principle of Conscience** | Increases the level of "Framing: Frozen Composition" by 3, up to a maximum of level 15. |
+| **Relevance is Key** | When the current active character's Normal or Charged Attacks hit enemies marked with "Focused Impression" from "Framing: Frozen Composition," "Mr. Whittington" performs a coordinated attack, dealing Cryo DMG equal to 180% of Charlotte's ATK in an AoE. The active character also heals HP equal to 42% of Charlotte’s ATK. This effect can occur once every 6 seconds. The damage and healing from this effect are considered as Elemental Burst damage and healing. |
+
+---
+
+## Talent Upgrade Materials
+
+| Level | Required Materials |
+|---|---|
+| 1→2 | 12,500 Mora, 3 Teachings of "Justice," 6 Meshing Gear |
+| 2→3 | 17,500 Mora, 2 Guide to "Justice," 3 Mechanism Gear |
+| 3→4 | 25,000 Mora, 4 Guide to "Justice," 4 Mechanism Gear |
+| 4→5 | 30,000 Mora, 6 Guide to "Justice," 6 Mechanism Gear |
+| 5→6 | 37,500 Mora, 9 Guide to "Justice," 9 Mechanism Gear |
+| 6→7 | 120,000 Mora, 4 Philosophies of "Justice," 4 Artificed Dynamic Gear, 1 Shimmering Prism |
+| 7→8 | 260,000 Mora, 6 Philosophies of "Justice," 6 Artificed Dynamic Gear, 1 Shimmering Prism |
+| 8→9 | 450,000 Mora, 12 Philosophies of "Justice," 9 Artificed Dynamic Gear, 2 Shimmering Prism |
+| 9→10 | 700,000 Mora, 16 Philosophies of "Justice," 12 Artificed Dynamic Gear, 2 Shimmering Prism, 1 Crown of Insight |
+
+---
+
+## Recommended Builds
+
+### **Support Healer Build**
+
+#### **Artifact Set Recommendations**
+- 4-Piece Noblesse Oblige
+- 4-Piece Song of Days Past
+- 4-Piece Tenacity of the Millelith
+- 4-Piece Maiden Beloved
+- 2-Piece Emblem of Severed Fate + 2-Piece Maiden Beloved
+
+#### **Recommended Main Stats**
+- **Sands:** Energy Recharge
+- **Goblet:** ATK%
+- **Circlet:** Healing Bonus
+
+#### **Recommended Substats**
+Energy Recharge, CRIT Rate (for Favonius Codex), ATK%
+
+#### **Talent Priority**
+Only level up Elemental Burst. Normal Attack and Elemental Skill do not need investment.
+
+#### **Best Weapons**
+- **4★ Prototype Amber**: Provides self-sustain and Energy Recharge, making it Charlotte’s best healing option.
+- **4★ Oathsworn Eye**: High ATK, good Energy Recharge bonus, and overall strong synergy.
+
+#### **Alternative Weapons**
+- **4★ Favonius Codex**: Energy Recharge-focused, helps smooth team rotations.
+- **4★ Wine and Song**: Provides Energy Recharge and ATK.
+
+---
+
+### **Cryo DPS Build**
+
+#### **Artifact Set Recommendations**
+- 4-Piece Hunter’s Dawn
+- 4-Piece Blizzard Strayer
+- 2-Piece Blizzard Strayer + 2-Piece Gladiator’s Finale
+
+#### **Recommended Main Stats**
+- **Sands:** ATK% or Energy Recharge
+- **Goblet:** Cryo DMG Bonus or ATK%
+- **Circlet:** CRIT Rate or CRIT DMG
+
+#### **Recommended Substats**
+CRIT Rate, CRIT DMG, ATK%, Energy Recharge
+
+#### **Talent Priority**
+Upgrade Elemental Burst first, followed by Elemental Skill.
+
+#### **Best Weapons**
+- **5★ The Widsith**: High burst damage potential.
+- **5★ Kagura’s Verity**: High base ATK and strong DMG buffs.
+- **5★ Skyward Atlas**: General ATK and Energy Recharge utility.
+
+#### **Alternative Weapons**
+- **4★ The Widsith**: Excellent for quick burst setups.
+- **4★ Solar Pearl**: Balanced for Normal and Charged Attacks.
+- **4★ Oathsworn Eye**: Energy Recharge and ATK buffs.
+
+---
+
+Charlotte can flexibly serve as a **healer** or **Cryo damage dealer** depending on the build. Her best performance comes from maximizing her **Elemental Burst** for healing, while for damage, she thrives with **Cryo DMG Bonus and CRIT stats**.
+

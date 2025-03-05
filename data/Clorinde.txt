@@ -1,0 +1,79 @@
+**Clorinde**
+
+---
+
+**Title:** Candlebearing Shadowhunter
+
+**Full Name:** Clorinde  
+**Nation:** Fontaine  
+**Race:** Human  
+**Gender:** Female  
+**Rarity:** 5-star  
+**Availability:** Limited (UP)  
+**Vision:** Electro  
+**Weapon Type:** Sword  
+**Arche:** Ferocity  
+**Constellation:** Celeris Gladio  
+**Special Dish:** "The Hunt"  
+**Release Date:** June 5, 2024 (Version 4.7)  
+**Tags:** Self-Healing, Self-Damage Boost, Self-Crit Rate Boost, Self-Crit Damage Boost, Special Infusion, Coordinated Attacks, Damage Reduction, Life Bond, Interruption Resistance, Local Exploration  
+**Description:** An undefeated duel proxy, upholding "Justice" in the Court of Fontaine with her sword.
+
+---
+
+### Constellations
+
+**Name** | **Effect**  
+--- | ---  
+**"Henceforth, Passing Through the Veil of Candlelight"** | During Clorinde’s "Night Patrol" state from her skill "Night Hunt," Normal Attack hits summon Night Patrol Shadows near enemies, performing two coordinated attacks, each dealing 30% of Clorinde’s ATK as Electro DMG. This effect can trigger once every 1.2s and is considered Normal Attack DMG.  
+**"Henceforth, Facing the Perils of the Long Night"** | The passive talent "Bright Flame in the Night" is enhanced: When nearby party members trigger Electro-related reactions, Clorinde’s Normal Attack and "Final Glimmer" damage increase by 30% of her ATK for 15s. This effect stacks up to 3 times, each stack counted separately. When at 3 stacks, Clorinde gains increased interruption resistance. This effect can increase her damage by a maximum of 2700.  
+**"I Shall Remember the Oath of Daylight"** | Increases "Night Hunt" skill level by 3. Maximum upgrade level is 15.  
+**"Remember the Tears, Life, and Compassion"** | When "Final Glimmer" hits an enemy, its damage increases based on Clorinde’s current Life Bond percentage. Each 1% Life Bond increases "Final Glimmer" DMG by 2%, up to a maximum increase of 200%.  
+**"Also Remember, Dawn Will Arrive"** | Increases "Final Glimmer" skill level by 3. Maximum upgrade level is 15.  
+**"For This, Do Not Forsake Hope"** | For 12s after using "Night Hunt," Clorinde gains 10% CRIT Rate and 70% CRIT DMG. Additionally, during "Night Patrol," "Bright Candle Shadows" appear under specific conditions to perform chase attacks, dealing 200% of Clorinde’s ATK as Electro DMG. These attacks are considered Normal Attack DMG. "Bright Candle Shadows" appear when Clorinde is about to be hit or when executing "Nocturnal Edict." This effect can trigger once per second, up to 6 times per "Night Patrol." Additionally, during "Night Patrol," Clorinde takes 80% reduced damage and gains enhanced interruption resistance. This effect ends either when "Night Patrol" ends or after summoning 6 "Bright Candle Shadows."  
+
+---
+
+### Talent Upgrade Materials
+
+**Level** | **Materials Required**  
+--- | ---  
+1→2 | 12,500 Mora, 3 "Teachings of Justice," 6 Transoceanic Pearl  
+2→3 | 17,500 Mora, 2 "Guide to Justice," 3 Transoceanic Chunk  
+3→4 | 25,000 Mora, 4 "Guide to Justice," 4 Transoceanic Chunk  
+4→5 | 30,000 Mora, 6 "Guide to Justice," 6 Transoceanic Chunk  
+5→6 | 37,500 Mora, 9 "Guide to Justice," 9 Transoceanic Chunk  
+6→7 | 120,000 Mora, 4 "Philosophies of Justice," 4 Xenochromatic Crystal, 1 Moment of the Ancient Sea  
+7→8 | 260,000 Mora, 6 "Philosophies of Justice," 6 Xenochromatic Crystal, 1 Moment of the Ancient Sea  
+8→9 | 450,000 Mora, 12 "Philosophies of Justice," 9 Xenochromatic Crystal, 2 Moments of the Ancient Sea  
+9→10 | 700,000 Mora, 16 "Philosophies of Justice," 12 Xenochromatic Crystal, 2 Moments of the Ancient Sea, 1 Crown of Insight  
+
+---
+
+### Recommended Builds
+
+#### **General DPS Build**
+
+**Artifact Sets:**  
+- **Best:** 4-piece Ballad of the Boundless Blue  
+- **Alternatives:** 4-piece Gladiator’s Finale / 4-piece Echoes of an Offering / 4-piece Retracing Bolide (requires shield support)  
+
+**Reasons for Selection:**  
+- The **Ballad of the Boundless Blue** set provides 54% DMG Bonus for all Clorinde’s attacks while she frequently gains and consumes Life Bond.  
+- **Gladiator’s Finale** grants 35% Normal Attack DMG Bonus, but does not boost Elemental Burst damage.  
+- **Echoes of an Offering** boosts Normal Attack DMG but is reliant on procs.  
+- **Retracing Bolide** is viable only if Clorinde is supported by shielders like Zhongli.  
+
+**Recommended Main Stats:**  
+- **Sands:** ATK%  
+- **Goblet:** Electro DMG Bonus  
+- **Circlet:** CRIT Rate / CRIT DMG  
+
+**Recommended Substats:**  
+- CRIT Rate, CRIT DMG > ATK% (below 3000 ATK) ≥ Elemental Mastery (for Aggravate) > Energy Recharge (if solo Electro)  
+
+**Recommended Weapons:**  
+- **Best:** Absolution (Signature)  
+- **Alternatives:** Haran Geppaku Futsu, Mistsplitter Reforged, Light of Foliar Incision, The Black Sword (4-star)  
+
+---

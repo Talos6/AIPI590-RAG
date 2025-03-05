@@ -1,0 +1,82 @@
+**Cyno**
+
+**Title:** The Secret Ritual Dispatcher  
+**Full Name:** Cyno  
+**Nation:** Sumeru  
+**Race:** Human  
+**Gender:** Male  
+**Rarity:** 5-star  
+**Availability:** Limited UP  
+**Vision:** Electro  
+**Weapon Type:** Polearm  
+**Constellation:** Lupus Aureus  
+**Special Dish:** Duel Soul  
+**Release Date:** September 28, 2022 (Version 3.1)  
+**Tags:** Energy Regeneration, Expeditions, Weapon Transformation, Electro-Charged Immunity, Resistance to Interruptions, Self-Damage Boost  
+**Description:** The "General Mahamatra" responsible for overseeing scholars within the Akademiya. More efficient in his work than even the "Grand Surveillance Mechanism" built by the Kshahrewar school.
+
+---
+
+### **Constellation Effects**
+
+| Name | Effect |
+|------|--------|
+| **Ordinance: Unceasing Vigil** | After using **Secret Rite: Chasmic Soulfarer**, Cyno's Normal Attack speed is increased by 20% for 10 seconds. If **Sacred Rite: Wolf's Swiftness** triggers the "Judication" effect from the passive talent **Featherfall Judgment**, its duration is refreshed. Requires unlocking the passive talent **Featherfall Judgment**. |
+| **Ceremonial: Homecoming of Spirits** | When Cyno's Normal Attacks hit enemies, Electro DMG Bonus is increased by 10% for 4 seconds. This effect can trigger once every 0.1 seconds, stacking up to 5 times. |
+| **Precept: Lawful Enforcer** | Increases the level of **Secret Rite: Chasmic Soulfarer** by 3, up to a maximum of level 15. |
+| **Austerity: Forbidding Guard** | While Cyno is in the **Pathsworn Pathclearer** state during **Secret Rite: Wolf's Swiftness**, triggering Electro-Charged, Superconduct, Overloaded, Quicken, Aggravate, Hyperbloom, or Electro Swirl reactions restores 3 Elemental Energy for all nearby party members (excluding Cyno himself). This effect can occur up to 5 times per use of **Secret Rite: Wolf's Swiftness**. |
+| **Funeral Rites: The Passing of Starlight** | Increases the level of **Sacred Rite: Wolf’s Swiftness** by 3, up to a maximum of level 15. |
+| **Featherfall Judgment: Imperative Balances** | After using **Secret Rite: Chasmic Soulfarer** or triggering the "Judication" effect from **Featherfall Judgment**, Cyno gains 4 stacks of "Pactsworn Jackal." When his Normal Attacks hit opponents, a "Duststalker Bolt" is unleashed by consuming 1 stack of "Pactsworn Jackal." "Pactsworn Jackal" lasts for 8 seconds, can stack up to 8 times, and is removed when **Pathsworn Pathclearer** ends. A "Duststalker Bolt" can be fired once every 0.4 seconds this way. Requires unlocking the passive talent **Featherfall Judgment**. |
+
+---
+
+### **Talent Level-Up Materials**
+
+| Level | Required Materials |
+|-------|------------------|
+| 1→2 | 12,500 Mora, 3 Teachings of Admonition, 6 Divining Scrolls |
+| 2→3 | 17,500 Mora, 2 Guides to Admonition, 3 Sealed Scrolls |
+| 3→4 | 25,000 Mora, 4 Guides to Admonition, 4 Sealed Scrolls |
+| 4→5 | 30,000 Mora, 6 Guides to Admonition, 6 Sealed Scrolls |
+| 5→6 | 37,500 Mora, 9 Guides to Admonition, 9 Sealed Scrolls |
+| 6→7 | 120,000 Mora, 4 Philosophies of Admonition, 4 Forbidden Curse Scrolls, 1 Mudra of the Malefic General |
+| 7→8 | 260,000 Mora, 6 Philosophies of Admonition, 6 Forbidden Curse Scrolls, 1 Mudra of the Malefic General |
+| 8→9 | 450,000 Mora, 12 Philosophies of Admonition, 9 Forbidden Curse Scrolls, 2 Mudras of the Malefic General |
+| 9→10 | 700,000 Mora, 16 Philosophies of Admonition, 12 Forbidden Curse Scrolls, 2 Mudras of the Malefic General, 1 Crown of Insight |
+
+---
+
+### **Recommended Builds**
+
+#### **Artifact Set Recommendations**
+
+| Set | Explanation |
+|-----|------------|
+| **4-Piece Gilded Dreams** | Provides minor ATK bonuses and a significant Elemental Mastery boost, ideal for reaction-based playstyles like Quicken and Hyperbloom. Highly synergistic with Cyno’s passive talents, especially when using **Staff of the Scarlet Sands**. |
+| **4-Piece Thundering Fury** | Grants Electro DMG Bonus and reaction-based damage boosts. Allows frequent use of **Secret Rite: Chasmic Soulfarer**, reducing energy recharge needs. However, its cooldown reduction effect is harder to optimize at C0. |
+| **4-Piece Marechaussee Hunter** | Provides Normal Attack bonuses and a high Crit Rate boost, making it ideal when paired with Furina. Outside of this pairing, its uptime is inconsistent. |
+| **Mixed Sets** | Combining **2-Piece Thundering Fury**, **2-Piece Wanderer’s Troupe**, **2-Piece Gilded Dreams**, **2-Piece Flower of Paradise Lost**, or **2-Piece Emblem of Severed Fate** can yield damage comparable to other full sets. |
+
+#### **Main Stats Priorities**
+- **Sands:** Elemental Mastery > ATK% (if using high Base ATK weapon) > Energy Recharge (if single Electro team)
+- **Goblet:** Electro DMG Bonus
+- **Circlet:** Crit Rate / Crit DMG > Elemental Mastery (for Hyperbloom builds)
+
+#### **Substat Priorities**
+Crit Rate, Crit DMG, Elemental Mastery > Energy Recharge, ATK%
+
+#### **Talent Upgrade Priority**
+Elemental Burst ≥ Elemental Skill, do not upgrade Normal Attack.
+
+#### **Recommended Weapons**
+
+| Weapon | Notes |
+|--------|-------|
+| **5★ Staff of the Scarlet Sands** | Best-in-slot weapon, providing Crit Rate and high synergy with Elemental Mastery scaling. |
+| **4★ Ballad of the Fjords** | Best 4-star option, offering high Crit Rate and Elemental Mastery boosts. |
+| **5★ Primordial Jade Winged-Spear** | Provides Crit Rate and strong sustained ATK boosts. |
+| **5★ Staff of Homa** | High Crit DMG weapon, though harder to optimize due to its HP-based effect. |
+| **4★ Deathmatch** | Decent Crit Rate option, but lacks Elemental Mastery benefits. |
+| **3★ White Tassel** | Budget alternative providing Crit Rate and Normal Attack DMG boosts. |
+
+This guide covers all aspects of Cyno’s abilities, talent materials, optimal builds, and recommended weapons to maximize his potential.

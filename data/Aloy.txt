@@ -1,0 +1,156 @@
+**Aloy - Translation of Character Information**
+
+---
+
+### **Title**  
+"Savior from Another World"  
+
+### **Full Name / Real Name**  
+Aloy  
+
+### **Nation**  
+Other  
+
+### **Place of Birth**  
+-  
+
+### **Race**  
+-  
+
+### **Gender**  
+Female  
+
+### **Rarity**  
+⭐⭐⭐⭐⭐ (5-Star)  
+
+### **Availability**  
+Limited UP  
+
+### **Vision (Element)**  
+Cryo  
+
+### **Weapon Type**  
+Bow  
+
+### **Original Force**  
+-  
+
+### **Constellation**  
+Nora Fortis  
+
+### **Special Dish**  
+Satiety Gel  
+
+### **Release Date**  
+September 1, 2021 (PS4/PS5) / October 13, 2021 (All Platforms) (Version 2.1)  
+
+### **Tags**  
+ATK Boost, ATK Reduction, Wildlife Affinity, Special Elemental Infusion, Self-Damage Boost  
+
+### **Description**  
+Once an outcast, now a skilled and agile hunter. Always ready to draw her bow for a righteous cause.  
+
+---
+
+## **Constellation**
+
+| Name | Effect |
+|------|--------|
+| **Star of Another World** | This person’s constellation has yet to be unlocked. |
+| **Star of Another World** | This person’s constellation has yet to be unlocked. |
+| **Star of Another World** | This person’s constellation has yet to be unlocked. |
+| **Star of Another World** | This person’s constellation has yet to be unlocked. |
+| **Star of Another World** | This person’s constellation has yet to be unlocked. |
+| **Star of Another World** | This person’s constellation has yet to be unlocked. |
+
+---
+
+## **Talent Level-Up Materials**
+
+| Level | Materials Required |
+|--------|------------------|
+| **1 → 2** | 12,500 Mora, 3 **Teachings of Freedom**, 6 **Spectral Husk** |
+| **2 → 3** | 17,500 Mora, 2 **Guide to Freedom**, 3 **Spectral Heart** |
+| **3 → 4** | 25,000 Mora, 4 **Guide to Freedom**, 4 **Spectral Heart** |
+| **4 → 5** | 30,000 Mora, 6 **Guide to Freedom**, 6 **Spectral Heart** |
+| **5 → 6** | 37,500 Mora, 9 **Guide to Freedom**, 9 **Spectral Heart** |
+| **6 → 7** | 120,000 Mora, 4 **Philosophies of Freedom**, 4 **Spectral Nucleus**, 1 **Molten Moment** |
+| **7 → 8** | 260,000 Mora, 6 **Philosophies of Freedom**, 6 **Spectral Nucleus**, 1 **Molten Moment** |
+| **8 → 9** | 450,000 Mora, 12 **Philosophies of Freedom**, 9 **Spectral Nucleus**, 2 **Molten Moment** |
+| **9 → 10** | 700,000 Mora, 16 **Philosophies of Freedom**, 12 **Spectral Nucleus**, 2 **Molten Moment**, 1 **Crown of Insight** |
+
+---
+
+## **Recommended Builds**
+
+### **Artifact Sets**
+
+#### **Main DPS (On-Field Carry)**  
+- **4-Piece Shimenawa’s Reminiscence**
+- **4-Piece Echoes of an Offering**
+- **4-Piece Blizzard Strayer** + any off-piece  
+
+**Recommended Stats**
+- **Sands:** ATK%  
+- **Goblet:** Cryo DMG Bonus  
+- **Circlet:** CRIT Rate / CRIT DMG  
+- **Substats Priority:** CRIT Rate, CRIT DMG, ATK%, Elemental Mastery (if playing Melt), Energy Recharge  
+
+#### **Sub DPS (Quick Swap Burst Damage)**  
+- **4-Piece Blizzard Strayer**
+- **4-Piece Emblem of Severed Fate**
+- **4-Piece Noblesse Oblige**
+- **2-Piece Blizzard Strayer + 2-Piece Noblesse Oblige**  
+
+**Recommended Stats**
+- **Sands:** ATK% / Energy Recharge  
+- **Goblet:** Cryo DMG Bonus  
+- **Circlet:** CRIT Rate / CRIT DMG  
+- **Substats Priority:** CRIT DMG, CRIT Rate, ATK%, Energy Recharge  
+
+---
+
+### **Recommended Weapons**
+
+#### **Best 5★ Weapons**  
+- **Thundering Pulse** – High CRIT DMG, excellent for normal attack-focused builds.
+- **Skyward Harp** – High base ATK and increased CRIT Rate & DMG.
+- **Amos’ Bow** – Boosts Normal and Charged Attack DMG, works well with Cryo infusion.
+- **Polar Star** – Requires skillful play to maintain stacks but provides strong ATK and CRIT boosts.
+
+#### **Recommended 4★ Weapons**  
+- **Predator** – Aloy’s signature weapon (only fully functional on PS versions).
+- **Rust** – Excellent for normal attack-focused playstyles.
+- **Favonius Warbow** – If Energy Recharge is a concern.
+- **Mitternachts Waltz** – Provides a strong balance of Normal and Elemental Skill DMG.
+- **Prototype Crescent** – Boosts Charged Attack DMG when hitting weak points.
+
+#### **Weapons to Avoid**  
+- **Elegy for the End** – More suited for a full support role rather than DPS.
+
+---
+
+## **Team Compositions**
+
+### **Cryo Melt Team**  
+- **Aloy** (Main DPS)  
+- **Bennett** (ATK Buff & Healing)  
+- **Xiangling** (Off-Field Pyro Application)  
+- **Kazuha / Sucrose** (Crowd Control & Elemental DMG Boost)  
+
+### **Freeze Team**  
+- **Aloy** (Main DPS)  
+- **Xingqiu / Mona** (Hydro Application)  
+- **Rosaria / Kaeya** (Cryo Battery & Resonance)  
+- **Diona** (Healing & Shielding)  
+
+### **Quick Swap Burst Team**  
+- **Aloy** (Sub-DPS)  
+- **Ayaka / Ganyu** (Main DPS)  
+- **Venti / Kazuha** (Crowd Control)  
+- **Diona / Kokomi** (Healing & Support)  
+
+---
+
+Aloy is a unique crossover character with a versatile playstyle, excelling in Cryo-based reactions such as Melt and Freeze. While she lacks constellations, she can still be a strong pick when properly built and paired with the right teammates. Her Elemental Burst is quick and low-cost, making her a solid Sub-DPS or burst character in a Freeze or Melt team.
+

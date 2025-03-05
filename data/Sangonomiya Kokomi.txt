@@ -1,0 +1,277 @@
+**Sangonomiya Kokomi**
+
+---
+
+**Title:** Pearl of Wisdom  
+**Full Name / Real Name:** Sangonomiya Kokomi  
+**Nation:** Inazuma  
+**Home Nation:** (None listed)  
+**Race:** Human  
+**Gender:** Female  
+**Rarity:** ★★★★★ (5-Star)  
+**Banner Type:** Limited (Featured on Event Wish)  
+**Vision (Element):** Hydro  
+**Weapon:** Catalyst  
+**Primary Stat Focus:** Max HP  
+**Constellation:** Dracaena Somnolenta  
+**Specialty Dish:** “A Timely Moment”  
+**Release Date:** September 21, 2021 (Version 2.1)  
+**Tags:** Healing, Reduced Stamina Consumption While Swimming, Energy Regeneration, Self DMG Bonus, Interrupt Resistance, Elemental Application  
+**Introduction:** The Divine Priestess of Watatsumi Island, a young woman who oversees all affairs on the island.  
+
+---
+
+## Constellations
+
+| **Name**                          | **Effect**                                                                                                                                                                                                                                                                                                        |
+|-----------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **C1 · At Water’s Edge**         | While donning the Ceremonial Garment from *Nereid’s Ascension*, the final Normal Attack in Sangonomiya Kokomi’s combo unleashes a swimming fish that deals Hydro DMG equal to 30% of her Max HP. This DMG is not considered Normal Attack DMG.                                                                                                       |
+| **C2 · The Clouds Like Waves Rippling** | Sangonomiya Kokomi gains increased healing bonus based on her Max HP for characters whose HP is 50% or below when healed by the following: <br>• The Bake-Kurage created by *Kurage’s Oath*: 4.5% of her Max HP.<br>• Normal and Charged Attacks under the effect of *Nereid’s Ascension*: 0.6% of her Max HP.                                   |
+| **C3 · The Moon, A Ship O’er the Seas** | Increases the Level of *Nereid’s Ascension* by 3. Maximum upgrade level is 15.                                                                                                                                                                                                                                   |
+| **C4 · The Moon Overlooks the Waters**  | While donning the Ceremonial Garment from *Nereid’s Ascension*, Sangonomiya Kokomi’s Normal Attack SPD is increased by 10%, and she will restore 0.8 Energy to herself whenever her Normal Attacks hit opponents. This effect can occur once every 0.2s.                                                                 |
+| **C5 · All Streams Flow to the Sea**    | Increases the Level of *Kurage’s Oath* by 3. Maximum upgrade level is 15.                                                                                                                                                                                                                                         |
+| **C6 · Sango Isshin**             | While donning the Ceremonial Garment from *Nereid’s Ascension*, when Normal or Charged Attacks heal characters with 80% or more HP, Kokomi will gain a 40% Hydro DMG Bonus for 4s.                                                                                                                                   |
+
+---
+
+## Talent / Ascension Material Requirements
+
+| **Level** | **Materials Required**                                                                                       |
+|-----------|--------------------------------------------------------------------------------------------------------------|
+| 1 → 2     | 12,500 Mora<br>3 **Teachings of Transience**<br>6 **Spectral Husk**                                         |
+| 2 → 3     | 17,500 Mora<br>2 **Guide to Transience**<br>3 **Spectral Heart**                                           |
+| 3 → 4     | 25,000 Mora<br>4 **Guide to Transience**<br>4 **Spectral Heart**                                           |
+| 4 → 5     | 30,000 Mora<br>6 **Guide to Transience**<br>6 **Spectral Heart**                                           |
+| 5 → 6     | 37,500 Mora<br>9 **Guide to Transience**<br>9 **Spectral Heart**                                           |
+| 6 → 7     | 120,000 Mora<br>4 **Philosophies of Transience**<br>4 **Spectral Nucleus**<br>1 **Hellfire Butterfly**     |
+| 7 → 8     | 260,000 Mora<br>6 **Philosophies of Transience**<br>6 **Spectral Nucleus**<br>1 **Hellfire Butterfly**     |
+| 8 → 9     | 450,000 Mora<br>12 **Philosophies of Transience**<br>9 **Spectral Nucleus**<br>2 **Hellfire Butterfly**    |
+| 9 → 10    | 700,000 Mora<br>16 **Philosophies of Transience**<br>12 **Spectral Nucleus**<br>2 **Hellfire Butterfly**<br>1 **Crown of Insight** |
+
+---
+
+## Recommended Builds
+
+Below are some of the popular ways to build Sangonomiya Kokomi, focusing on different team roles:
+
+---
+
+### 1. Freeze Support Build
+
+**Main Uses:**  
+- Off-field healing  
+- Consistent Hydro application  
+- Support buffs (e.g., via 4-piece Tenacity of the Millelith)  
+- Low swimming Stamina consumption and minor Energy generation  
+
+**Recommended Artifact Set**  
+- **4-Piece Tenacity of the Millelith** + any off-piece
+
+**Reasoning**  
+- Kokomi’s Elemental Skill, *Kurage’s Oath* (often referred to as her “jellyfish”), and her Elemental Burst, *Nereid’s Ascension*, both scale with her Max HP.  
+- The 2-piece effect of **Tenacity of the Millelith** provides +20% Max HP, which directly benefits Kokomi’s healing and damage.  
+- The 4-piece effect of **Tenacity of the Millelith** gives a +20% ATK bonus to the whole party when the Elemental Skill hits an enemy. Kokomi’s Bake-Kurage lasts 12 seconds and can be refreshed by *Nereid’s Ascension*, letting her reliably trigger the 4-piece buff even off-field.  
+- In a Freeze team, the jellyfish can continuously apply Hydro on frozen targets. This synergizes well with crowd-control units and characters who rely on freeze to safely deal damage.
+
+**Main Stats**  
+- **Sands:** HP% or Energy Recharge%  
+- **Goblet:** HP%  
+- **Circlet:** Healing Bonus  
+
+**Substats Priority**  
+1. HP%  
+2. Energy Recharge%  
+3. Flat HP  
+
+**Explanation**  
+- Kokomi’s healing and damage scale primarily off her Max HP.  
+- Energy Recharge helps ensure she can use *Nereid’s Ascension* more frequently, thus refreshing the jellyfish (Bake-Kurage) duration.  
+
+**Talent Priority**  
+- **Elemental Skill** > **Elemental Burst** (Normal Attacks are generally left at Level 1 if she’s played as a pure off-field support.)  
+
+**Recommended Weapons**
+
+- **Best 3★ Option:** **Thrilling Tales of Dragon Slayers**  
+  - When Kokomi swaps out, the next character to take the field gains a significant ATK% buff. Ideal for boosting a main DPS’s damage.  
+- **Alternate 4★ Option:** **Prototype Amber**  
+  - Provides HP% substat and offers additional healing + Energy regeneration for the team. Good for ensuring Kokomi’s Burst uptime.  
+- **Alternate 5★ Option:** **Everlasting Moonglow**  
+  - Offers HP%, healing bonus, additional damage from Normal Attacks, and some energy regeneration. However, its passive requires Kokomi to be on-field to restore energy, which might be less optimal if she’s purely off-field.  
+- **Another 4★ Option: Sacrificial Fragments**  
+  - Focuses on Elemental Mastery (useful for reaction-based teams), plus a chance to reset the Elemental Skill cooldown, allowing you to reposition the Bake-Kurage if needed. Great for high-mobility fights.
+
+---
+
+### 2. Bloom (Hydro + Dendro) Build
+
+**Main Uses:**  
+- Triggering Bloom-based reactions (especially with Dendro allies)  
+- Large AoE damage via Dendro Cores (Blooms)  
+- Healing to mitigate self-damage from Bloom explosions  
+
+**Recommended Artifact Sets**  
+- **4-Piece Ocean-Hued Clam** (“Ocean-Hued”)  
+- **4-Piece Nymph’s Dream** (“Hydro DMG set”), or  
+- **4-Piece Gilded Dreams**  
+  - In practice, **Ocean-Hued Clam** is almost “signature” for Kokomi, but if focusing on Bloom damage alone, you might consider **Flower of Paradise Lost** or **Gilded Dreams**.  
+- **4-Piece Flower of Paradise Lost**  
+  - Best raw Bloom reaction damage but with narrower team flexibility.  
+- **4-Piece Gilded Dreams**  
+  - A solid “all-purpose” set for increasing Elemental Mastery when playing Bloom; not as strong as **Flower of Paradise Lost** purely for Bloom damage but easier to farm and more flexible.
+
+**Main Stats**  
+- **Sands:** HP% / Energy Recharge% / Elemental Mastery  
+- **Goblet:** HP% / Elemental Mastery  
+- **Circlet:** Healing Bonus / Elemental Mastery  
+
+**Substats Priority**  
+- HP% = EM > Energy Recharge% > Flat HP  
+
+**Explanation**  
+- Bloom damage depends on EM (Elemental Mastery) and character level. Kokomi’s personal healing scales with HP. If she is the only healer, prioritize enough HP% to sustain the team; if you have an additional healer or shielder, you can stack more EM.  
+- Having enough Energy Recharge ensures consistent Burst usage to refresh Bake-Kurage.
+
+**Talent Priority**  
+- **Elemental Skill** = **Elemental Burst** > (Normal Attacks are typically not leveled, as Bloom damage is reaction-based and does not use Attack or skill multipliers directly.)
+
+**Recommended Weapons**
+
+- **5★: A Thousand Floating Dreams**  
+  - Great for Dendro-related reactions. Grants EM for both the wielder and teammates, plus extra elemental DMG buffs. Commonly a top choice if you already have one not in use by someone like Nahida.  
+- **4★: Sacrificial Fragments**  
+  - High EM substat. Can reset Elemental Skill cooldown to reposition the jellyfish.  
+- **5★: Everlasting Moonglow / 4★: Prototype Amber**  
+  - These remain strong picks if you still want substantial healing and energy regeneration.  
+- **Other 5★ Options**  
+  - **Jadefall’s Splendor** (“碧落之珑”), or  
+  - **Other catalysts that provide HP/energy/healing**  
+  - Not necessarily the best for pure Bloom damage, but offer better overall sustain and synergy with Kokomi’s kit.
+
+---
+
+### 3. On-Field Hydro DPS (Ocean-Hued Clam Build)
+
+**Main Uses:**  
+- Main carry in a “pure Hydro” or hybrid reaction team  
+- High personal damage + healing  
+- Utilizes *Nereid’s Ascension* to amplify Normal/Charged Attack DMG  
+
+**Recommended Artifact Set**  
+- **4-Piece Ocean-Hued Clam**  
+
+**Reasoning**  
+- Ocean-Hued Clam’s 4-piece effect creates a healing bubble that deals Physical DMG based on total healing. Since Kokomi’s healing can be very high, the bubble can dish out considerable additional AoE damage.  
+- Kokomi’s jellyfish is immobile, so to maximize the bubble’s damage, you’ll want to stand within range of it while attacking. Consider using shielders or her own built-in interruption resistance (plus possibly support from a character like Xingqiu for extra DMG mitigation).  
+- After Version 4.0, you can convert unwanted artifacts into Ocean-Hued Clam pieces at alchemy benches, making it easier to target-farm.  
+
+**Main Stats**  
+- **Sands:** HP%  
+- **Goblet:** Hydro DMG Bonus or HP%  
+- **Circlet:** Healing Bonus  
+
+**Substats Priority**  
+1. HP%  
+2. (If using Vaporize/Bloom, EM also works)  
+3. Energy Recharge%  
+4. Flat HP / ATK%  
+
+**Explanation**  
+- When Kokomi’s Burst is active, her Normal/Charged Attack DMG scales from her Max HP and is further boosted by her Healing Bonus (due to her passive “Song of Pearls”).  
+- A **Hydro DMG Goblet** can increase her damage, but if you need even more healing or if you’re taking advantage of double Hydro resonance (which raises HP by 25%), you can run HP% on the Goblet instead.  
+- For the Circlet, *Healing Bonus* is generally best because it boosts both healing output and her personal on-field damage (via “Song of Pearls”).  
+
+**Talent Priority**  
+- **Elemental Burst** > **Elemental Skill** > (Normal Attack last)  
+  - Most of Kokomi’s DPS comes from being in her *Nereid’s Ascension* state (Burst). Leveling the Skill helps the jellyfish’s damage, but the primary damage source is your powered-up Normal and Charged Attacks under Burst.
+
+**Recommended Weapons**
+
+- **Best 5★:** **Everlasting Moonglow**  
+  - Offers HP%, Normal Attack DMG bonus, healing bonus, and some Energy restoration. The best overall for a main DPS (on-field) Kokomi.  
+- **Other 4★ Options:** **Ballad of the Boundless Blue** (event-limited 4.1) / **Prototype Amber**  
+  - Both provide synergy for HP scaling and help with Energy Recharge.  
+  - **Ballad of the Boundless Blue** has an ER substat, plus Normal Attack DMG bonus that can boost Kokomi’s personal damage.  
+  - **Prototype Amber** is craftable, grants HP% substat, and its passive regenerates Energy and provides extra healing for the whole team.  
+- **More 5★ / 4★ Options:**
+  - **Jadefall’s Splendor** (“碧落之珑”): High HP substat, short buff window, but still strong for on-field Kokomi thanks to the Max HP increase.  
+  - **“Sacrificial Jade”** (“遗祀玉珑” – a 4★) at high refinement: Long-duration high HP% buff, though you’ll need to manage potential downtime.  
+  - **Flowing Purity** (“纯水流华,” craftable 4★): Gives Attack as a substat (less ideal for Kokomi), but can grant up to 40% Elemental DMG Bonus at high refinement.  
+  - **Skyward Atlas**: Huge base ATK, some Elemental DMG Bonus. Not as ideal as HP% weapons, but still workable for an on-field Kokomi.  
+  - **Tulaytullah’s Remembrance** (“图莱杜拉的回忆”) & **Tome of the Eternal Flow** (“金流监督”): These provide CRIT or ATK-based stats that Kokomi doesn’t fully utilize, but they have passives that boost Normal Attack DMG or Attack Speed. Usable if you happen to own them but generally not worth pulling for Kokomi specifically.  
+
+**Not Recommended Weapons**  
+- **Lost Prayer to the Sacred Winds**, **Solar Pearl**, **The Widsith**: Provide CRIT stats that Kokomi effectively cannot use due to her -100% CRIT Rate from her passive “Flawless Strategy.”  
+- **Thrilling Tales of Dragon Slayers** is still good from a *support* perspective, but if you’re making Kokomi your main on-field DPS, you’d lose out on personal damage by using TTDS in that role.
+
+---
+
+## Team Compositions
+
+Below are some common team setups for Sangonomiya Kokomi:
+
+---
+
+### 1. Pure Hydro DPS (a.k.a. “Triple/Quad Hydro”)
+
+A team with **Kokomi + 2 other off-field Hydro units + 1 Anemo** for crowd control and resistance shred:
+
+- **Kokomi** (on-field DPS)  
+- **Yelan**, **Furina** (aka “Focalors”), or **Xingqiu** (off-field Hydro damage and buffs)  
+- **Kazuha** or **Venti** (Anemo crowd control, *Viridescent Venerer* set for -40% Hydro RES)
+
+**Why It Works**  
+- Multiple Hydro units generate plenty of Hydro energy particles, alleviating each other’s ER needs.  
+- **Kokomi** can stay on the field, spamming Normal and Charged Attacks during *Nereid’s Ascension* without worrying about survival, thanks to her own healing.  
+- **Yelan** grants substantial DMG% buffs from her passive “Adapt With Ease.”  
+- **Furina** (the new “Water Archon”) burns the team’s HP with her Elemental Skill and provides massive DMG% buffs with her Burst based on HP fluctuations—synergizes perfectly with Kokomi’s healing.  
+- **Xingqiu** offers excellent single-target DPS, damage reduction, and extra interruption resistance—stacking well with Kokomi’s partial interruption resistance from her Burst.  
+- **Kazuha** can swirl Hydro to reduce enemies’ Hydro RES by 40% (if using the 4-piece Viridescent Venerer). Also increases Hydro DMG based on his own EM.  
+- **Venti** provides large-scale crowd control, funneling energy for Hydro teammates if his Burst absorbs Hydro.  
+
+**Skill Rotation Example**  
+1. **Kokomi** uses *Kurage’s Oath* (jellyfish) → swap out.  
+2. **Kazuha/Venti** groups enemies, swirls Hydro → possibly uses their Burst if available.  
+3. (If using **Xingqiu** or **Furina** or **Yelan**): Cast their Skill/Burst to set up off-field Hydro DMG or buffs.  
+4. Return to **Kokomi**, cast *Nereid’s Ascension*, and begin Normal/Charged Attacks. Refresh the jellyfish once the Skill is off cooldown.  
+5. If enemies are low HP near the end, quickly finish them with short Skills from Yelan/Xingqiu/Kazuha. Save bigger ults for the next wave to start fresh with full energy.
+
+**Pros**  
+- Very high sustained DPS.  
+- All members benefit from **Hydro Resonance** (Max HP +25%), boosting the entire team’s damage and Kokomi’s healing.  
+- Excellent synergy for single-target or scattered enemies, thanks to wide-range chasing attacks (Xingqiu’s Rain Swords, Yelan’s Exquisite Throw, or Furina’s seafoam illusions).  
+
+**Cons**  
+- Element coverage is limited—strictly Hydro. Struggles against enemies with high Hydro resistance.  
+- Requires at least two other strong Hydro units to maximize synergy, which can limit your other team’s composition if you’re doing Spiral Abyss.  
+
+---
+
+### 2. Freeze Team
+
+Reference the synergy with **Kamisato Ayaka** or **Ganyu**:
+
+- Common core: **Kokomi + Cryo DPS (Ayaka/Ganyu) + Cryo sub-DPS (Shenhe/Rosaria) + Anemo support**  
+- Kokomi’s jellyfish keeps enemies inflicted with Hydro. Cryo units apply Cryo to freeze them.  
+- Freeze ensures your main DPS does not get interrupted while charging up powerful attacks (e.g., Ganyu’s Level 2 Charged Shots or Ayaka’s melee combos).  
+- Anemo support with **Viridescent Venerer** further reduces Cryo or Hydro RES, increasing overall damage.  
+
+(See **Kamisato Ayaka** or **Ganyu** guides for further details.)
+
+---
+
+### 3. Bloom Team (Hydro + Dendro)
+
+Reference the synergy with **Nilou**:
+
+- **Nilou** is the core of many Bloom compositions; her passive “Court of Dancing Petals” transforms standard Dendro Cores into more powerful “Bountiful Cores.”  
+- Kokomi’s AoE Hydro application from the jellyfish plus additional healing is essential for self-damage from Bountiful Cores.  
+- Usually run **Nilou**, **Kokomi**, at least one Dendro (e.g. Nahida, Alhaitham, or Baizhu for extra healing/shielding), and a flex slot (another Hydro, Dendro, or Anemo).  
+
+(See **Nilou** guides for specifics on rotating skills, maximizing Bountiful Core DMG, etc.)
+
+---
+
+> **End of Document**  
+
+Feel free to adjust exact artifact substats and weapons based on your available resources and personal playstyle. Sangonomiya Kokomi is a flexible character who excels at keeping the team alive while providing consistent off-field or on-field Hydro application, and she can scale into a surprisingly effective DPS in the right setups.  

@@ -1,0 +1,103 @@
+**Diluc**
+
+---
+
+### Title: Dark Side of Dawn  
+**Full Name:** Diluc Ragnvindr  
+**Nation:** Mondstadt  
+**Origin:** -  
+**Race:** Human  
+**Gender:** Male  
+**Rarity:** 5-Star  
+**Availability:** Permanent  
+**Vision:** Pyro  
+**Weapon Type:** Claymore  
+**Primordial Power:** -  
+**Constellation:** Noctua  
+**Special Dish:** "Once Upon a Time in Mondstadt"  
+**Release Date:** September 15, 2020 (Version 1.0)  
+**Tags:** Forging Bonus, Self-Infusion, Self Damage Boost, Attack Speed Boost, Stamina Consumption Reduction  
+
+### Character Introduction  
+A nobleman who owns the majority of Mondstadt’s wine industry. His wealth, influence, and strength make him an extraordinary individual.
+
+---
+
+### Constellations  
+
+| Name | Effect |
+|------|--------|
+| Conviction | Increases Diluc’s damage by 15% against enemies with more than 50% HP. |
+| Searing Ember | When Diluc takes damage, his ATK increases by 10% and his ATK SPD increases by 5% for 10 seconds. This effect can stack up to 3 times and can be triggered once every 1.5 seconds. |
+| Fire and Steel | Increases the level of Searing Onslaught by 3. Maximum upgrade level is 15. |
+| Flowing Flame | Casting Searing Onslaught in sequence increases the next hit’s damage by 40% within 2 seconds. This effect lasts for 2 seconds. |
+| Phoenix, Herald of Dawn | Increases the level of Dawn by 3. Maximum upgrade level is 15. |
+| Flaming Sword, Nemesis of Dark | After casting Searing Onslaught, the next two Normal Attacks within 6 seconds will have their attack speed increased by 30% and deal 30% more damage. Additionally, Searing Onslaught no longer resets Normal Attack combos. |
+
+---
+
+### Talent Ascension Materials  
+
+| Level | Materials Required |
+|--------|----------------------|
+| 1→2  | 12,500 Mora, 3 "Teachings of Resistance," 6 Recruit's Insignia |
+| 2→3  | 17,500 Mora, 2 "Guide to Resistance," 3 Sergeant's Insignia |
+| 3→4  | 25,000 Mora, 4 "Guide to Resistance," 4 Sergeant's Insignia |
+| 4→5  | 30,000 Mora, 6 "Guide to Resistance," 6 Sergeant's Insignia |
+| 5→6  | 37,500 Mora, 9 "Guide to Resistance," 9 Sergeant's Insignia |
+| 6→7  | 120,000 Mora, 4 "Philosophies of Resistance," 4 Lieutenant's Insignia, 1 Dvalin’s Plume |
+| 7→8  | 260,000 Mora, 6 "Philosophies of Resistance," 6 Lieutenant's Insignia, 1 Dvalin’s Plume |
+| 8→9  | 450,000 Mora, 12 "Philosophies of Resistance," 9 Lieutenant's Insignia, 2 Dvalin’s Plume |
+| 9→10 | 700,000 Mora, 16 "Philosophies of Resistance," 12 Lieutenant's Insignia, 2 Dvalin’s Plume, 1 Crown of Insight |
+
+---
+
+### Recommended Builds  
+
+#### **Artifacts**  
+
+| Build Type | Artifact Set |
+|------------|--------------|
+| Optimal | 4-Piece Crimson Witch of Flames + Any Flex Piece |
+| Alternative | 4-Piece Marechaussee Hunter + Any Flex Piece |
+| Transitional | 4-Piece Gladiator’s Finale or 4-Piece Shimenawa’s Reminiscence + Any Flex Piece |
+
+**Reasoning:**
+As a Pyro DPS, Diluc’s three-stage Elemental Skill allows him to quickly stack the 4-piece bonus of the Crimson Witch set, making it one of the best choices. Marechaussee Hunter can offer similar benefits but requires pairing with Furina, and it does not enable Melt reactions. Gladiator’s Finale boosts Normal Attack damage, which is useful since Diluc’s burst-enhanced attacks are significant. Shimenawa’s Reminiscence is viable for a transition set.
+
+**Main Stats:**
+- **Sands:** ATK% or Elemental Mastery (for reaction-based builds)
+- **Goblet:** Pyro DMG Bonus
+- **Circlet:** Crit Rate / Crit DMG
+
+**Substats Priority:** Crit Rate > Crit DMG > ATK% > Elemental Mastery
+
+#### **Talent Priority:**
+Normal Attack > Elemental Skill > Elemental Burst  
+**Reasoning:** As Diluc’s primary damage source, Normal Attacks take priority. His Elemental Burst has high multipliers but is difficult to fully utilize in combat.
+
+#### **Best Weapons:**
+
+| Weapon | Notes |
+|--------|-------|
+| **Beacon of the Reed Sea (5★)** | Provides high Crit Rate and ATK%, making it the best option overall. |
+| **The Unforged (5★)** | Offers high ATK% but requires a shield to maximize potential. |
+| **Redhorn Stonethresher (5★)** | High Crit DMG, but its DEF-scaling passive does not fully benefit Diluc. |
+| **Serpent Spine (4★)** | High Crit Rate and damage, but requires careful play due to the stacking mechanic. |
+| **Prototype Archaic (4★)** | A solid free-to-play option with high base ATK and burst damage potential. |
+
+---
+
+### Recommended Team Compositions  
+
+#### **5-Star Recommended Teams:**  
+
+| Character | Role & Synergy |
+|-----------|---------------|
+| **Xianyun** | Provides Plunging Attack boosts. Diluc’s high multipliers and self-infusion make him a great candidate for plunge-based damage. Xianyun allows him to maximize the benefits of independent Pyro application. However, this requires precise timing and energy management. |
+| **Furina** | Off-field Hydro applicator. Unlike Mona and Xingqiu, Furina’s Elemental Skill is continuous, making her a superior option for Vaporize teams. Additionally, her Elemental Burst can provide a 75% DMG boost based on the team’s HP fluctuations. |
+| **Yelan** | Sub-DPS and DMG booster. Yelan provides damage buffs similar to Mona but with the added benefit of sustained Hydro application, making her an excellent pick for Vaporize setups. |
+
+---
+
+This guide provides a comprehensive overview of Diluc’s abilities, recommended builds, and team compositions to maximize his effectiveness in Genshin Impact.

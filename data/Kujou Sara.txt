@@ -1,0 +1,96 @@
+**Kujou Sara**
+
+**Title:** Black-Winged Arc
+**Full Name:** Kujou Sara
+**Nation:** Inazuma  
+**Origin:** Unknown  
+**Race:** Tengu  
+**Gender:** Female  
+**Rarity:** 4-Star  
+**Standard/Limited:** Standard  
+**Vision:** Electro  
+**Weapon Type:** Bow  
+**Constellation:** Tengu Kabuto  
+**Special Dish:** Faith Eternal  
+**Release Date:** September 1, 2021 (Version 2.1)  
+**Tags:** ATK Buff, Crit DMG Boost, Energy Recharge, Expedition Bonus, Cooldown Reduction  
+
+**Description:**  
+The formidable general of the Tenryou Commission, decisive in battle and highly skilled in warfare.
+
+---
+
+**Constellation**
+
+| Name | Effect |
+|------|--------|
+| **Dark Wings** | When Kujou Sara’s Tengu Juurai grants an ATK bonus or hits an enemy, the cooldown of Tengu Stormcall is reduced by 1 second. This effect can occur once every 3 seconds. |
+| **Crowfeather** | When Kujou Sara activates Tengu Stormcall, she leaves a Crowfeather at her original location that deals 30% of its original damage. |
+| **Heart of Malevolence** | Increases the level of Subjugation: Koukou Sendou by 3. Maximum upgrade level is 15. |
+| **Unwavering Proof** | The number of Tengu Juurai: Stormcluster bolts released by Subjugation: Koukou Sendou increases to 6. |
+| **Branded Oath** | Increases the level of Tengu Stormcall by 3. Maximum upgrade level is 15. |
+| **My Oath** | Characters affected by the ATK bonus from Tengu Juurai gain a 60% increase in Crit DMG for their Electro attacks. |
+
+---
+
+**Talent Upgrade Materials**
+
+| Level | Materials Required |
+|-------|------------------|
+| 1→2 | 12,500 Mora, 3 Teachings of "Elegance", 6 Damaged Mask |
+| 2→3 | 17,500 Mora, 2 Guides to "Elegance", 3 Stained Mask |
+| 3→4 | 25,000 Mora, 4 Guides to "Elegance", 4 Stained Mask |
+| 4→5 | 30,000 Mora, 6 Guides to "Elegance", 6 Stained Mask |
+| 5→6 | 37,500 Mora, 9 Guides to "Elegance", 9 Stained Mask |
+| 6→7 | 120,000 Mora, 4 Philosophies of "Elegance", 4 Ominous Mask, 1 Ashen Heart |
+| 7→8 | 260,000 Mora, 6 Philosophies of "Elegance", 6 Ominous Mask, 1 Ashen Heart |
+| 8→9 | 450,000 Mora, 12 Philosophies of "Elegance", 9 Ominous Mask, 2 Ashen Heart |
+| 9→10 | 700,000 Mora, 16 Philosophies of "Elegance", 12 Ominous Mask, 2 Ashen Heart, 1 Crown of Insight |
+
+---
+
+**Recommended Builds**
+
+### **Sub-DPS (C2 and above)**
+- **Artifact Set:**
+  - Best: 4-piece Emblem of Severed Fate
+- **Main Stats:**
+  - Sands: Energy Recharge / ATK%
+  - Goblet: Electro DMG Bonus
+  - Circlet: Crit Rate / Crit DMG
+- **Substats:** Crit Rate, Crit DMG > Energy Recharge > ATK%
+- **Recommended Weapons:**
+  - Best: 5-star Skyward Harp, 5-star Polar Star
+  - Alternative: 5-star Elegy for the End, 4-star Mouun’s Moon, 4-star Scion of the Blazing Sun, 4-star Alley Hunter, 4-star Blackcliff Warbow
+
+### **ATK Buffer (Support Build)**
+- **Artifact Set:**
+  - Best: 4-piece Noblesse Oblige
+- **Main Stats:**
+  - Sands: Energy Recharge
+  - Goblet: Electro DMG Bonus
+  - Circlet: Crit Rate / Crit DMG
+- **Substats:** Energy Recharge > Crit Rate, Crit DMG > ATK%
+- **Recommended Weapons:**
+  - Best: 5-star Elegy for the End
+  - Alternative: 4-star Favonius Warbow, 4-star Sacrificial Bow, 4-star The Stringless, 4-star End of the Line
+
+---
+
+**Team Compositions**
+
+### **Electro Hypercarry**
+- **Members:** Kujou Sara, Raiden Shogun, Kazuha, Bennett
+- **Description:**
+  - Kujou Sara provides ATK and Electro Crit DMG boost.
+  - Raiden Shogun acts as the main Electro DPS.
+  - Kazuha provides crowd control and Electro resistance shred.
+  - Bennett boosts ATK and heals the team.
+
+### **Aggravate Team**
+- **Members:** Kujou Sara, Nahida, Yae Miko, Kazuha
+- **Description:**
+  - Kujou Sara provides Electro buffing.
+  - Nahida ensures consistent Dendro application for Aggravate reactions.
+  - Yae Miko acts as a strong off-field Electro DPS.
+  - Kazuha provides crowd control and resistance shred.

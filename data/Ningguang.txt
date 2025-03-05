@@ -1,0 +1,126 @@
+**Ningguang**
+
+**Title**: Eclipsing Star  
+**Full Name**: Ningguang  
+**Nation**: Liyue  
+**Race**: Human  
+**Gender**: Female  
+**Rarity**: 4-Star  
+**Availability**: Permanent  
+**Vision**: Geo  
+**Weapon**: Catalyst  
+**Constellation**: Opus Aequilibrium  
+**Special Dish**: Qiankun Mora Meat  
+**Release Date**: September 15, 2020 (Version 1.0)  
+**Tags**: Resistance Buff, Damage Buff, Ore Detection, Geo Constructs  
+
+**Introduction**: One of the "Liyue Qixing," known as the "Tianquan." Her wealth is beyond comparison across the entire continent.
+
+---
+
+### **Constellation**
+
+| Name | Effect |
+|---|---|
+| **Piercing Fragments** | Normal Attacks deal AoE damage upon hitting an enemy. |
+| **Shock Effect** | When Jade Screen is shattered, its cooldown is reset. This effect can occur once every 6 seconds. |
+| **Majesty be the Array of Stars** | Increases the level of Starshatter by 3, up to a maximum level of 15. |
+| **Exquisite be the Jade, Outshining All Beneath** | Jade Screen increases nearby characters' Elemental Resistance by 10%. |
+| **Invincible be the Jade Screen** | Increases the level of Jade Screen by 3, up to a maximum level of 15. |
+| **Grandeur be the Seven Stars** | When Starshatter is used, it generates 7 Star Jades for Ningguang. |
+
+---
+
+### **Talent Level-Up Materials**
+
+| Level | Required Materials |
+|---|---|
+| 1 → 2 | 12,500 Mora, 3 Teachings of Prosperity, 6 Recruit's Insignia |
+| 2 → 3 | 17,500 Mora, 2 Guide to Prosperity, 3 Sergeant's Insignia |
+| 3 → 4 | 25,000 Mora, 4 Guide to Prosperity, 4 Sergeant's Insignia |
+| 4 → 5 | 30,000 Mora, 6 Guide to Prosperity, 6 Sergeant's Insignia |
+| 5 → 6 | 37,500 Mora, 9 Guide to Prosperity, 9 Sergeant's Insignia |
+| 6 → 7 | 120,000 Mora, 4 Philosophies of Prosperity, 4 Lieutenant's Insignia, 1 Spirit Locket of Boreas |
+| 7 → 8 | 260,000 Mora, 6 Philosophies of Prosperity, 6 Lieutenant's Insignia, 1 Spirit Locket of Boreas |
+| 8 → 9 | 450,000 Mora, 12 Philosophies of Prosperity, 9 Lieutenant's Insignia, 2 Spirit Locket of Boreas |
+| 9 → 10 | 700,000 Mora, 16 Philosophies of Prosperity, 12 Lieutenant's Insignia, 2 Spirit Locket of Boreas, 1 Crown of Insight |
+
+---
+
+### **Recommended Builds**
+
+#### **Geo DPS Build**
+
+- **Recommended Artifact Sets**:
+  - 4-piece *Song of Days Past* (best in slot)
+  - 2-piece *Archaic Petra* + 2-piece *Gladiator's Finale*
+  - 2-piece *Noblesse Oblige* + any 18% ATK set
+
+- **Main Stats**:
+  - **Sands**: ATK%
+  - **Goblet**: Geo DMG Bonus
+  - **Circlet**: CRIT DMG / CRIT Rate
+
+- **Substats**:
+  - CRIT Rate, CRIT DMG > ATK%
+
+- **Skill Leveling Priority**:
+  - **Main DPS**: Normal Attack > Elemental Burst > Elemental Skill
+  - **Burst DPS**: Elemental Burst > Elemental Skill > Normal Attack
+
+- **Best Weapons**:
+  - *Lost Prayer to the Sacred Winds* (5★)
+  - *Cashflow Supervision* (5★)
+  - *Tulaytullah’s Remembrance* (5★)
+  - *Kagura’s Verity* (5★)
+
+- **Alternative Weapons**:
+  - *The Widsith* (4★)
+  - *Solar Pearl* (4★)
+  - *Skyward Atlas* (5★)
+  - *Memory of Dust* (5★)
+
+#### **Support Build**
+
+- **Recommended Artifact Sets**:
+  - 4-piece *Instructor* (if team requires Elemental Mastery boost)
+  - 4-piece *The Exile* (if team requires Energy Recharge support)
+
+- **Main Stats**:
+  - **Sands**: Energy Recharge
+  - **Goblet**: Any piece with Energy Recharge substat
+  - **Circlet**: Healing Bonus (if using Prototype Amber)
+
+- **Substats**:
+  - Energy Recharge
+
+- **Skill Leveling Priority**:
+  - Elemental Burst > Elemental Skill
+
+- **Best Weapons**:
+  - *Prototype Amber* (4★) (for healing support)
+  - *Thrilling Tales of Dragon Slayers* (3★) (for ATK buffing)
+
+#### **Beginner Build**
+
+- **Recommended Artifact Sets**:
+  - 4-piece *Martial Artist*
+  - 2-piece *Berserker* / *Brave Heart* / *Gladiator’s Finale* + any strong piece
+
+- **Main Stats**:
+  - **Sands**: ATK%
+  - **Goblet**: Geo DMG Bonus / ATK%
+  - **Circlet**: CRIT Rate / ATK%
+
+- **Substats**:
+  - CRIT Rate, ATK%, CRIT DMG, Energy Recharge
+
+- **Best Weapons**:
+  - *The Widsith* (4★)
+  - *Solar Pearl* (4★)
+  - *Emerald Orb* (3★) (for early game)
+
+---
+
+Ningguang is an extremely powerful Geo character who excels in single-target damage and is very easy to build. With her unique playstyle revolving around her Jade Screen and Star Jades, she can be played effectively as a main DPS or a burst-support unit.
+

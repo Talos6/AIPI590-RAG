@@ -1,0 +1,216 @@
+**New Document: Venti**  
+
+---
+
+## Basic Information
+
+- **Title**: Windborne Bard  
+- **Full Name / True Name**: Barbatos  
+- **Nation of Current Residence**: Mondstadt  
+- **Nation of Origin**: (Not specified)  
+- **Race**: Archon (Elemental Spirit)  
+- **Gender**: Male  
+- **Rarity**: ★★★★★ (5-Star)  
+- **Availability**: Limited (Character Event Wish)  
+- **Gnosis**: Anemo  
+- **Weapon Type**: Bow  
+- **Constellation**: Carmen Dei  
+- **Special Dish**: A Buoyant Breeze  
+- **Release Date**: September 28, 2020 (Version 1.0)  
+- **Tags**: Crowd Control, Grouping, Resistance Shred, Energy Recharge, Reduced Gliding Stamina Consumption, Self DMG Bonus, Energy Restoration  
+
+**Introduction**  
+A bard that seems to have arrived on some unknown wind. He strolls carefreely around the streets and alleys of Mondstadt.
+
+---
+
+## Constellations
+
+| **Name & Level**              | **Effect**                                                                                                                                                                                                                         |
+|-------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **C1 – Splitting Gales**      | Aimed Shot fires 2 additional split arrows, each dealing 33% of the original arrow’s DMG.                                                                                                                                           |
+| **C2 – Breeze of Reminiscence** | Skyward Sonnet decreases opponents’ Anemo RES and Physical RES by 12% for 10s. Opponents launched by Skyward Sonnet also have their Anemo RES and Physical RES decreased by an additional 12% while airborne.                      |
+| **C3 – Ode to Thousand Winds** | Increases the Level of Wind’s Grand Ode by 3. Maximum upgrade level is 15.                                                                                                                                                         |
+| **C4 – Hurricane of Freedom**  | When Venti picks up an Elemental Orb or Particle, he gains a 25% Anemo DMG Bonus for 10s.                                                                                                                                           |
+| **C5 – Concerto dal Cielo**    | Increases the Level of Skyward Sonnet by 3. Maximum upgrade level is 15.                                                                                                                                                           |
+| **C6 – Storm of Defiance**     | Targets who take DMG from Wind’s Grand Ode have their Anemo RES decreased by 20%. If Elemental Absorption occurred, their RES to the corresponding Element is also decreased by 20%.                                                                 |
+
+---
+
+## Talent Level-Up Materials
+
+| Level | Mora Cost  | Required Materials                                                   |
+|-------|-----------|----------------------------------------------------------------------|
+| 1→2   | 12,500 Mora  | Teachings of “Ballad” ×3 <br> Slime Condensate ×6                    |
+| 2→3   | 17,500 Mora  | Guide to “Ballad” ×2 <br> Slime Secretions ×3                       |
+| 3→4   | 25,000 Mora  | Guide to “Ballad” ×4 <br> Slime Secretions ×4                       |
+| 4→5   | 30,000 Mora  | Guide to “Ballad” ×6 <br> Slime Secretions ×6                       |
+| 5→6   | 37,500 Mora  | Guide to “Ballad” ×9 <br> Slime Secretions ×9                       |
+| 6→7   | 120,000 Mora | Philosophies of “Ballad” ×4 <br> Slime Concentrate ×4 <br> Northlander Tail of Boreas ×1 |
+| 7→8   | 260,000 Mora | Philosophies of “Ballad” ×6 <br> Slime Concentrate ×6 <br> Northlander Tail of Boreas ×1 |
+| 8→9   | 450,000 Mora | Philosophies of “Ballad” ×12 <br> Slime Concentrate ×9 <br> Northlander Tail of Boreas ×2|
+| 9→10  | 700,000 Mora | Philosophies of “Ballad” ×16 <br> Slime Concentrate ×12 <br> Northlander Tail of Boreas ×2 <br> Crown of Insight ×1 |
+
+---
+
+## Recommended Builds
+
+Venti can be built in various ways depending on your team and goals. Below are three major approaches: **Anemo DMG Build**, **Elemental Mastery Build**, and **Physical Build** (the latter is only recommended if you have at least Constellation 1 and want a niche/“fun” style).
+
+---
+
+### 1) Anemo DMG Build
+
+#### Artifact Sets
+
+- **Recommended**:  
+  - **4pc Viridescent Venerer** (+ any off-piece)  
+
+- **Situational Alternatives** (for personal DMG, but rarely used compared to Viridescent Venerer):  
+  - **4pc Emblem of Severed Fate**  
+  - **2pc Viridescent Venerer + 2pc Desert Pavilion Chronicle**  
+  - **2pc Noblesse Oblige + any 2pc that adds ATK% or Anemo DMG**  
+
+**Reasons**  
+- **Viridescent Venerer** 4pc (“VV set”) is almost always Venti’s best choice, as both **Skyward Sonnet** and **Wind’s Grand Ode** can easily apply Anemo and trigger Swirl, granting a strong 4pc RES shred for the swirled element. This not only raises Venti’s own Swirl damage, but also provides valuable teamwide support.  
+- The only times Venti might drop the VV set is if you are running extremely unusual teams where you do not need or cannot benefit from VV’s shred (e.g., a Monogeo or certain specialized comps, or a personal high-DMG approach with minimal swirling). In those fringe cases, a **4pc Emblem** or a 2+2 mix might yield higher personal damage.  
+
+#### Main & Sub Stats
+
+- **Main Stats**  
+  - **Sands**: ATK% or Energy Recharge  
+  - **Goblet**: Anemo DMG Bonus  
+  - **Circlet**: CRIT DMG / CRIT Rate  
+
+- **Sub Stats**  
+  - CRIT Rate, CRIT DMG > ATK% > Energy Recharge / Elemental Mastery  
+
+**Notes**  
+- Venti’s swirling and crowd control do not scale with his ATK or CRIT for the swirl portion alone, but his Anemo portion of damage (from both Skill and Burst) does scale with ATK and CRIT.  
+- Typically, going for CRIT-based substats (“Anemo DMG build”) outperforms a pure EM build unless you’re specifically focusing on certain bloom-based or other special teams.  
+- For smooth rotations, ~180% Energy Recharge is comfortable if Venti is the sole Anemo in the team. If your teammates are holding Favonius weapons, or you run multiple Anemo units, you can lower that to ~150% or so.  
+
+#### Talent Priority
+
+- **Elemental Burst > Elemental Skill**  
+- Normal Attack is not necessary to level for an Anemo-DMG Venti. Most of his damage and utility come from his Skill and Burst.  
+
+#### Weapon Recommendations (Anemo DMG Build)
+
+- **Best 5★ Options**  
+  - **Polar Star** (pure damage focus; ensure you stack its passive before casting Burst)  
+  - **Elegy for the End** (top-tier support focus; can also work for personal damage if you have good substats, but it’s mainly for buffing teammates)  
+
+- **Other 5★**  
+  - **Aqua Simulacra** (“Aqua”) – extremely high CRIT DMG substat and a universal DMG bonus if you’re near foes.  
+  - **Hunter’s Path**, **Thundering Pulse**, **The First Great Magic**, **Skyward Harp** – all provide strong base stats (CRIT or high ATK) to boost Venti’s personal damage. Just be sure you have enough Energy Recharge from substats or artifact sets.  
+
+- **4★ Weapons (DMG-Focused)**  
+  - **Alley Hunter** – excellent for off-field setups; Venti is typically off-field enough to get full bonus.  
+  - **Mouun’s Moon** – huge Burst DMG if you manage your team’s total Energy costs, though it gives no CRIT stats.  
+  - **The Stringless** – grants Elemental Mastery substat and a flat boost to Skill/Burst DMG, pairing nicely with Venti’s main damage sources.  
+  - **The Viridescent Hunt** – CRIT Rate substat; its small vortex can group enemies, but Venti’s own skill set already covers grouping better.  
+
+- **4★ Weapons (Support-Focused)**  
+  - **Fading Twilight** – event-limited, offers Energy Recharge substat plus a mild DMG bonus.  
+  - **Favonius Warbow** – a strong support option providing a large chunk of Energy Recharge and extra particle generation for the team, especially if you maintain some CRIT rate.  
+
+*(Any other generic 4★ with decent stats can work, but those above are generally the most notable.)*
+
+---
+
+### 2) Elemental Mastery Build
+
+This “EM build” aims to maximize **Swirl DMG** specifically. It’s often used in **reaction-heavy teams** (Fire/Water/Electro/Cryo-based) or for **Hyperbloom/Burgeon** setups where Venti might swirl Dendro seeds. Keep in mind that most mainstream teams still prefer him in a VV shred role with CRIT stats, but if you want purely to amplify swirl damage or special Bloom reactions, an EM build is an option.
+
+#### Artifact Sets
+
+- **4pc Viridescent Venerer** for standard Fire/Water/Electro/Cryo swirl teams.  
+- **4pc Flower of Paradise Lost** for teams focusing on Burgeon/Hyperbloom or similar (where Venti triggers the reaction).  
+- **4pc Instructor** can be a cheap early-game alternative if you want to supply 120 EM to your entire team as a buffer, but ideally you’ll switch to 4pc VV once you farm it.  
+
+#### Main & Sub Stats
+
+- **Main Stats**  
+  - **Sands**: Elemental Mastery or Energy Recharge  
+  - **Goblet**: Elemental Mastery  
+  - **Circlet**: Elemental Mastery  
+
+- **Sub Stats**  
+  - Energy Recharge, Elemental Mastery  
+
+**Notes**  
+- For pure swirl damage, raising Venti’s talents is not necessary, as swirl scales with character level and EM, not skill multipliers.  
+- In standard reaction comps (Vape/Melt/Electro-charged, etc.), an EM-based Venti is rarely more beneficial than an Anemo-damage Venti with the VV shred, unless you specifically want the swirl ticks to be your main source of damage and you’re swirling many enemies.  
+- In **Hyperbloom/Burgeon** comps—if Venti is the one triggering the Bloom seeds with swirl—you can stack as much EM as possible to boost those Dendro reaction bombs. In such a case, you typically do not need VV (because the seeds themselves are Dendro-based, so you’re not swirling the seeds for a resistance shred). Then a set like **4pc Flower of Paradise Lost** or even 2pc combos of EM sets is suitable.  
+
+#### Talent Priority
+
+- All talents can remain unleveled if you’re purely chasing swirl or Bloom-based damage. Those damage types do not scale with talent levels.
+
+#### Weapon Recommendations (EM Build)
+
+- **Elegy for the End** (5★) – Still the best if you want a synergy of EM buff + Energy Recharge + a teamwide “Millennial Movement” buff.  
+- **Favonius Warbow** / **Sacrificial Bow** – Provide lots of Energy Recharge so you can swirl more often with your Burst.  
+- **The Stringless** / **Windblume Ode** – EM substat plus a bit of Skill/Burst DMG, though that portion won’t increase swirl.  
+- **Fading Twilight** – Event-limited bow that offers extra ER; its DMG bonus does not apply to swirl damage, but it helps your personal Anemo portion if needed.
+
+---
+
+### 3) Physical DPS Build (Niche)
+
+**Physical Venti is only recommended if you have C1** (“Splitting Gales”), which allows Aimed Shots to fire two additional arrows at 33% DMG each. By repeatedly firing Charged Shots, you can achieve notable physical damage in a unique playstyle. This is generally a “for fun” or “true fan” approach.
+
+#### Artifact Sets
+
+- **4pc Pale Flame** – Classic physical set. Repeatedly use your Skill every 6s to maintain the 4pc effect (+50% Physical DMG, +18% ATK).  
+- **4pc Shimenawa’s Reminiscence** or **4pc Desert Pavilion Chronicle** – Could be considered, but typically **Pale Flame** is better for consistent uptime.  
+- **2pc Pale Flame + 2pc Bloodstained Chivalry** – Simple and stable +50% Physical DMG.  
+
+**Notes**  
+- **4pc Pale Flame** synergy requires frequent use of your Elemental Skill. With a 6s cooldown on short-press, you can maintain the 4pc buff if your rotation is tight.  
+- **4pc Shimenawa’s Reminiscence** can also give +50% Normal/Charged Attack DMG, but it consumes 15 Energy each time it activates, drastically impacting your ability to use Venti’s Burst.  
+- **Desert Pavilion Chronicle** mainly buffs Anemo DMG and Charged Attack Speed for Anemo hits, so it’s not truly built for physical.  
+
+#### Main & Sub Stats
+
+- **Sands**: ATK%  
+- **Goblet**: Physical DMG Bonus  
+- **Circlet**: CRIT DMG / CRIT Rate  
+
+- **Sub Stats**: CRIT Rate/CRIT DMG > ATK% > Energy Recharge  
+
+#### Talent Priority
+
+- **Normal Attack > Elemental Burst > Elemental Skill**  
+- Since the primary damage source is your Charged Shot (which scales off the Normal Attack talent), level that first. The Burst can still deal some Anemo DMG, so you can consider leveling it next.  
+
+#### Weapon Recommendations (Physical Build)
+
+- **Top 5★**  
+  - **Polar Star** – CRIT Rate with high personal damage. Its passive buff is aimed at Skill/Burst usage, so not all effects benefit physical Charged Shots, but overall still strong.  
+  - **Aqua Simulacra** – High CRIT DMG substat; synergy if you can stay close to enemies.  
+  - **The First Great Magic** – Offers CRIT DMG plus an ATK buff and extra Charged Attack DMG.  
+- **Other 5★**  
+  - **Amos’ Bow** – High base ATK, some Charged Attack DMG bonus, though lacks CRIT stats.  
+  - **Skyward Harp** – Balanced CRIT Rate/CRIT DMG with a physical mini-bolt effect.  
+  - **Thundering Pulse** – CRIT DMG substat; part of its passive that buffs Normal Attacks doesn’t fully align with Charged Shots, but still decent raw stats.  
+  - **Hunter’s Path** – High CRIT Rate, but the elemental DMG portion doesn’t help physical damage.  
+
+- **4★ Weapons**  
+  - **Prototype Crescent** (“试作澹月”) – Hitting a weak point grants a big ATK% buff; good synergy with a Charged Shot style.  
+  - **Hamayumi** – Boosts Normal and Charged Attack DMG, though it doesn’t offer CRIT substats.  
+  - **Mitternachts Waltz** – Physical DMG substat; mostly benefits Normal Attack and Skill DMG.  
+  - **Blackcliff Warbow** – CRIT DMG substat, but triggers rely on defeating enemies.  
+  - **The Viridescent Hunt** – CRIT Rate substat, decent for boosting damage; the vortex effect is overshadowed by Venti’s own skill set but still helps.  
+  - **Song of Stillness** – ATK% substat; passive provides universal DMG bonus if a healer is in the team.  
+
+---
+
+### Final Notes on Team & Artifact Synergy
+
+1. **Viridescent Venerer** (4pc) is almost always the best for typical Fire/Water/Electro/Cryo-based teams, enabling swirl-based debuffs, strong crowd control, and decent personal damage.  
+2. If you want Venti to swirl seeds for **Hyperbloom/Burgeon** (“Bloom-related reactions”), you might build full EM and possibly drop the VV set for **Flower of Paradise Lost** (if his swirl triggers those seeds).  
+3. **Physical Venti** is a novelty approach that requires C1 and a willingness to give up most of Venti’s Anemo-based crowd control synergy.  
+
+Where Venti truly shines is in crowd control and swirl-based debuffs. Even at low investment, his utility can be extremely powerful for your team.  

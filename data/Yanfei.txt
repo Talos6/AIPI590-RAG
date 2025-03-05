@@ -1,0 +1,288 @@
+以下是一份完整的英文文档，参考了官方与常用译名，并保证与游戏内及社区常见翻译相一致（如与 [Paimon.moe](https://paimon.moe/characters) 上保持一致）。如果在实际游戏或其他官方文档中存在轻微差异，请以官方最新版本为准。
+
+---
+
+# Yanfei
+
+**Title**: Wise Innocence  
+**Full Name**: Yanfei  
+**Nation**: Liyue  
+**Birthplace**: (Not stated)  
+**Race**: Half-Illuminated Beast  
+**Gender**: Female  
+**Rarity**: ★★★★ (4-Star)  
+**Availability**: Permanent  
+**Vision (Element)**: Pyro  
+**Weapon**: Catalyst  
+**Constellation**: Bestia Iustitia  
+**Special Dish**: “My Way”  
+**Release Date**: April 28, 2021 (Version 1.5)  
+**Tags**: Reduced Stamina Consumption, Self DMG Increase, Local Specialty Detection, Interrupt Resistance, Shield
+
+**Introduction**  
+A well-known legal adviser active in Liyue Harbor. A bright young lady endowed with an illuminated beast’s blood.
+
+---
+
+## Constellations
+
+| Name                         | Effect                                                                                                                                                                                                                                                                                                      |
+|------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **1: The Law Knows No Kindness** | When Yanfei uses a Charged Attack, each Scarlet Seal held increases her interruption resistance during its casting and decreases Stamina Consumption for this Charged Attack by 10%.                                                                                                                    |
+| **2: Right of Final Interpretation** | Increases Yanfei’s Charged Attack CRIT Rate by 20% against opponents below 50% HP.                                                                                                                                                                                                                      |
+| **3: Samadhi Fire-Forged**       | Increases the Level of **Signed Edict** by 3. Maximum upgrade level is 15.                                                                                                                                                                                                                                 |
+| **4: Supreme Amnesty Scroll**    | When Yanfei uses **Done Deal**, she creates a shield that absorbs DMG up to 45% of her Max HP for 15s. This shield has 250% effectiveness against Pyro DMG.                                                                                                                                               |
+| **5: Abiding Affidavit**         | Increases the Level of **Done Deal** by 3. Maximum upgrade level is 15.                                                                                                                                                                                                                                    |
+| **6: Extra Clause**              | Increases the maximum number of Scarlet Seals by 1.                                                                                                                                                                                                                                                       |
+
+---
+
+## Talent Level-Up Materials
+
+| Level | Cost                  |
+|------:|:----------------------|
+| **1 → 2** | 12,500 Mora, 3 Teachings of “Gold”, 6 Treasure Hoarder Insignia |
+| **2 → 3** | 17,500 Mora, 2 Guide to “Gold”, 3 Silver Raven Insignia         |
+| **3 → 4** | 25,000 Mora, 4 Guide to “Gold”, 4 Silver Raven Insignia         |
+| **4 → 5** | 30,000 Mora, 6 Guide to “Gold”, 6 Silver Raven Insignia         |
+| **5 → 6** | 37,500 Mora, 9 Guide to “Gold”, 9 Silver Raven Insignia         |
+| **6 → 7** | 120,000 Mora, 4 Philosophies of “Gold”, 4 Golden Raven Insignia, 1 Bloodjade Branch |
+| **7 → 8** | 260,000 Mora, 6 Philosophies of “Gold”, 6 Golden Raven Insignia, 1 Bloodjade Branch |
+| **8 → 9** | 450,000 Mora, 12 Philosophies of “Gold”, 9 Golden Raven Insignia, 2 Bloodjade Branch |
+| **9 → 10**| 700,000 Mora, 16 Philosophies of “Gold”, 12 Golden Raven Insignia, 2 Bloodjade Branch, 1 Crown of Insight |
+
+---
+
+# Recommended Builds
+
+Below are several build suggestions for Yanfei, each suited to different team compositions or goals.
+
+---
+
+## 1. General DPS Build
+
+**Artifact Sets**  
+- **Main Recommendation**: 4-piece Wanderer’s Troupe **or** 4-piece Gilded Dreams **or** 4-piece Crimson Witch of Flames (+ an off-piece)  
+- **Early/Transitional**: 4-piece Retracing Bolide **or** 4-piece Desert Pavilion Chronicle (+ an off-piece)
+
+**Reasons for Set Recommendations**  
+- **Yanfei’s Kit Synergy**: She gains Pyro DMG Bonus from Ascension and increases Charged Attack DMG with her Elemental Burst. She also naturally benefits from extra Pyro DMG from her Scarlet Seals and the Burst effect. She doesn’t absolutely require a 4-piece synergy, so sets like 2pc + 2pc (e.g., Wanderer’s Troupe/Gilded Dreams/Crimson Witch) can still perform very well, provided you have good substats.  
+- **Wanderer’s Troupe (4pc)**: The 2pc EM bonus helps Vaporize/Melt DMG. The 4pc increases Charged Attack DMG by 35% if the wearer uses a Catalyst or Bow — perfect for Yanfei, since most of her DPS comes from Charged Attacks.  
+- **Gilded Dreams (4pc)**: Offers high Elemental Mastery or ATK% based on party composition. However, it needs an elemental reaction to trigger and doesn’t refresh upon subsequent triggers while active. In terms of pure reaction damage potential, it can be very strong, though sometimes overshadowed by a well-managed Crimson Witch set or even Wanderer’s Troupe.  
+- **Crimson Witch of Flames (2/4pc)**: Suits most Pyro carries by boosting Pyro DMG. At 4pc, repeated skill usage can reach high DMG bonuses for both Vaporize/Melt and raw Pyro. For Yanfei, using her Elemental Skill or Burst at the right times can effectively maintain the buff, although it can require some careful timing.  
+- **Retracing Bolide (4pc)**: Grants a 40% Normal and Charged Attack DMG bonus while protected by a shield. The potential DPS is high but it provides no Elemental Mastery, so it’s weaker in reaction comps and requires consistent shielding.  
+- **Desert Pavilion Chronicle (4pc)**: The 2pc ATK% is largely wasted if you run Bennett (ATK% can be partially diluted). Still, it can be used as a stopgap set if you happen to have good substats on it.  
+
+**Main Stats**  
+- **Sands**: ATK% or Elemental Mastery (for reaction comps)  
+- **Goblet**: Pyro DMG Bonus, or ATK%/EM if you’re heavily stacking Pyro DMG from other sources  
+- **Circlet**: CRIT Rate or CRIT DMG  
+
+**Substats Priority**  
+CRIT Rate, CRIT DMG > Elemental Mastery (in teams that trigger Vaporize/Melt) > ATK% > Energy Recharge > Flat ATK
+
+**Reasons for Stat Recommendations**  
+- Yanfei’s second Ascension Talent, **Blazing Eye**, triggers an extra instance of DMG on CRIT. She effectively gains additional scaling by having high CRIT Rate. Ideally, aim for around 70% or higher CRIT Rate if possible.  
+- Once CRIT Rate is comfortable, you can switch to CRIT DMG on your Circlet.  
+- Yanfei already gets significant Pyro DMG Bonus from ascension and her Burst, so additional Pyro DMG might diminish returns if, for instance, teammates also provide more DMG%. In those cases, an ATK% or EM Goblet can sometimes yield higher total DPS.  
+- Yanfei’s 80-cost Burst can leave her with some Energy shortfalls. Usually, you can open Burst every 2 rotations without focusing heavily on Energy Recharge. If you have multiple teammates with Favonius weapons, investing in a bit more ER can help her Burst more consistently each rotation.  
+
+**Recommended Skill Priority**  
+- **Normal Attack** (highest priority) > **Elemental Skill** > **Elemental Burst**  
+  - Most of Yanfei’s damage is from Charged Attacks, which scale with Normal Attack levels. Her Burst provides an additional DMG% buff, but the skill level only raises it slightly each time (and it’s a further additive multiplier, subject to diminishing returns if you’re already stacking many DMG% effects).
+
+---
+
+### Recommended Weapons (General DPS)
+
+**5★**  
+- **Lost Prayer to the Sacred Winds**  
+  - Gives CRIT Rate and a stacking Elemental DMG Bonus that works fairly well for a main DPS who stays onfield.  
+- **Memory of Dust**  
+  - Provides a large ATK% increase, but needs a shield to maintain the passive. Also note that if you run Bennett, the huge ATK% can be partially diluted.  
+- **Kagura’s Verity**  
+  - High CRIT DMG substat. Its passive is stronger for characters using repeated Elemental Skills. Yanfei can trigger it, but it does require 3 casts to fully stack, which can be slightly awkward for her rotation. Even without max stacks, the high base stats + CRIT DMG are still very strong.  
+
+**4★**  
+- **The Widsith**  
+  - Often considered her best 4★ option for raw damage. At R5, its burst window is extremely potent (though you have 10s of power and a long cooldown). Each buff is useful to Yanfei, making it great for short bursts of DPS.  
+- **Cashflow Supervision** (CN: “金流监督”) / **Tidal Shadow** (CN: “万世流涌大典”)*  
+  - These are region-limited 5★ weapons sometimes referenced in CN guides for their heavy Charged Attack bonus. They’re not standard global releases, so some players may not have them. If you do have them, they’re top-tier in terms of raw stats.  
+- **Solar Pearl**  
+  - Good CRIT Rate substat, synergy with Normal/Skill/Burst usage, but limited to the Battle Pass.  
+- **Dodoco Tales**  
+  - Was a free event weapon (1.6 event “Midsummer Island Adventure”). Its passive is well-tailored to Yanfei’s Charged Attack playstyle, and the ATK% substat pairs nicely if you can maintain a good CRIT ratio through artifacts.  
+- **Mappa Mare** / **Hakushin Ring**  
+  - Craftable 4★. Mappa Mare provides Elemental Mastery, boosting Vaporize/Melt DMG. Hakushin Ring is more specialized for Electro-Charged or Overloaded teams.  
+
+*\[Note: “金流监督”/“万世流涌大典” are CN event-limited or possibly unreleased in other servers. They appear in some CN texts but are not standard global weapons.\]*
+
+**3★ Options**  
+- Generally not recommended beyond early-game. However, **Thrilling Tales of Dragon Slayers** is always a powerful support catalyst if you’re not using Yanfei as a main DPS but want to buff the next on-field character.
+
+---
+
+## 2. Bloom/Overworld “Burgeon” or Burn Team (Pyro + Dendro)
+
+**Artifact Sets**  
+- **4-piece Gilded Dreams** or **(2-piece Gilded Dreams + 2-piece Wanderer’s Troupe) + any off-piece**  
+
+**Reasons**  
+- In a Burgeon or Burning team, Yanfei’s Elemental Skill/Burst/Charged Attacks are all AoE Pyro hits that can trigger Dendro Cores.  
+- In such teams, damage relies heavily on Elemental Mastery and level. The 4pc Gilded Dreams can grant plenty of EM.  
+- If the enemy has existing Electro aura, your typical Vaporize/Melt might not work well, so Bloom/Burgeon becomes an alternative reaction-based strategy.  
+
+**Main Stats**  
+- **Sands**: Elemental Mastery  
+- **Goblet**: Elemental Mastery  
+- **Circlet**: Elemental Mastery  
+
+**Substats Priority**  
+Elemental Mastery > Energy Recharge, HP > CRIT Rate/CRIT DMG
+
+**Reasons for Stats**  
+- Burgeon DMG scales only with character level and EM.  
+- At C4, Yanfei provides a shield upon using Elemental Burst. That shield absorbs self-damage from Burgeon. A bit of HP can help the shield last longer.  
+- More Energy Recharge ensures more frequent bursts, thus more consistent shield uptime in high-damage content.  
+
+**Skill Priority**  
+- No need to level up Normal Attacks/Skill/Burst specifically for Burgeon since Reaction DMG does not scale off talent multipliers.
+
+**Recommended Weapons**  
+- **5★ A Thousand Floating Dreams**  
+  - High EM from substat; the passive can add additional EM/Elemental DMG Bonus.  
+- **4★ Sacrificial Fragments**  
+  - Again, high EM and an extra Skill cast for more Energy particles.  
+- **3★ Magic Guide** or **4★ Wandering Evenstar**  
+  - Both offer EM substats. Wandering Evenstar (an event-limited 4★) can also buff party ATK.  
+
+---
+
+## 3. Shield Support (C4 Required)
+
+**Artifact Sets**  
+- **2pc Tenacity of the Millelith / 2pc Vourukasha’s Glow + 2pc Emblem of Severed Fate / 2pc Maiden Beloved + off-pieces**  
+
+**Reasons**  
+- This build requires **Yanfei’s 4th Constellation**, which generates a shield (45% of her Max HP) for 15s upon using her Elemental Burst.  
+- This shield persists even if you swap Yanfei out, functioning similarly to Zhongli’s shield but significantly weaker.  
+- Equipping a 4pc Instructor or 4pc Viridescent is not possible on Yanfei since those sets are typically for Anemo or sub-DPS roles. Instead, consider synergy with a separate Anemo user who can swirl Pyro.  
+- **Emblem of Severed Fate (2pc)** provides 20% ER, helpful for frequent bursts.  
+- **Maiden Beloved (2pc)** can help if you pair with Prototype Amber for a bit of team healing, though the healing scales from each character’s own max HP, not Yanfei’s.  
+
+**Main Stats**  
+- **Sands**: Energy Recharge  
+- **Goblet**: HP%  
+- **Circlet**: HP% or Healing Bonus (if using Prototype Amber)
+
+**Substats Priority**  
+HP% > Energy Recharge
+
+**Reasons for Stats**  
+- C4’s shield scales off Yanfei’s Max HP.  
+- You need enough ER to keep casting her Burst for consistent shield uptime.
+
+**Skill Priority**  
+- Talent levels are unnecessary for shield strength. The shield is based on her 4th Constellation, not the Burst’s level.
+
+**Recommended Weapons**  
+- **4★ Prototype Amber**  
+  - Forged catalyst that regenerates Energy for the user and provides team healing when using Elemental Burst. At high Refinements, it returns a substantial amount of Energy to Yanfei, helping with frequent bursts. The HP restoration is based on each character’s own Max HP.  
+- **3★ Thrilling Tales of Dragon Slayers**  
+  - Can swap out to buff the next character’s ATK. But it doesn’t help with Yanfei’s own Energy. Typically used if you have a second Pyro unit for easier energy generation.  
+- **5★ Everlasting Moonglow / Jadefall’s Splendor**  
+  - If you happen to have them but don’t intend to use them for a dedicated healer like Kokomi or Baizhu, they can be used on Yanfei for some HP or healing-based passives. But Prototype Amber remains the better shield-support synergy for Energy needs.
+
+---
+
+## 4. Early-Game / Beginner Build
+
+**Artifact Sets**  
+- **4-piece Berserker / 4-piece Brave Heart / 4-piece Wanderer’s Troupe** (once you can farm it)  
+  - Or any combination of Berserker, Brave Heart, Martial Artist, The Exile, or Instructor sets that you already own.
+
+**Reasons**  
+- At early Adventure Ranks, you won’t have strong 5★ artifacts from domains. Take advantage of the free or easily obtained 4★ sets.  
+- **Martial Artist** or **Berserker** are straightforward for boosting early damage or CRIT Rate.  
+- By mid-game, you can transition to 4★ or 5★ Wanderer’s Troupe if you get good substats from weekly boss drops or artifact strongboxes.
+
+**Main Stats**  
+- **Sands**: ATK%  
+- **Goblet**: Pyro DMG Bonus or ATK%  
+- **Circlet**: CRIT Rate / ATK%
+
+**Substats Priority**  
+CRIT Rate, ATK%, CRIT DMG, Energy Recharge
+
+**Skill Priority**  
+- **Normal Attack > Elemental Skill > Elemental Burst**  
+  - Early-game, you might not level talents much due to limited resources, but if you plan to keep using Yanfei, normal attack scaling is key for her Charged Attacks.
+
+**Recommended Weapons**  
+- **4★ The Widsith** (if lucky enough to pull one early)  
+- **4★ Mappa Mare** (craftable, decent EM synergy for reactions)  
+- **3★ Thrilling Tales of Dragon Slayers** or **Emerald Orb** (if you have no better 4★ or 5★ weapons)  
+- **3★ Twin Nephrite** (CN: “甲级宝珏”) is also decent early, providing CRIT Rate.  
+
+---
+
+# Team Compositions
+
+Below are some recommended teammates and synergy explanations.
+
+### 5★ Teammates
+
+| Character      | Recommendation                                                                                                                                                                                                                                                                                                                                |
+|----------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Yelan**      | Off-field DPS and DMG% buffer. At C2, Yelan can apply Hydro fast enough for Yanfei’s Charged Attacks to consistently Vaporize. Yelan’s Burst “Depth-Clarion Dice” also buffs the on-field character’s DMG over time with her passive. Her C4 can increase the party’s Max HP, which indirectly improves Yanfei’s C4 shield. Double Hydro resonance further increases Yanfei’s HP, aiding shield survivability. |
+| **Zhongli**    | Shield support for consistent interrupt resistance and extra DMG through his shield’s universal RES shred. Yanfei’s forward playstyle often leaves her vulnerable if unprotected, so Zhongli is a perfect defensive partner.                                                                                                                    |
+| **Kaedehara Kazuha** | Top-tier Anemo support providing crowd control and elemental DMG boosts after Swirling Pyro with the 4pc Viridescent Venerer. He also offers personal DMG and some grouping. However, his Skill can drag enemies in close — you may need a shield to protect Yanfei if you’re pulling enemies right on top of you.                                                             |
+| **Kamisato Ayaka** | Sub-DPS with a strong Burst that can “snapshot” buffs (i.e., it locks in ATK buffs for its full duration). You can quickly freeze or melt repeatedly. Pairing Pyro Yanfei with an additional Cryo or an Anemo support can produce multiple Melt triggers. Melt has strong potential for short burst windows.                                                                      |
+| **Nahida**     | Off-field Dendro DPS/support for Bloom/Burgeon comps. Her Burst can grant a large EM bonus to the active character, boosting reaction DMG.                                                                                                                                                                                                     |
+| **Venti**      | Another Anemo crowd-control support, great at grouping smaller mobs. But Venti’s Burst can lift enemies out of range of Yanfei’s Charged Attacks. In multi-wave or smaller enemies, it’s extremely strong.                                                                                                                                     |
+| **Furina** (Fontaine Archon “Focalors”) | Off-field Hydro DMG plus massive DMG% buffs based on HP fluctuations. Yanfei’s frequent Pyro hits can cause Vaporize. Furina can also drain team HP, which might require an additional healer if you rely on Yanfei’s shield from C4. But the synergy can be extremely high in damage output.                                                                    |
+
+### 4★ Teammates
+
+| Character   | Recommendation                                                                                                                                                                                                                                                                                                                                                     |
+|-------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Bennett** | Universal buffer and healer. Pairs well with Yanfei for Pyro Resonance (+25% ATK). Bennett’s Burst offers huge ATK buffs, plus stable Pyro particles to help Yanfei’s ER.                                                                                                                                                                                            |
+| **Xingqiu** | Off-field Hydro DMG + minor healing + DMG reduction. His Burst cannot be triggered by Yanfei’s Charged Attacks (only normal attacks), so to maintain consistent Vaporize, you typically do short Normal Attack strings before your Charged Attack, or pair him with another Hydro source. At C6, some of the limitations are eased; or combine him with Yelan.         |
+| **Diona**   | Shield support + healing. Her shield also gives move speed and stamina reduction via her passive “Cat’s Tail Secret Menu,” which Yanfei appreciates for repeated Charged Attacks.                                                                                                                                                                                    |
+| **Sucrose** | Anemo support with groupings and Elemental Mastery sharing from her passive talents “Catalyst Conversion” and “Mollis Favonius.” She can swirl Pyro to reduce enemies’ Pyro RES using the 4pc Viridescent Venerer. Her crowd control is not quite as strong as Venti’s or Kazuha’s but still very functional.                                                      |
+| **Fischl/Beidou** (Electro examples) | In some non-standard comps like Overload or even “Taser” style teams, Yanfei’s rapid Pyro application can cause Overloaded. However, these teams are less common due to Overloaded’s knockback sometimes hindering consistent hits.                                                                                                        |
+| **Layla** or **Thoma**               | Other shield providers if you lack Zhongli or Diona. Thoma’s Pyro shield synergy can help maintain Pyro resonance with Yanfei, while Layla’s shield is extremely strong with easy Cryo resonance if you want to attempt Melt.                                                                                                                 |
+
+---
+
+# Playstyle Analysis
+
+**Role**: A 4★ on-field Pyro DPS. Often likened to a “Pyro Ningguang” or “Mini Klee,” but with her own unique mechanics and synergy with Vaporize/Melt teams.
+
+- Compared to **Ningguang**: Yanfei’s Charged Attacks are weaker if you count Ningguang’s Star Jade follow-up, but Yanfei can trigger stronger elemental reactions (Melt/Vape), giving her good overall DPS.  
+- Compared to **Klee**: Yanfei’s AoE and personal multipliers are lower, but her rotations feel more fluid (no clunky bomb toss animations). Her Normal Attacks are linear projectiles rather than Klee’s arcing lobs, so she can more easily hit airborne enemies.  
+- She handles flying mobs (like Specters) quite well, especially with her Elemental Skill “Signed Edict,” which can even hit high targets.  
+- Her Pyro application is extremely high-frequency, so with only one Hydro or Cryo teammate, you may run out of aura for consistent reactions. A second Hydro or Cryo is often recommended for stable Vaporize/Melt.  
+
+**Typical DPS Rotation** (Vaporize or Melt variant):
+1. **(Optional) Normal Attack combos** to build Scarlet Seals  
+2. **Elemental Burst (Done Deal)** to gain immediate Seals and damage buff  
+3. **Charged Attack** (ideally vapes/melts)  
+4. **Elemental Skill (Signed Edict)** to get more Seals and swirl Pyro (if you have an Anemo support)  
+5. **Charged Attack** again  
+6. **Normal Attack** a few times if you need more Seals, then repeat the cycle  
+
+**Scarlet Seals**  
+- Acquired through Normal Attacks, Elemental Skill, Elemental Burst, and passively under the effect of her Burst.  
+- Each Seal reduces the Stamina cost of Charged Attacks. At C6, with 4 Seals, Yanfei’s Charged Attacks consume no Stamina.  
+
+**Blazing Eye (A2 Passive)**  
+- Whenever Yanfei’s Charged Attack CRITs, it deals an additional instance of AoE Pyro DMG. This effectively grants extra incentive to stack CRIT Rate.  
+
+**Elemental Reactions**  
+- Vaporize (with Hydro) typically yields 1.5× DMG for Pyro triggers. However, if the target is thoroughly “wet,” Yanfei can occasionally get double Vaporize hits for each Charged Attack if the enemy is re-infused with Hydro in time (e.g., combination of Xinqiu + Barbara or Xinqiu + Yelan).  
+- Melt (with Cryo) yields 2.0× DMG for Pyro triggers, but generally only the first segment of Yanfei’s Charged Attack benefits from Melt if the enemy is only Cryo-infused once. Some advanced setups or double Cryo might help chain multiple melts.  
+
+---
+
+**Enjoy showcasing the legal might of Liyue’s top advisor!**  

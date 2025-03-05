@@ -1,0 +1,108 @@
+Beidou
+--
+
+Title: Uncrowned Dragon King  
+Full Name / Real Name: Beidou  
+Country of Origin: Liyue  
+Race: Human  
+Gender: Female  
+Rarity: 4-Star  
+Permanent / Limited: Permanent  
+Vision: Electro  
+Weapon Type: Claymore  
+Constellation: South Tianhai Mountain Constellation  
+Specialty Dish: Stir-Fried Pork Slices  
+Release Date: September 15, 2020 (Version 1.0)  
+Tags: Shield, Resistance Reduction, Interruption Resistance, Damage Reduction, Swimming Stamina Consumption Reduction, Coordinated Attack, Parry, Self Damage Boost, Self Attack Speed Boost  
+Description: The leader of the "Crux" armed fleet, a bold and heroic big sister figure.  
+
+
+Constellation Abilities
+---
+
+Name | Effect  
+---|---  
+Fish-Dragon Submerges the Four Seas | When casting Tidecaller, generates a shield absorbing damage equal to 16% of Beidou's max HP for 15 seconds. This shield has 250% absorption effectiveness against Electro damage.  
+Surging Thunder | Tidecaller's lightning can strike 2 additional enemies.  
+Tidal Stream Gathers Electricity | Increases the skill level of Tidecaller by 3. Can be increased up to level 15.  
+Guiding Stars to the Shore | Within 10 seconds of being attacked, Beidou's Normal Attacks gain 20% additional Electro damage.  
+Stepping Waves, Climbing Clouds | Increases the skill level of Stormbreaker by 3. Can be increased up to level 15.  
+Beidou’s Exorcism of the Evil | During Stormbreaker's duration, reduces the Electro resistance of nearby enemies by 15%.  
+
+
+Talent Upgrade Materials
+---
+
+Level | Required Materials  
+---|---  
+1 → 2 | 12,500 Mora, 3 Teachings of "Gold", 6 Treasure Hoarder Insignia  
+2 → 3 | 17,500 Mora, 2 Guide to "Gold", 3 Silver Raven Insignia  
+3 → 4 | 25,000 Mora, 4 Guide to "Gold", 4 Silver Raven Insignia  
+4 → 5 | 30,000 Mora, 6 Guide to "Gold", 6 Silver Raven Insignia  
+5 → 6 | 37,500 Mora, 9 Guide to "Gold", 9 Silver Raven Insignia  
+6 → 7 | 120,000 Mora, 4 Philosophies of "Gold", 4 Golden Raven Insignia, 1 Dvalin’s Breath  
+7 → 8 | 260,000 Mora, 6 Philosophies of "Gold", 6 Golden Raven Insignia, 1 Dvalin’s Breath  
+8 → 9 | 450,000 Mora, 12 Philosophies of "Gold", 9 Golden Raven Insignia, 2 Dvalin’s Breath  
+9 → 10 | 700,000 Mora, 16 Philosophies of "Gold", 12 Golden Raven Insignia, 2 Dvalin’s Breath, 1 Crown of Insight  
+
+
+Recommended Artifacts
+---
+
+### Artifact Sets
+
+- **Best-in-Slot:** 4-piece Emblem of Severed Fate + any artifact piece  
+- **Alternative:** 4-piece Noblesse Oblige + any artifact piece  
+- **Transitional:** 2-piece Noblesse Oblige + 2-piece Thundering Fury or 2-piece Gladiator’s Finale + any artifact piece  
+
+**Set Recommendation Explanation:**  
+Beidou's Elemental Burst is highly effective in multi-target scenarios and offers damage reduction and interruption resistance, making her a strong off-field damage dealer. The 4-piece Emblem of Severed Fate set increases her Energy Recharge efficiency and Elemental Burst damage, making it a perfect fit for a sub-DPS Beidou. 
+
+If Beidou's Energy Recharge is below 200%, a well-optimized 2+2 set with superior stats (5+ main substats advantage over Emblem) can be used temporarily. Similar to Xingqiu, if Energy Recharge needs are met, a 4-piece Noblesse Oblige set can be considered to boost her Elemental Burst while providing an Attack buff to the team. Note that multiple team members equipping Noblesse Oblige do not stack the buff.  
+
+### Main Stats
+
+- **Sands:** Energy Recharge or ATK%  
+- **Goblet:** Electro DMG Bonus  
+- **Circlet:** Crit Rate or Crit DMG  
+
+### Substats Priority
+
+Crit Rate, Crit DMG, Energy Recharge (if using ATK% Sands) > ATK% > Energy Recharge (if using Energy Recharge Sands), HP% (for C1 and above), Elemental Mastery (for Aggravate teams)  
+
+**Explanation:**  
+Since Beidou’s Elemental Particle generation depends on her **parry mechanic**, her particle generation can be inconsistent. Typically, she is paired with another Electro character to stabilize Energy Recharge needs. Depending on parry proficiency, Beidou in a dual-Electro setup should aim for 150%-200% Energy Recharge to maintain Elemental Burst uptime. Once Energy Recharge is optimized, focus on Crit stats and ATK%. Even in an Aggravate team, ATK% outperforms Elemental Mastery in most cases. 
+
+**Note:** Beidou lacks innate damage amplification. Unless using an ATK% Sands and high-refinement Serpent Spine or Akuoumaru, **Electro DMG Bonus Goblet is generally superior to an ATK% Goblet.** HP% can improve Beidou’s shield durability at C1 and above. Beidou’s Elemental Burst follows a **default hit counter**, meaning Aggravate uptime is normal (around 50% uptime in single-target fights due to attack speed). Since Beidou lacks innate Elemental Mastery scaling, Elemental Mastery provides minimal benefits.  
+
+
+Weapon Recommendations
+---
+
+### Best Weapons
+- **4★ Akuoumaru**
+- **4★ Serpent Spine**
+- **5★ Beacon of the Reed Sea**
+- **5★ Wolf’s Gravestone**
+- **5★ The Unforged**
+
+**Weapon Recommendation Explanation:**  
+- Akuoumaru is a **limited gacha weapon** with an ATK% substat and an effect that boosts Elemental Burst damage, making it ideal for sub-DPS Beidou.
+- Serpent Spine’s **Crit Rate substat** and **damage amplification** provide a strong overall damage boost. Beidou benefits from the stacking effect while shielded.
+- Wolf’s Gravestone provides a **high base ATK** and an **ATK% buff**, making it a strong choice.
+- Beacon of the Reed Sea provides **Crit Rate** and boosts **ATK% when receiving damage**, which can be beneficial if Beidou is tanking hits.
+- The Unforged is best used in shield-based teams but is **not ideal for off-field Beidou.**
+
+### Alternative Weapons
+- **4★ Luxurious Sea-Lord**  
+- **4★ Lithic Blade**  
+- **4★ Raincutter (for Aggravate Teams)**  
+- **5★ Skyward Pride**  
+
+**Alternative Weapon Explanation:**  
+- Lithic Blade benefits teams with **multiple Liyue characters**.
+- Luxurious Sea-Lord provides **Elemental Burst DMG bonus** but is a **limited event weapon**.
+- Raincutter is viable **only in Aggravate teams** but lags behind Crit-based weapons.
+- Skyward Pride offers **high Energy Recharge** but is generally outperformed by Crit-based weapons.
+
+---

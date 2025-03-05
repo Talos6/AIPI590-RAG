@@ -1,0 +1,83 @@
+**Albedo**
+
+---
+
+**Title:** Chalk Prince  
+**Full Name:** Albedo  
+**Nation:** Mondstadt  
+**Origin:** Khaenri'ah  
+**Race:** Alchemical Creation  
+**Gender:** Male  
+**Rarity:** 5-star  
+**Availability:** Limited UP  
+**Vision:** Geo  
+**Weapon Type:** Sword  
+**Primordial Power:**  
+**Constellation:** Princeps Cretaceus  
+**Specialty Dish:** "Woodland Dream"  
+**Release Date:** December 23, 2020 (Version 1.2)  
+**Tags:** Damage Boost, Elemental Mastery Bonus, Alchemy Refund, Coordinated Attack, Self-Damage Boost, Geo Constructs  
+
+**Introduction:**  
+The Chief Alchemist of the Knights of Favonius and Captain of the Investigation Team, Albedo is a genius often referred to as the "Chalk Prince."
+
+---
+
+**Constellation**
+
+| Name | Effect |
+|---|---|
+| **Flower of Eden** | When Albedo's **Abiogenesis: Solar Isotoma** generates a Transient Blossom, he regenerates 1.2 Elemental Energy. |
+| **Opening of Phanerozoic** | When **Abiogenesis: Solar Isotoma** generates a Transient Blossom, Albedo gains the **Fatal Reckoning** effect for 30 seconds: When casting **Rite of Progeniture: Tectonic Tide**, all Fatal Reckoning stacks are consumed, increasing its burst damage and the damage of Fatal Blossoms. Each stack increases damage by 30% of Albedo's DEF. Maximum 4 stacks. |
+| **Grace of Helios** | Increases the level of **Abiogenesis: Solar Isotoma** by 3. Maximum upgrade level is 15. |
+| **Descent of Divinity** | Party members in the **Solar Isotoma** field deal 30% more Plunging Attack damage. |
+| **Tide of Hadean** | Increases the level of **Rite of Progeniture: Tectonic Tide** by 3. Maximum upgrade level is 15. |
+| **Dust of Purification** | When party members in the **Solar Isotoma** field are protected by shields created by Crystallize reactions, they deal 17% increased damage. |
+
+---
+
+**Talent Upgrade Materials**
+
+| Level | Materials Required |
+|---|---|
+| 1→2 | 12,500 Mora, 3 Teachings of "Ballad", 6 Divining Scroll |
+| 2→3 | 17,500 Mora, 2 Guide to "Ballad", 3 Sealed Scroll |
+| 3→4 | 25,000 Mora, 4 Guide to "Ballad", 4 Sealed Scroll |
+| 4→5 | 30,000 Mora, 6 Guide to "Ballad", 6 Sealed Scroll |
+| 5→6 | 37,500 Mora, 9 Guide to "Ballad", 9 Sealed Scroll |
+| 6→7 | 120,000 Mora, 4 Philosophies of "Ballad", 4 Forbidden Curse Scroll, 1 Tusk of Monoceros Caeli |
+| 7→8 | 260,000 Mora, 6 Philosophies of "Ballad", 6 Forbidden Curse Scroll, 1 Tusk of Monoceros Caeli |
+| 8→9 | 450,000 Mora, 12 Philosophies of "Ballad", 9 Forbidden Curse Scroll, 2 Tusk of Monoceros Caeli |
+| 9→10 | 700,000 Mora, 16 Philosophies of "Ballad", 12 Forbidden Curse Scroll, 2 Tusk of Monoceros Caeli, 1 Crown of Insight |
+
+---
+
+**Recommended Builds**
+
+**Playstyles:**
+- Off-field DPS
+- General Support
+
+**Best Artifact Sets:**  
+- **Best-in-Slot:** 4-Piece Husk of Opulent Dreams or 4-Piece Golden Troupe  
+- **Transitional:** 4-Piece Echoes of an Offering + Any piece  
+- **Mixed:** 2-Piece Husk of Opulent Dreams + 2-Piece Golden Troupe or 2-Piece Archaic Petra + Any piece  
+
+**Recommended Artifact Stats:**
+- **Sands:** DEF%  
+- **Goblet:** Geo DMG Bonus (Husk set), DEF% (Golden Troupe set)  
+- **Circlet:** CRIT Rate / CRIT DMG  
+
+**Substat Priorities:** CRIT Rate, CRIT DMG > DEF% > Flat DEF  
+
+**Weapons:**
+- **Best 5-Star:** Cinnabar Spindle (4-star), Haran Geppaku Futsu (5-star)  
+- **Alternative 4-Star:** Serpent Spine, Wolf-Fang  
+- **Alternative 3-Star:** Harbinger of Dawn  
+- **Other Viable Options:** Primordial Jade Cutter, Freedom-Sworn  
+
+**Skill Leveling Priority:**
+1. Elemental Skill > Elemental Burst  
+2. Do not level Normal Attack  
+
+---

@@ -1,0 +1,142 @@
+**Collei - Translation of Character Information**
+
+---
+
+### **Title**  
+"Sprout of Rebirth"  
+
+### **Full Name / Real Name**  
+Collei  
+
+### **Nation**  
+Sumeru  
+
+### **Race**  
+Human  
+
+### **Gender**  
+Female  
+
+### **Rarity**  
+⭐⭐⭐⭐ (4-Star)  
+
+### **Availability**  
+Standard Banner  
+
+### **Vision (Element)**  
+Dendro  
+
+### **Weapon Type**  
+Bow  
+
+### **Constellation**  
+Leptailurus Cervarius  
+
+### **Special Dish**  
+"Yearning"  
+
+### **Release Date**  
+August 24, 2022 (Version 3.0)  
+
+### **Tags**  
+Elemental Mastery Buff, Gliding Stamina Reduction, Skill Duration Extension  
+
+### **Description**  
+A trainee forest ranger active in **Gandharva Ville**. Her enthusiastic actions hide a slightly introverted heart.  
+
+---
+
+## **Constellation**
+
+| Name | Effect |
+|------|--------|
+| **Deepwood Patrol** | While Collei is off-field, her **Energy Recharge** is increased by **20%**. |
+| **Through Hill and Copse** | The passive talent **Floral Sidewinder** is changed: when the **Boomerang** returns, it grants the "Sprout" state, dealing **40% of Collei's ATK** as Dendro DMG to nearby enemies for **3 seconds**. If **Burning, Quicken, Aggravate, Spread, Bloom, Hyperbloom, or Burgeon reactions** occur before this state expires, the duration extends by **3 seconds** (only once per activation). |
+| **Scent of Summer** | Increases the level of **Floral Brush** by 3, up to a maximum level of 15. |
+| **Gift of the Woods** | When **Trump-Card Kitty** is activated, all nearby party members (excluding Collei) gain **+60 Elemental Mastery** for 12 seconds. |
+| **All Embers** | Increases the level of **Trump-Card Kitty** by 3, up to a maximum level of 15. |
+| **Forest of Falling Arrows** | When the **Boomerang** hits an enemy, it generates a **Mini Cuilein-Anbar**, dealing **200% of Collei’s ATK** as Dendro DMG. This can occur once per **Floral Brush** cast. |
+
+---
+
+## **Talent Level-Up Materials**
+
+| Level | Materials Required |
+|--------|------------------|
+| **1 → 2** | 12,500 Mora, 3 **Teachings of Praxis**, 6 **Firm Arrowheads** |
+| **2 → 3** | 17,500 Mora, 2 **Guide to Praxis**, 3 **Sharp Arrowheads** |
+| **3 → 4** | 25,000 Mora, 4 **Guide to Praxis**, 4 **Sharp Arrowheads** |
+| **4 → 5** | 30,000 Mora, 6 **Guide to Praxis**, 6 **Sharp Arrowheads** |
+| **5 → 6** | 37,500 Mora, 9 **Guide to Praxis**, 9 **Sharp Arrowheads** |
+| **6 → 7** | 120,000 Mora, 4 **Philosophies of Praxis**, 4 **Weathered Arrowheads**, 1 **Tears of the Calamitous God** |
+| **7 → 8** | 260,000 Mora, 6 **Philosophies of Praxis**, 6 **Weathered Arrowheads**, 1 **Tears of the Calamitous God** |
+| **8 → 9** | 450,000 Mora, 12 **Philosophies of Praxis**, 9 **Weathered Arrowheads**, 2 **Tears of the Calamitous God** |
+| **9 → 10** | 700,000 Mora, 16 **Philosophies of Praxis**, 12 **Weathered Arrowheads**, 2 **Tears of the Calamitous God**, 1 **Crown of Insight** |
+
+---
+
+## **Recommended Builds**
+
+### **Artifact Sets**
+
+#### **Best-in-Slot (BiS)**  
+- **4-Piece Deepwood Memories** (for team Dendro RES reduction)  
+- **4-Piece Noblesse Oblige** (if another character is using Deepwood)  
+- **4-Piece Instructor** (for Elemental Mastery buff, but only 4★ max)  
+
+#### **Alternative Options**  
+- **4-Piece Tenacity of the Millelith** (for a **C2+ Support** build)  
+- **4-Piece Emblem of Severed Fate** (for higher Elemental Burst uptime)  
+- **2-Piece Deepwood Memories + 2-Piece Emblem of Severed Fate**  
+- **2-Piece Noblesse Oblige + any ATK% set**  
+
+**Recommended Stats**
+- **Sands:** Energy Recharge / ATK%  
+- **Goblet:** Dendro DMG Bonus  
+- **Circlet:** CRIT Rate / CRIT DMG  
+- **Substats Priority:** CRIT Rate, CRIT DMG > ATK% > Energy Recharge > Elemental Mastery  
+
+---
+
+### **Recommended Weapons**
+
+#### **Best 5★ Weapons**  
+- **Elegy for the End** – Best for team support (EM & ATK buff).
+- **Polar Star** – High CRIT boost and consistent damage output.
+- **Skyward Harp** – Increases CRIT Rate and CRIT DMG.
+
+#### **Best 4★ Weapons**  
+- **Fading Twilight** – Event weapon with high ER and extra DMG boost.  
+- **Moonpiercer** – EM-focused weapon for Bloom/Hyperbloom teams.  
+- **Alley Hunter** – ATK-based weapon for off-field DPS.  
+- **Recurve Bow** – Budget HP-based alternative.  
+- **Sacrificial Bow** – Good for **Dendro application consistency** with C2.  
+- **Favonius Warbow** – Energy generation support weapon.  
+
+---
+
+## **Team Compositions**
+
+### **Dendro Reaction Teams**  
+- **Aggravate / Spread Team**  
+  - **Collei** (Support / Sub-DPS)  
+  - **Keqing / Cyno / Alhaitham** (Main DPS)  
+  - **Fischl / Yae Miko** (Electro Applicator)  
+  - **Nahida / Kazuha / Zhongli** (Support / RES shred)  
+
+- **Bloom / Hyperbloom / Burgeon Team**  
+  - **Collei** (Support / Dendro Applicator)  
+  - **Nilou / Kokomi / Xingqiu** (Hydro Applicator)  
+  - **Raiden Shogun / Kuki Shinobu** (Electro for Hyperbloom)  
+  - **Thoma / Dehya** (Pyro for Burgeon)  
+
+- **Quicken / Aggravate Team**  
+  - **Collei** (Support)  
+  - **Tighnari / Alhaitham** (Dendro Main DPS)  
+  - **Fischl / Beidou** (Electro DPS)  
+  - **Kazuha / Zhongli** (Support)  
+
+---
+
+Collei is a **Dendro support and sub-DPS** who excels in applying **Dendro status** for reaction-based team compositions. Her **Energy Recharge scaling**, **team buffs**, and **off-field application** make her a great fit in **Dendro-based reaction teams** like **Aggravate, Bloom, and Quicken teams**. Her **C2+ allows better synergy** in quick-swap teams, and **Deepwood Memories** ensures she contributes effectively even when off-field.
+

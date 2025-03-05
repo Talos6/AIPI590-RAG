@@ -1,0 +1,216 @@
+**Kamisato Ayaka**
+
+---
+
+**Title:** Frostflake Heron  
+**Full Name / Real Name:** Kamisato Ayaka  
+**Nation:** Inazuma  
+**Home Nation:** (None listed)  
+**Race:** Human  
+**Gender:** Female  
+**Rarity:** ★★★★★ (5-Star)  
+**Banner Type:** Limited (Featured on Event Wish)  
+**Vision (Element):** Cryo  
+**Weapon:** Sword  
+**Constellation:** Grus Nivis  
+**Special Dish:** “Snow on the Hearth”  
+**Release Date:** July 21, 2021 (Version 2.0)  
+**Tags:** DEF Reduction, Alchemy Refund, High Mobility, Self Infusion, Self DMG Bonus, Self Stamina Restoration  
+**Introduction:** The eldest daughter of the Kamisato Clan under the Yashiro Commission. Elegant and poised, yet also wise and strong of heart.  
+
+---
+
+## Constellations
+
+| **Name**                           | **Effect**                                                                                                                                                                                                                                                                                        |
+|------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **C1 · Snowswept Sakura**          | When Kamisato Ayaka’s Normal or Charged Attacks deal Cryo DMG to opponents, there is a 50% chance of decreasing the CD of **Kamisato Art: Hyouka** by 0.3s. This effect can occur once every 0.1s.                                                                                               |
+| **C2 · Blizzard Blade Seki no To** | When casting **Kamisato Art: Soumetsu**, Ayaka will unleash two smaller Frostflake Seki no To, each dealing 20% of the original DMG.                                                                                                                                                               |
+| **C3 · Frostbloom Kamifubuki**     | Increases the Level of **Kamisato Art: Soumetsu** by 3. Maximum upgrade level is 15.                                                                                                                                                                                                              |
+| **C4 · Ebb and Flow**              | Opponents damaged by the Frostflake Seki no To created by **Kamisato Art: Soumetsu** have their DEF decreased by 30% for 6s.                                                                                                                                                                       |
+| **C5 · Blossom Cloud Irutsuki**    | Increases the Level of **Kamisato Art: Hyouka** by 3. Maximum upgrade level is 15.                                                                                                                                                                                                                |
+| **C6 · Dance of Suigetsu**         | Every 10s, Ayaka gains a “Senho no Hanayuki” effect, which increases the DMG dealt by her Charged Attack by 298%. This effect is cleared 0.5s after Ayaka’s Charged Attack hits an opponent, after which the timer for this ability will restart.                                                 |
+
+---
+
+## Talent / Ascension Material Requirements
+
+| **Level** | **Materials Required**                                                                                   |
+|-----------|----------------------------------------------------------------------------------------------------------|
+| 1 → 2     | 12,500 Mora<br>3 **Teachings of Elegance**<br>6 **Old Handguard**                                       |
+| 2 → 3     | 17,500 Mora<br>2 **Guide to Elegance**<br>3 **Kageuchi Handguard**                                      |
+| 3 → 4     | 25,000 Mora<br>4 **Guide to Elegance**<br>4 **Kageuchi Handguard**                                      |
+| 4 → 5     | 30,000 Mora<br>6 **Guide to Elegance**<br>6 **Kageuchi Handguard**                                      |
+| 5 → 6     | 37,500 Mora<br>9 **Guide to Elegance**<br>9 **Kageuchi Handguard**                                      |
+| 6 → 7     | 120,000 Mora<br>4 **Philosophies of Elegance**<br>4 **Famed Handguard**<br>1 **Bloodjade Branch**       |
+| 7 → 8     | 260,000 Mora<br>6 **Philosophies of Elegance**<br>6 **Famed Handguard**<br>1 **Bloodjade Branch**       |
+| 8 → 9     | 450,000 Mora<br>12 **Philosophies of Elegance**<br>9 **Famed Handguard**<br>2 **Bloodjade Branch**      |
+| 9 → 10    | 700,000 Mora<br>16 **Philosophies of Elegance**<br>12 **Famed Handguard**<br>2 **Bloodjade Branch**<br>1 **Crown of Insight** |
+
+---
+
+## Recommended Builds
+
+Kamisato Ayaka is primarily a Cryo DPS who excels at dealing large amounts of damage through her high-multiplier Elemental Burst, *Kamisato Art: Soumetsu*. She can also be played as a quick-swap burst character in certain team compositions. Below are her popular gear and team setups:
+
+---
+
+### 1. Main On-Field DPS Build
+
+**Main Uses:**  
+- Frontline Cryo DPS  
+- Sustained Normal/Charged Attacks with Cryo infusion  
+- Powerful Elemental Burst “nuke”  
+
+**Recommended Artifact Sets**  
+- **Best:** 4-Piece *Blizzard Strayer* (+ any off-piece)  
+- **Alternatives (2+2 split):** 2-Piece *Blizzard Strayer* + 2-Piece *Noblesse Oblige* or 2-Piece *Gladiator’s Finale*  
+
+**Why These Sets?**  
+- **Blizzard Strayer (4pc)** offers a huge CRIT Rate bonus against enemies affected by Cryo (+20% CRIT Rate), and an additional +20% CRIT Rate if they are Frozen. Since Ayaka can consistently keep enemies Frozen (with team support), this leads to very high CRIT Rate.  
+- If you have a CRIT Rate weapon (e.g. Haran Geppaku Futsu, Primordial Jade Cutter) or excellent substats, or if your artifact substats for the 4pc Blizzard Strayer are lacking, you can use a 2+2 combination (e.g. Blizzard Strayer + Noblesse Oblige, or Blizzard Strayer + Gladiator’s Finale) for reliable stats.  
+- From Version 3.0 onwards, you can use the Artifact Strongbox at any alchemy table to convert unwanted artifacts into *Blizzard Strayer* pieces, making it easier to farm.
+
+**Main Stats**  
+- **Sands:** ATK%  
+- **Goblet:** Cryo DMG Bonus  
+- **Circlet:** CRIT DMG or ATK% (depending on your weapon and team buffs)
+
+**Substat Priority**  
+1. CRIT Rate (until comfortable threshold) / CRIT DMG  
+2. Energy Recharge (enough for Burst uptime)  
+3. ATK%  
+
+**Explanation**  
+- Ayaka’s damage is heavily centered on her Elemental Burst, *Kamisato Art: Soumetsu*. She needs enough Energy Recharge for consistent Burst usage. If using a weapon that provides ER (e.g., Amenoma Kageuchi, Skyward Blade), you might require fewer ER substats.  
+- In a typical Freeze team with Double Cryo resonance, the raw CRIT Rate from talents/artifacts is extremely high. For example: 5% base + 15% (Cryo Resonance) + 20% (Blizzard Strayer 4pc baseline) + 20% (Blizzard Strayer 4pc vs. Frozen) = 60% CRIT Rate *before* weapon substats or artifact substats. This allows you to focus heavily on CRIT DMG and ATK% in substats.  
+- In teams without perma-freeze or if using a different artifact combination, aim for at least ~70% CRIT Rate.  
+
+**Talent Priority**  
+1. **Elemental Burst** → 2. **Normal Attack** → 3. **Elemental Skill**  
+- Most of Ayaka’s damage comes from her Burst. Her Normal Attacks (infused with Cryo via her sprint) are also significant if she is on-field. Her Skill has a decent multiplier and is worth leveling, but it contributes less overall than her Burst and Normal Attack combos.
+
+**Recommended Weapons**
+
+- **Best 5★:** **Mistsplitter Reforged**  
+  - Highest personal DPS for Ayaka. High Base ATK (674), CRIT DMG substat (44.1%), and an Elemental DMG Bonus effect that ramps up with “Mistsplitter’s Emblem” stacks. Ayaka can gain those stacks quickly through her natural Cryo infusion, Normal Attacks, and Burst usage.  
+- **Other 5★ Options:**
+  - **Primordial Jade Cutter**: High CRIT Rate substat, scales ATK based on the user’s Max HP. Generally second-best after Mistsplitter Reforged. Beware of overcapping CRIT Rate in a Freeze team.  
+  - **Summit Shaper**: Good if you have a reliable shielder (e.g., Diona), offers a large ATK boost. However, with Shenhe or other forms of ATK buffs in the team, its overall synergy might be lower than other 5★ swords.  
+  - **Haran Geppaku Futsu / Light of Foliar Incision**: Both are CRIT-based weapons that can still function decently for Ayaka. Foliar Incision’s EM-based passive is mostly wasted on Ayaka, but the high CRIT DMG substat can still be used effectively.  
+  - **Aquila Favonia / Skyward Blade**: Suboptimal but can work if you need energy (Skyward Blade) or want to benefit from a huge Base ATK (Aquila).  
+
+- **4★ Options:**  
+  - **Amenoma Kageuchi (craftable)**: Good ATK% substat, helps with Energy regeneration. Often recommended for stable Burst rotations, especially at higher refinements.  
+  - **The Blackcliff Longsword**: CRIT DMG substat. Stacking effect can be inconsistent in multi-wave content, but still among the stronger 4★ choices.  
+  - **Tulaytullah’s Remembrance / Wolf-Fang** (if crossing from higher or event-limited 4★ weapons): Wolf-Fang (from BP) specifically buffs Skill and Burst DMG, making it a top-tier 4★ contender. Tulaytullah’s CRIT substat is wasted partially, but still can be used “as a CRIT DMG stat stick.”  
+  - **Black Sword (BP)**: CRIT Rate substat, though its passive boosts only Normal/Charged Attacks. Good for an on-field Ayaka, but it won’t boost her Burst.  
+  - **Other 3★ or 4★ “stopgap” swords** like Harbinger of Dawn (3★, huge CRIT stats but HP must remain above 90%), Favonius Sword (4★, generates energy at the cost of personal DPS), etc. can be used early on.
+
+---
+
+### 2. Quick-Swap Burst Build (High ER)
+
+**Main Uses:**  
+- Focused on spamming *Kamisato Art: Soumetsu* in a quick rotation  
+- Less on-field time, dealing heavy Burst damage then switching out  
+
+**Recommended Artifact Set**  
+- **4-Piece Emblem of Severed Fate** (+ any off-piece)
+
+**Why This Set?**  
+- **Emblem of Severed Fate (4pc)** increases Elemental Burst DMG based on Energy Recharge, perfect for a burst-centric playstyle.  
+- Ayaka’s Skill does generate a good amount of particles, but in a quick-swap scenario, she might not be on-field long enough to gather them. Thus, stacking ER from Emblem substats synergizes well with her high-cost Burst (80 Energy).
+
+**Main Stats**  
+- **Sands:** Energy Recharge% / ATK%  
+- **Goblet:** Cryo DMG Bonus  
+- **Circlet:** CRIT DMG or CRIT Rate  
+
+**Substat Priority**  
+1. CRIT (Rate/DMG)  
+2. Energy Recharge (around 200% or more)  
+3. ATK%  
+
+**Explanation**  
+- In a quick-swap team, Ayaka’s Burst can account for 90% or more of her damage. Maintaining high uptime on her Burst is crucial.  
+- Typically needs around 200%+ Energy Recharge, depending on team synergy and available battery units.  
+- With no inherent CRIT Rate from the set, a CRIT Rate weapon or circlet can help, especially if you’re not fully reliant on Freeze.
+
+**Talent Priority**  
+- **Elemental Burst** > **Elemental Skill** >> (Normal Attack is optional if you rarely stay on-field)
+
+**Recommended Weapons**
+
+- **Top 5★:** **Mistsplitter Reforged** or **Primordial Jade Cutter**  
+  - Mistsplitter is still fantastic for raw Burst scaling. Jade Cutter’s CRIT Rate and large ATK boost also help.  
+- **Other 4★:**  
+  - **Blackcliff Longsword**, **The Flute** (less ideal), **Favonius Sword** or **Sacrificial Sword** if heavily needed to funnel energy (though damage is lower).
+
+---
+
+## Team Recommendations
+
+Below are some of the strongest or most common partners for Kamisato Ayaka:
+
+### Notable 5★ Teammates
+
+| **Character**          | **Recommendation**                                                                                                                                                                                                                                                                                                                   |
+|------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Sangonomiya Kokomi** | Provides powerful healing and continuous AoE Hydro application through her Elemental Skill (*Kurage’s Oath*). Perfect for sustaining Freeze, especially in an AoE environment. Her Elemental Burst fully heals the team. Often runs a 4pc **Tenacity of the Millelith**. Uses **Thrilling Tales of Dragon Slayers** to buff Ayaka if desired. |
+| **Venti**             | Provides unmatched crowd control with *Wind’s Grand Ode*. Wields a 4pc **Viridescent Venerer** to shred enemies’ Cryo RES by 40%. If *Wind’s Grand Ode* absorbs Cryo, Venti’s talent “Stormeye” refunds 15 Energy to Ayaka and other Cryo characters at the end of the Burst, alleviating ER requirements.                                                                |
+| **Kaedehara Kazuha**   | Top-tier Anemo support. Clumps enemies with *Chihayaburu* and decreases their Cryo RES with 4pc **Viridescent Venerer**. His passive “Poetics of Fuubutsu” also grants teammates bonus elemental DMG (scaled off Kazuha’s own EM). If his Burst absorbs Cryo, it helps keep enemies Frozen in synergy with Hydro units.                                                   |
+| **Ganyu**             | Sub-DPS or secondary DPS. Both are Cryo, enabling Cryo Resonance. Ganyu’s Burst, *Celestial Shower*, offers sustained AoE Cryo DMG to help maintain Freeze. Her passive “Harmony Between Heaven and Earth” gives 20% Cryo DMG Bonus to characters within her Burst.                                                                                                           |
+| **Shenhe**            | Offensive buffer for Cryo DMG. Also provides Cryo Resonance. Her Burst, *Divine Maiden’s Deliverance*, lowers Cryo RES of enemies and buffs Cryo DMG within its field. Her Skill, *Spring Spirit Summoning*, grants teamwide Icy Quills, adding flat Cryo DMG. Constellations (like C1 for extra Skill uses) can further amplify Ayaka’s damage.                          |
+| **Furina** (“Focalors”) | A strong off-field Hydro DMG dealer and DMG% buffer. In Freeze teams, she can help maintain Hydro application. Her Burst, *Party Time!*, grants a stacking DMG% bonus based on fluctuations in team HP. With another healer or shield, you can quickly build up her “atmosphere” stacks, boosting Ayaka’s damage significantly.                                              |
+| **Mona**               | Offers strong damage amplification via *Omen* from her Burst, *Stellaris Phantasm*, up to +60% DMG taken on enemies (though it only lasts ~4s). Mona’s Skill can taunt enemies and apply Hydro, enabling Freeze if placed properly. She can also carry **Thrilling Tales of Dragon Slayers** for a big ATK buff to Ayaka.                                                   |
+| **Zhongli**            | Provides a powerful shield through *Dominus Lapidis*, reducing enemy resistances by 20% (universal shred) and significantly boosting survivability. You can also run 4pc **Tenacity of the Millelith** or **Archaic Petra** to support the team further.                                                                                                                    |
+
+### Notable 4★ Teammates
+
+| **Character**       | **Recommendation**                                                                                                                                                                                                                                                                    |
+|---------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Xingqiu**         | Off-field Hydro for Freeze. His Burst, *Raincutter*, provides moderate Hydro application on Normal Attacks, plus damage reduction. However, it’s somewhat limited in AoE compared to Kokomi or Mona—best against small groups or single targets.                                                                            |
+| **Barbara**         | Early-game healer + Hydro application from her Skill, *Let the Show Begin♪*. The water ring also applies Hydro to the active character, so watch out for elemental attacks. Extremely long cooldown on the Skill (32s), and may inadvertently freeze your active character if enemies apply Cryo.                           |
+| **Sucrose**         | More limited crowd control than Kazuha/Venti but can still swirl Cryo with a 4pc **Viridescent Venerer** to shred Cryo RES by 40%. She also has a high EM scaling for swirl. Her C6 can further buff team elemental DMG if the swirl is of a matching element.                                                               |
+| **Lynette**         | A new Anemo 4★ who can swirl Cryo. Her Skill *Enigma Thrust* has slight grouping at C1, and her Burst *Magic Trick: Astonishing Shift* can swirl. With a 4pc **Viridescent Venerer**, she lowers Cryo RES. She also grants a small ATK% buff for 10s (via “Talented Performer”), but it’s less powerful than Kazuha or Venti. |
+| **Diona**           | Provides shielding (*Icy Paws*) and healing (*Signature Mix*). Also Cryo, triggering Cryo Resonance with Ayaka. She can run **Favonius Warbow** or **Sacrificial Bow** to generate Cryo particles. Her shield is decent but not as strong as Zhongli’s. Good for early or budget Freeze teams.                                 |
+| **Rosaria**         | Sub-DPS Cryo with a short dash skill, *Ravaging Confession*, that helps with funneling Cryo particles. Her Burst, *Rites of Termination*, provides AoE Cryo damage. She can run 4pc **Noblesse Oblige** to buff team ATK, and her passive “Shadow Samaritan” gives extra CRIT Rate to teammates based on her own CRIT Rate.     |
+| **Charlotte**       | A Cryo catalyst user who can serve as a backup healer or supportive sub-DPS. Could hold **Thrilling Tales of Dragon Slayers** to buff Ayaka. Also provides Cryo application for maintaining Freeze.                                                                                                                         |
+| **Layla**           | Provides a strong shield with *Knights of Formal Focus*, can run 4pc **Tenacity of the Millelith** for ATK buffs, and ensures consistent Cryo application while off-field. Good synergy for Double Cryo resonance.                                                                                                            |
+
+---
+
+### Team Compositions
+
+#### Freeze Teams
+
+**Concept:**  
+- Two Cryo units (including Ayaka) for **Cryo Resonance** (+15% CRIT Rate vs. enemies afflicted by Cryo).  
+- One Hydro unit to apply Hydro and keep enemies Frozen.  
+- One Anemo unit to provide crowd control and shred Cryo RES via **Viridescent Venerer**.  
+
+**Common Freeze Cores**  
+- **Ayaka** + **Kokomi** + **Kazuha/Venti** + **Shenhe/Ganyu/Rosaria/Diona/etc.**  
+- **Ayaka** + **Mona** + **Kazuha/Venti** + **Shenhe** (or other Cryo)  
+- **Ayaka** + **Furina** + **Kazuha/Venti** + **Charlotte/Rosaria/another Cryo**  
+
+**Pros**  
+- Hard crowd control on freeze-eligible enemies, trivializing many fights.  
+- Very high CRIT Rate thanks to Blizzard Strayer and Cryo Resonance.  
+- Large AoE damage from Ayaka’s Burst + crowd control from Anemo.  
+
+**Cons**  
+- Struggles against enemies that cannot be Frozen or have high Cryo RES (e.g., certain bosses).  
+- Tends to be pricey if you try for multiple limited 5★ characters (Ayaka, Shenhe, Kokomi, Kazuha, etc.).  
+- Might require precise grouping or timing in multi-wave content to maintain Freeze effectively.
+
+**General Rotation Example**  
+(*e.g., Ayaka / Shenhe / Kazuha / Kokomi*)  
+1. **(If starting from 0)** Apply Cryo via Ayaka or Shenhe’s Skill.  
+2. **Kazuha** uses Skill (*Chihayaburu*) to swirl Cryo and apply 4pc Viridescent Venerer’s -40% Cryo RES. Possibly use his Burst to maintain swirl effects.  
+3. **Shenhe** or **Rosaria** sets up additional Cryo or buffs (Shenhe’s Icy Quills, Rosaria’s personal Burst).  
+4. **Kokomi** places *Kurage’s Oath* (Jellyfish) for continuous AoE Hydro → Freeze.  
+5. **Ayaka** returns to the field, possibly uses *Kamisato Art: Senho* for self Cryo infusion, casts *Kamisato Art: Hyouka*, then unleashes *Kamisato Art: Soumetsu* (Burst).  
+6. Re-swirl or reapply Cryo/Hydro as needed for the next wave.  
+

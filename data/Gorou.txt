@@ -1,0 +1,74 @@
+**Gorou**
+
+---
+
+**Title:** Ever-Victorious Canine 
+
+**Full Name:** Gorou  
+**Nation:** Inazuma  
+**Race:** Beastman  
+**Gender:** Male  
+**Rarity:** 4-star  
+**Availability:** Permanent  
+**Vision:** Geo  
+**Weapon Type:** Bow  
+**Constellation:** Canis Bellatoris  
+**Special Dish:** Victorious Legend  
+**Release Date:** December 14, 2021 (Version 2.3)  
+**Tags:** Healing, Defense Buff, Interruption Resistance, Crit Damage Boost, Specialty Exploration, Skill Extension, Cooldown Reduction, Self-Damage Boost, Self-Multiplier Increase  
+**Description:** The general of the Watatsumi Army, highly trusted by his subordinates.
+
+---
+
+### Constellations
+
+**Name** | **Effect**  
+--- | ---  
+**Rushing Hound: Swift as the Wind** | When a character within Gorou’s General’s War Banner or General’s Glory field deals Geo DMG to an enemy, Gorou’s Inuzaka All-Round Defense cooldown is reduced by 2s. This effect can trigger once every 10s.  
+**Sitting Hound: Steady as a Clock** | During General’s Glory’s duration, when the active character in the field obtains a Crystal Shard from the Crystallize reaction, the field's duration is extended by 1s. This effect can trigger every 0.1s, up to a maximum extension of 3s.  
+**Clawing Hound: Fierce as Fire** | Inuzaka All-Round Defense skill level increases by 3. Max upgrade level is 15.  
+**Lapping Hound: Gentle as Water** | While General’s Glory is in effect with "Impenetrable Defense" or "Crushing Strength," it heals the active character in the field every 1.5s, restoring HP equal to 50% of Gorou’s DEF.  
+**Striking Hound: Thunderous as the Raging Waves** | General’s Glory skill level increases by 3. Max upgrade level is 15.  
+**Valiant Hound: Indomitable as the Mountains** | For 12s after Gorou casts Inuzaka All-Round Defense or General’s Glory, the Crit DMG of Geo DMG dealt by party members is increased based on the field’s level: “Standing Firm” increases it by 10%, “Impenetrable Defense” by 20%, and “Crushing Strength” by 40%. This effect does not stack; the most recent instance applies.
+
+---
+
+### Talent Upgrade Materials
+
+**Level** | **Materials Required**  
+--- | ---  
+1→2 | 12,500 Mora, 3 "Teachings of Light," 6 Spectral Husk  
+2→3 | 17,500 Mora, 2 "Guide to Light," 3 Spectral Heart  
+3→4 | 25,000 Mora, 4 "Guide to Light," 4 Spectral Heart  
+4→5 | 30,000 Mora, 6 "Guide to Light," 6 Spectral Heart  
+5→6 | 37,500 Mora, 9 "Guide to Light," 9 Spectral Heart  
+6→7 | 120,000 Mora, 4 "Philosophies of Light," 4 Spectral Nucleus, 1 Molten Moment  
+7→8 | 260,000 Mora, 6 "Philosophies of Light," 6 Spectral Nucleus, 1 Molten Moment  
+8→9 | 450,000 Mora, 12 "Philosophies of Light," 9 Spectral Nucleus, 2 Molten Moment  
+9→10 | 700,000 Mora, 16 "Philosophies of Light," 12 Spectral Nucleus, 2 Molten Moment, 1 Crown of Insight
+
+---
+
+### Recommended Builds
+
+#### **General Geo Team Support**
+**Artifact Sets:**  
+- 4-piece The Exile + any artifact  
+- 2-piece The Exile + 2-piece Emblem of Severed Fate or Husk of Opulent Dreams + any artifact  
+
+**Reasons for Selection:**  
+Gorou’s Elemental Burst is essential for supporting teammates, and its buffs are fixed values. Therefore, Gorou only needs enough Energy Recharge, making The Exile set a great choice as it boosts his recharge and provides Energy for the team. If The Exile set is difficult to farm, a mix of The Exile and other artifacts like Emblem of Severed Fate or Husk of Opulent Dreams can also be viable.  
+
+**Recommended Main Stats:**  
+- **Sands:** Energy Recharge  
+- **Goblet:** Any / DEF% (for C4 or higher)  
+- **Circlet:** Crit Rate (if using Favonius Warbow) / Healing Bonus (for C4 or higher)  
+
+**Recommended Substats:**  
+- Energy Recharge, Crit Rate (if using Favonius Warbow) > DEF% (C4+), Elemental Mastery  
+
+**Recommended Weapons:**  
+- **Best:** Favonius Warbow  
+- **Alternatives:** Elegy for the End, Sacrificial Bow, End of the Line, Fading Twilight  
+
+---

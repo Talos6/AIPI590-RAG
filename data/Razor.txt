@@ -1,0 +1,83 @@
+**Razor**
+
+---
+
+**Title:** Wolf Boy  
+**Full Name:** Razor  
+**Nation:** Mondstadt  
+**Race:** Human  
+**Gender:** Male  
+**Rarity:** ★★★★ (4-Star)  
+**Availability:** Permanent  
+**Vision:** Electro  
+**Weapon Type:** Claymore  
+**Constellation:** Lupus Minor  
+**Special Dish:** Puppy-Paw Hash Brown  
+**Release Date:** September 15, 2020 (Version 1.0)  
+
+**Tags:** DEF Reduction, Sprint Stamina Reduction, Self DMG Boost, Resistance Increase, Interruption Resistance, Electro-Charged Immunity, Attack Speed Boost, Cooldown Reduction, Energy Regeneration, CRIT Rate Boost  
+
+**Introduction:** A young boy who lives in Mondstadt’s Wolvendom, away from the city and human civilization, living among wolves. He has keen intuition and swift movements.
+
+---
+
+**Constellation**
+
+| Name      | Effect  |
+|-----------|---------|
+| **Wolf’s Instinct** | When Razor obtains an Elemental Orb or Particle, his DMG increases by 10% for 8 seconds. |
+| **Suppression** | When attacking enemies with less than 30% HP, Razor’s CRIT Rate increases by 10%. |
+| **Soul Companion** | Increases the Level of Lightning Fang by 3. Maximum upgrade level is 15. |
+| **Bite** | Pressing Claw and Thunder reduces enemies' DEF by 15% for 7 seconds. Repeated triggers refresh duration. |
+| **Sharpened Claws** | Increases the Level of Claw and Thunder by 3. Maximum upgrade level is 15. |
+| **Lupus Fulguris** | Every 10 seconds, Razor’s Claymore will be charged with Thunder. His next Normal Attack will summon a lightning strike, dealing 100% ATK as Electro DMG. If not in Lightning Fang state, hitting an enemy with this lightning strike grants Razor an Electro Sigil for Claw and Thunder. |
+
+---
+
+**Ascension Materials**
+
+| Level | Materials Required |
+|---------|----------------|
+| 1→2 | 12,500 Mora, 3 Teachings of Resistance, 6 Damaged Mask |
+| 2→3 | 17,500 Mora, 2 Guide to Resistance, 3 Stained Mask |
+| 3→4 | 25,000 Mora, 4 Guide to Resistance, 4 Stained Mask |
+| 4→5 | 30,000 Mora, 6 Guide to Resistance, 6 Stained Mask |
+| 5→6 | 37,500 Mora, 9 Guide to Resistance, 9 Stained Mask |
+| 6→7 | 120,000 Mora, 4 Philosophies of Resistance, 4 Ominous Mask, 1 Dvalin’s Claw |
+| 7→8 | 260,000 Mora, 6 Philosophies of Resistance, 6 Ominous Mask, 1 Dvalin’s Claw |
+| 8→9 | 450,000 Mora, 12 Philosophies of Resistance, 9 Ominous Mask, 2 Dvalin’s Claw |
+| 9→10 | 700,000 Mora, 16 Philosophies of Resistance, 12 Ominous Mask, 2 Dvalin’s Claw, 1 Crown of Insight |
+
+---
+
+**Recommended Builds**
+
+### **Artifact Sets**
+- **Physical DPS:** 4-piece Pale Flame + Any OR 4-piece Gladiator’s Finale / 4-piece Thundering Fury / 4-piece Retracing Bolide / 4-piece Song of Days Past + Any OR 4-piece Hunter’s Path + Any  
+- **Reaction-Based DPS:** 4-piece Gilded Dreams, 4-piece Thundering Fury, 4-piece Instructor + Any OR 2-piece Wanderer’s Troupe + 2-piece Gilded Dreams / 2-piece Emblem of Severed Fate / 2-piece Instructor + Any  
+
+### **Artifact Recommendations**
+- **Sands:** ATK% / Elemental Mastery / Energy Recharge  
+- **Goblet:** Physical DMG Bonus / Electro DMG Bonus / ATK%  
+- **Circlet:** CRIT Rate / CRIT DMG  
+
+### **Weapon Recommendations**
+- **Best 5-Star Weapons:** Song of Broken Pines, Beacon of the Reed Sea  
+- **Alternative 5-Star Weapons:** Wolf’s Gravestone, Skyward Pride, The Unforged, The Serpent Spine, Redhorn Stonethresher  
+- **Best 4-Star Weapons:** Serpent Spine  
+- **Alternative 4-Star Weapons:** Blackcliff Slasher, Rainslasher, Snow-Tombed Starsilver, Prototype Archaic, Debate Club  
+
+### **Skill Leveling Priority**
+**Normal Attack > Elemental Burst > Elemental Skill**
+
+---
+
+**Playstyle Recommendations**
+- Razor thrives as a Physical DPS with sustained Normal Attacks during his Elemental Burst. 
+- Due to his fast attack speed and self-buffing abilities, he pairs well with teams that can support his damage output without interrupting his attack flow. 
+- Elemental Mastery builds can be effective in Electro-based reaction teams, particularly with Dendro units for Aggravate reactions. 
+- Shield supports like Zhongli or Diona can help maintain his buffs and increase survivability.
+
+---
+
+This document provides an overview of Razor, including his abilities, ascension materials, recommended builds, and playstyle tips for optimal performance.

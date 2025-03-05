@@ -1,0 +1,118 @@
+**Xiao**
+
+---
+
+**Title**: Guardian Yaksha  
+**Full Name**: Xiao  
+**Nation**: Liyue  
+**Race**: Adeptus  
+**Gender**: Male  
+**Rarity**: 5-Star  
+**Availability**: Limited (UP Banner)  
+**Vision**: Anemo  
+**Weapon Type**: Polearm  
+**Constellation**: Alatus Nemeseos  
+**Special Dish**: "Dreams of Delight"  
+**Release Date**: February 3, 2021 (Version 1.3)  
+**Tags**: Mobility, Reduced Climbing Stamina Consumption, HP Drain, Unique Elemental Infusion, Self Damage Boost, Plunge Attack Immunity  
+
+**Introduction**:  
+An adeptus who protects Liyue, known as the "Yaksha." He is titled "Conqueror of Demons" and is renowned as the "Vigilant Yaksha General."
+
+---
+
+### **Constellation Effects**
+
+| Name | Effect |
+|----------------|------------------------------------------------------------------|
+| **Dissolution Eon: Destroyer of Worlds** | Increases the number of charges for Lemniscatic Wind Cycling by 1. |
+| **Annihilation Eon: Blossom of Kaleidos** | Increases Xiao’s Energy Recharge by 25% when he is off-field. |
+| **Conqueror of Evil: Wrath Deity** | Increases the level of Lemniscatic Wind Cycling by 3 (max upgrade level 15). |
+| **Transcension: Extinction of Suffering** | When Xiao’s HP falls below 50%, his DEF increases by 100%. |
+| **Evolution Eon: Origin of Ignorance** | Increases the level of Bane of All Evil by 3 (max upgrade level 15). |
+| **Conqueror of Evil: Guardian Yaksha** | When under the effects of Bane of All Evil, if Xiao’s Plunging Attack hits at least two enemies, he immediately gains one charge of Lemniscatic Wind Cycling, and for 1 second, he can use it without cooldown. |
+
+---
+
+### **Talent Ascension Materials**
+
+| Level | Materials |
+|--------|----------------------------------------------|
+| 1→2 | 12,500 Mora, 3 Teachings of Prosperity, 6 Slime Condensate |
+| 2→3 | 17,500 Mora, 2 Guide to Prosperity, 3 Slime Secretions |
+| 3→4 | 25,000 Mora, 4 Guide to Prosperity, 4 Slime Secretions |
+| 4→5 | 30,000 Mora, 6 Guide to Prosperity, 6 Slime Secretions |
+| 5→6 | 37,500 Mora, 9 Guide to Prosperity, 9 Slime Secretions |
+| 6→7 | 120,000 Mora, 4 Philosophies of Prosperity, 4 Slime Concentrate, 1 Shadow of the Warrior |
+| 7→8 | 260,000 Mora, 6 Philosophies of Prosperity, 6 Slime Concentrate, 1 Shadow of the Warrior |
+| 8→9 | 450,000 Mora, 12 Philosophies of Prosperity, 9 Slime Concentrate, 2 Shadow of the Warrior |
+| 9→10 | 700,000 Mora, 16 Philosophies of Prosperity, 12 Slime Concentrate, 2 Shadow of the Warrior, 1 Crown of Insight |
+
+---
+
+### **Recommended Artifact Sets**
+
+#### **Best-in-Slot (BiS) Options**
+- **4-Piece Marechaussee Hunter**
+- **4-Piece Vermillion Hereafter**
+- **4-Piece Song of Days Past**
+
+#### **Alternative Sets**
+- **2-Piece Viridescent Venerer + 2-Piece Song of Days Past**
+- **2-Piece Gladiator’s Finale + Any 18% ATK 2-Piece Bonus**
+
+#### **Artifact Stat Priority**
+- **Sands**: ATK%
+- **Goblet**: Anemo DMG Bonus
+- **Circlet**: CRIT DMG / CRIT Rate
+- **Sub-stats**: CRIT Rate & CRIT DMG > ATK% > Energy Recharge
+
+#### **Artifact Recommendations**
+Xiao’s primary damage comes from Plunging Attacks during his Elemental Burst. The 4-piece Marechaussee Hunter set can quickly stack 3 layers, providing up to 36% CRIT Rate. The 4-piece Vermillion Hereafter set also works well, offering up to 66% ATK boost during his Burst duration. The 4-piece Song of Days Past boosts Plunging Attack DMG and can outperform Vermillion Hereafter in certain conditions.
+
+---
+
+### **Talent Leveling Priorities**
+- **Without C6**: Normal Attack > Elemental Burst = Elemental Skill
+- **With C6**: Elemental Skill > Normal Attack > Elemental Burst
+
+---
+
+### **Best Weapons for Xiao**
+
+#### **Best 5-Star Weapons**
+- **Primordial Jade Winged-Spear**
+- **Staff of Homa**
+- **Redhorn Stonethresher**
+
+#### **Recommended 4-Star Weapons**
+- **Deathmatch**
+- **Blackcliff Pole**
+- **Lithic Spear (with at least 2 Liyue teammates)**
+
+#### **Alternative 3-Star Weapon**
+- **White Tassel** (Only for early game)
+
+#### **Weapon Recommendations**
+Staff of Homa provides high CRIT DMG and ATK boosts but requires HP management. Primordial Jade Winged-Spear is another strong option due to its high base ATK and stacking buffs. Redhorn Stonethresher is an interesting option in specific setups. Deathmatch is the best 4-star weapon due to its high CRIT Rate bonus.
+
+---
+
+### **Team Compositions**
+
+#### **Xiao-Faruzan Team (Xiao-Faruzan-Bennett-Zhongli)**
+- **Faruzan**: Provides Anemo RES Shred and DMG buffs.
+- **Bennett**: Heals and boosts ATK.
+- **Zhongli**: Shields and provides crowd control.
+
+#### **Xiao-Bennett-Anemo Sub-DPS-Healer Team**
+- **Bennett**: ATK boost and healing.
+- **Anemo Sub-DPS**: Kazuha, Venti, or Sucrose for additional buffs.
+- **Healer**: Jean or Kokomi for additional sustain.
+
+#### **Xiao-Yelan-Xiangling-Bennett (National Team Variant)**
+- **Yelan**: Off-field Hydro DMG for additional reactions.
+- **Xiangling**: Off-field Pyro application and burst damage.
+- **Bennett**: Provides ATK boost and healing.
+
+---

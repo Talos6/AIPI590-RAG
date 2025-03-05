@@ -1,0 +1,143 @@
+**Chevreuse**
+
+---
+
+### **General Information**
+
+- **Title:** Admonishing Discipline
+- **Full Name:** Chevreuse (夏沃蕾)
+- **Nation:** Fontaine
+- **Origin:** Unknown
+- **Race:** Human
+- **Gender:** Female
+- **Rarity:** ★★★★ (4-Star)
+- **Availability:** Permanent
+- **Vision:** Pyro
+- **Weapon:** Polearm
+- **Primordial Force:** Ferity
+- **Constellation:** Gunblade (剑铳座)
+- **Specialty Dish:** "Unnecessary Evil Disposal"
+- **Release Date:** January 9, 2024 (Version 4.3)
+- **Tags:** ATK Boost, Resistance Reduction, Healing, Damage Increase, Energy Recharge, Sprint Stamina Reduction, Reaction Optimization
+- **Character Description:** The ever-diligent captain of Fontaine’s Special Security Force. Her gunlance only ever aims at those guilty of wrongdoing.
+
+---
+
+### **Constellation Effects**
+
+| Name | Effect |
+|------|--------|
+| **Determined Defense** | When an active character under "Coordinated Tactics" (excluding Chevreuse) triggers an Overloaded reaction against enemies, they restore 6 Energy. This effect can occur once every 10s. Requires the "Vanguard Coordinated Tactics" talent. |
+| **Guided Detonation Sniping** | Holding "Rapid Volley Barrage" to fire a shot triggers 2 additional chain explosions at the impact point, each dealing Pyro DMG equal to 120% of Chevreuse's ATK. This effect can occur once every 10s, and the damage is considered Elemental Skill DMG. |
+| **Expert Reloading** | Increases the level of "Rapid Volley Barrage" by 3, up to a maximum of level 15. |
+| **Multi-Shot Mastery** | After casting "Ordnance Barrage Bombardment," Chevreuse's Elemental Skill cooldown is reduced by 100% for 6 seconds, allowing her to cast it twice before the effect ends. |
+| **Augmented Firepower** | Increases the level of "Ordnance Barrage Bombardment" by 3, up to a maximum of level 15. |
+| **Pursuit of Justice** | After "Rapid Volley Barrage" heals a character, it grants the entire team a 20% Pyro and Electro DMG Bonus for 8s. This effect stacks up to 3 times, with each stack having its own independent duration. Additionally, 12s after healing, it restores HP to all nearby party members equal to 10% of Chevreuse’s Max HP. |
+
+---
+
+### **Talent Level-Up Materials**
+
+| Level | Required Materials |
+|--------|------------------|
+| 1 → 2 | 12,500 Mora, 3 Teachings of "Order," 6 Meshing Gear |
+| 2 → 3 | 17,500 Mora, 2 Guide to "Order," 3 Mechanism Gear |
+| 3 → 4 | 25,000 Mora, 4 Guide to "Order," 4 Mechanism Gear |
+| 4 → 5 | 30,000 Mora, 6 Guide to "Order," 6 Mechanism Gear |
+| 5 → 6 | 37,500 Mora, 9 Guide to "Order," 9 Mechanism Gear |
+| 6 → 7 | 120,000 Mora, 4 Philosophies of "Order," 4 Artificed Dynamic Gear, 1 Lightless Eye Vortex |
+| 7 → 8 | 260,000 Mora, 6 Philosophies of "Order," 6 Artificed Dynamic Gear, 1 Lightless Eye Vortex |
+| 8 → 9 | 450,000 Mora, 12 Philosophies of "Order," 9 Artificed Dynamic Gear, 2 Lightless Eye Vortex |
+| 9 → 10 | 700,000 Mora, 16 Philosophies of "Order," 12 Artificed Dynamic Gear, 2 Lightless Eye Vortex, 1 Crown of Insight |
+
+---
+
+### **Recommended Artifact Sets**
+
+#### **Support Healer Build**
+
+**Best-in-slot:**
+- 4-Piece Song of Days Past
+- 4-Piece Noblesse Oblige
+- 4-Piece Maiden Beloved
+
+**Alternative Options:**
+- 2-Piece Tenacity of the Millelith + 2-Piece Vourukasha’s Glow
+- 2-Piece Song of Days Past + 2-Piece Maiden Beloved
+
+**Recommended Stats:**
+- **Sands:** HP%
+- **Goblet:** HP%
+- **Circlet:** Healing Bonus / HP%
+
+**Substats Priority:** HP%, Energy Recharge (for Noblesse Oblige users), CRIT Rate (for Favonius Lance users)
+
+**Skill Level Priority:** Only level up Elemental Skill. Do not level up Normal Attack or Elemental Burst.
+
+**Recommended Weapons:**
+
+**Best 3-Star:**
+- Black Tassel
+
+**Best 4-Star:**
+- Rightful Reward (Event-exclusive)
+
+**Alternative 4-Star Options:**
+- Favonius Lance
+- Prototype Starglitter
+
+**Best 5-Star:**
+- Staff of Homa (increases HP and ATK based on HP%)
+
+---
+
+#### **Sub-DPS Build (Recommended for C4+)**
+
+**Best-in-slot:**
+- 4-Piece Noblesse Oblige
+- 4-Piece Emblem of Severed Fate
+
+**Alternative Options:**
+- 2-Piece Crimson Witch of Flames + 2-Piece Shimenawa’s Reminiscence
+- 2-Piece Golden Troupe
+
+**Recommended Stats:**
+- **Sands:** ATK% / Energy Recharge / HP%
+- **Goblet:** Pyro DMG Bonus
+- **Circlet:** CRIT Rate / CRIT DMG
+
+**Substats Priority:** CRIT Rate, CRIT DMG > ATK% > Energy Recharge > HP%
+
+**Skill Level Priority:** Elemental Skill > Elemental Burst (Do not level Normal Attack)
+
+**Recommended Weapons:**
+
+**Best 5-Star:**
+- Staff of Homa
+
+**Alternative 5-Star Options:**
+- Staff of the Scarlet Sands
+- Primordial Jade Winged-Spear
+
+**Best 4-Star:**
+- Deathmatch
+- Prospecting Drill
+
+**Alternative 4-Star Options:**
+- Favonius Lance
+- Rightful Reward
+
+**Not Recommended Weapons:**
+- Dragonspine Spear
+- Crescent Pike (due to reliance on Physical DMG)
+
+---
+
+### **Summary of Playstyle**
+- Chevreuse is a **hybrid support** with **healing, resistance reduction, and DMG amplification** for Pyro and Electro teams.
+- She enhances **Overloaded reaction** teams by providing **Energy regeneration** (especially at C1).
+- At **C6**, she grants **Elemental DMG buffs** to Pyro and Electro characters.
+- She can be played as a **Sub-DPS** in **fast swap teams**, especially with **C4+, where her skill cooldown is reduced** after using Burst.
+
+Chevreuse excels in teams that rely on **Overloaded reactions** and **Pyro/Electro synergy**, making her a **versatile support option** for Fontaine and beyond.
+

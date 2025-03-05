@@ -1,0 +1,112 @@
+**Kuki Shinobu**
+
+**Title:** Troubleshooter  
+**Full Name:** Kuki Shinobu  
+**Nation:** Inazuma  
+**Origin:** Unknown  
+**Race:** Human  
+**Gender:** Female  
+**Rarity:** 4-Star  
+**Standard/Limited:** Standard  
+**Vision:** Electro  
+**Weapon Type:** Sword  
+**Constellation:** Tribulatio Demptio  
+**Special Dish:** Omurice Waltz  
+**Release Date:** June 21, 2022 (Version 2.7)  
+**Tags:** Healing, Expedition Bonus, HP Drain, Skill Extension, Self-Damage Boost  
+
+**Description:**
+The highly competent and reliable deputy leader of the Arataki Gang—note that "competent and reliable" refers to the deputy, not the gang.
+
+---
+
+**Constellation**
+
+| Name | Effect |
+|------|--------|
+| **To Forsake Fortune** | The AoE of Gyoei Narukami Kariyama Rite is increased by 50%. |
+| **To Forsake Chance** | The duration of Sanctifying Ring is extended by 3 seconds. |
+| **To Forsake Pain** | Increases the level of Sanctifying Ring by 3. Maximum upgrade level is 15. |
+| **To Forsake Isolation** | When a character under the effect of Shinobu’s Sanctifying Ring hits an enemy with a Normal, Charged, or Plunging Attack, a Thundergrass Mark will land at the enemy’s position, dealing Electro DMG equal to 9.7% of Shinobu’s Max HP. This effect can occur once every 5 seconds. |
+| **To Forsake Rancor** | Increases the level of Gyoei Narukami Kariyama Rite by 3. Maximum upgrade level is 15. |
+| **To Forsake Weakness** | If Shinobu takes lethal damage, she will not fall. Instead, she will survive with 1 HP. This effect can occur once every 60 seconds. When her HP falls below 25%, her Elemental Mastery is increased by 150 for 15 seconds. This effect can also occur once every 60 seconds. |
+
+---
+
+**Talent Upgrade Materials**
+
+| Level | Materials Required |
+|-------|------------------|
+| 1→2 | 12,500 Mora, 3 Teachings of "Elegance", 6 Spectral Husk |
+| 2→3 | 17,500 Mora, 2 Guides to "Elegance", 3 Spectral Heart |
+| 3→4 | 25,000 Mora, 4 Guides to "Elegance", 4 Spectral Heart |
+| 4→5 | 30,000 Mora, 6 Guides to "Elegance", 6 Spectral Heart |
+| 5→6 | 37,500 Mora, 9 Guides to "Elegance", 9 Spectral Heart |
+| 6→7 | 120,000 Mora, 4 Philosophies of "Elegance", 4 Spectral Nucleus, 1 Tears of the Calamitous God |
+| 7→8 | 260,000 Mora, 6 Philosophies of "Elegance", 6 Spectral Nucleus, 1 Tears of the Calamitous God |
+| 8→9 | 450,000 Mora, 12 Philosophies of "Elegance", 9 Spectral Nucleus, 2 Tears of the Calamitous God |
+| 9→10 | 700,000 Mora, 16 Philosophies of "Elegance", 12 Spectral Nucleus, 2 Tears of the Calamitous God, 1 Crown of Insight |
+
+---
+
+**Recommended Builds**
+
+### **Hyperbloom Support (Elemental Mastery Focus)**
+- **Artifact Set:**
+  - Best: 4-piece Flower of Paradise Lost
+  - Alternatives: 4-piece Gilded Dreams or 2-piece Wanderer’s Troupe + 2-piece Gilded Dreams
+  - Special Cases: 4-piece Deepwood Memories (if no other character in the team can carry it)
+- **Main Stats:**
+  - Sands: Elemental Mastery
+  - Goblet: Elemental Mastery
+  - Circlet: Elemental Mastery
+- **Substats:** Elemental Mastery, HP%
+- **Recommended Weapons:**
+  - Best: 5-star Key of Khaj-Nisut, 5-star Freedom-Sworn
+  - Alternatives: 4-star Xiphos’ Moonlight, 4-star Iron Sting, 4-star Toukabou Shigure
+
+### **Healing Support**
+- **Artifact Set:**
+  - Best: 4-piece Tenacity of the Millelith
+  - Alternatives: 4-piece Deepwood Memories (for Dendro teams), 4-piece Ocean-Hued Clam
+- **Main Stats:**
+  - Sands: HP%
+  - Goblet: HP%
+  - Circlet: Healing Bonus
+- **Substats:** HP% > Elemental Mastery > Energy Recharge
+- **Recommended Weapons:**
+  - Best: 5-star Key of Khaj-Nisut
+  - Alternatives: 4-star Favonius Sword, 4-star Sacrificial Sword, 4-star Xiphos’ Moonlight
+
+### **Electro DPS (Aggravate Build)**
+- **Artifact Set:**
+  - Best: 4-piece Gilded Dreams
+  - Alternatives: 2-piece Thundering Fury + 2-piece Gilded Dreams
+- **Main Stats:**
+  - Sands: Elemental Mastery
+  - Goblet: Electro DMG Bonus
+  - Circlet: Crit Rate / Crit DMG
+- **Substats:** Crit Rate, Crit DMG > Elemental Mastery > HP%
+- **Recommended Weapons:**
+  - Best: 5-star Primordial Jade Cutter
+  - Alternatives: 4-star Xiphos’ Moonlight, 4-star Iron Sting, 3-star Dark Iron Sword
+
+---
+
+**Team Compositions**
+
+### **Hyperbloom Team**
+- **Members:** Kuki Shinobu, Nahida, Xingqiu, Fischl
+- **Description:**
+  - Kuki Shinobu applies Electro for triggering Hyperbloom.
+  - Nahida provides consistent Dendro application.
+  - Xingqiu applies Hydro for Bloom reactions.
+  - Fischl provides additional off-field Electro damage.
+
+### **Aggravate Team**
+- **Members:** Kuki Shinobu, Nahida, Yae Miko, Kazuha
+- **Description:**
+  - Shinobu acts as both a healer and an Aggravate enabler.
+  - Nahida provides Dendro application.
+  - Yae Miko adds off-field Electro damage.
+  - Kazuha provides crowd control and resistance reduction.

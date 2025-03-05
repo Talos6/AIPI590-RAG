@@ -1,0 +1,238 @@
+**New Document: Hu Tao (English Translation)**  
+*(References official translations from in-game text and community resources such as [paimon.moe](https://paimon.moe/characters/hu_tao).)*
+
+---
+
+### Title  
+**雪霁梅香**  
+*(No official English title provided; often rendered by fans as “Snowfall on the Fragrant Plum.”)*
+
+### Full Name / Real Name  
+**胡桃 (Hu Tao)**
+
+### Nation  
+**Liyue**
+
+### Race  
+**Human**
+
+### Gender  
+**Female**
+
+### Rarity  
+**5★**
+
+### Availability  
+**Limited (Event Exclusive Banner)**
+
+### Vision  
+**Pyro**
+
+### Weapon  
+**Polearm**
+
+### Constellation  
+**Papilio Charontis**
+
+### Specialty Dish  
+**“Ghostly March”**
+
+### Release Date  
+**March 2, 2021 (Version 1.3)**
+
+### Tags  
+- Increased CRIT Rate  
+- Cooking  
+- HP Drain  
+- Unique Pyro Infusion  
+- Self-Healing  
+- Interruption Resistance  
+- Self-DMG Increase  
+- Self-Resistance Increase  
+- Reduced Stamina Consumption  
+
+### Introduction  
+> *“The 77th Director of the Wangsheng Funeral Parlor in Liyue. Despite her young age, she has already taken charge of Liyue’s funeral affairs.”*
+
+---
+
+## Constellations
+
+| Constellation | Effect |
+| --- | --- |
+| **C1: Crimson Bouquet**<br>*(赤团开时斜飞去)* | While **in a Paramita Papilio state** activated by **Guide to Afterlife**, Hu Tao’s **Charged Attacks no longer consume Stamina**. |
+| **C2: Ominous Rainfall**<br>*(最不安神晴又复雨)* | **Increases the Blood Blossom DMG** by an amount equal to **10% of Hu Tao’s Max HP** at the time the effect is applied. Additionally, the Elemental Skill’s initial hit that applies Blood Blossom will also benefit from this increase. |
+| **C3: Lingering Carmine**<br>*(逗留采血色)* | **Increases the Level of Guide to Afterlife by 3.** Maximum upgrade level is 15. |
+| **C4: Garden of Eternal Rest**<br>*(伴君眠花房)* | When an enemy affected by **Blood Blossom** (applied by Hu Tao herself) is defeated, the **CRIT Rate** of all nearby party members (excluding Hu Tao) is **increased by 12%** for 15s. |
+| **C5: Floral Incense**<br>*(无可奈何燃花作香)* | **Increases the Level of Spirit Soother** by 3. Maximum upgrade level is 15. |
+| **C6: Butterfly’s Embrace**<br>*(幽蝶能留一缕芳)* | **Triggers when Hu Tao’s HP drops below 25%**, or when she suffers lethal DMG: This DMG will **not** kill Hu Tao. For the next 10s, all of her **Elemental and Physical RES** is **increased by 200%**, her **CRIT Rate** is **increased by 100%**, and she gains **greatly increased Interruption Resistance**. This effect automatically triggers if Hu Tao has **1 HP** left. Can only occur once every 60s. |
+
+---
+
+## Talent Level-Up Materials
+
+| Level | Required Materials |
+| --- | --- |
+| **1 → 2** | 12,500 Mora <br> 3 **Teachings of “Diligence”** <br> 6 **Whopperflower Nectar** |
+| **2 → 3** | 17,500 Mora <br> 2 **Guide to “Diligence”** <br> 3 **Shimmering Nectar** |
+| **3 → 4** | 25,000 Mora <br> 4 **Guide to “Diligence”** <br> 4 **Shimmering Nectar** |
+| **4 → 5** | 30,000 Mora <br> 6 **Guide to “Diligence”** <br> 6 **Shimmering Nectar** |
+| **5 → 6** | 37,500 Mora <br> 9 **Guide to “Diligence”** <br> 9 **Shimmering Nectar** |
+| **6 → 7** | 120,000 Mora <br> 4 **Philosophies of “Diligence”** <br> 4 **Energy Nectar** <br> 1 **Shard of a Foul Legacy** |
+| **7 → 8** | 260,000 Mora <br> 6 **Philosophies of “Diligence”** <br> 6 **Energy Nectar** <br> 1 **Shard of a Foul Legacy** |
+| **8 → 9** | 450,000 Mora <br> 12 **Philosophies of “Diligence”** <br> 9 **Energy Nectar** <br> 2 **Shard of a Foul Legacy** |
+| **9 → 10** | 700,000 Mora <br> 16 **Philosophies of “Diligence”** <br> 12 **Energy Nectar** <br> 2 **Shard of a Foul Legacy** <br> 1 **Crown of Insight** |
+
+---
+
+## Recommended Builds
+
+### Main Role: Amplifying-Reaction DPS  
+*(Focusing on Vaporize or Melt, where applicable.)*
+
+#### Recommended Artifact Sets
+
+- **4-Piece Shimenawa’s Reminiscence** (often called “Shimenawa” or “SR”)  
+- **4-Piece Crimson Witch of Flames** (often called “Crimson Witch” or “CW”)  
+- **4-Piece Gilded Dreams**  
+- **4-Piece Marechaussee Hunter**  
+- Transitional/Mixed:  
+  - **4-Piece Lavawalker** or **4-Piece Wanderer’s Troupe** (*rarely used for Hu Tao but can be transitional*)  
+  - **4-Piece Retracing Bolide**  
+  - **4-Piece Desert Pavilion Chronicle** (or 2+2 combos with +Pyro DMG / +HP / +EM)  
+  - Starter sets: **4-Piece Berserker** or **4-Piece Brave Heart**, etc.
+
+**Set Comparisons & Notes**  
+1. **Crimson Witch of Flames (4-piece)** and **Shimenawa’s Reminiscence (4-piece)** are Hu Tao’s traditional “best-in-slot” sets.  
+   - **Shimenawa’s Reminiscence (SR)** can yield very high Charged Attack and Normal Attack damage, at the cost of **15 Energy** each time she uses her Skill. It does **not** buff her Burst or Blood Blossom, and typically forces you to skip your Burst if you want the 4-piece effect. As a result, many players run Hu Tao alongside a strong shield character to stay safe without frequent self-healing from her Burst.  
+   - **Crimson Witch of Flames (CW)** is particularly strong for Vaporize. Though you typically only get 1 stack of the 4-piece effect in normal rotation (22.5% extra Pyro DMG at 1 stack vs. a possible 2+ stacks for other Pyro characters), the set’s synergy with reaction-based DMG is still excellent. It also allows you to keep using her Elemental Burst for healing or finishing off enemies without sacrificing the set’s main benefits.  
+2. **Gilded Dreams (4-piece)**: provides large amounts of Elemental Mastery, especially if Hu Tao is in a multi-element party with frequent Vaporize. This can be strong if you do not also have a high-EM weapon like **Dragon’s Bane** or if you’re specifically using **Redhorn Stonethresher–style** or other “EM-scaling synergy” (in reality, for polearms, the biggest synergy is **Staff of the Scarlet Sands** or a build that’s heavily reaction-based). The main drawback is that Gilded Dreams has a buff that cannot be refreshed mid-duration—some of Hu Tao’s hits might not get the buff if your rotation is interrupted.  
+3. **Marechaussee Hunter (MH)**: the 2-piece bonus increases Normal/Charged Attack DMG, and the 4-piece triggers a CRIT Rate buff whenever your HP increases or decreases, which perfectly aligns with Hu Tao’s HP-draining Skill and (optional) self-heals. However, to keep the 4-piece effect active, you generally need consistent HP fluctuations. Teams that include other healing can break her <50% HP management, so it’s more niche. Still, in a best-case scenario—especially if you have a C2+ Yelan or another method to fluctuate HP often—this set can match or exceed the top sets. The downside is strict timing and synergy requirements.  
+4. **Retracing Bolide (4-piece)**: if you run Hu Tao with Zhongli or another strong shielder, you can get decent Normal/Charged Attack DMG bonus. However, its damage potential is generally lower than Shimenawa/Crimson Witch in typical scenarios.  
+5. **Desert Pavilion Chronicle (4-piece)** or **Echoes of an Offering (4-piece)** might offer some Normal Attack/Charged Attack buffs, but usually have issues with partial synergy or partial downtime.  
+6. For beginners or transitional phases, **2+2 combos** (like 2p Crimson Witch + 2p Tenacity, 2p Wanderer’s Troupe + 2p Crimson Witch, etc.) can work until you get better 4-piece sets.  
+7. If you are below Adventure Rank 45, **4-Piece Berserker** or **4-Piece Martial Artist** can be simple, effective early sets for Hu Tao.  
+
+**Choosing Between Shimenawa and Crimson Witch**  
+- **Shimenawa’s Reminiscence** tends to outperform if you can consistently land many Charged Attacks during Paramita Papilio (e.g. the “AZ” or “AAZ” combos) and don’t rely too heavily on your Burst for healing or finishing.  
+- **Crimson Witch of Flames** might be better if you still want to use **Spirit Soother** (her Burst) regularly, if you prefer a less strict rotation, or if you don’t have strong shielding to keep Hu Tao safe at low HP.  
+- **Marechaussee Hunter** can outdo them in specific synergies (like certain party comps that let your HP fluctuate frequently).  
+- **Gilded Dreams** is a viable option if you are heavily stacking EM or using **Staff of the Scarlet Sands**.  
+
+#### Main Stats
+
+- **Sands:** Elemental Mastery or HP%  
+- **Goblet:** Pyro DMG Bonus  
+- **Circlet:** CRIT Rate or CRIT DMG  
+
+#### Substats
+
+- **CRIT Rate / CRIT DMG > Elemental Mastery (aim for ~200+) > HP% (aim for ~25,000–30,000 HP in standard comps) > ATK% > flat HP/flat ATK/ER**  
+
+**Reasoning:**  
+- Hu Tao’s **Attack** largely comes from her Skill scaling off **Max HP**. Therefore, **HP%** substats are generally more valuable than raw ATK% for her.  
+- Since Hu Tao primarily triggers **Vaporize** or **Melt**, **Elemental Mastery** is extremely beneficial.  
+- The interplay between HP% vs. EM on the Sands depends on your weapon, artifact set, and how much EM you get from teammates or buffs (e.g., Kazuha’s C2, Sucrose’s passive, etc.).  
+- Keep your CRIT ratio around 1:2 (CRIT Rate : CRIT DMG) as best you can, while still prioritizing EM and HP as needed.
+
+#### Talent Priority
+
+- **Normal Attack > Elemental Skill** (generally)  
+- **Elemental Burst** is optional to level, depending on your build.  
+  - If using **Shimenawa’s Reminiscence** or if you often skip the Burst to conserve Energy, you can leave the Burst at a lower priority.  
+  - Otherwise, **Normal Attack > Elemental Skill > Elemental Burst** is standard.
+
+**Explanation:**  
+- Hu Tao’s **Charged Attacks** are part of her Normal Attack talent scaling, so leveling **Normal Attack** is crucial.  
+- Her Skill, **Guide to Afterlife**, boosts her overall damage and applies Blood Blossom. You generally want it leveled second, but it’s less important than the Normal Attack multipliers.  
+- Her Burst, **Spirit Soother**, is often used more for healing or a quick finishing blow. If you rely on it often, you can level it; if you skip it (like with Shimenawa’s set or a hyper-shield comp), it’s lower priority.
+
+---
+
+### Recommended Weapons
+
+#### Best Option (5★)
+
+- **Staff of Homa**  
+  - Highest synergy for Hu Tao. Provides a huge CRIT DMG substat (66.2% at Lv. 90), high base ATK, and a passive that boosts HP and grants extra ATK scaling when low on HP. Perfectly matches Hu Tao’s kit.
+
+---
+
+#### Other Notable Weapons
+
+- **Staff of the Scarlet Sands (5★)**  
+  - Offers a substantial CRIT Rate substat, complementing Hu Tao’s own CRIT DMG ascension. Its passive converts EM into ATK, which is very strong if you’re building Hu Tao with EM for Vaporize. At high refinements and enough EM, this can rival Staff of Homa.  
+  - Pairs well with **Gilded Dreams** or an EM Sands build.
+
+- **“Lithic Spear” / “Favonius Lance” / “Vortex Vanquisher”** are mentioned in various contexts in the Chinese text, but they are less common for Hu Tao’s main builds. Some function as transitional picks or niche synergy in full Liyue teams (e.g., Lithic Spear).  
+
+- **Deathmatch (4★)** and **Dragon’s Bane (4★)** are classic 4★ picks:
+  - **Deathmatch** provides high CRIT Rate, making it easy to balance CRIT stats. Its passive is an ATK% buff that isn’t top-tier for Hu Tao but still offers a decent damage boost.  
+  - **Dragon’s Bane** offers Elemental Mastery substat and a strong DMG Bonus vs. enemies affected by Hydro or Pyro. It’s especially good for Vaporize. (Often referred to in CN as “匣里灭辰.”)
+
+- **Wavebreaker’s Fin / “The Catch” / Kitain Cross Spear, etc.** are less typical for Hu Tao but can be transitional or used in certain specific scenarios.
+
+- **Black Tassel (3★)** and **White Tassel (3★)** are generally **not** recommended for Hu Tao’s main DPS play, despite having interesting substats. “Black Tassel” gives HP% but extremely low base ATK, leading to suboptimal synergy.
+
+- **Prototype Starglitter** is also not recommended; its Energy Recharge substat is mostly wasted on Hu Tao, and the partial Charged Attack bonus is overshadowed by better 4★ alternatives.
+
+*(The Chinese text includes a detailed breakdown of how certain weapons compare based on refinements, base ATK, synergy with HP/EM, etc. The above summary condenses those findings into simpler recommendations.)*
+
+---
+
+## Team Recommendations
+
+Hu Tao typically excels in teams that enable **Vaporize** or **Melt**, with consistent off-field Hydro or Cryo application. She also benefits greatly from strong shields because she likes staying in the <50% HP range for extra buffs.
+
+### Common Teammates
+
+- **Zhongli**:  
+  - Provides the game’s strongest shield with high uptime, plus a universal RES shred (-20% All RES to enemies near his shield). Perfectly suits Hu Tao’s close-range style and keeps her safe at low HP.  
+- **Xingqiu**:  
+  - The classic Vaporize partner, thanks to his **Rain Swords**. Grants minor heals, DMG reduction, and stable off-field Hydro to trigger Vaporize on nearly every Charged Attack.  
+- **Yelan**:  
+  - Similar to Xingqiu but with less defensive utility; in exchange, she provides a powerful DMG% buff and additional Hydro application. From C2 onward, she can solo-apply Hydro enough for Hu Tao’s Vaporize.  
+- **Bennett**:  
+  - Great buffer (ATK boost from his Burst). But his healing can push Hu Tao above 50% HP, which cancels her self-buff. Still, this synergy is used in certain “maximize DPS” builds (e.g. “Hu Tao + Bennett + Kazuha + Yelan”).  
+- **Kazuha** / **Sucrose**:  
+  - Both are Anemo supports who can swirl Pyro or Hydro to reduce enemy RES with **Viridescent Venerer**. They also offer EM buffs for Hu Tao. Typically, you’ll want a second Pyro or Hydro unit to maintain consistent aura for swirling.  
+- **Mona**:  
+  - Another Hydro partner with a powerful Omen debuff to amplify DMG. Usually requires a second Hydro for stable application if you want consistent Vaporize.  
+- **Thoma**:  
+  - Provides a shield and Pyro resonance if you run double Pyro. The shield can be decent once layered. However, Thoma’s frequent Pyro application can sometimes conflict with Hu Tao’s Vaporize triggers if not carefully managed.  
+- **Layla** / **Diona**:  
+  - Provide shields, but they are Cryo. If they apply too much Cryo, you might see Freeze or unintended Melt triggers. Usually less optimal than Zhongli but can be used in certain budget or Freeze-Melt combos.  
+- **“Double Hydro + Hu Tao + Shield/Buffer”** is one of her most common high-damage lineups (e.g., **Hu Tao + Xingqiu + Yelan + Zhongli**).  
+- **“Hu Tao + Xingqiu + Sucrose/Kazuha + Xiangling/Thoma/another buffer”** can also work well, trading some defense for more group damage.
+
+---
+
+### Example Core Teams
+
+1. **Hu Tao + Xingqiu + Zhongli + [Flex]**  
+   - Often called **“Hu Xing Zhong + 1”** or **“Hu Tao National”** variant.  
+   - Xingqiu covers off-field Hydro and minor healing/DMG reduction.  
+   - Zhongli’s shield ensures Hu Tao can stay safely at low HP.  
+   - The fourth slot can be Yelan (Double Hydro synergy), an Anemo support for extra swirl damage, or even Mona for short Omen bursts, etc.  
+   - This is a very stable, beginner-friendly approach with high single-target focus.
+
+2. **Hu Tao + Kazuha + Yelan + Bennett** *(“Hu Tao Hypercarry” style)*  
+   - Prioritizes maximum damage. Sacrifices some comfort from shielding to gain:  
+     - Bennett’s huge ATK buff  
+     - Kazuha’s swirl-based RES shred and elemental DMG buffs  
+     - Yelan’s off-field Hydro plus a DMG% buff  
+   - Often referred to as **“Hu Tao + Ye (Yelan) + Kazuha + Ben(nett) = Hu-Ye-Ka-Ben.”**  
+   - The downside is that Bennett’s healing can push Hu Tao above 50% HP, removing part of her own buff. However, the party buffs can outweigh that loss in certain rotations.  
+
+3. **Hu Tao + Yelan + [Double Hydro / Another Support] + Faruzan** *(not typical, just an example of mixing)*
+   - Or **“Hu Tao + Mona + Kazuha + Zhongli”** for bigger Omen bursts.  
+   - Many variants exist. The main idea: stable Hydro application, plus buffs or shields.  
+
+4. **“Hu Tao + Furina + Double Hydro variant”** (post-Fontaine)  
+   - With **Furina** (a new Hydro buffer in CN text “芙宁娜”), Hu Tao can potentially gain increased DMG from the “fanfare” or “motivation” stacks that scale with team HP changes. This synergy can be complex—Hu Tao’s repeated HP drain can help Furina accumulate “enthusiasm” for bigger team buffs.  
+   - In practice, this can lead to over-healing or inconsistent low-HP range for Hu Tao. Players often adapt rotations so Hu Tao still dips below 50% without losing too many stacks for Furina. Or they simply accept that Hu Tao might stay near half HP and rely on Furina’s large teamwide buff.  
+
+*(The original Chinese text goes in-depth on multi-rotation synergy, how to manage healing, different sub dps/shield combos, etc. The summary above captures the key ideas.)*
+
+---
+

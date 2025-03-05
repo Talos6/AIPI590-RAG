@@ -1,0 +1,145 @@
+**New Document: Xiangling**
+
+---
+
+### Basic Information
+
+- **Title:** The Many Flavors of Wanmin *(万民百味)*  
+- **Full Name/Real Name:** Mao Xiangling (卯香菱)  
+- **Nation:** Liyue  
+- **Country of Origin:** *(not specified)*  
+- **Race:** Human  
+- **Gender:** Female  
+- **Rarity:** 4★  
+- **Availability:** Permanent  
+- **Vision (Element):** Pyro  
+- **Weapon Type:** Polearm  
+- **Primordial Power:** *(not specified)*  
+- **Constellation:** Trulla *(literally “Long Ladle” constellation, 长杓座)*  
+- **Special Dish:** Wanmin Restaurant Boiled Fish *(万民堂水煮鱼)*  
+- **Release Date:** September 15, 2020 (Version 1.0)  
+- **Tags:** Attack Boost, Resistance Reduction, Damage Increase, Cooking, Skill Duration Extension  
+- **Introduction:** A renowned young chef from Liyue who is passionately devoted to the culinary arts. Her specialty is spicy dishes, widely praised as one-of-a-kind.
+
+---
+
+### Constellations
+
+| **Name**                 | **Effect**                                                                                                                                                                                                             |
+|--------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **C1: Crispy Outside, Tender Inside** (外酥里嫩)    | Enemies hit by Guoba’s attacks have their Pyro RES decreased by 15% for 6s.                                                                                                                                 |
+| **C2: Oil Meets Fire** (大火宽油)               | The final hit of her Normal Attack applies an Internal Explosion status for 2s. After this duration, it explodes, dealing AoE Pyro DMG equal to 75% of Xiangling’s ATK.                                       |
+| **C3: Deepfry** (武火急烹)                | Increases the Level of Pyronado (旋火轮) by 3. Maximum upgrade level is 15.                                                                                                                                 |
+| **C4: Slowbake** (文火慢煨)                | Increases the duration of Pyronado by 40%.                                                                                                                                                                 |
+| **C5: Guoba Mad** (锅巴凶猛)               | Increases the Level of Guoba Attack (锅巴出击) by 3. Maximum upgrade level is 15.                                                                                                                          |
+| **C6: Condensed Pyronado** (大龙卷旋火轮)   | During Pyronado’s duration, all party members gain a 15% Pyro DMG Bonus.                                                                                                                                    |
+
+---
+
+### Ascension/Level-Up Materials
+
+| **Level** | **Required Materials**                                                                                  |
+|-----------|---------------------------------------------------------------------------------------------------------|
+| 1 → 2     | 12,500 Mora<br>3 **Teachings of “Diligence”**<br>6 **Slime Condensate**                                 |
+| 2 → 3     | 17,500 Mora<br>2 **Guide to “Diligence”**<br>3 **Slime Secretions**                                     |
+| 3 → 4     | 25,000 Mora<br>4 **Guide to “Diligence”**<br>4 **Slime Secretions**                                     |
+| 4 → 5     | 30,000 Mora<br>6 **Guide to “Diligence”**<br>6 **Slime Secretions**                                     |
+| 5 → 6     | 37,500 Mora<br>9 **Guide to “Diligence”**<br>9 **Slime Secretions**                                     |
+| 6 → 7     | 120,000 Mora<br>4 **Philosophies of “Diligence”**<br>4 **Slime Concentrate**<br>1 **Dvalin’s Claw**     |
+| 7 → 8     | 260,000 Mora<br>6 **Philosophies of “Diligence”**<br>6 **Slime Concentrate**<br>1 **Dvalin’s Claw**     |
+| 8 → 9     | 450,000 Mora<br>12 **Philosophies of “Diligence”**<br>9 **Slime Concentrate**<br>2 **Dvalin’s Claw**    |
+| 9 → 10    | 700,000 Mora<br>16 **Philosophies of “Diligence”**<br>12 **Slime Concentrate**<br>2 **Dvalin’s Claw**<br>1 **Crown of Insight** |
+
+---
+
+### Character Calculator (Xiangling)
+
+*(This section originally contained code for computing damage, reaction multipliers, etc. It can be omitted or summarized in an English explanation if needed. The essential idea is a set of formulas for calculating Xiangling’s damage outputs for her Elemental Skill and Burst, factoring in Attack, CRIT, monster resistance, and reaction multipliers.)*
+
+---
+
+### Recommended Builds
+
+#### 1. Off-Field Vaporize
+
+**Artifact Sets**  
+- **Best:** 4-Piece Emblem of Severed Fate (+ any off-piece)  
+- **Alternative:** 4-Piece Crimson Witch of Flames, 4-Piece Gilded Dreams, or a 2+2 combination (e.g., 2-Piece Crimson Witch + 2-Piece Noblesse Oblige, or 2-Piece Wanderer’s Troupe + any off-piece)
+
+**Reasoning**  
+- This setup focuses on Vaporize (or other amplifying reactions). Xiangling’s Burst, **Pyronado**, snapshots her stats, can be used off-field, applies Pyro independently, moves with the active character, and has a large hit area.  
+- Emblem of Severed Fate (2-piece gives +20% Energy Recharge; 4-piece converts Energy Recharge into Elemental Burst DMG) synergizes perfectly with Xiangling’s high Burst cost and her role as an off-field Pyro applicator.  
+- Even though you benefit from stacking Energy Recharge for the 4-piece Emblem set, once you have enough to sustain your rotation, additional ER is less valuable than Crit Rate, Crit DMG, or Elemental Mastery.  
+- Crimson Witch of Flames, Gilded Dreams, and other combos cannot generally surpass Emblem of Severed Fate in both damage and ease of use. Gilded Dreams 4-piece also requires ensuring the target is already affected by Hydro before Xiangling’s Pyronado hits, to trigger the set bonus right before snapshot.
+
+**Main Stats**  
+- **Sands:** Energy Recharge or Elemental Mastery  
+- **Goblet:** Pyro DMG Bonus or Elemental Mastery  
+- **Circlet:** Crit Rate or Crit DMG  
+
+**Substats**  
+Priority: Crit Rate, Crit DMG > Energy Recharge > Elemental Mastery > ATK%  
+
+**Why These Stats?**  
+- Xiangling is a rare case with five valuable substats: ATK, Crit Rate, Crit DMG, Elemental Mastery (for Vaporize), and Energy Recharge.  
+- For example, in Raiden National Team, Xiangling’s personal ER requirements are relatively low thanks to Raiden Shogun’s support, so she can opt for an Elemental Mastery Sands to boost Vaporize damage (assuming she’s also getting Bennett’s ATK buff).  
+- In teams like Childe International or Ayato Vaporize, Xiangling typically needs to keep running high ER (usually with a weapon that provides ER), so an ER Sands is recommended. Elemental Mastery is still better than ATK% as a substat in many Vaporize scenarios.  
+- Weapons like Staff of the Scarlet Sands or Wavebreaker’s Fin may have enough damage bonuses or synergy to consider mixing in more Elemental Mastery or Energy Recharge, so sometimes an EM Goblet may outperform a Pyro DMG Goblet, depending on your total stats.
+
+**Talent Priority**  
+- **Elemental Burst** > **Elemental Skill** (not necessary to level Normal Attack)  
+- Most of Xiangling’s damage comes from Pyronado, but Guoba Attack also snapshots buffs (like Bennett’s), and can Vaporize multiple times, so leveling the Skill is still worthwhile if resources allow.
+
+**Recommended 5★/4★ Weapons (Vaporize Focus)**  
+- **Best 5★**: Engulfing Lightning  
+- **Best 4★**: “The Catch”  
+- **Other Options**: Staff of the Scarlet Sands, Moonpiercer (in certain Dendro-based teams), Wavebreaker’s Fin, Favonius Lance, Kitain Cross Spear, etc.
+
+*(Followed by a detailed explanation of each weapon’s pros and cons, synergy with Xiangling’s Energy needs, and interactions with Bennett’s buff or reaction damage. Examples: Engulfing Lightning helps with ER and converts it to ATK; “The Catch” is F2P-friendly, providing ER and Burst DMG bonus; Staff of the Scarlet Sands scales with EM for Vaporize, etc.)*
+
+---
+
+#### 2. Off-Field Direct Pyro Damage (Non-Amplifying)
+
+**Artifact Sets**  
+- **Best:** 4-Piece Emblem of Severed Fate (+ any off-piece)  
+- **Transitional:** 2-Piece Crimson Witch of Flames + 2-Piece Noblesse Oblige, or 2-Piece Emblem + mixed pieces  
+- **For Melt Support on a Cryo DPS team:** 4-Piece Noblesse Oblige for the team buff
+
+**Reasoning**  
+- This setup is for Xiangling not focusing on Vaporize or other amplifying reactions, but rather pure Pyro damage. Since her Burst costs 80 Energy, she thrives on Emblem of Severed Fate, which boosts Burst DMG based on ER.  
+- If you haven’t fully farmed a good 4-piece Emblem set, you can use combinations of Crimson Witch, Noblesse, etc.  
+- In certain Melt teams featuring a Cryo main DPS (e.g., Ganyu), Xiangling’s Pyro application can help with Melt while also equipping a 4-piece Noblesse Oblige, if your Bennett is running 4-piece Instructor instead.
+
+**Main Stats**  
+- **Sands:** Energy Recharge or ATK%  
+- **Goblet:** Pyro DMG Bonus  
+- **Circlet:** Crit Rate or Crit DMG  
+
+**Substats**  
+Priority: Crit Rate, Crit DMG > Energy Recharge > ATK% > Flat ATK  
+
+**Why These Stats?**  
+- When Xiangling doesn’t need Elemental Mastery (since no amplifying reaction), it’s all about balancing ER (to reliably cast her Burst), Crit, and ATK.  
+- In certain compositions (like triple-Pyro teams or ones with external battery support), Xiangling’s ER requirements might be lower, allowing an ATK% Sands.  
+- In other teams (like a Melt support role, or in lineups where she gets minimal Pyro particles), she’ll need an ER Sands.
+
+**Talent Priority**  
+- **Elemental Burst** > **Elemental Skill** (not necessary to level Normal Attack)  
+- Similar reasoning: most of Xiangling’s damage is from her Burst, though Guoba’s snapshots also benefit from leveling the Skill.
+
+**Recommended 5★/4★ Weapons (Direct Pyro)**  
+- **Best 5★**: Engulfing Lightning  
+- **Best 4★**: “The Catch”  
+- **Others**: Staff of the Scarlet Sands (if you have enough ER), Wavebreaker’s Fin (in low-ER teams), Skyward Spine, Favonius Lance, etc.
+
+*(Explanations: Engulfing Lightning is an all-rounder, great for ER and damage. “The Catch” is easily accessible and improves Burst DMG and Crit. Scarlet Sands is still solid thanks to Crit Rate and synergy with Xiangling’s innate Elemental Mastery, though it’s best when she doesn’t need much ER. Wavebreaker’s Fin has strong Burst damage scaling if your total party energy costs are high but lacks Crit stats. Etc.)*
+
+---
+
+### Weapons Not Recommended
+
+- **Crescent Pike (流月针), Dragonspine Spear (龙脊长枪)**  
+  These weapons boost Physical DMG, which does not help Xiangling’s primarily Pyro-based DPS. A purely physical Xiangling would need a completely different build, and is generally far inferior to her Pyro-focused setups.  
+
+---

@@ -1,0 +1,140 @@
+**Navia - Translation of Character Information**
+
+---
+
+### **Title**  
+"Spina di Rosula's Helm"  
+
+### **Full Name / Real Name**  
+Navia Caspar  
+
+### **Nation**  
+Fontaine  
+
+### **Race**  
+Human  
+
+### **Gender**  
+Female  
+
+### **Rarity**  
+⭐⭐⭐⭐⭐ (5-Star)  
+
+### **Availability**  
+Limited UP  
+
+### **Vision (Element)**  
+Geo  
+
+### **Weapon Type**  
+Claymore  
+
+### **Original Force**  
+Arkhium - Ferrous  
+
+### **Constellation**  
+Rosa Multiflora  
+
+### **Special Dish**  
+"Take Your Pick!"  
+
+### **Release Date**  
+December 20, 2023 (Version 4.3)  
+
+### **Tags**  
+Resistance Reduction, Expedition, Cooldown Reduction, Special Elemental Infusion, Energy Regeneration, Self-Damage Boost, Self-CRIT Rate Increase  
+
+### **Description**  
+The current president of **Spina di Rosula**, a kind and responsible boss.  
+
+---
+
+## **Constellation**
+
+| Name | Effect |
+|------|--------|
+| **Rules of a Lady’s Distance** | When **Ceremonial Crystalshot** is cast, each "Crystal Shard" consumed restores **3 Energy** to Navia and reduces the cooldown of **As the Sunlit Sky’s Ceremonial Salute** by 1s. A maximum of **9 Energy** can be restored, and the cooldown can be reduced by up to 3s. |
+| **Commander’s Relentless Pursuit** | When **Ceremonial Crystalshot** is cast, each "Crystal Shard" consumed increases its CRIT Rate by **12%**, up to a maximum of **36%**. Additionally, when **Ceremonial Crystalshot** hits an enemy, it summons an extra **Support Bombardment** from **As the Sunlit Sky’s Ceremonial Salute** at the enemy’s location. This effect can trigger once per cast, and the bombardment counts as **Elemental Burst DMG**. |
+| **Entrepreneur’s Expansive Outlook** | Increases the level of **Ceremonial Crystalshot** by 3, up to a maximum level of 15. |
+| **Oathbound’s Unyielding Judgment** | When **As the Sunlit Sky’s Ceremonial Salute** hits an enemy, it reduces their **Geo RES by 20%** for 8 seconds. |
+| **Negotiator’s Firm Stance** | Increases the level of **As the Sunlit Sky’s Ceremonial Salute** by 3, up to a maximum level of 15. |
+| **Spina di Rosula’s Adaptability** | When **Ceremonial Crystalshot** is cast and consumes more than 3 "Crystal Shards," each additional shard increases the **CRIT DMG of the shot by 45%** and the excess shards are refunded after casting. |
+
+---
+
+## **Talent Level-Up Materials**
+
+| Level | Materials Required |
+|--------|------------------|
+| **1 → 2** | 12,500 Mora, 3 **Teachings of Equity**, 6 **Transoceanic Pearl** |
+| **2 → 3** | 17,500 Mora, 2 **Guide to Equity**, 3 **Transoceanic Chunk** |
+| **3 → 4** | 25,000 Mora, 4 **Guide to Equity**, 4 **Transoceanic Chunk** |
+| **4 → 5** | 30,000 Mora, 6 **Guide to Equity**, 6 **Transoceanic Chunk** |
+| **5 → 6** | 37,500 Mora, 9 **Guide to Equity**, 9 **Transoceanic Chunk** |
+| **6 → 7** | 120,000 Mora, 4 **Philosophies of Equity**, 4 **Fontemer Unihorn**, 1 **Lightless Silk String** |
+| **7 → 8** | 260,000 Mora, 6 **Philosophies of Equity**, 6 **Fontemer Unihorn**, 1 **Lightless Silk String** |
+| **8 → 9** | 450,000 Mora, 12 **Philosophies of Equity**, 9 **Fontemer Unihorn**, 2 **Lightless Silk String** |
+| **9 → 10** | 700,000 Mora, 16 **Philosophies of Equity**, 12 **Fontemer Unihorn**, 2 **Lightless Silk String**, 1 **Crown of Insight** |
+
+---
+
+## **Recommended Builds**
+
+### **Artifact Sets**
+
+#### **Best-in-Slot (BiS)**  
+- **4-Piece Song of Days Past**  
+
+#### **Alternative Options**  
+- **2-Piece Archaic Petra + 2-Piece Golden Troupe**
+- **4-Piece Archaic Petra**
+- **4-Piece Golden Troupe**
+
+**Recommended Stats**
+- **Sands:** ATK%  
+- **Goblet:** Geo DMG Bonus  
+- **Circlet:** CRIT Rate / CRIT DMG  
+- **Substats Priority:** CRIT Rate, CRIT DMG > ATK% > Energy Recharge  
+
+---
+
+### **Recommended Weapons**
+
+#### **Best 5★ Weapons**  
+- **Verdict** – Signature weapon, offers high base ATK, CRIT Rate, and enhances Elemental Skill DMG when picking up Crystallized Shards.
+- **The Unforged** – Boosts shield strength and ATK.
+- **Wolf’s Gravestone** – Increases ATK significantly.
+- **Beacon of the Reed Sea** – High CRIT Rate and ATK bonus.
+
+#### **Best 4★ Weapons**  
+- **Serpent Spine** – Increases CRIT Rate and overall DMG.
+- **Akuoumaru** – Boosts Elemental Burst DMG.
+- **Prototype Archaic** – Decent craftable option.
+- **Ultimate Overlord’s Mega Magic Sword** – Good attack stats, event weapon.
+
+---
+
+## **Team Compositions**
+
+### **Double Geo - Double Pyro Team**  
+- **Navia** (Main DPS)  
+- **Bennett** (ATK Buff & Healing)  
+- **Zhongli** (Shielding & RES Reduction)  
+- **Xiangling / Dehya** (Off-field Pyro DMG & Crystalization)  
+
+### **Triple Geo Team**  
+- **Navia** (Main DPS)  
+- **Albedo** (Off-field Geo DMG)  
+- **Gorou** (Geo DMG Boost & Shielding)  
+- **Zhongli** (Shielding & RES Reduction)  
+
+### **Melt Support Team**  
+- **Navia** (Sub-DPS)  
+- **Chevreuse** (Pyro Application)  
+- **Bennett** (Healing & ATK Buff)  
+- **Xiangling** (Off-field Pyro DMG)  
+
+---
+
+Navia is a powerful **Geo DPS** who scales with ATK rather than DEF, making her unique among Geo characters. Her **Crystallized Shards** are essential for maximizing her **Elemental Skill damage**, and she pairs well with **Geo resonance teams** or **Pyro characters for reaction-based damage**. With the right build and team, she can deal **high burst damage** while maintaining **consistent on-field presence**.
+

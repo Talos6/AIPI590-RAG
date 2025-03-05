@@ -1,0 +1,231 @@
+**Jean**  
+- **Title**: Dandelion Knight  
+- **Full Name**: Jean Gunnhildr  
+- **Nation**: Mondstadt  
+- **Race**: Human  
+- **Gender**: Female  
+- **Rarity**: ★★★★★ (5-Star)  
+- **Availability**: Standard (Permanent)  
+- **Vision**: Anemo  
+- **Weapon Type**: Sword  
+- **Constellation**: Leo Minor  
+- **Special Dish**: Invigorating Pizza  
+- **Release Date**: September 15, 2020 (Version 1.0)  
+- **Tags**: Healing, Crowd Control, Grouping, Resistance Shred, ATK SPD Increase, Movement SPD Increase, Damage Reduction, Elemental Application, Cooking, Energy Restoration  
+- **Introduction**: A righteous and rigorous Dandelion Knight, serving as the Acting Grand Master of the Knights of Favonius in Mondstadt.
+
+---
+
+## Constellations
+
+1. **Spiraling Tempest**  
+   **Effect**: Holding Jean’s Elemental Skill (Gale Blade) for more than 1 second increases its pulling speed and boosts DMG by 40%.
+
+2. **People’s Aegis**  
+   **Effect**: When Jean obtains an Elemental Orb or Particle, all party members gain a 15% increase in ATK SPD and Movement SPD for 15s.
+
+3. **When the West Wind Arises**  
+   **Effect**: Increases the Level of Dandelion Breeze (Elemental Burst) by 3. Maximum upgrade level is 15.
+
+4. **Lands of Dandelion**  
+   **Effect**: Within the Field created by Dandelion Breeze, all opponents’ Anemo RES is decreased by 40%.
+
+5. **Outbursting Gust**  
+   **Effect**: Increases the Level of Gale Blade (Elemental Skill) by 3. Maximum upgrade level is 15.
+
+6. **Lion’s Fang, Fair Protector of Mondstadt**  
+   **Effect**: During Dandelion Breeze’s Field, active characters take 35% less DMG. After leaving the Field, this effect lasts until the character is hit 3 times or until 10s pass.
+
+---
+
+## Talent Level-Up Materials
+
+| Talent Level | Required Materials                                                      |
+|--------------|-------------------------------------------------------------------------|
+| 1 → 2        | 12,500 Mora<br/>**Teachings of Resistance** ×3<br/>Damaged Mask ×6      |
+| 2 → 3        | 17,500 Mora<br/>**Guide to Resistance** ×2<br/>Stained Mask ×3          |
+| 3 → 4        | 25,000 Mora<br/>**Guide to Resistance** ×4<br/>Stained Mask ×4          |
+| 4 → 5        | 30,000 Mora<br/>**Guide to Resistance** ×6<br/>Stained Mask ×6          |
+| 5 → 6        | 37,500 Mora<br/>**Guide to Resistance** ×9<br/>Stained Mask ×9          |
+| 6 → 7        | 120,000 Mora<br/>**Philosophies of Resistance** ×4<br/>Ominous Mask ×4<br/>Dvalin’s Plume ×1 |
+| 7 → 8        | 260,000 Mora<br/>**Philosophies of Resistance** ×6<br/>Ominous Mask ×6<br/>Dvalin’s Plume ×1 |
+| 8 → 9        | 450,000 Mora<br/>**Philosophies of Resistance** ×12<br/>Ominous Mask ×9<br/>Dvalin’s Plume ×2 |
+| 9 → 10       | 700,000 Mora<br/>**Philosophies of Resistance** ×16<br/>Ominous Mask ×12<br/>Dvalin’s Plume ×2<br/>Crown of Insight ×1 |
+
+---
+
+## Recommended Builds
+
+Jean can fulfill various roles depending on your team’s needs—Anemo sub-DPS, pure healer/support, or even a physical DPS (sometimes humorously nicknamed “the Mondstadt Swordmaster” or “the Mondstadt Slasher”). Below are some common build suggestions:
+
+---
+
+### Anemo Sub-DPS Build
+
+**Artifact Sets**  
+- **General Mixed Sets**: 2-Piece **Viridescent Venerer** + 2-Piece **Desert Pavilion Chronicle** / 2-Piece **Gladiator’s Finale** / 2-Piece **Noblesse Oblige** / or any other 2-piece that provides +18% ATK  
+- **Resistance Shred**: 4-Piece **Viridescent Venerer** (plus any off-piece)
+
+**Why These Sets?**  
+Jean is a 5★ support from the Standard pool with solid healing and strong utility. She can equip the 4-piece Viridescent Venerer set to shred Anemo-infused elements’ resistance for her teammates, further improving their damage. Jean’s Elemental Burst provides continuous healing and can also self-apply Anemo (often referred to as “self-aura” or “self-infusion”), which cleanses negative elemental statuses from herself. Because her healing scales from ATK—and she gains Healing Bonus as her Ascension stat—Jean can still heal effectively even with an offensively focused build.  
+- **2+2 Artifact Combo**: For boosting Jean’s damage, 2-Piece Anemo DMG% (Viridescent or Desert Pavilion Chronicle) plus 2-Piece ATK% (e.g., Gladiator’s Finale) is a simple, effective combination.  
+- If your team does not already have a 4-Piece Viridescent Venerer Anemo character, giving that set to Jean can provide a powerful RES shred for your main damage dealer.  
+
+**Main Stats**  
+- **Sands**: ATK% > Energy Recharge  
+- **Goblet**: Anemo DMG% > ATK%  
+- **Circlet**: CRIT Rate / CRIT DMG  
+
+**Sub Stats Priority**  
+1. CRIT Rate / CRIT DMG  
+2. ATK%  
+3. Energy Recharge  
+
+**Reasoning**  
+- CRIT stats and ATK% both boost Jean’s personal damage, which also indirectly increases her healing.  
+- Jean’s Elemental Burst costs 80 Energy, so some Energy Recharge helps you use her Burst more frequently.  
+
+**Talent Priority**  
+- **Elemental Burst** > **Elemental Skill** (Normal Attack not essential for a sub-DPS/healer role)  
+
+**Recommended 5★ Weapons**  
+- **Primordial Jade Cutter**: High CRIT Rate sub-stat plus extra ATK based on HP. Jean’s naturally high base HP makes this very potent for both damage and healing.  
+- **Skyward Blade**: High base ATK plus Energy Recharge sub-stat, greatly easing Jean’s Burst uptime. Can still deal respectable damage with good artifact sub-stats.
+
+**Other Notable Weapons**  
+- **Amenoma Kageuchi** (4★)  
+- **Mistsplitter Reforged** (5★)  
+- **Aquila Favonia** (5★)  
+- **Summit Shaper** (5★)  
+- **Freedom-Sworn** (5★)
+
+**Why These?**  
+- **Amenoma Kageuchi**: 4★ weapon with an ATK% sub-stat and a passive that generates Energy after using Elemental Skill. Jean can easily stack its passive due to Gale Blade’s short cooldown. At high Refinement, it can rival 5★ weapons for overall team utility.  
+- **Mistsplitter Reforged**: Very high base ATK and CRIT DMG sub-stat, plus Elemental DMG bonus. Even though Jean can’t fully utilize the weapon’s Elemental DMG stacks (since it’s tuned for multiple elements), it still provides a strong CRIT DMG and base ATK boost for an Anemo-damage-focused Jean.  
+- **Aquila Favonia**: Shares the same highest base ATK tier as Mistsplitter. Its Physical DMG sub-stat isn’t ideal for Anemo builds, but the weapon’s passive grants a large ATK bonus, and the high base ATK also boosts Jean’s healing.  
+- **Summit Shaper**: Requires a shield and some time on-field to build up stacks, but offers very high ATK once stacked. Often less convenient for Jean as a sub-DPS, but still viable if you can sustain a shield.  
+- **Freedom-Sworn**: Primarily an EM-based support sword, but it grants a powerful team buff. Even on a sub-DPS Jean, the party buff can be helpful. It also thematically fits Jean’s “oath on the sword” vibe.
+
+---
+
+### Healer / Support Build
+
+**Artifact Sets**  
+- **Mixed 2+2**: (2) Gladiator’s Finale / (2) Maiden Beloved / (2) Ocean-Hued Clam / (2) Emblem of Severed Fate, in any two-piece combination + any off-piece  
+- **Full Sets**: 4-Piece **Viridescent Venerer** / 4-Piece **Noblesse Oblige** / 4-Piece **Maiden Beloved** (+ off-piece)
+
+**Why These Sets?**  
+- For players who want an easy-to-build healer with solid performance, a combination of simpler two-piece sets is often enough. Jean’s Burst already provides strong healing, so even more specialized sets can be overkill.  
+- **2+2 Mixed Sets**:  
+  - 2-Piece sets like Gladiator’s Finale (+18% ATK), Maiden Beloved (+15% Healing Bonus), Ocean-Hued Clam (+15% Healing Bonus), or Emblem of Severed Fate (+20% Energy Recharge) are all straightforward ways to bolster Jean’s healing or Burst uptime without heavy farming.  
+- **4-Piece Viridescent Venerer**: If your team doesn’t already have someone applying the 4-piece Viridescent shred, Jean can equip it to reduce enemy RES for your main DPS. She can still easily keep the team healthy thanks to her high Burst healing.  
+- **4-Piece Noblesse Oblige**: If the team doesn’t need Viridescent shred or is running Geo/Anemo/Physical DPS who won’t benefit from Anemo shred, 4-Piece Noblesse can buff your entire party’s ATK.  
+- **4-Piece Maiden Beloved**: Maximize healing output and also provide a small partywide Received Healing bonus.  
+
+**Main Stats**  
+- **Sands**: ATK% or Energy Recharge  
+- **Goblet**: ATK%  
+- **Circlet**: Healing Bonus  
+
+**Sub Stats Priority**  
+1. ATK%  
+2. Energy Recharge  
+3. Flat ATK  
+
+**Reasoning**  
+- Jean’s healing scales directly with her ATK. Healing Bonus on the Circlet further strengthens her Burst heals.  
+- If Burst uptime is lacking, you can prioritize more Energy Recharge on the Sands or sub-stats.  
+
+**Special Single-Piece Mention**:  
+- **Exile / Scholar / “Sacrificial” combo pieces, etc.**: Sometimes people mix in 1–2 pieces from sets like The Exile or Scholar in the early game, but it’s generally overshadowed by simpler 2+2 combos once better artifacts are available.  
+
+**Talent Priority**  
+- **Elemental Burst** only. (No need to level Normal Attack or Elemental Skill for a pure healer/support role.)
+
+**Recommended 5★ Weapons**  
+- **Skyward Blade**  
+- **Freedom-Sworn**
+
+**Why These?**  
+- **Skyward Blade**: Decent base ATK, high Energy Recharge sub-stat, and a passive that also boosts CRIT Rate, Movement SPD, and ATK SPD. Greatly relieves Jean’s energy needs so she can Burst more frequently.  
+- **Freedom-Sworn**: Although its sub-stat is Elemental Mastery, the weapon’s strong team-buffing effect suits a support Jean. It also thematically fits the “oath on the sword” concept for the Dandelion Knight.
+
+**Other Notable Weapons**  
+- **Amenoma Kageuchi** (4★)  
+- **Primordial Jade Cutter** (5★)  
+- **Aquila Favonia** (5★)  
+- **Summit Shaper** (5★)
+
+**Why These?**  
+- **Amenoma Kageuchi**: Often considered Jean’s 4★ “best in slot” for balancing both ATK and energy needs. Easy to stack due to Gale Blade’s short CD, and high Refinement alleviates almost all Burst concerns.  
+- **Primordial Jade Cutter**: Offers high CRIT Rate and an ATK bonus based on HP—Jean has a high base HP, so this is strong for healing. But typically if you have Jade Cutter, you might opt for a more damage-oriented build.  
+- **Aquila Favonia**: Physical DMG sub-stat doesn’t help healing directly, but the extremely high base ATK does, and the passive also boosts ATK. Downsides include heavier Energy Recharge requirements from artifacts.  
+- **Summit Shaper**: Provides a high ATK boost if you can keep a shield and maintain on-field presence. Less relevant for a purely off-field healer Jean, but still an option.
+
+**Additional 4★ Options**  
+- **Sacrificial Sword**, **Favonius Sword**, **Festering Desire**, **Sapwood Blade**, etc.  
+  - *Sacrificial Sword* & *Favonius Sword* have lower base ATK but great Energy Recharge sub-stats or passives, ensuring Jean’s Burst is always ready.  
+  - *Festering Desire* (if you have it from past events) also offers decent Energy Recharge and Skill DMG/CRIT for Gale Blade.  
+  - *Sapwood Blade* (craftable in Sumeru) provides ER and a team buff triggered by Dendro-related reactions, which Jean can activate via Anemo-infusion or swirl with elements such as Electro, Pyro, or Hydro on Dendro-affected enemies.
+
+---
+
+### Physical DPS Build (“Mondstadt Swordmaster”)
+
+**Artifact Sets**  
+- **Mixed 2+2**: 2-Piece **Pale Flame** / 2-Piece **Bloodstained Chivalry** / 2-Piece **Gladiator’s Finale** (any two sets for +25% Physical DMG or +18% ATK)  
+- **Full 4-Piece Sets**: **Pale Flame**, **Shimenawa’s Reminiscence**, or **Gladiator’s Finale**
+
+**Why These Sets?**  
+- As a physical on-field DPS, Jean’s primary damage comes from Normal Attacks, Charged Attacks, and her Elemental Skill “slash” (Gale Blade).  
+- 2+2 combos (e.g., Pale Flame + Bloodstained Chivalry) is the simplest way to stack +50% Physical DMG.  
+- **4-Piece Pale Flame**: If you can consistently hit with your Skill (CD is short), you can maintain the full 50% Physical DMG +18% ATK bonus.  
+- **4-Piece Shimenawa’s Reminiscence**: Also grants +50% Normal/Charged Attack DMG +18% ATK, but consumes 15 Energy each time it procs, which can hinder an 80-cost Burst like Jean’s.  
+- **4-Piece Gladiator’s Finale**: Only boosts Normal Attack DMG (not Charged Attack or Skill), so it’s often considered weaker than Pale Flame or Shimenawa, but it’s a viable fallback option or transitional set.
+
+**Main Stats**  
+- **Sands**: ATK%  
+- **Goblet**: Physical DMG% (or ATK% if you have a very good sub-stat roll)  
+- **Circlet**: CRIT Rate / CRIT DMG  
+
+**Sub Stats Priority**  
+1. CRIT Rate / CRIT DMG  
+2. ATK%  
+3. Energy Recharge  
+
+**Reasoning**  
+- Physical Jean relies on Normal/Charged attack CRIT, so CRIT stats are key. ATK% boosts both damage and healing.  
+- Some Energy Recharge is helpful if you want to use your Burst reliably for emergency heals.
+
+**Talent Priority**  
+Since this is a main on-field DPS style, you can prioritize:  
+- **Normal Attack** = **Elemental Skill** > **Elemental Burst**  
+  - (If you want her biggest “slash” effect from Gale Blade, leveling the Skill helps. Most people still emphasize Normal Attack first or equally.)
+
+**Recommended 5★ Weapons**  
+- **Aquila Favonia**  
+- **Primordial Jade Cutter**
+
+**Why These?**  
+- **Aquila Favonia**: Extremely high base ATK, a Physical DMG Bonus sub-stat, plus an ATK-boosting passive and a small heal effect. It’s Jean’s signature pick for a physical DPS approach, both lore-wise and from a performance standpoint.  
+- **Primordial Jade Cutter**: Offers a large amount of CRIT Rate and additional ATK based on HP, making it easier to build a strong CRIT ratio. Also increases Jean’s healing.
+
+**Other Notable Weapons**  
+- **Summit Shaper (5★)**, **Haran Geppaku Futsu (5★)**, **Skyward Blade (5★)**
+
+**Why These?**  
+- **Summit Shaper**: Grants a big ATK buff with shield upkeep, which is beneficial for a stand-in DPS role.  
+- **Haran Geppaku Futsu**: Gives a decent CRIT Rate sub-stat and a Normal Attack DMG bonus, though part of its passive is element-based. Still can help with Normal Attacks.  
+- **Skyward Blade**: Lower personal DPS potential due to the Energy Recharge sub-stat, but it’s good for smoothing out your Burst usage and includes a passive that boosts Attack Speed and Movement Speed (very comfy for physical DPS Jean).
+
+**4★ Weapon Options**  
+- **The Black Sword**: Possibly the best 4★ choice for a physical DPS build thanks to its CRIT Rate sub-stat and Normal/Charged Attack DMG bonus.  
+- **Amenoma Kageuchi**: High ATK% and helps with energy for your Burst.  
+- **Blackcliff Longsword**: Good base ATK and CRIT DMG sub-stat, plus a stacking ATK buff upon defeating enemies.  
+- **The Flute**: Has ATK% sub-stat. Its passive deals Physical DMG that benefits from physical bonuses. Solid transitional option.  
+- **Prototype Rancour**: Has Physical DMG sub-stat and a stacking ATK/DEF buff. Its lower sub-stat can be offset with good artifact rolls.  
+- **Toukabou Shigure / “Umbrella Sword”** / **Sapphire “Water Lily” Sword**, etc.: Various event or free weapons that provide ATK% or additional buffs.  
+- **Harbinger of Dawn (3★)**: Extremely high CRIT stats if you can maintain above 90% HP. Jean’s self-healing can help keep you healthy, making this a surprisingly strong budget option early on.
+
+---
+

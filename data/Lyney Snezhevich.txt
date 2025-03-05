@@ -1,0 +1,156 @@
+**Lyney (Genshin Impact Character Overview & Build Guide)**
+
+### **Title**
+Spectacle of Phantasmagoria
+
+### **Full Name**
+Lyney Snezhevich
+
+### **Nation**
+Fontaine
+
+### **Race**
+Human
+
+### **Gender**
+Male
+
+### **Rarity**
+5-Star
+
+### **Availability**
+Limited (Event Exclusive)
+
+### **Vision**
+Pyro
+
+### **Weapon Type**
+Bow
+
+### **Thelemic Force**
+Lucid
+
+### **Constellation**
+Felis Fuscus
+
+### **Special Dish**
+Magic Trick: Cube
+
+### **Release Date**
+August 16, 2023 (Version 4.0)
+
+### **Tags**
+Taunt, Exploration, Fast Movement, HP Consumption, Energy Regeneration, Self-Healing, Self-Damage Boost, Self-Critical Damage Boost
+
+### **Introduction**
+A renowned magician in Fontaine known for his eloquence and dazzling performances, Lyney captivates audiences with his superb sleight of hand and persuasive speech.
+
+---
+
+## **Constellations**
+
+| Name | Effect |
+|---|---|
+| **Tricks of the Light** | Up to 2 Grinning Cat Hats can exist simultaneously. Additionally, when Lyney's Charged Attack - Prop Arrow hits an enemy, it summons 2 Grinning Cat Hats and accumulates an extra stack of "Prop Surplus." This effect can occur once every 15 seconds. |
+| **Loquacious Lure** | While Lyney is on the field, he gains a "Focused Attention" effect every 2 seconds, increasing his CRIT DMG by 20%. This effect stacks up to 3 times and is removed when he leaves the field. |
+| **Nimble Fingers** | Increases the level of Normal Attack: Card Force Translocation by 3, up to a maximum level of 15. |
+| **Well-Rehearsed Mischief** | When Lyney’s Charged Attack hits an enemy affected by Pyro, their Pyro RES is reduced by 20% for 6 seconds. |
+| **Stagecraft Precision** | Increases the level of The Wondrous Trick: Miracle Parade by 3, up to a maximum level of 15. |
+| **A False Smile** | When Lyney fires a Prop Arrow, he also fires a Pyrotechnic Strike: Encore, dealing 80% of a Pyrotechnic Strike’s DMG as Charged Attack DMG. |
+
+---
+
+## **Talent Upgrade Materials**
+
+| Level | Required Materials |
+|---|---|
+| 1→2 | 12,500 Mora, 3 Teachings of "Equity," 6 Recruit’s Insignia |
+| 2→3 | 17,500 Mora, 2 Guide to "Equity," 3 Sergeant’s Insignia |
+| 3→4 | 25,000 Mora, 4 Guide to "Equity," 4 Sergeant’s Insignia |
+| 4→5 | 30,000 Mora, 6 Guide to "Equity," 6 Sergeant’s Insignia |
+| 5→6 | 37,500 Mora, 9 Guide to "Equity," 9 Sergeant’s Insignia |
+| 6→7 | 120,000 Mora, 4 Philosophies of "Equity," 4 Lieutenant’s Insignia, 1 Primordial Greenbloom |
+| 7→8 | 260,000 Mora, 6 Philosophies of "Equity," 6 Lieutenant’s Insignia, 1 Primordial Greenbloom |
+| 8→9 | 450,000 Mora, 12 Philosophies of "Equity," 9 Lieutenant’s Insignia, 2 Primordial Greenbloom |
+| 9→10 | 700,000 Mora, 16 Philosophies of "Equity," 12 Lieutenant’s Insignia, 2 Primordial Greenbloom, 1 Crown of Insight |
+
+---
+
+## **Recommended Builds**
+
+### **Pyro DPS Build**
+
+#### **Artifact Set Recommendations**
+- **4-Piece Marechaussee Hunter**
+- **4-Piece Shimenawa’s Reminiscence (transitional option)**
+- **4-Piece Crimson Witch of Flames (situationally viable)**
+- **2-Piece Crimson Witch + 2-Piece Shimenawa’s Reminiscence**
+
+#### **Recommended Main Stats**
+- **Sands:** ATK%
+- **Goblet:** Pyro DMG Bonus
+- **Circlet:** CRIT Rate / CRIT DMG
+
+#### **Recommended Substats**
+CRIT DMG > CRIT Rate > ATK% > Elemental Mastery > Energy Recharge
+
+#### **Talent Priority**
+Normal Attack > Elemental Skill = Elemental Burst
+
+#### **Best Weapons**
+- **5★ The First Great Magic**: Best-in-slot weapon, providing high CRIT DMG and synergy with Lyney's Pyro team compositions.
+- **5★ Aqua Simulacra**: Offers the highest CRIT DMG bonus, making it a great alternative.
+- **5★ Polar Star**: Provides CRIT Rate and overall DMG bonuses but requires stacking.
+- **4★ The Viridescent Hunt**: Offers CRIT Rate and slight crowd control.
+
+---
+
+### **Physical DPS Build** *(Not Recommended)*
+
+#### **Artifact Set Recommendations**
+- **4-Piece Pale Flame**
+- **4-Piece Bloodstained Chivalry**
+- **2-Piece Pale Flame + 2-Piece Bloodstained Chivalry**
+
+#### **Recommended Main Stats**
+- **Sands:** ATK%
+- **Goblet:** Physical DMG Bonus
+- **Circlet:** CRIT Rate / CRIT DMG
+
+#### **Recommended Substats**
+CRIT Rate > CRIT DMG > ATK% > Physical DMG > Elemental Mastery
+
+#### **Talent Priority**
+Normal Attack only (Elemental Skill and Burst are not useful for this build)
+
+#### **Best Weapons**
+- **5★ Thundering Pulse**: Provides high ATK% and CRIT DMG.
+- **4★ Rust**: Good for Normal Attack-based Physical DPS.
+- **4★ Prototype Crescent**: Good for targeting enemy weak points.
+
+---
+
+## **Best Team Compositions**
+
+### **Standard Pyro DPS Team** *(Best for Pure Pyro Lyney)*
+- **Lyney** (Main DPS)
+- **Bennett** (ATK buff, healing, and Pyro resonance)
+- **Kazuha / Venti** (Crowd control and Pyro DMG boost via Viridescent Venerer)
+- **Zhongli** (Shielding and resistance shred)
+
+### **Pyro Reaction Team** *(For Reverse Vaporize or Melt Compositions)*
+- **Lyney** (Main DPS)
+- **Xingqiu / Yelan** (Hydro application for Vaporize)
+- **Bennett** (ATK boost and healing)
+- **Kazuha / Sucrose** (Elemental mastery boost and crowd control)
+
+### **Physical DPS Team** *(Not Recommended but Possible)*
+- **Lyney** (Physical DPS)
+- **Rosaria** (Superconduct application and CRIT Rate boost)
+- **Bennett** (Healing and ATK boost)
+- **Mika** (Attack Speed and Physical DMG boost)
+
+---
+
+Lyney shines as a **Pyro DPS character**, leveraging **charged shots, crit scaling, and elemental buffs**. He pairs best with **Bennett, Kazuha, and Pyro resonance**, making him a **strong single-target specialist with flexible team compositions**.
+

@@ -1,0 +1,100 @@
+**Mona**
+
+---
+
+**Title:** Astral Reflection  
+**Full Name:** Astrologist Mona Megistus  
+**Nation:** Mondstadt  
+**Race:** Human  
+**Gender:** Female  
+**Rarity:** ⭐⭐⭐⭐⭐  
+**Availability:** Permanent  
+**Vision:** Hydro  
+**Weapon:** Catalyst  
+**Constellation:** Astrolabos  
+**Special Dish:** The Supreme Wisdom (Life)  
+**Release Date:** September 15, 2020 (Version 1.0)  
+**Tags:** Crowd Control, Taunt, Damage Boost, Crit Rate Boost, Alchemy Refund, High Mobility, Self-Damage Boost  
+**Introduction:** A mysterious astrologist who claims to be the "Great Astrologist Mona." She possesses exceptional strength befitting her title and is highly knowledgeable and prideful.  
+
+---
+
+### **Constellation**
+
+| Name | Effect |
+|---|---|
+| **Prophecy of Submersion** | Within 8 seconds after a party member lands an attack on an enemy affected by Omen, Hydro-related reactions are enhanced: Electro-Charged damage +15%, Vaporize damage +15%, Hydro Swirl damage +15%, and Frozen duration +15%. |
+| **Lunar Chain** | When a Normal Attack hits an enemy, there is a 20% chance to automatically trigger a Charged Attack. This effect can occur once every 5 seconds. |
+| **Restless Revolution** | Increases the level of Stellaris Phantasm by 3. Maximum upgrade level is 15. |
+| **Prophecy of Oblivion** | When party members attack enemies affected by Omen, their Crit Rate is increased by 15%. |
+| **Mockery of Fate** | Increases the level of Mirror Reflection of Doom by 3. Maximum upgrade level is 15. |
+| **Rhetoric of Calamity** | After entering Illusory Torrent, Mona’s next Charged Attack gains a 60% damage increase per second of movement, up to a maximum of 180% Charged Attack damage. This effect lasts for up to 8 seconds. |
+
+---
+
+### **Ascension Materials**
+
+| Level | Required Materials |
+|---|---|
+| 1→2 | 12,500 Mora, 3 Teachings of Resistance, 6 Whopperflower Nectar |
+| 2→3 | 17,500 Mora, 2 Guide to Resistance, 3 Shimmering Nectar |
+| 3→4 | 25,000 Mora, 4 Guide to Resistance, 4 Shimmering Nectar |
+| 4→5 | 30,000 Mora, 6 Guide to Resistance, 6 Shimmering Nectar |
+| 5→6 | 37,500 Mora, 9 Guide to Resistance, 9 Shimmering Nectar |
+| 6→7 | 120,000 Mora, 4 Philosophies of Resistance, 4 Energy Nectar, 1 Ring of Boreas |
+| 7→8 | 260,000 Mora, 6 Philosophies of Resistance, 6 Energy Nectar, 1 Ring of Boreas |
+| 8→9 | 450,000 Mora, 12 Philosophies of Resistance, 9 Energy Nectar, 2 Ring of Boreas |
+| 9→10 | 700,000 Mora, 16 Philosophies of Resistance, 12 Energy Nectar, 2 Ring of Boreas, 1 Crown of Insight |
+
+---
+
+### **Recommended Builds**
+
+#### **Primary Builds**
+- **Nuke Vaporize**
+- **Damage Support**
+- **Bloom**
+- **On-Field DPS**
+
+#### **Artifact Sets**
+- **Best Choice:** 4-piece Emblem of Severed Fate  
+- **Alternatives:** 4-piece Gilded Dreams, 2-piece Gilded Dreams + 2-piece Wanderer’s Troupe, 2-piece Gladiator’s Finale + 2-piece Heart of Depth, 2-piece Noblesse Oblige + 2-piece other sets  
+
+**Why these sets?**  
+Mona’s passive talent *"Come ‘n’ Get Me, Hag!"* converts her Energy Recharge into Hydro DMG Bonus, making her Elemental Burst her primary source of damage. The *Emblem of Severed Fate* set is highly versatile, ensuring her Energy Recharge while boosting her Elemental Burst damage. If the Emblem set has poor substats, or if the goal is maximizing single-instance damage rather than burst rotations, *Gilded Dreams* can be a strong alternative.
+
+#### **Main Stats Priority**
+- **Sands:** Energy Recharge  
+- **Goblet:** Hydro DMG Bonus / Elemental Mastery (when paired with Bennett) / ATK% (when not paired with Bennett)  
+- **Circlet:** Crit Rate / Crit DMG  
+
+#### **Substats Priority**
+Energy Recharge, Crit Rate, Crit DMG > Elemental Mastery (for reaction-based damage) > ATK%  
+
+**Reasoning:**  
+Mona’s passive converts Energy Recharge into Hydro DMG, making it valuable for both sustain and damage. Elemental Mastery is useful when paired with Pyro DPS units for Vaporize reactions. If running with Bennett, Elemental Mastery is prioritized over Hydro DMG. If not using Bennett, ATK% is prioritized.
+
+---
+
+### **Talent Upgrade Priority**
+Only upgrade **Elemental Burst**, as her main damage source comes from it. **Elemental Skill** and **Normal Attacks** are not essential for most builds.
+
+---
+
+### **Recommended Weapons**
+
+#### **Best Weapon Choices**
+- **4★ The Widsith** (Best F2P option, high Crit DMG, powerful effects on Burst activation)
+- **5★ Kagura’s Verity** (High Burst potential, increases Elemental Skill DMG)
+- **5★ Skyward Atlas** (High Base ATK, Elemental DMG Bonus)
+
+#### **Alternative Choices**
+- **5★ Lost Prayer to the Sacred Winds**
+- **5★ Everlasting Moonglow**
+- **4★ Solar Pearl**
+- **4★ Eye of Perception** (Decent for F2P builds)
+
+**Why these weapons?**  
+*Mona’s best-in-slot options focus on maximizing her Elemental Burst damage. The Widsith provides massive Crit DMG and a powerful buff on swap-in. Kagura’s Verity and Skyward Atlas offer high Base ATK and useful passives for consistent damage.*
+
+---

@@ -1,0 +1,7 @@
+openai
+streamlit
+numpy
+pandas
+nltk
+chromadb
+lxml

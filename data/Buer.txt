@@ -1,0 +1,323 @@
+Below is a fully translated “Nahida” character document in English. All terminology (names, skill effects, constellation names, etc.) has been referenced from official sources and community standards (such as paimon.moe) to remain as consistent as possible with in-game or officially recognized translations.
+
+---
+
+## Nahida
+
+**Title**  
+Physic of Purity
+
+**Full Name / Real Name**  
+Buer
+
+**Nation**  
+Sumeru
+
+**Home Country**  
+(Not explicitly stated)
+
+**Race**  
+Avatar of Grass and Plants (the purest branch of the World Tree)
+
+**Gender**  
+Female
+
+**Rarity**  
+5★
+
+**Availability**  
+Limited (Event Banner)
+
+**Archon (Vision)**  
+Dendro
+
+**Weapon Type**  
+Catalyst
+
+**Constellation**  
+Sapientia Oromasdis
+
+**Special Dish**  
+Halvamazd
+
+**Release Date**  
+November 2, 2022 (Version 3.2)
+
+**Tags**  
+DEF Reduction, Elemental Mastery Buff, Environmental Interaction, Self Damage Increase, Self CRIT Rate Increase, Skill Duration Extension, Specialized Reactions
+
+**Introduction**  
+A caged bird in the Sanctuary of Surasthana who can only gaze upon the outside world in her dreams.
+
+---
+
+## Character Details  
+*(Unlocked after completing Archon Quest Chapter III • Act V and replaces older story text.)*
+
+Long ago, the Dendro Archon cultivated Sumeru’s rainforests and graced its people with knowledge through the Akademiya. Tales of her wisdom and virtuous deeds proliferated throughout the land, giving the people reason to believe wholeheartedly in her providence.  
+
+For them, the Dendro Archon was more of a revered symbol than a tangible presence—yet the ardent respect from scholars and the unwavering faith of Sumeru’s populace never wavered. Meanwhile, the vast “Akasha” network served as “Lesser Lord Kusanali’s” eyes and ears. Through it, Nahida could witness everything—praise and dissent alike.  
+
+The wider her perspective grew, the more clearly she realized how much she still needed to learn, so that she might face threats arising from the world’s deepest unknowns. Avoiding this responsibility was impossible, and so she pressed on with determination. Even if the people seemed content, Nahida steadfastly believed in striving for more. She understood better than anyone: on this land, she would become everyone’s hope and reliance.
+
+---
+
+## Character Story 1  
+*(Unlocked after completing Archon Quest Chapter III • Act V and replaces older story text.)*
+
+The process of learning and growth delights Nahida, satisfying her boundless curiosity about Teyvat. She gradually grasped the laws of nature and the elements, studied the ecology of the skies and seas, and could even weave that knowledge into unexpected yet illuminating dreamscapes.  
+
+These dreamscapes are akin to her penchant for clever analogies—both allow one to see, at a glance, the hidden similarities between seemingly unrelated things. Yet even she encounters riddles that defy comprehension, almost always involving human society and the complexities of human behavior.  
+
+For instance: when telling the truth can avert punishment, some still remain silent or lie; or, when around those they love the most, a person might speak with cutting, hurtful words. It is as if every contradiction and conflict in the world converges upon mankind, their emotions shifting in ways Nahida struggles to predict.  
+
+Her analogies fail in these moments, for there’s nothing else in nature that compares to such a chaotic system. She can only surmise that every individual is utterly unique—hence their reactions to similar emotional stimuli can vary enormously.  
+
+But that alone doesn’t satisfy her. To comprehend humanity, cold facts and dogma are insufficient. Perhaps this is why “████” was so resolute in standing beside mortals, even at great personal cost. Each person, after all, is truly one of a kind in this world.
+
+---
+
+## Character Story 3  
+*(Unlocked after completing Archon Quest Chapter III • Act V and replaces older story text.)*
+
+Children are limited in experience and can be easily swayed by their emotions. However, that should never justify disrespect, mockery, or deceit at their expense. Though inevitable setbacks and sorrows can acquaint them with reality, they can also rob them of innocence and fervent dreams.  
+
+Those unlucky enough to experience this often hear a gentle voice in their dreams on an otherwise ordinary night. She patiently listens to them, offers illuminating analogies, even plays games with them, chatting about favorite treats or amusements… until dawn arrives.  
+
+Though this single night of companionship is brief, it affirms for the child that somewhere in this world, there truly is someone who understands them. Their hatred or defiance melts away, replaced by hope of a kinder turn in life. They regain confidence and joy.  
+
+No one knows whose voice it is; after all, the Dendro Archon is great and busy—could she really spare time to comfort a few troubled children?  
+
+Quietly, those children gather among themselves and debate this phenomenon. They list myriad possibilities and propose whimsical theories. In the end, most simply decide that only “Lesser Lord Kusanali” could do such a thing. Or, at the very least, that’s the explanation they want to believe.  
+
+Of course, no adults take it seriously. But it hardly matters, for “Lesser Lord Kusanali” is already their friend.
+
+---
+
+## Character Story 4  
+*(Unlocked after completing Archon Quest Chapter III • Act V and replaces older story text.)*
+
+At one point, the Sumeru City landscaping staff received a mysterious letter signed by a “Concerned (and rather idle) Ordinary Citizen of Sumeru.” The letter was brimming with detailed landscaping proposals fully accounting for weather, sunlight, utility, and aesthetics.  
+
+From its sheer expertise, it clearly originated from some renowned scholar of the Amurta or Spantamad schools who wished to remain anonymous. Though no one knew why they concealed their identity, the city staff simply followed these designs as though they were an official directive, reproducing all the details in Sumeru City. The project was widely praised.  
+
+Eventually, Nahida found time to stroll through the city streets. She was thrilled to see that the greenery was arranged exactly as she had imagined—it was she who penned that letter. For while knowledge is important, she felt that hands-on practice is just as vital.  
+
+Still, mindful of a deity’s lofty station, she feared it wouldn’t be right to interfere in trivial matters, so she decided to sign anonymously. Her first foray was a huge success: she practically floated with confidence.  
+
+But upon reaching the next corner, she noticed that a few flowers had changed hue entirely—and ended up grouped in bizarre clashing colors. On closer inspection, she realized her oversight: she had failed to consider that one variety might shift color over time, nor had she specified a precise planting environment.  
+
+This cluster had likely been in plain sight for weeks. Everyone must have seen her “atrocious design.”  
+
+—That day, many claimed they saw “Lesser Lord Kusanali” crouching beside a planter, face in her hands, cheeks aflame from embarrassment. Naturally, no one believed it.
+
+---
+
+## Nahida’s “Toy Box”  
+*(Unlocked after completing Archon Quest Chapter III • Act V and replaces older story text.)*
+
+Despite looking like a normal storage trunk for toys, it holds mainly experimental prototypes.  
+
+Nahida is fascinated by many popular games of the day. Their rules are simple yet balanced, providing both challenge and fun—be it puzzle-solving or competitive matches, they can be absorbing for hours. Such elegant designs showcase the “wisdom” of the creators. Additionally, deconstructing and reimagining them becomes a valuable learning experience in creativity.  
+
+Rather than purchasing these games at the market, she believed starting from scratch would yield a deeper understanding, so she gathered lumber and tools. With the Akasha’s data and her own imagination, she crafted all sorts of items: board games, puzzles, interlocking gadgets…  
+
+The sense of fulfillment from each finished toy was brief, however. She soon discovered another problem:  
+- If it’s a competitive game, she lacks a suitable opponent.  
+- If it’s puzzle-based, she already knows the solution since she invented it.  
+
+“If only someone could come along and play these with me…” she often thinks.  
+
+Until she finds that perfect companion, those homemade games will remain in her toy box.
+
+---
+
+## Constellations
+
+| **Constellation**                        | **Effect**                                                                                                                                                                                                                                                                                |
+|------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **1. The Seed of Stored Knowledge**      | When calculating the number of Pyro, Electro, and Hydro characters in the party for **Court of Dreams** (i.e., her Burst), count 1 additional character of each of those elements.                                                                                                                                               |
+| **2. The Root of All Fullness**          | Opponents marked by Nahida’s own **Seed of Skandha** (her Elemental Skill) will be affected by the following: <br>• **Burning**, **Bloom**, **Hyperbloom**, **Burgeon** reactions can CRIT, with a fixed 20% CRIT Rate and 100% CRIT DMG. <br>• After being affected by **Spread**, **Aggravate**, or **Quickened** for 8s, their DEF is decreased by 30%. |
+| **3. The Shoot of Conscious Attainment** | Increases the Level of **All Schemes to Know** (Elemental Skill) by 3. Maximum upgrade level is 15.                                                                                                                                                                                                                             |
+| **4. The Stem of Manifest Inference**    | For every 1/2/3/4 (or more) opponents marked by **All Schemes to Know** (Seed of Skandha), Nahida’s Base Elemental Mastery increases by 100/120/140/160.                                                                                                                                                                         |
+| **5. The Leaves of Enlightening Speech** | Increases the Level of **Illusory Heart** (Elemental Burst) by 3. Maximum upgrade level is 15.                                                                                                                                                                                                                                  |
+| **6. The Fruit of Reason’s Culmination** | After Nahida unleashes **Illusory Heart**, when her Normal or Charged Attacks hit an opponent marked by **Seed of Skandha**, she will unleash the Tri-Karma Purification: Karmic Oblivion on that opponent and all connected opponents, dealing Dendro DMG based on 200% of her ATK and 400% of her Elemental Mastery. This DMG is treated as Elemental Skill DMG and can be triggered once every 0.2s for up to 10s or up to 6 total triggers. The effect then ends. |
+
+---
+
+## Talent Level-Up Cost
+
+| Level  | Required Materials                                                                                                                  |
+|--------|-------------------------------------------------------------------------------------------------------------------------------------|
+| **1 → 2** | 12,500 Mora<br>3 **Teachings of Ingenuity**<br>6 **Fungal Spores**                                                                   |
+| **2 → 3** | 17,500 Mora<br>2 **Guide to Ingenuity**<br>3 **Luminescent Pollen**                                                                  |
+| **3 → 4** | 25,000 Mora<br>4 **Guide to Ingenuity**<br>4 **Luminescent Pollen**                                                                  |
+| **4 → 5** | 30,000 Mora<br>6 **Guide to Ingenuity**<br>6 **Luminescent Pollen**                                                                  |
+| **5 → 6** | 37,500 Mora<br>9 **Guide to Ingenuity**<br>9 **Luminescent Pollen**                                                                  |
+| **6 → 7** | 120,000 Mora<br>4 **Philosophies of Ingenuity**<br>4 **Crystalline Cyst Dust**<br>1 **Puppet Strings**                               |
+| **7 → 8** | 260,000 Mora<br>6 **Philosophies of Ingenuity**<br>6 **Crystalline Cyst Dust**<br>1 **Puppet Strings**                               |
+| **8 → 9** | 450,000 Mora<br>12 **Philosophies of Ingenuity**<br>9 **Crystalline Cyst Dust**<br>2 **Puppet Strings**                             |
+| **9 → 10**| 700,000 Mora<br>16 **Philosophies of Ingenuity**<br>12 **Crystalline Cyst Dust**<br>2 **Puppet Strings**<br>1 **Crown of Insight** |
+
+---
+
+## Recommended Builds
+
+Nahida functions both as a phenomenal Dendro support/sub-DPS and as a viable on-field Dendro DPS. Below are popular equipment recommendations, depending on her role.
+
+---
+
+### 1. Sub-DPS / Support Build
+
+**Recommended Artifact Sets**  
+- **4-Piece Gilded Dreams** or **4-Piece Deepwood Memories** (whichever suits your team needs)  
+- **4-Piece Golden Troupe** (niche option for high off-field Skill DMG, if someone else is using Deepwood)  
+- Transitional: **2-Piece Gilded Dreams** + **2-Piece Wanderer’s Troupe** or **2-Piece Flower of Paradise Lost** + any 2-Piece set with EM
+
+**Reasoning**  
+- Nahida provides considerable Dendro DMG and potent team buffs thanks to her passives **Compassion Illuminated** (A1 / “净善摄受明论”) and **Awakening Elucidated** (A4 / “慧明缘觉智论”). These passives scale strongly with Nahida’s own Elemental Mastery (ideally ~1000 EM).  
+- If your team already has a character wearing **Deepwood Memories** (“Dendro set,” which shreds Dendro RES), Nahida can safely use **Gilded Dreams** for higher personal DMG. If no one is using **Deepwood**, Nahida should equip it herself.  
+- **Golden Troupe** (4-piece) can boost off-field Skill DMG significantly if you’re leaning on her Tri-Karma Purification from her Elemental Skill in a purely off-field role. You would still need someone else to wear **Deepwood Memories** in that scenario.  
+- Typically, **Gilded Dreams** offers a larger personal DPS gain, while **Deepwood Memories** gives invaluable teamwide Dendro shred.  
+
+**Main Stats**  
+- **Sands**: Elemental Mastery  
+- **Goblet**: Dendro DMG% or Elemental Mastery  
+- **Circlet**: CRIT Rate / CRIT DMG / Elemental Mastery
+
+**Sub Stats**  
+- Elemental Mastery (until ~1000 total) > CRIT Rate/CRIT DMG > Energy Recharge > ATK% (or more EM if you still need it)
+
+**Explanation**  
+- Nahida’s Elemental Skill scales with both ATK and EM. Her passives further convert EM into personal DMG and CRIT Rate and also grant party members additional EM. Reaching around 1000 EM (after considering party buffs, weapon sub-stats, etc.) is optimal. Any surplus beyond that yields diminishing returns, so you can mix in CRIT or Dendro DMG to balance her stats.  
+- As an off-field enabler, her Burst only costs 50 Energy, so full Energy Recharge stacking is not usually necessary—just ensure enough ER to maintain consistent Burst uptime (which also enhances her buffs). In certain teams (e.g., 0 Constellation Nahida in pure Aggravate comps without extra Hydro extension, short rotations, etc.), a bit more ER helps maintain **Illusory Heart**.  
+- Example: In a Nilou Bloom team, Nahida can reach ~1000 EM by combining: her base EM (Ascension bonus), 2pc/4pc Gilded Dreams, main-stat EM on Sands, an EM weapon (e.g., Sacrificial Fragments at 221 EM), plus external buffs (e.g., Nilou’s talents, Dendro Resonance, etc.).
+
+**Talent Priority**  
+- **Elemental Skill** > **Elemental Burst**; Normal Attacks are usually skipped in a pure off-field support role.  
+
+**Reason**  
+- Her Skill “All Schemes to Know” (Seed of Skandha) is the core DMG source (Tri-Karma Purification) and applies Dendro to enemies. Level it first.  
+- Her Burst “Illusory Heart” buffs Tri-Karma Purification DMG and grants partywide EM. Level it second.  
+- Normal Attacks aren’t commonly used off-field, so no need to invest there.
+
+**Best 5★ Weapon**  
+- **A Thousand Floating Dreams**  
+
+**Reasoning**  
+- Nahida’s signature weapon. Provides a massive 265 EM at Lv.90, plus a passive that grants extra Dendro DMG Bonus to herself and additional EM to teammates. This fixed-value EM can be re-converted by her passives for more personal DMG.  
+
+**Other Recommended Weapons**  
+- **Wandering Evenstar** (4★)  
+- **Sacrificial Fragments** (4★)  
+- **Prototype Amber** (4★, situational healer role)  
+- **Fruit of Fulfillment** (4★)  
+
+**Explanations**  
+- **Wandering Evenstar**: Gives 165 EM at Lv.90 and buffs party ATK% with its passive. Ideal in teams with DPS units who scale from ATK.  
+- **Sacrificial Fragments**: Highest EM among 4★ catalysts (221 EM). Nahida’s Skill has a short cooldown, so the reset effect is not super valuable, but this weapon fast-tracks you to ~1000 EM. Refinement 1 is enough.  
+- **Fruit of Fulfillment**: Provides CRIT Rate plus a small EM gain that can remain active off-field. Has relatively low Base ATK (which matters little for Nahida) and some integrated synergy with EM. Not as strong overall as the above but workable for sub-DPS if you want a blend of CRIT and EM.  
+- **Prototype Amber**: If your team lacks other healers/shielders, this can provide healing from Nahida’s Burst. It sacrifices some EM for survival but can be critical in high-damage content.
+
+**Less Recommended / 3★ Options**  
+- **Magic Guide**: Up to 187 EM at Lv.70/90, plus a damage bonus against enemies afflicted by Hydro/Electro. It’s easy to obtain, but the passive can be inconsistent if the field is frequently overwritten by Dendro. Nonetheless, it’s a budget-friendly, serviceable pick.  
+- Other 3★ catalysts generally have less beneficial stats or are outclassed by Magic Guide.
+
+---
+
+### 2. On-Field DPS (Main DPS / Driver) Build
+
+**Recommended Artifact Sets**  
+- **4-Piece Gilded Dreams** or **4-Piece Deepwood Memories** (whichever your team needs)  
+- Transitional: 2-Piece combos (Gilded Dreams / Wanderer’s Troupe / Flower of Paradise Lost)  
+
+**Reasoning**  
+- As the on-field DPS, Nahida still benefits from stacking EM, but her Normal/Charged Attacks also matter. Her passives convert EM into personal Tri-Karma Purification DMG and CRIT Rate, but normal attacks do not benefit from her A4 “Awakening Elucidated.”  
+- Once Nahida’s personal EM climbs above ~800–1000, each additional point of EM yields diminishing returns. Thus, it can be more efficient to invest leftover stats into CRIT Rate, CRIT DMG, or Dendro DMG%—especially when she’s the main on-field attacker who triggers both normal hits and Tri-Karma Purification.  
+- As before, if another party member uses 4-piece Deepwood, Nahida can equip 4-piece Gilded Dreams for bigger personal damage. If no one else has Deepwood, she should wear it herself.
+
+**Main Stats**  
+- **Sands**: Elemental Mastery  
+- **Goblet**: Dendro DMG% or Elemental Mastery  
+- **Circlet**: CRIT Rate / CRIT DMG / Elemental Mastery
+
+**Sub Stats**  
+- EM (up to your desired threshold) > CRIT Rate / CRIT DMG > ATK% > (some) ER
+
+**Explanation**  
+- Because Nahida will also do Normal/Charged Attacks on-field, you might not need to force 1000+ EM. Her normal hits do not scale from her passives as strongly as Tri-Karma Purification, so you can balance CRIT, DMG%, and EM to avoid “overcapping” on EM. Aim for around 700–800 EM if you have external buffs.  
+- For Aggravate/Spread-based damage, EM, CRIT, and Dendro DMG are all good. Once you’ve covered ~800 EM, the next best stats are CRIT Rate/CRIT DMG or Dendro DMG%—whichever yields the highest damage per your artifact rolls.
+
+**Talent Priority**  
+- **Elemental Skill** > **Elemental Burst** > **Normal Attack**  
+
+**Reason**  
+- Her Skill remains the largest single source of damage. Level her Burst second since it buffs both her skill DMG and grants more EM. Her Normal Attack damage share is smaller, though not negligible if you enjoy her on-field combos.
+
+**Best 5★ Weapon** (On-Field)  
+- **Kagura’s Verity**  
+
+**Reasoning**  
+- Kagura’s Verity offers a CRIT DMG sub-stat and a potent elemental damage bonus passive that stacks quickly with Nahida’s short-cooldown Skill. Once at max stacks (3), the Tri-Karma Purification damage skyrockets.  
+
+**Other 5★ Options**  
+- **A Thousand Floating Dreams**  
+- **Lost Prayer to the Sacred Winds**  
+- **Skyward Atlas** (sometimes referred to as “Atlas,” actual name is “Skyward Atlas”)  
+
+**Explanations**  
+- **A Thousand Floating Dreams**: Her signature for sub-DPS or support, still excellent for main DPS if you stack more CRIT on artifacts. The high EM and party buffs are valuable, though Kagura’s Verity usually offers higher peak personal DPS.  
+- **Lost Prayer to the Sacred Winds**: Provides up to 33.1% CRIT Rate. The stackable elemental DMG bonus is moderate. Since Nahida has low ATK dependence, the difference from a typical 5★ might be less pronounced, but it’s still a solid choice.  
+- **Skyward Atlas**: Has a high Base ATK and an ATK% sub-stat, plus a moderate elemental DMG passive. Because Nahida doesn’t rely heavily on Base ATK, Atlas is more of a fallback if you own no other premium options.
+
+**Strong 4★ Options**  
+- **Solar Pearl** (Battle Pass)  
+- **Wandering Evenstar** (for team buffs)  
+- **The Widsith**  
+- **Sacrificial Fragments**  
+
+**Explanations**  
+- **Solar Pearl**: CRIT Rate sub-stat and a strong DMG bonus passive for Normal Attacks and Elemental Skill/Burst. At high Refinement, it can rival lower-refine 5★ catalysts.  
+- **Wandering Evenstar**: 165 EM plus a party ATK% buff. Great synergy if your teammates scale from ATK and you want to maintain decent on-field damage.  
+- **The Widsith**: Common 4★ from the standard pool. Its passive can randomly provide a massive buff to Elemental DMG, EM, or ATK for 10 seconds. At high Refinement, you can occasionally out-DPS even top 5★ catalysts. The downtime and RNG reduce its average output, but it remains a strong budget choice for a main DPS Nahida.  
+- **Sacrificial Fragments**: 221 EM is huge for Spread damage. The skill-reset effect is somewhat wasted, but it’s still an excellent way to reach your EM threshold quickly.
+
+**Less Recommended / 3★ Options**  
+- **Magic Guide** (same reasoning as above—usable but overshadowed).  
+- **Thrilling Tales of Dragon Slayers** is typically better on a support catalyst user.  
+
+---
+
+## Team Compositions
+
+**Examples**  
+1. **“Nahida Hyperbloom/Aggravate” (colloquially “Nahida National,” “Nahida Kuki,” or “Nahida + XQ + Kuki + flex”)**  
+   - Typically, Nahida (on-field or off-field), **Xingqiu** or **Yelan** (Hydro application), **Kuki Shinobu** (Electro for Hyperbloom triggers + healing), and a flexible 4th slot (Zhongli, Fischl, Beidou, Diona, Baizhu, etc.).  
+   - Nahida’s frequent Dendro application drives Bloom reactions with Hydro, producing Dendro Cores that Kuki Shinobu’s Electro triggers into Hyperbloom. Meanwhile, if any extra Electro is present (e.g., Fischl, Beidou), it can cause Aggravate.  
+   - If Nahida is the on-field “driver,” her Normal/Charged Attacks continuously apply Dendro. Xingqiu’s or Yelan’s bursts will produce Hydro attacks, forming Blooms, which Kuki’s ring will detonate.  
+   - The 4th slot might be a shield (Zhongli), an extra buffer (Bennett, Sucrose, etc.), or additional DPS (Fischl, Beidou, Yaoyao for healing, etc.).  
+
+2. **Nilou Bloom (“Bountiful Cores”)**  
+   - Typically involves **Nahida**, **Nilou**, plus another Hydro and another Dendro to maximize Nilou’s unique Bloom effect (Bountiful Cores).  
+   - Nahida’s large EM share can significantly strengthen those Bloom reactions.  
+   - The details can be found in the “Nilou” section, but the principle is the same: Nahida applies Dendro frequently, and Nilou plus a second Hydro keep the Hydro application consistent.
+
+**Advantages**  
+- Flexible: Nahida’s universal Dendro application pairs well with many Hydro/Electro units.  
+- Easy: No rigid rotation constraints. Nahida’s skill is straightforward to use, and she only needs moderate ER for her Burst.  
+
+**Disadvantages**  
+- High-level content may require balancing survival vs. DPS. If you rely solely on Kuki for healing or plan to bring another defensive unit (e.g., Zhongli, Diona), that can reduce some DPS potential.  
+- Hyperbloom damage (based on EM, level, and opponent’s Resistances) can plateau if you already have ~1000 EM on the trigger unit. Pushing “Spread” or “Aggravate” damage from the DPS side can help raise the ceiling.
+
+**Sample Rotation** (“Nahida + Xingqiu + Kuki + extra Electro/Hydro”):
+1. **Nahida**: Use Elemental Skill to mark enemies, then cast Elemental Burst for EM buff.  
+2. **Off-field Electro** (e.g., Fischl/Beidou/Raiden) if present: cast skill/burst for coverage.  
+3. **Kuki Shinobu**: Use Burst if available, then quickly switch to **Xingqiu**.  
+4. **Xingqiu**: Skill → Burst → (possible second Skill if Sacrificial Sword resets).  
+5. **Kuki Shinobu** again: Use Skill for a continuous Electro ring that detonates Blooms.  
+6. **Nahida** on-field: Normal/Charged Attack combos, maintaining Tri-Karma Purification, with both Hydro and Electro swirling around for Blooms + Hyperblooms (or Aggravate).  
+7. Refresh off-field abilities as they expire (Fischl’s Oz, Beidou’s Burst, Shinobu’s ring, etc.).  
+8. Re-cast Nahida’s Skill/Burst each rotation as needed to keep marks and buffs active.
+
+---

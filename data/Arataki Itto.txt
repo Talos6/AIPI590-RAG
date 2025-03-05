@@ -1,0 +1,197 @@
+**Arataki Itto**
+
+---
+
+**Title:** The Boisterous Hanaizaka Hero  
+**Full Name / Real Name:** Arataki Itto (荒泷一斗)  
+**Nation:** Inazuma  
+**Home Nation:**  
+**Race:** Youkai (Oni Clan)  
+**Gender:** Male  
+**Rarity:** 5★  
+**Banner:** Limited (featured character)  
+**Vision:** Geo  
+**Weapon Type:** Claymore  
+**Initial Power:**  
+**Constellation:** Taurus Iracundus  
+**Special Dish:** “Way of the Strong”  
+**Release Date:** December 14, 2021 (Version 2.3)  
+**Tags:** Taunt, ATK Buff, DEF Buff, Geo Construct, Lumber Collection, Weapon Summon, Energy Recharge, Resistance Reduction, Cooldown Reduction, Personal DMG Multiplier Bonus, Personal CRIT DMG Increase, Personal DMG Increase, Personal Attack Speed Increase  
+
+**Profile:**  
+The charismatic first and foremost leader of the “Arataki Gang” operating on Hanamizaka in Inazuma City. What? You say you’ve never heard of the Arataki Gang? Are you picking a fight?!
+
+---
+
+### Constellations
+
+| **Name**                           | **Effect**                                                                                                                                                                                                                                                                                                                     |
+|------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Stay a While and Listen Up**     | After using Royal Descent: Behold, Itto the Evil! Itto gains 2 stacks of Superlative Superstrength. Then, one second later, Itto gains 1 stack of Superlative Superstrength every 0.5s for 1.5s.                                                                                                                             |
+| **Gather ‘Round, It’s a Brawl!**   | After using Royal Descent: Behold, Itto the Evil!, for every Geo character in the party, its cooldown is reduced by 1.5s and Itto regenerates 6 Energy. In this way, the cooldown can be reduced by up to 4.5s total, and 18 Energy can be restored in total.                                                                  |
+| **Horns Upon the Head**            | Increases the Level of Masatsu Zetsugi: Akaushi Burst! by 3. Maximum upgrade level is 15.                                                                                                                                                                                                                                    |
+| **Jailhouse Bread and Butter**     | After the Raging Oni King state provided by Royal Descent: Behold, Itto the Evil! ends, DEF of all nearby party members increases by 20% and their ATK increases by 20% for 10s.                                                                                                                                              |
+| **10-Year Hanaizaka, Glory to Me** | Increases the Level of Royal Descent: Behold, Itto the Evil! by 3. Maximum upgrade level is 15.                                                                                                                                                                                                                             |
+| **Arataki Itto, Present!**         | Arataki Itto’s Charged Attack CRIT DMG is increased by 70%. Additionally, when you perform Arataki Kesagiri, there’s a 50% chance it doesn’t consume any Superlative Superstrength.                                                                                                                                          |
+
+---
+
+### Talent Level-Up Materials
+
+| **Level** | **Required Materials**                                                                                         |
+|-----------|----------------------------------------------------------------------------------------------------------------|
+| **1→2**   | 12,500 Mora<br>3 Teachings of Elegance<br>6 Slime Condensate                                                                 |
+| **2→3**   | 17,500 Mora<br>2 Guide to Elegance<br>3 Slime Secretions                                                                   |
+| **3→4**   | 25,000 Mora<br>4 Guide to Elegance<br>4 Slime Secretions                                                                   |
+| **4→5**   | 30,000 Mora<br>6 Guide to Elegance<br>6 Slime Secretions                                                                   |
+| **5→6**   | 37,500 Mora<br>9 Guide to Elegance<br>9 Slime Secretions                                                                   |
+| **6→7**   | 120,000 Mora<br>4 Philosophies of Elegance<br>4 Slime Concentrate<br>1 Ashen Heart                                          |
+| **7→8**   | 260,000 Mora<br>6 Philosophies of Elegance<br>6 Slime Concentrate<br>1 Ashen Heart                                          |
+| **8→9**   | 450,000 Mora<br>12 Philosophies of Elegance<br>9 Slime Concentrate<br>2 Ashen Heart                                         |
+| **9→10**  | 700,000 Mora<br>16 Philosophies of Elegance<br>12 Slime Concentrate<br>2 Ashen Heart<br>1 Crown of Insight                  |
+
+---
+
+### Recommended Builds
+
+#### Standard Build
+
+- **Artifact Sets**  
+  - **Universal:** 4-piece Husk of Opulent Dreams  
+    - **2-piece effect:** +30% DEF  
+    - **4-piece effect:** When a character with this artifact set deals Geo DMG to an enemy while on-field, they gain a stack of “Curiosity” (max once every 0.3s). While off-field, they gain 1 stack every 3s. Each stack grants +6% DEF and +6% Geo DMG, up to a max of 4 stacks. Every 6s without gaining a Curiosity stack causes one stack to be lost.  
+    - **Source:** Slumbering Court domain: Husk of Opulent Dreams  
+    - **+ any off-piece**  
+
+  - **Alternate:** 4-piece Marechaussee Hunter  
+    - **2-piece effect:** Increases Normal and Charged Attack DMG by 15%.  
+    - **4-piece effect:** Whenever current HP increases or decreases, CRIT Rate is increased by 12% for 5s. This effect can stack up to 3 times.  
+    - **Source:** Pale Forgotten Glory domain: Marechaussee Hunter  
+
+  - **Transitional Sets:**  
+    - **4-piece Nymph’s Dream – “Echoes of the Forest Night”**  
+      - **2-piece effect:** +18% ATK  
+      - **4-piece effect:** After using an Elemental Skill, Geo DMG is increased by 20% for 10s. If protected by a Crystallize shield, this effect is enhanced by 150% (becomes 50% total Geo DMG bonus) until 1s after losing the shield.  
+      - **Source:** Court of the Cascades domain: Nymph’s Dream  
+
+    - **4-piece Retracing Bolide**  
+      - **2-piece effect:** +35% Shield Strength  
+      - **4-piece effect:** While protected by a shield, increases Normal and Charged Attack DMG by 40%.  
+      - **Source:** Domain of Guyun  
+
+    - **2-piece Husk of Opulent Dreams + 2-piece Archaic Petra**  
+      - **2-piece Husk:** +30% DEF  
+      - **2-piece Petra:** +15% Geo DMG Bonus  
+
+  - **Reasoning:**  
+    - Arataki Itto is a Geo on-field DPS who scales with DEF and thus synergizes perfectly with the 4-piece Husk of Opulent Dreams. Note that his Elemental Burst snapshots the DEF value at the moment of casting, converting it into ATK, so only the DEF portion of Curiosity stacks prior to casting his Burst is captured. However, the Geo DMG Bonus from Curiosity continues to ramp while his Burst is active.  
+    - The 4-piece Marechaussee Hunter set, when combined with Furina in a team that reliably generates HP fluctuations, can surpass Husk’s damage potential. It does come with a synergy restriction in needing Furina.  
+    - Nymph’s Dream 4-piece is an option if you can reliably generate Crystallize shields (e.g., triple-Geo teams plus stable Pyro/Hydro/Cryo/Electro application).  
+    - Retracing Bolide is typically inferior and only recommended for early or transitional use.  
+
+- **Main Stats**  
+  - **Sands:** DEF% or Energy Recharge  
+  - **Goblet:** Geo DMG Bonus  
+  - **Circlet:** CRIT DMG or CRIT Rate  
+
+- **Substats Priority**  
+  - CRIT Rate / CRIT DMG > DEF% > Energy Recharge > ATK%  
+
+- **Explanation:**  
+  - CRIT stats are obviously important. Due to Itto’s Elemental Burst and passive talent converting DEF into ATK, DEF% is more beneficial than ATK.  
+  - Because he depends heavily on his Elemental Burst, some Energy Recharge is recommended. For C0 or teams without strong Energy support, you may need more ER.  
+  - A special case arises when running Itto with Furina and Redhorn Stonethresher: you can opt for Marechaussee Hunter with DEF Sands / Geo Goblet / DEF Circlet.  
+
+- **Talent Priority**  
+  - **Normal Attack > Elemental Burst > Elemental Skill**  
+  - **Reason:**  
+    - Itto’s damage focus is his Charged Attacks (Arataki Kesagiri) that scale off his Normal Attack Talent. His Elemental Burst acts as a huge steroid for that damage, similar to how Hu Tao’s Skill strengthens her Normal/Charged Attacks.  
+    - His Skill also has a high multiplier, contributes to Energy, and benefits from the Burst’s ATK increase, so it’s also worth leveling (but after Burst).  
+
+---
+
+### Recommended Weapons
+
+- **5★ Best-in-Slot**  
+  - **Redhorn Stonethresher**  
+    - **Type:** Claymore  
+    - **Base ATK:** 44–542  
+    - **Secondary Stat (CRIT DMG):** 19.2%–88.2%  
+    - **Effect (“Gokadaiou Otogibanashi”):** Increases DEF by 28–56%. Normal and Charged Attack DMG is increased by a percentage of DEF (40–80%).  
+    - **Reason:**  
+      - Itto’s kit revolves around DEF scaling, so the low base ATK is negligible for him. The weapon’s high CRIT DMG substat plus DEF and Normal/Charged DMG bonuses are perfect for his entire kit.  
+
+- **4★ High Recommendations**  
+  - **Serpent Spine**  
+    - **Base ATK:** 42–510  
+    - **Secondary (CRIT Rate):** 6.0%–27.6%  
+    - **Effect (“Wavesplitter”):** Every 4s the character is on-field, they deal 6–10% more DMG and take 3–2% more DMG, stacking up to 5 times. Taking damage reduces one stack.  
+  - **Whiteblind**  
+    - **Base ATK:** 42–510  
+    - **Secondary (DEF%):** 11.3%–51.7%  
+    - **Effect (“Infusion Blade”):** On hit, Normal and Charged Attacks increase ATK and DEF by 6–12% for 6s (max 4 stacks, 1 trigger per 0.5s).  
+  - **Reason:**  
+    - Both can serve as a 4★ “best” option with good refinements.  
+    - Serpent Spine offers a CRIT Rate substat plus high damage bonus, making it second only to Redhorn. It pairs well with shields or in lower-pressure content.  
+    - Whiteblind is a craftable weapon, offering a DEF substat and further DEF/ATK buffs. If using Whiteblind, remember that Itto’s Burst snapshots, so ideally stack Whiteblind’s buffs before casting his Burst.  
+
+- **Other Options**  
+  - **Blackcliff Slasher** (4★)  
+    - **CRIT DMG substat**, but effect relies on defeating enemies for Attack buffs, making it inconsistent in single-target or boss fights. At maximum stacks, it’s around the same level as an R5 Whiteblind, though acquiring stacks is situational.  
+  - **Beacon of the Reed Sea** (5★)  
+    - **CRIT Rate substat**, and when you’re not protected by a shield, you gain HP and bonus ATK. However, Itto’s Attack-scaling is significantly diminished due to his Burst conversion. The result is decent but typically still outdone by even a well-refined Serpent Spine or Whiteblind.  
+  - **Not Recommended**  
+    - **Skyward Pride, Wolf’s Gravestone, The Unforged, talking stick (aka “Talking Stick”)**: All provide high base ATK or Attack% buffs, which Itto doesn’t value nearly as much because of how his Burst converts DEF to ATK. They generally underperform compared to a refined 4★ weapon built for Itto’s DEF-scaling.
+
+---
+
+### Team Compositions
+
+| **Character** | **Explanation**                                                                                                                                                                                                                                                                                                                                                             |
+|---------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Zhongli**   | The ultimate defensive support who can enable Shield uptime and constant Geo Resonance. Particularly useful if you’re running a 3-Geo team for energy reasons (especially at C0 or low-Constellation Itto). Consider using Favonius Lance on Zhongli to help generate more particles for the team. Zhongli’s Jade Shield reduces enemy RES by 20% and drastically boosts survivability. |
+| **Albedo**    | Off-field Geo damage dealer who also benefits from a DEF-scaling kit. Albedo can provide extra Geo Resonance, additional energy particles, and off-field DPS from his Skill. He snapshots (which means his damage from the Skill is locked in at cast time), so any DEF buffs from Gorou help. He often uses Golden Troupe (4-piece) to maximize Skill damage.                                                           |
+| **Traveler**  | - **Geo Traveler:** Provides Burst that increases Crit Rate (if C1 is unlocked), plus extra energy. But the Traveler’s own damage is overshadowed by Albedo’s or other Geo units. Still an accessible option if lacking others.<br>- **Electro Traveler:** Provides stronger battery support but nearly no damage. Often used if fighting enemies that drop few particles (e.g., boss scenarios). Typically uses 4-piece Exile.  |
+| **Yelan**     | Off-field DMG + universal damage buff. Yelan’s Burst follows up attacks with Hydro shots and increases the active character’s damage over time via her passive. Note that Yelan’s Burst triggers on Normal Attacks only, so Itto’s Charged Attacks won’t trigger it. Some synergy is lost, but she still provides good utility and damage.                                        |
+| **Furina**    | Off-field damage and damage buff, also Hydro application. She can fully utilize her Skill’s off-field attacks. After using her Burst, she provides a teamwide damage bonus based on changes in HP. At zero constellations, her synergy with triple-Geo can be somewhat slow to build “Fanfare stacks” unless Gorou has C4 healing or you also bring Zhongli. With higher constellations, she becomes an even better partner for Itto. |
+| **Chiori**    | Another Geo support with both ATK & DEF scalings (DEF is more beneficial). She can provide more off-field damage, energy particles, and synergy with Gorou’s DEF buffs. She doesn’t snapshot, so you must carefully time her Skill & Burst to capture those buffs. She also has a unique “auto-swap” after using her second E, so pay attention to your party sequence.                                                                |
+
+**Gorou**  
+- Absolutely core to Itto. Gorou’s Skill and Burst grant DEF, interruption resistance, and Geo DMG Bonus. In a team with 3 or 4 Geo units, he also unlocks more buffs (including healing at C4 and +40% Geo CRIT DMG at C6). Because Gorou’s personal DPS is low, he typically runs a support set (e.g., 4-piece Exile or 4-piece Instructor if needed) and Favonius Warbow for extra energy.
+
+**Bennett**  
+- Provides healing and an ATK buff with his Burst. Even though Itto’s ATK scaling is partially diluted by Burst conversion, Bennett’s buff is still somewhat beneficial. However, because Itto’s Burst is snapshot-based and his rotation mostly focuses on DEF, Bennett is usually considered only for flexible slot situations or for dealing with shield-breaking.
+
+**Ningguang**  
+- A quick-swap Geo user who can fill the third or fourth slot if you’re lacking other Geo characters. Her kit primarily scales with ATK, so synergy with Gorou is reduced. However, you can use her for utility or shield generation (especially with Prototype Amber for healing if you need it).
+
+---
+
+### Sample Teams
+
+**Geo-centric (Mono-Geo)**  
+- Arataki Itto + Gorou + Zhongli + Albedo / Chiori / Ningguang / Geo Traveler, etc.  
+- This is the standard “Pure Geo” approach where Itto is the on-field carry, Gorou is mandatory for all his Geo buffs, Zhongli for comfort and Geo Resonance, and a third/fourth Geo for synergy and extra energy.  
+- If you need to address elemental shields or want more crowd control or healing, you can bring non-Geo units in the 4th slot at the cost of losing some buffs.  
+
+**Triple Geo + Furina**  
+- Arataki Itto + Gorou + Zhongli / Albedo / Chiori + Furina  
+- Allows for good synergy thanks to Furina’s constant HP drain/regain providing her universal damage boost. Furina can do full off-field damage, and her synergy with multiple defensive Geo units can be strong once her constellations or the team’s healing capacity go up.  
+
+**Three-Geo Variation with Flex**  
+- Arataki Itto + Gorou + Albedo / Chiori + Bennett / Yelan / Shield Breaker  
+- If you need to break certain elemental shields, you can slot in a relevant element. This does reduce overall damage but increases team flexibility.  
+
+---
+
+**Skill Rotation Example (3-Geo Team)**
+
+1. If using **Whiteblind**: land 4 Normal Attacks first to stack Whiteblind and build Superlative Superstrength.  
+2. Switch to your 3rd Geo support if needed (e.g., Geo Traveler → cast Skill, then Burst; or Zhongli → hold Skill for Shield).  
+3. **Bennett**: cast Skill → Burst for healing/ATK buff. OR **Yelan**: cast Skill → Burst for off-field Hydro. OR **Furina**: cast Skill → Burst for off-field Hydro DMG + HP fluctuation buffs.  
+   - If you also have **Ningguang** w/ Prototype Amber, you might cast her Burst first to heal/enable “Fanfare” for Furina.  
+4. **Gorou**: cast Burst → cast Skill (for DEF/Geo DMG buffs).  
+   - If using **Albedo**: place your Skill for extra Geo damage.  
+   - If using **Chiori**: cast Burst → cast Skill (→ cast Skill again if you want “Seam allowance” buff), then auto-swaps to next character or stay mindful of the sequence.  
+5. Switch to **Itto**: wait a brief moment for Gorou’s buffs to register before using Itto’s Burst (snapshot his DEF). Then cast Itto’s Skill → proceed with Itto’s rotation (Normal + Charged combos).  
+

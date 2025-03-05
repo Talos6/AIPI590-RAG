@@ -1,0 +1,100 @@
+**Kaveh**
+
+---
+
+**Title**: Mirror of the Firmament  
+**Full Name**: Kaveh  
+**Nation**: Sumeru  
+**Race**: Human  
+**Gender**: Male  
+**Rarity**: ★★★★ (4-star)  
+**Availability**: Permanent  
+**Vision**: Dendro  
+**Weapon Type**: Claymore  
+**Constellation**: Paradisaea  
+**Special Dish**: The Endeavor  
+**Release Date**: May 2, 2023 (Version 3.6)  
+**Tags**: Furniture Refund, Reaction Specialization, Unique Elemental Infusion, Self-Healing, Interruption Resistance, Increased Resistance, Increased Attack Speed, Increased Elemental Mastery  
+
+**Description**: A renowned architect in Sumeru, Kaveh is deeply caring about many matters. An aesthetic perfectionist, he is often troubled by the harsh realities of life.
+
+---
+
+### **Constellation Effects**
+
+| Name | Effect |
+|------|--------|
+| **The Art of Great Gatehouses** | Within 3 seconds after using Painted Dome, Kaveh's Dendro RES is increased by 50%, and incoming healing effects are increased by 25%. |
+| **Path of the Station Courier** | While Painted Dome is active, Kaveh's Normal Attack speed is increased by 15%. |
+| **Offering at the Gold Tower** | Increases the Level of Painted Dome by 3. Maximum upgrade level: 15. |
+| **Feast at the Hundred Pillars** | Dendro Cores created by Kaveh that trigger Bloom deal 60% more damage when they burst. |
+| **Treasury of the Sacred and Ancient** | Increases the Level of Artistic Ingenuity by 3. Maximum upgrade level: 15. |
+| **Heavenly Design** | While Painted Dome is active, Kaveh's Normal, Charged, and Plunging Attacks that hit enemies will unleash the Light of the Firmament at the target's location, dealing AoE Dendro DMG equal to 61.8% of Kaveh’s ATK and causing all Dendro Cores within range to burst. This effect can be triggered once every 3s. |
+
+---
+
+### **Ascension Materials**
+
+| Level | Materials Required |
+|--------|------------------|
+| 1→2  | 12,500 Mora, 3 Teachings of Ingenuity, 6 Fungal Spores |
+| 2→3  | 17,500 Mora, 2 Guide to Ingenuity, 3 Luminescent Pollen |
+| 3→4  | 25,000 Mora, 4 Guide to Ingenuity, 4 Luminescent Pollen |
+| 4→5  | 30,000 Mora, 6 Guide to Ingenuity, 6 Luminescent Pollen |
+| 5→6  | 37,500 Mora, 9 Guide to Ingenuity, 9 Luminescent Pollen |
+| 6→7  | 120,000 Mora, 4 Philosophies of Ingenuity, 4 Crystalline Cyst Dust, 1 Primordial Greenbloom |
+| 7→8  | 260,000 Mora, 6 Philosophies of Ingenuity, 6 Crystalline Cyst Dust, 1 Primordial Greenbloom |
+| 8→9  | 450,000 Mora, 12 Philosophies of Ingenuity, 9 Crystalline Cyst Dust, 2 Primordial Greenbloom |
+| 9→10 | 700,000 Mora, 16 Philosophies of Ingenuity, 12 Crystalline Cyst Dust, 2 Primordial Greenbloom, 1 Crown of Insight |
+
+---
+
+### **Recommended Builds**
+
+#### **Main Build: Bloom DPS**
+
+**Artifact Sets**:
+- 4-piece **Flower of Paradise Lost**
+- 4-piece **Gilded Dreams**
+- 4-piece **Deepwood Memories** (if no other teammate is using it)
+
+**Artifact Stat Priority**:
+- **Sands**: Elemental Mastery / Energy Recharge
+- **Goblet**: Elemental Mastery
+- **Circlet**: Elemental Mastery
+
+**Substats**: Elemental Mastery > Energy Recharge  
+
+**Recommended Weapons**:
+- **Best Weapon**: **Toukabou Shigure (4-star)** - Provides high Elemental Mastery.
+- **Alternative Weapons**: **Sacrificial Greatsword (4-star), Forest Regalia (4-star)** - Useful for energy generation.
+
+#### **Alternate Build: On-Field Dendro DPS**
+
+**Artifact Sets**:
+- 4-piece **Gladiator’s Finale**
+- 4-piece **Gilded Dreams**
+- 2-piece **Deepwood Memories** + 2-piece **Gilded Dreams**
+
+**Artifact Stat Priority**:
+- **Sands**: Elemental Mastery / ATK%
+- **Goblet**: Dendro DMG Bonus
+- **Circlet**: CRIT Rate / CRIT DMG
+
+**Substats**: CRIT Rate & CRIT DMG > Elemental Mastery > ATK% > Energy Recharge  
+
+**Recommended Weapons**:
+- **Best Weapons**: **Beacon of the Reed Sea (5-star), Redhorn Stonethresher (5-star)**
+- **Alternative Weapons**: **Serpent Spine (4-star), Rainslasher (4-star), Makhaira Aquamarine (4-star)**
+
+---
+
+### **Skill Leveling Priority**
+- **Main Build (Bloom DPS)**: Prioritize **Elemental Burst** > **Elemental Skill** (Normal Attack not required)
+- **Alternate Build (Dendro DPS)**: Prioritize **Elemental Burst** > **Normal Attack** > **Elemental Skill**
+
+**Explanation**:
+- Bloom damage is reaction-based and does not scale with skill levels, but Kaveh's Elemental Burst increases Bloom damage, so it should be leveled up.
+- In a Dendro DPS build, Normal Attacks contribute more, so their priority is higher.
+
+---

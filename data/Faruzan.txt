@@ -1,0 +1,204 @@
+**Faruzan – Translation Reference Document**  
+*(All names, terms, and phrasing below refer to official or widely accepted community translations, referencing in-game text and resources such as [paimon.moe](https://paimon.moe/characters).)*
+
+---
+
+## Basic Information
+
+- **Title**: Enigmatic Machinist  
+- **Full Name**: Faruzan  
+- **Nation**: Sumeru  
+- **Region of Origin**: *[Not specified]*  
+- **Race**: Human  
+- **Gender**: Female  
+- **Rarity**: ★★★★ (4-Star)  
+- **Availability**: Permanent  
+- **Vision**: Anemo  
+- **Weapon Type**: Bow  
+- **“Primordial Force”**: *[No official in-game term; sometimes left untranslated]*  
+- **Constellation**: Flosculi Implexi  
+- **Special Dish**: **Traditional Charcoal-Baked Ajilenakh Cake**  
+- **Release Date**: December 7, 2022 (Version 3.3)  
+- **Tags**: Crowd Control, Resistance Shred, Damage Bonus, Additional Multiplier, Expedition, Coordinated Attack, Skill Duration Extension, Energy Recovery, CRIT DMG Bonus  
+
+**Character Introduction**  
+A scholar from “a hundred years ago” who likes to position herself as a mentor. She is well-versed in ancient scripts and various classical types of mechanisms.
+
+---
+
+## Constellations
+
+Faruzan’s constellation name is **Flosculi Implexi**. Each Constellation level provides the following effects:
+
+1. **C1 – “Truth by Any Means”**  
+   While under the “Manifest Gale” effect of **Wind Realm of Nasamjnin** (*Elemental Skill*), Faruzan can fire off a maximum of two Hurricane Arrows by performing fully charged Aimed Shots.
+
+2. **C2 – “Overzealous Intellect”**  
+   The duration of the Dazzling Polyhedron created by **The Wind’s Secret Ways** (*Elemental Burst*) is increased by 6s.
+
+3. **C3 – “Spirit of Victory”**  
+   Increases the Level of **Wind Realm of Nasamjnin** (*Elemental Skill*) by 3. Maximum upgrade level is 15.
+
+4. **C4 – “Divine Comprehension”**  
+   The vortex created by **Pressurized Collapse** (from Faruzan’s fully charged Hurricane Arrow) will restore Faruzan’s Elemental Energy depending on the number of enemies hit:  
+   - Hitting 1 enemy restores 2 Energy.  
+   - Each additional enemy hit restores an extra 0.5 Energy.  
+   A single vortex can restore up to 4 Energy in this manner.
+
+5. **C5 – “Wonderland of Rumination”**  
+   Increases the Level of **The Wind’s Secret Ways** (*Elemental Burst*) by 3. Maximum upgrade level is 15.
+
+6. **C6 – “The Wondrous Path of Truth”**  
+   Characters who are under the effect of **Prayerful Wind Gift** (from Faruzan’s Elemental Burst) gain a 40% CRIT DMG bonus when dealing Anemo DMG. When the current on-field character who is affected by **Prayerful Wind Gift** deals damage, they will apply **Pressurized Collapse** to the enemy. This effect can be triggered once every 3s, shared across the entire party.
+
+---
+
+## Talent Level-Up Materials
+
+Below is the Mora and material cost required to upgrade **one** of Faruzan’s talents (from Level 1 → 10). The same pattern applies to each talent.
+
+| Talent Level | Cost                     |
+|--------------|--------------------------|
+| **1 → 2**    | - 12,500 Mora<br>- 3 Teachings of **Admonition**<br>- 6 **Faded Red Satin** |
+| **2 → 3**    | - 17,500 Mora<br>- 2 Guides to **Admonition**<br>- 3 **Trimmed Red Silk** |
+| **3 → 4**    | - 25,000 Mora<br>- 4 Guides to **Admonition**<br>- 4 **Trimmed Red Silk** |
+| **4 → 5**    | - 30,000 Mora<br>- 6 Guides to **Admonition**<br>- 6 **Trimmed Red Silk** |
+| **5 → 6**    | - 37,500 Mora<br>- 9 Guides to **Admonition**<br>- 9 **Trimmed Red Silk** |
+| **6 → 7**    | - 120,000 Mora<br>- 4 Philosophies of **Admonition**<br>- 4 **Rich Red Brocade**<br>- 1 **Puppet Strings** |
+| **7 → 8**    | - 260,000 Mora<br>- 6 Philosophies of **Admonition**<br>- 6 **Rich Red Brocade**<br>- 1 **Puppet Strings** |
+| **8 → 9**    | - 450,000 Mora<br>- 12 Philosophies of **Admonition**<br>- 9 **Rich Red Brocade**<br>- 2 **Puppet Strings** |
+| **9 → 10**   | - 700,000 Mora<br>- 16 Philosophies of **Admonition**<br>- 12 **Rich Red Brocade**<br>- 2 **Puppet Strings**<br>- 1 **Crown of Insight** |
+
+---
+
+## Recommended Builds and Roles
+
+Below are general recommendations for artifact sets, main stats, sub stats, and weapons based on Faruzan’s role in a team. She can serve as a **pure support**, a **support + sub-DPS** (especially at C6), or even a **main on-field DPS** for enthusiasts.
+
+### I. **Pure Support (Non-C6)**
+- **Suggested Artifact Sets**  
+  1. **4-Piece Noblesse Oblige** (formerly translated as “Noblesse Oblige”; CN: 昔日宗室之仪)  
+     - 2-Piece Bonus: +20% Elemental Burst DMG  
+     - 4-Piece Bonus: Using an Elemental Burst increases all party members’ ATK by 20% for 12s.  
+  2. **4-Piece The Exile** (CN: 流放者)  
+     - 2-Piece Bonus: Energy Recharge +20%  
+     - 4-Piece Bonus: Using an Elemental Burst regenerates 2 Energy for other party members every 2s for 6s. (Does not affect the wearer.)  
+  3. **4-Piece Viridescent Venerer** (CN: 翠绿之影)  
+     - 2-Piece Bonus: +15% Anemo DMG  
+     - 4-Piece Bonus: +60% Swirl DMG, and it reduces the enemy’s Elemental RES to the element Swirled by 40% for 10s.  
+
+- **Reasoning**  
+  - **Noblesse Oblige (Noblesse)**: Faruzan’s Burst (**The Wind’s Secret Ways**) reduces Anemo RES by 30% and grants Anemo DMG Bonus to your team. The Noblesse 4-Piece effect adds an additional ATK% buff to further boost team DPS.  
+  - **The Exile**: Useful if both Faruzan and the team desperately need more Energy (e.g., a double Anemo lineup with low Constellation Xiao). It prioritizes batterying the team, sacrificing Faruzan’s personal damage.  
+  - **Viridescent Venerer**: In teams where you have significant off-field Pyro/Hydro/Electro/Cryo DMG (e.g., **Xiangling**, **Yelan**, **Furina**, etc.) and need universal Swirl shred. However, because Faruzan’s skill and Burst are somewhat front-loaded, the 4-Piece Viridescent effect may have less coverage if you use her alongside a strong Anemo DPS such as Xiao.
+
+- **Artifact Main Stats**  
+  - **Sands**: Energy Recharge%  
+  - **Goblet**: Anemo DMG Bonus  
+  - **Circlet**: CRIT Rate or CRIT DMG  
+
+- **Sub Stats Priority**  
+  - Energy Recharge% (until you comfortably cycle your Burst) > CRIT Rate/CRIT DMG > ATK%  
+
+- **Talent Priority**  
+  - **Only level the Elemental Burst** (Q). Faruzan’s main supportive effects (Anemo shred + Anemo DMG% buff) scale with her Burst talent level. Her personal DMG from Normal Attacks/Elemental Skill is less relevant before C6.  
+
+- **Recommended Weapons**  
+  - **Best 4★**: **Favonius Warbow**  
+    - Highest Energy Recharge sub-stat among bows (up to 61.3%). Great for smoothing out Faruzan’s Energy needs and generating extra particles for the entire team.  
+  - **Best 5★**: **Elegy for the End**  
+    - High Base ATK (608) and a substantial ER% sub-stat (55.1%). The teamwide ATK% and Elemental Mastery buff is helpful, though the weapon effect does not further help her own ER. For non-C6 Faruzan, generally aim for at least ~260–270% ER (depending on your team comp) before using Elegy.  
+
+  - **Other 4★ Options**:  
+    - **End of the Line**, **Sacrificial Bow**, etc. — All workable if you lack Favonius Warbow, though Favonius remains the top choice for team utility due to its particle generation.  
+
+---
+
+### II. **Support + Sub-DPS (C6 Recommended)**
+
+Once Faruzan unlocks **Constellation 6**, her kit gains:  
+- Improved self-sustain for Energy (C4).  
+- She can apply “Pressurized Collapse” passively when the on-field character attacks (C6), and that pressurized vortex counts as Elemental Skill DMG, enabling further buffs (e.g., with 4-Piece Tenacity-type sets or “千岩牢固” in Chinese).  
+
+- **Suggested Artifact Sets**  
+  1. **4-Piece Tenacity of the Millelith** (CN: 千岩牢固)  
+     - 2-Piece Bonus: +20% HP  
+     - 4-Piece Bonus: After Elemental Skill hits an enemy, increases party members’ ATK by 20% and their Shield Strength by 30% for 3s.  
+     - *Notes*: Because Faruzan’s C6 triggers her Skill-like vortex when the on-field character hits enemies, she can reliably maintain the Tenacity 4-Piece buff. This stacks with another teammate using Noblesse.  
+  2. **4-Piece Golden Troupe** (CN: 黄金剧团)  
+     - 2-Piece Bonus: +20% Elemental Skill DMG  
+     - 4-Piece Bonus: +25% Elemental Skill DMG; and if the character is off-field, that Skill DMG is increased by another 25%.  
+     - *Notes*: A strong set if Faruzan’s personal damage is built up and you want her to deal significant off-field Skill DMG from C6 triggers.  
+  3. **4-Piece Noblesse Oblige** (if no one else on the team is running it)  
+  4. **4-Piece Viridescent Venerer** (if you specifically want universal RES shred for other elemental damage)  
+
+- **Artifact Main Stats**  
+  - **Sands**: ATK% or Energy Recharge% (depending on how comfortable your Burst uptime is)  
+  - **Goblet**: Anemo DMG Bonus  
+  - **Circlet**: CRIT Rate or CRIT DMG  
+
+- **Sub Stats Priority**  
+  - Energy Recharge% (enough for consistent Bursts) > CRIT Rate/CRIT DMG > ATK%  
+
+- **Talent Priority**  
+  - **Elemental Burst (Q) > Elemental Skill (E)**, do not level Normal Attacks.  
+  - At C6, Faruzan’s Elemental Skill damage triggers more frequently, so investing in her Skill can boost sub-DPS.  
+
+- **Recommended Weapons**  
+  1. **Favonius Warbow (4★)**  
+     - Still the go-to for smoothing Energy needs and generating particles for the team.  
+  2. **Elegy for the End (5★)**  
+     - At C6, Faruzan can easily trigger the Elegy’s “Sigil” stacks with her repeated Skill hits. High Base ATK, great ER sub-stat, and a teamwide buff.  
+
+  - **Other 5★ Offensive Bows** (if you do not need the extra Energy):  
+    - **Polar Star (Winter’s Pole)**, **Thundering Pulse (Flying Thunder)**, **The First Great Magic**, **Skyward Harp**, **Aqua Simulacra (Aqua Simulacra)**, etc.  
+    - These provide higher personal DPS but less team battery potential. Once you have enough ER for comfortable rotations (often around 160%+ at C6), you can opt for more damage-oriented bows.  
+
+---
+
+### III. **On-Field DPS (For Fun / “Main Carry Faruzan”)**
+
+For those who wish to keep Faruzan on field, especially post-C1 (where her Elemental Skill fires two Hurricane Arrows with each fully charged Aimed Shot), you can build her similarly to an Anemo DPS:
+
+- **Suggested Artifact Sets**  
+  - **2-Piece Viridescent Venerer + 2-Piece Golden Troupe**  
+    - Or **2-Piece Viridescent Venerer + 2-Piece Gladiator’s Finale**  
+    - Or **2-Piece Desert Pavilion Chronicle (“沙上楼阁史话”) + 2-Piece Gladiator’s Finale**  
+  - **4-Piece Viridescent Venerer**  
+    - Boosts Swirl DMG and offers universal RES shred for the team.  
+  - **4-Piece Golden Troupe**  
+    - High Elemental Skill DMG bonus for her repeated “Pressurized Collapse,” though it doesn’t boost Burst DMG.  
+
+- **Artifact Main Stats**  
+  - **Sands**: ATK% or Energy Recharge%  
+  - **Goblet**: Anemo DMG Bonus  
+  - **Circlet**: CRIT Rate or CRIT DMG  
+
+- **Sub Stats Priority**  
+  - CRIT Rate, CRIT DMG, ATK%, Energy Recharge%, Elemental Mastery (minor)  
+
+- **Talent Priority**  
+  - **Elemental Burst (Q) > Elemental Skill (E) ≥ Normal Attack**  
+  - Even as a main carry, Faruzan’s Burst is still her strongest single instance of damage and crucial for her buffs. Her Normal Attacks matter only if you truly keep her on-field for Aimed Shots or standard rotations.  
+
+- **Recommended Weapons**  
+  - **5★ Best**:  
+    - **Polar Star** (“Hunter’s Path,” etc.), **Aqua Simulacra**, **Skyward Harp**, **Thundering Pulse**, **The First Great Magic** – any 5★ bow offering high Base ATK and CRIT sub-stats is a strong choice.  
+    - **Polar Star (aka Winter’s Pole)** is particularly potent for skill/burst-based DPS. **Aqua Simulacra** provides strong raw damage. **Skyward Harp** offers balanced CRIT Rate and CRIT DMG.  
+  - **4★ Options**:  
+    - **The Stringless (The Stringless)** – boosts both Skill and Burst DMG.  
+    - **Prototype Crescent**, **Blackcliff Warbow**, **Mitternachts Waltz** (though Waltz is Physical-focused, which is less ideal).  
+    - **Scion of the Blazing Sun (测距规)** or **Slingshot** if you want cheaper options, or **Windblume Ode** if you participated in that event.  
+
+  - **If You Still Need ER**:  
+    - **Elegy for the End** or **Favonius Warbow** remain valid for sustaining her Burst.  
+
+---
+
+## Additional Notes
+
+- Faruzan’s **Anemo DMG Bonus** and **Anemo RES Shred** from her Burst are the key points of her kit, making her an indispensable support for Anemo DPS characters such as **Xiao** or **Wanderer**.  
+- At **Constellation 6**, Faruzan becomes far easier to build for both battery and damage, since her skill triggers occur on teammates’ hits and can repeatedly produce particles.  
+- For “on-field DPS Faruzan,” note that her Energy demands remain high unless you invest heavily in Energy Recharge or bring a second Anemo battery.  
+
+---
