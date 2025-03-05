@@ -1,7 +1,9 @@
 import numpy as np
 import openai
+import streamlit as st
 
-openai.api_key = "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"
+
+openai.api_key = st.secrets["OPENAI_API_KEY"]
 
 def get_embedding(text):
     try:
