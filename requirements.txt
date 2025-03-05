@@ -5,3 +5,4 @@ pandas
 nltk
 chromadb
 lxml
+pysqlite3-binary
